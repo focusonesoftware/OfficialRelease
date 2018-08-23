@@ -1,18 +1,6 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
   <Connection>
-    <ApplicationID>555</ApplicationID>
-    <ApplicationName>INET TEST (9000)</ApplicationName>
-    <Host>localhost</Host>
-    <Port>9000</Port>
-  </Connection>
-  <Connection>
-    <ApplicationID>6061</ApplicationID>
-    <ApplicationName>6061</ApplicationName>
-    <Host>localhost</Host>
-    <Port>6061</Port>
-  </Connection>
-  <Connection>
     <ApplicationID>6062</ApplicationID>
     <ApplicationName>INET DEMO</ApplicationName>
     <Host>localhost</Host>
@@ -21,7 +9,7 @@
   <Connection>
     <ApplicationID>9001</ApplicationID>
     <ApplicationName>Texpro - Test</ApplicationName>
-    <Host>localhost</Host>
+    <Host>203.150.93.66</Host>
     <Port>9001</Port>
   </Connection>
 </DocumentElement>
