@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <FileList>
     <Description>
-        <FileName>FileList.xml</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-    </Description>
-    <Description>
         <FileName>OnlineLiveUpdateXMLGenerate.exe</FileName>
         <FileVersion>1.0.0.0</FileVersion>
         <ProductVersion>1.0.0.0</ProductVersion>
@@ -10043,7 +10038,7 @@
     <Description>
         <FileName>Startup\Main\serverprofile.xml</FileName>
         <FileVersion>1.0.0.0</FileVersion>
-        <ProductVersion>1.0.0.0</ProductVersion>
+        <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\vslangproj.olb</FileName>
