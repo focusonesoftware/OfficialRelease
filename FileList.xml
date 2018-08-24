@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <FileList>
     <Description>
+        <FileName>FileList.xml</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
         <FileName>OnlineLiveUpdateXMLGenerate.exe</FileName>
         <FileVersion>1.0.0.0</FileVersion>
         <ProductVersion>1.0.0.0</ProductVersion>
@@ -6847,8 +6852,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>3.1.181.0</FileVersion>
-        <ProductVersion>3.1.181.0</ProductVersion>
+        <FileVersion>3.1.182.0</FileVersion>
+        <ProductVersion>3.1.182.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
