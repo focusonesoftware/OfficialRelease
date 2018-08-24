@@ -3,7 +3,7 @@
   <Connection>
     <ApplicationID>6062</ApplicationID>
     <ApplicationName>INET DEMO</ApplicationName>
-    <Host>localhost</Host>
+    <Host>203.150.93.66</Host>
     <Port>6062</Port>
   </Connection>
   <Connection>
