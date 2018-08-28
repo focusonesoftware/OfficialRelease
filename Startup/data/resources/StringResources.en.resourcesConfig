@@ -3675,7 +3675,7 @@
   <Resource Name="Dialog.Options.CodeTemplate.EditTemplateDialog.DescriptionLabel" Type="System.String" FileName="" Value="&amp;Description" />
   <Resource Name="AG.HR.HR_T_0001.DESC" Type="System.String" FileName="" Value="Actual Schedule" />
   <Resource Name="Dialog.Options.CombineOptions.Startup.EntryColumnHeader" Type="System.String" FileName="" Value="Entry" />
-  <Resource Name="AG.ADM.ADMFI_C_0008.DESC" Type="System.String" FileName="" Value="Define RC Doc Type" />
+  <Resource Name="AG.ADM.ADMFI_C_0008.DESC" Type="System.String" FileName="" Value="Define RC Doc Type No. Range" />
   <Resource Name="Dialog.Options.ExternalTool.QuickInsertMenu.FullTargetPath" Type="System.String" FileName="" Value="Target Path" />
   <Resource Name="XML.MainMenu.EditMenu.Paste.Description" Type="System.String" FileName="" Value="Paste text from clipboard" />
   <Resource Name="Dialog.Options.IDEOptions.TaskListOptions.PanelName" Type="System.String" FileName="" Value="Task list" />
@@ -3698,7 +3698,7 @@
   <Resource Name="Dialog.Options.IDEOptions.LoadSaveOptions.PanelName" Type="System.String" FileName="" Value="Load/Save" />
   <Resource Name="ICSharpCode.AssemblyAnalyser.Rules.EventSecondParameterIsEventArgs.Details" Type="System.String" FileName="" Value="As a convention in .NET events have two parameters a sender and an event data object. The event data must always extend from the type &lt;code&gt;&lt;a href='help://types/System.EventArgs'&gt;System.EventArgs&lt;/a&gt;&lt;/code&gt; .&lt;BR&gt;For example: &lt;code&gt;void MouseEventHandler(object sender, MouseEventArgs e);&lt;/code&gt; where &lt;code&gt;MouseEventArgs&lt;/code&gt; extends &lt;code&gt;&lt;a href='help://types/System.EventArgs'&gt;System.EventArgs&lt;/a&gt;&lt;/code&gt;." />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.BalancingTemplate.Label" Type="System.String" FileName="" Value="BalancingTemplate" />
-  <Resource Name="AG.ADM.ADMFI_C_0009.DESC" Type="System.String" FileName="" Value="Define RC Doc Type No. Range" />
+  <Resource Name="AG.ADM.ADMFI_C_0009.DESC" Type="System.String" FileName="" Value="Define RC Doc Type" />
   <Resource Name="AG.FI.FIBANK_R_0004.DESC" Type="System.String" FileName="" Value="RPTFIOP003 - Outgoing Payment Report(STD)" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.FI.CustomerRelationshipManagement.Label" Type="System.String" FileName="" Value="Customer Relationship Management" />
   <Resource Name="AG.BC.FOLDER_DUMMY_01" Type="System.String" FileName="" Value="Work Flow System Configuration(Super Hero)" />
