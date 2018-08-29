@@ -1676,6 +1676,11 @@
         <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.COPlanSummary.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.CashBranch.dll</FileName>
         <FileVersion>1.0.0.1</FileVersion>
         <ProductVersion>1.0.0.1</ProductVersion>
@@ -5731,6 +5736,11 @@
         <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.App.Report.COPlanSummary.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.App.Report.CS.AmortizeReport.dll</FileName>
         <FileVersion>3.1.1.0</FileVersion>
         <ProductVersion>3.1.1.0</ProductVersion>
@@ -7777,6 +7787,11 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.COIOReport.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Remote.Report.COPlanSummary.dll</FileName>
         <FileVersion>3.1.1.0</FileVersion>
         <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
@@ -10043,7 +10058,7 @@
     <Description>
         <FileName>Startup\Main\serverprofile.xml</FileName>
         <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
+        <ProductVersion>1.0.0.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\vslangproj.olb</FileName>
