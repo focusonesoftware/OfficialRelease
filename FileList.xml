@@ -192,8 +192,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.CS.DLL</FileName>
-        <FileVersion>3.1.20.0</FileVersion>
-        <ProductVersion>3.1.20.0</ProductVersion>
+        <FileVersion>3.1.21.0</FileVersion>
+        <ProductVersion>3.1.21.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.CS.GenarateBackBox.dll</FileName>
@@ -4942,8 +4942,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CS.dll</FileName>
-        <FileVersion>3.1.48.0</FileVersion>
-        <ProductVersion>3.1.48.0</ProductVersion>
+        <FileVersion>3.1.49.0</FileVersion>
+        <ProductVersion>3.1.49.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CSSimDetailManageMent.dll</FileName>
@@ -10241,6 +10241,16 @@
         <ProductVersion>9.0.30729.1</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\ReportFile\AG.FLM.Remote.Proxy.Report.YMFInvoiceExportForm.ReportFile.Rpt_InvoiceShiptoNoBillto.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\AG.FLM.Remote.Proxy.Report.YMFInvoiceExportForm.ReportFile.Rpt_InvoiceShiptoNoBilltoFull.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\ReportFile\ARDEBITNOTEREPORT_DEBIT-NOTE-DTC.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
@@ -10767,6 +10777,56 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\Rpt_INVENTORYTRANSFERREPORT_GI-Tranfer-DTC.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\Rpt_InvoiceShiptoNoBillto.cs</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\Rpt_InvoiceShiptoNoBillto.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\Rpt_InvoiceShiptoNoBilltoFull.cs</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\Rpt_InvoiceShiptoNoBilltoFull.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\Rpt_InvoiceShiptoNoBilltoNoCommercial.cs</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\Rpt_InvoiceShiptoNoBilltoNoCommercial.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\Rpt_InvoiceShiptoNoBilltoTax.cs</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\Rpt_InvoiceShiptoNoBilltoTax.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\Rpt_InvoiceShiptoNoBilltoTaxNoCommercial.cs</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\Rpt_InvoiceShiptoNoBilltoTaxNoCommercial.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
