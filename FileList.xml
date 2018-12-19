@@ -7077,8 +7077,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.ReconcileConsignment.dll</FileName>
-        <FileVersion>3.1.0.25</FileVersion>
-        <ProductVersion>3.1.0.25</ProductVersion>
+        <FileVersion>3.1.0.27</FileVersion>
+        <ProductVersion>3.1.0.27</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.ReleaseBlockStatus.dll</FileName>
