@@ -952,8 +952,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DLL</FileName>
-        <FileVersion>3.1.105.0</FileVersion>
-        <ProductVersion>3.1.105.0</ProductVersion>
+        <FileVersion>3.1.106.0</FileVersion>
+        <ProductVersion>3.1.106.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DTCBorrowReport.dll</FileName>
@@ -5237,8 +5237,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.PostWithClearing.dll</FileName>
-        <FileVersion>3.1.0.7</FileVersion>
-        <ProductVersion>3.1.0.7</ProductVersion>
+        <FileVersion>3.1.0.8</FileVersion>
+        <ProductVersion>3.1.0.8</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Reconcile.Incoming.dll</FileName>
@@ -5697,8 +5697,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>3.1.306.0</FileVersion>
-        <ProductVersion>3.1.306.0</ProductVersion>
+        <FileVersion>3.1.307.0</FileVersion>
+        <ProductVersion>3.1.307.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
