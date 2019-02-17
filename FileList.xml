@@ -952,8 +952,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DLL</FileName>
-        <FileVersion>3.1.106.0</FileVersion>
-        <ProductVersion>3.1.106.0</ProductVersion>
+        <FileVersion>3.1.107.0</FileVersion>
+        <ProductVersion>3.1.107.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DTCBorrowReport.dll</FileName>
@@ -4562,8 +4562,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DLL</FileName>
-        <FileVersion>3.1.51.0</FileVersion>
-        <ProductVersion>3.1.51.0</ProductVersion>
+        <FileVersion>3.1.52.0</FileVersion>
+        <ProductVersion>3.1.52.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DeliveryOrder.dll</FileName>
@@ -5247,8 +5247,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Recurring.dll</FileName>
-        <FileVersion>3.1.13.0</FileVersion>
-        <ProductVersion>3.1.13.0</ProductVersion>
+        <FileVersion>3.1.14.0</FileVersion>
+        <ProductVersion>3.1.14.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Report.CheckRegistrationForMCT.dll</FileName>
@@ -7087,8 +7087,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>3.1.217.0</FileVersion>
-        <ProductVersion>3.1.217.0</ProductVersion>
+        <FileVersion>3.1.219.0</FileVersion>
+        <ProductVersion>3.1.219.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
@@ -8907,8 +8907,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\ConstantUtility.DLL</FileName>
-        <FileVersion>3.1.48.0</FileVersion>
-        <ProductVersion>3.1.48.0</ProductVersion>
+        <FileVersion>3.1.49.0</FileVersion>
+        <ProductVersion>3.1.49.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\ConstantUtilityReport.dll</FileName>
