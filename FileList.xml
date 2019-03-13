@@ -2631,6 +2631,11 @@
         <ProductVersion>3.0.0.1</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETAPCreditNote.dll</FileName>
+        <FileVersion>3.1.1.1</FileVersion>
+        <ProductVersion>3.1.1.1</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETAdvance01.dll</FileName>
         <FileVersion>3.1.2.0</FileVersion>
         <ProductVersion>3.1.2.0</ProductVersion>
@@ -11224,13 +11229,6 @@
         <FileName>license.rtf</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
-    </Description>
-    <Description>
-        <FileName>splash-Screen2.jpg</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-    </Description>
-</FileList>Version></ProductVersion>
     </Description>
     <Description>
         <FileName>splash-Screen2.jpg</FileName>
