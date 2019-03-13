@@ -397,8 +397,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.ARInterface.dll</FileName>
-        <FileVersion>3.1.0.1</FileVersion>
-        <ProductVersion>3.1.0.1</ProductVersion>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.ASWPettyCashReport.dll</FileName>
@@ -5347,8 +5347,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.ARInterface.dll</FileName>
-        <FileVersion>3.1.1.0</FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <FileVersion>3.1.2.0</FileVersion>
+        <ProductVersion>3.1.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.AllocateCostCenter.dll</FileName>
@@ -5402,8 +5402,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.JVInterface.dll</FileName>
-        <FileVersion>3.2.1.0</FileVersion>
-        <ProductVersion>3.2.1.0</ProductVersion>
+        <FileVersion>3.2.2.0</FileVersion>
+        <ProductVersion>3.2.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MaintainTax.dll</FileName>
@@ -11224,6 +11224,13 @@
         <FileName>license.rtf</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>splash-Screen2.jpg</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+</FileList>Version></ProductVersion>
     </Description>
     <Description>
         <FileName>splash-Screen2.jpg</FileName>
