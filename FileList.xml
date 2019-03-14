@@ -9292,13 +9292,23 @@
     </Description>
     <Description>
         <FileName>Startup\Main\FocusOneERP.exe</FileName>
-        <FileVersion>4.5.0.0</FileVersion>
-        <ProductVersion>4.5.0.0</ProductVersion>
+        <FileVersion>4.7.0.0</FileVersion>
+        <ProductVersion>4.7.0.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\FocusOneERP.exe.config</FileName>
+        <FileVersion>1.0.0.0</FileVersion>
+        <ProductVersion>1.0.0.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\FocusOneERP.vshost.exe</FileName>
-        <FileVersion>8.0.50727.42</FileVersion>
-        <ProductVersion>8.0.50727.42</ProductVersion>
+        <FileVersion>14.0.23107.0</FileVersion>
+        <ProductVersion>14.0.23107.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\FocusOneERP.vshost.exe.config</FileName>
+        <FileVersion>1.0.0.0</FileVersion>
+        <ProductVersion>1.0.0.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\GoodsIssueForm.dll</FileName>
@@ -10462,13 +10472,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\XPExplorerBar.DLL</FileName>
-        <FileVersion>3.3.0.0</FileVersion>
-        <ProductVersion>3.3.0.0</ProductVersion>
+        <FileVersion>3.4.0.0</FileVersion>
+        <ProductVersion>3.4.0.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\XPExplorerBar.XML</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
+        <FileVersion>1.0.0.0</FileVersion>
+        <ProductVersion>1.0.0.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\X_ReadReport.dll</FileName>
