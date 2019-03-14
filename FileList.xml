@@ -9302,8 +9302,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\FocusOneERP.exe</FileName>
-        <FileVersion>4.5.0.0</FileVersion>
-        <ProductVersion>4.5.0.0</ProductVersion>
+        <FileVersion>3.1.0.0</FileVersion>
+        <ProductVersion>3.1.0.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\FocusOneERP.vshost.exe</FileName>
@@ -10522,8 +10522,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\serverprofile.xml</FileName>
-        <FileVersion>1.0.0.0</FileVersion>
-        <ProductVersion>1.0.0.0</ProductVersion>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\vslangproj.olb</FileName>
