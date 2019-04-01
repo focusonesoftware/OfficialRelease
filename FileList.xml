@@ -10537,8 +10537,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\serverprofile.xml</FileName>
-        <FileVersion>1.0.0.0</FileVersion>
-        <ProductVersion>1.0.0.0</ProductVersion>
+        <FileVersion>1</FileVersion>
+        <ProductVersion>1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\vslangproj.olb</FileName>
@@ -11092,8 +11092,8 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\RPT_PaymentAndCheque.rpt</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
+        <FileVersion>1</FileVersion>
+        <ProductVersion>1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\ReportFile\RPT_SALEQUOTATIONREPORT_DTCSALEQUOTATIONREPORT.rpt</FileName>
