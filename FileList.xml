@@ -7347,8 +7347,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.Interface.dll</FileName>
-        <FileVersion>3.1.2.0</FileVersion>
-        <ProductVersion>3.1.2.0</ProductVersion>
+        <FileVersion>3.1.3.0</FileVersion>
+        <ProductVersion>3.1.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.ListofSaleOrderV2.dll</FileName>
@@ -10547,8 +10547,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\serverprofile.xml</FileName>
-        <FileVersion>1</FileVersion>
-        <ProductVersion>1</ProductVersion>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\vslangproj.olb</FileName>
@@ -11102,8 +11102,8 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\RPT_PaymentAndCheque.rpt</FileName>
-        <FileVersion>1</FileVersion>
-        <ProductVersion>1</ProductVersion>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\ReportFile\RPT_SALEQUOTATIONREPORT_DTCSALEQUOTATIONREPORT.rpt</FileName>
