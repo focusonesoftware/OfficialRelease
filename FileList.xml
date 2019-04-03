@@ -457,8 +457,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.DLL</FileName>
-        <FileVersion>3.1.70.0</FileVersion>
-        <ProductVersion>3.1.70.0</ProductVersion>
+        <FileVersion>3.1.71.0</FileVersion>
+        <ProductVersion>3.1.71.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.EndCashMent.DLL</FileName>
@@ -4801,6 +4801,11 @@
         <ProductVersion>3.0.0.2</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.Interface.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.ListofSaleOrderV2.dll</FileName>
         <FileVersion>3.1.1.0</FileVersion>
         <ProductVersion>3.1.1.0</ProductVersion>
@@ -4962,8 +4967,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DLL</FileName>
-        <FileVersion>3.1.80.0</FileVersion>
-        <ProductVersion>3.1.80.0</ProductVersion>
+        <FileVersion>3.1.81.0</FileVersion>
+        <ProductVersion>3.1.81.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DocumentStatus.dll</FileName>
@@ -5297,8 +5302,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.1.0</FileVersion>
-        <ProductVersion>3.2.1.0</ProductVersion>
+        <FileVersion>3.2.2.0</FileVersion>
+        <ProductVersion>3.2.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -5527,8 +5532,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.355.0</FileVersion>
-        <ProductVersion>3.1.355.0</ProductVersion>
+        <FileVersion>3.1.358.0</FileVersion>
+        <ProductVersion>3.1.358.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -7341,6 +7346,11 @@
         <ProductVersion>3.0.0.5</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.App.SD.Interface.dll</FileName>
+        <FileVersion>3.1.2.0</FileVersion>
+        <ProductVersion>3.1.2.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.App.SD.ListofSaleOrderV2.dll</FileName>
         <FileVersion>3.1.1.1</FileVersion>
         <ProductVersion>3.1.1.1</ProductVersion>
@@ -8912,8 +8922,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.SD.dll</FileName>
-        <FileVersion>3.1.0.3</FileVersion>
-        <ProductVersion>3.1.0.3</ProductVersion>
+        <FileVersion>3.2.1.0</FileVersion>
+        <ProductVersion>3.2.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.SYS.dll</FileName>
