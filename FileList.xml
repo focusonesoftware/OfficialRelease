@@ -9331,6 +9331,11 @@
         <ProductVersion>3.1.0.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\FocusOneERP.exe.config</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\FocusOneERP.vshost.exe</FileName>
         <FileVersion>8.0.50727.42</FileVersion>
         <ProductVersion>8.0.50727.42</ProductVersion>
