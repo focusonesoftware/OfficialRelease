@@ -392,8 +392,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.AR.dll</FileName>
-        <FileVersion>3.1.14.0</FileVersion>
-        <ProductVersion>3.1.14.0</ProductVersion>
+        <FileVersion>3.1.15.0</FileVersion>
+        <ProductVersion>3.1.15.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.ARInterface.dll</FileName>
@@ -442,8 +442,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Collection.DLL</FileName>
-        <FileVersion>3.1.15.0</FileVersion>
-        <ProductVersion>3.1.15.0</ProductVersion>
+        <FileVersion>3.1.16.0</FileVersion>
+        <ProductVersion>3.1.16.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.CreditorsMovementReport.dll</FileName>
@@ -962,8 +962,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DLL</FileName>
-        <FileVersion>3.1.109.0</FileVersion>
-        <ProductVersion>3.1.109.0</ProductVersion>
+        <FileVersion>3.1.111.0</FileVersion>
+        <ProductVersion>3.1.111.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DTCBorrowReport.dll</FileName>
@@ -1004,6 +1004,11 @@
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.ImportStock.dll</FileName>
         <FileVersion>3.1.0.1</FileVersion>
         <ProductVersion>3.1.0.1</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.Interface.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.Inventory.Movement.Asset.dll</FileName>
@@ -5537,8 +5542,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.361.0</FileVersion>
-        <ProductVersion>3.1.361.0</ProductVersion>
+        <FileVersion>3.1.362.0</FileVersion>
+        <ProductVersion>3.1.362.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -5759,6 +5764,11 @@
         <FileName>Startup\Main\Agape.App.MM.ImportStock.dll</FileName>
         <FileVersion>3.1.0.1</FileVersion>
         <ProductVersion>3.1.0.1</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.App.MM.Interface.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Inventory.Movement.Asset.dll</FileName>
@@ -7997,8 +8007,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.MM.DLL</FileName>
-        <FileVersion>3.1.0.6</FileVersion>
-        <ProductVersion>3.1.0.6</ProductVersion>
+        <FileVersion>3.2.1.0</FileVersion>
+        <ProductVersion>3.2.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.MM.DTCListOfSIM.dll</FileName>
@@ -10557,8 +10567,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\serverprofile.xml</FileName>
-        <FileVersion>1.0.0.0</FileVersion>
-        <ProductVersion>1.0.0.0</ProductVersion>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\vslangproj.olb</FileName>
