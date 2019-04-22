@@ -3,7 +3,7 @@
   <Connection>
     <ApplicationID>5001</ApplicationID>
     <ApplicationName>INET UAT</ApplicationName>
-    <Host>10.127.2.3</Host>
+    <Host>203.150.109.150</Host>
     <Port>5001</Port>
   </Connection>
 </DocumentElement>
