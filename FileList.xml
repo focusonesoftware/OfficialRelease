@@ -2697,8 +2697,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETInvoiceVer02Form.dll</FileName>
-        <FileVersion>3.1.6.0</FileVersion>
-        <ProductVersion>3.1.6.0</ProductVersion>
+        <FileVersion>3.1.7.0</FileVersion>
+        <ProductVersion>3.1.7.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETJVForm.dll</FileName>
@@ -2737,8 +2737,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETTaxInvoiceForm.dll</FileName>
-        <FileVersion>3.1.15.0</FileVersion>
-        <ProductVersion>3.1.15.0</ProductVersion>
+        <FileVersion>3.1.16.0</FileVersion>
+        <ProductVersion>3.1.16.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.Improve_product.dll</FileName>
