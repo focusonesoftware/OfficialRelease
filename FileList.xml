@@ -382,8 +382,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.AP.dll</FileName>
-        <FileVersion>3.1.32.0</FileVersion>
-        <ProductVersion>3.1.32.0</ProductVersion>
+        <FileVersion>3.1.33.0</FileVersion>
+        <ProductVersion>3.1.33.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.AR.PN.dll</FileName>
@@ -522,8 +522,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Payment.DLL</FileName>
-        <FileVersion>3.1.11.0</FileVersion>
-        <ProductVersion>3.1.11.0</ProductVersion>
+        <FileVersion>3.1.12.0</FileVersion>
+        <ProductVersion>3.1.12.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Payment.Proposal.dll</FileName>
@@ -5552,8 +5552,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.372.0</FileVersion>
-        <ProductVersion>3.1.372.0</ProductVersion>
+        <FileVersion>3.1.373.0</FileVersion>
+        <ProductVersion>3.1.373.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
