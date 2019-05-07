@@ -5462,8 +5462,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MaintainWht.dll</FileName>
-        <FileVersion>3.1.11.0</FileVersion>
-        <ProductVersion>3.1.11.0</ProductVersion>
+        <FileVersion>3.1.12.0</FileVersion>
+        <ProductVersion>3.1.12.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MapAdditionalGL.dll</FileName>
@@ -7257,8 +7257,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.WithHoldingTaxReport.dll</FileName>
-        <FileVersion>3.1.0.3</FileVersion>
-        <ProductVersion>3.1.0.3</ProductVersion>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.WorkCenterWorkloadReport.dll</FileName>
