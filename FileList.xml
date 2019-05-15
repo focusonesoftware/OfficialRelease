@@ -442,8 +442,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Collection.DLL</FileName>
-        <FileVersion>3.1.18.0</FileVersion>
-        <ProductVersion>3.1.18.0</ProductVersion>
+        <FileVersion>3.1.19.0</FileVersion>
+        <ProductVersion>3.1.19.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.CreditorsMovementReport.dll</FileName>
@@ -457,8 +457,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.DLL</FileName>
-        <FileVersion>3.1.72.0</FileVersion>
-        <ProductVersion>3.1.72.0</ProductVersion>
+        <FileVersion>3.1.73.0</FileVersion>
+        <ProductVersion>3.1.73.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.EndCashMent.DLL</FileName>
@@ -5572,8 +5572,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.375.0</FileVersion>
-        <ProductVersion>3.1.375.0</ProductVersion>
+        <FileVersion>3.1.379.0</FileVersion>
+        <ProductVersion>3.1.379.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
