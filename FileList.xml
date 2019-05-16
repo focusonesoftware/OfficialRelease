@@ -457,8 +457,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.DLL</FileName>
-        <FileVersion>3.1.73.0</FileVersion>
-        <ProductVersion>3.1.73.0</ProductVersion>
+        <FileVersion>3.1.74.0</FileVersion>
+        <ProductVersion>3.1.74.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.EndCashMent.DLL</FileName>
@@ -5012,8 +5012,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DLL</FileName>
-        <FileVersion>3.1.83.0</FileVersion>
-        <ProductVersion>3.1.83.0</ProductVersion>
+        <FileVersion>3.1.84.0</FileVersion>
+        <ProductVersion>3.1.84.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DocumentStatus.dll</FileName>
@@ -5347,8 +5347,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.3.0</FileVersion>
-        <ProductVersion>3.2.3.0</ProductVersion>
+        <FileVersion>3.2.6.0</FileVersion>
+        <ProductVersion>3.2.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -5577,8 +5577,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.382.0</FileVersion>
-        <ProductVersion>3.1.382.0</ProductVersion>
+        <FileVersion>3.1.383.0</FileVersion>
+        <ProductVersion>3.1.383.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
