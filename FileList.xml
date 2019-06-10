@@ -82,8 +82,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Asset.DLL</FileName>
-        <FileVersion>3.1.33.0</FileVersion>
-        <ProductVersion>3.1.33.0</ProductVersion>
+        <FileVersion>3.1.34.0</FileVersion>
+        <ProductVersion>3.1.34.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Authorization.DLL</FileName>
@@ -2707,8 +2707,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETFixedAssetForm.dll</FileName>
-        <FileVersion>3.1.4.0</FileVersion>
-        <ProductVersion>3.1.4.0</ProductVersion>
+        <FileVersion>3.1.6.0</FileVersion>
+        <ProductVersion>3.1.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETINPAYForm.dll</FileName>
@@ -5182,8 +5182,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>3.1.79.0</FileVersion>
-        <ProductVersion>3.1.79.0</ProductVersion>
+        <FileVersion>3.1.80.0</FileVersion>
+        <ProductVersion>3.1.80.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -6167,8 +6167,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.RB.dll</FileName>
-        <FileVersion>3.1.99.0</FileVersion>
-        <ProductVersion>3.1.99.0</ProductVersion>
+        <FileVersion>3.1.100.0</FileVersion>
+        <ProductVersion>3.1.100.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Remote.APInvoiceNoRefPo.dll</FileName>
