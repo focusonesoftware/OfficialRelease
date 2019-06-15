@@ -6242,8 +6242,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ARSubLedgerV4.dll</FileName>
-        <FileVersion>3.1.1.0</FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <FileVersion>3.1.2.0</FileVersion>
+        <ProductVersion>3.1.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.AccountInventoryByMaterial.dll</FileName>
@@ -6876,6 +6876,11 @@
         <ProductVersion>3.1.0.7</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.App.Report.POListHeader.dll</FileName>
+        <FileVersion>3.1.9.0</FileVersion>
+        <ProductVersion>3.1.9.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.App.Report.POOntimedelivery.dll</FileName>
         <FileVersion>3.1.0.5</FileVersion>
         <ProductVersion>3.1.0.5</ProductVersion>
@@ -6929,6 +6934,11 @@
         <FileName>Startup\Main\Agape.App.Report.PerformanceofProduction.dll</FileName>
         <FileVersion>3.1.0.1</FileVersion>
         <ProductVersion>3.1.0.1</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.App.Report.PoList.dll</FileName>
+        <FileVersion>3.1.18.0</FileVersion>
+        <ProductVersion>3.1.18.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.PoListByCostcenter.dll</FileName>
@@ -7482,8 +7492,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>3.1.244.0</FileVersion>
-        <ProductVersion>3.1.244.0</ProductVersion>
+        <FileVersion>3.1.247.0</FileVersion>
+        <ProductVersion>3.1.247.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
