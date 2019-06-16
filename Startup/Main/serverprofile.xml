@@ -30,4 +30,10 @@
     <Host>203.150.109.150</Host>
     <Port>5005</Port>
   </Connection>
+  <Connection>
+    <ApplicationID>5006</ApplicationID>
+    <ApplicationName>One DC PRD</ApplicationName>
+    <Host>203.150.109.150</Host>
+    <Port>5006</Port>
+  </Connection>
 </DocumentElement>
