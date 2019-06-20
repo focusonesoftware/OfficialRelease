@@ -2886,6 +2886,11 @@
         <ProductVersion>3.1.0.1</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ListOfAPInvoice.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ListOfAsset.dll</FileName>
         <FileVersion>3.1.1.0</FileVersion>
         <ProductVersion>3.1.1.0</ProductVersion>
@@ -6756,6 +6761,11 @@
         <ProductVersion>3.1.0.6</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.App.Report.ListOfAPInvoice.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.App.Report.ListOfAsset.dll</FileName>
         <FileVersion>3.1.7.0</FileVersion>
         <ProductVersion>3.1.7.0</ProductVersion>
@@ -8664,6 +8674,11 @@
         <FileName>Startup\Main\Agape.Lib.Remote.Report.LandedCostHistory.dll</FileName>
         <FileVersion>3.1.0.1</FileVersion>
         <ProductVersion>3.1.0.1</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Remote.Report.ListOfAPInvoice.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.ListOfAsset.dll</FileName>
