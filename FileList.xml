@@ -11152,8 +11152,8 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\INET_IncommingTaxMainReport53V1.rpt</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
+        <FileVersion>1.0.0.0</FileVersion>
+        <ProductVersion>1.0.0.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\ReportFile\RPT_APCREDITFORM_APCREDIT.rpt</FileName>
