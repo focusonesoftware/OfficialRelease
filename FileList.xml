@@ -2881,6 +2881,11 @@
         <ProductVersion>3.1.0.1</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ListOfAPInvoice.dll</FileName>
+        <FileVersion>3.1.2.0</FileVersion>
+        <ProductVersion>3.1.2.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ListOfAsset.dll</FileName>
         <FileVersion>3.1.1.0</FileVersion>
         <ProductVersion>3.1.1.0</ProductVersion>
@@ -6736,6 +6741,11 @@
         <ProductVersion>3.1.0.6</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.App.Report.ListOfAPInvoice.dll</FileName>
+        <FileVersion>3.1.2.0</FileVersion>
+        <ProductVersion>3.1.2.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.App.Report.ListOfAsset.dll</FileName>
         <FileVersion>3.1.7.0</FileVersion>
         <ProductVersion>3.1.7.0</ProductVersion>
@@ -8639,6 +8649,11 @@
         <FileName>Startup\Main\Agape.Lib.Remote.Report.LandedCostHistory.dll</FileName>
         <FileVersion>3.1.0.1</FileVersion>
         <ProductVersion>3.1.0.1</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Remote.Report.ListOfAPInvoice.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.ListOfAsset.dll</FileName>
@@ -11107,8 +11122,8 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\INET_IncommingTaxMainReport53V1.rpt</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
+        <FileVersion>1.0.0.2</FileVersion>
+        <ProductVersion>1.0.0.2</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\ReportFile\RPT_APCREDITFORM_APCREDIT.rpt</FileName>
