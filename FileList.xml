@@ -442,8 +442,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Collection.DLL</FileName>
-        <FileVersion>3.1.20.0</FileVersion>
-        <ProductVersion>3.1.20.0</ProductVersion>
+        <FileVersion>3.1.21.0</FileVersion>
+        <ProductVersion>3.1.21.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.CreditorsMovementReport.dll</FileName>
@@ -5652,8 +5652,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.410.0</FileVersion>
-        <ProductVersion>3.1.410.0</ProductVersion>
+        <FileVersion>3.1.411.0</FileVersion>
+        <ProductVersion>3.1.411.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -9292,8 +9292,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>3.2.10.0</FileVersion>
-        <ProductVersion>3.2.10.0</ProductVersion>
+        <FileVersion>3.2.12.0</FileVersion>
+        <ProductVersion>3.2.12.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL.bak</FileName>
