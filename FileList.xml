@@ -702,8 +702,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.dll</FileName>
-        <FileVersion>3.1.79.0</FileVersion>
-        <ProductVersion>3.1.79.0</ProductVersion>
+        <FileVersion>3.1.80.0</FileVersion>
+        <ProductVersion>3.1.80.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FOBGP.dll</FileName>
@@ -5427,8 +5427,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.8.0</FileVersion>
-        <ProductVersion>3.2.8.0</ProductVersion>
+        <FileVersion>3.2.11.0</FileVersion>
+        <ProductVersion>3.2.11.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -5672,8 +5672,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.416.0</FileVersion>
-        <ProductVersion>3.1.416.0</ProductVersion>
+        <FileVersion>3.1.417.0</FileVersion>
+        <ProductVersion>3.1.417.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
