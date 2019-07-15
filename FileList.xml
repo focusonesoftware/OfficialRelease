@@ -691,6 +691,11 @@
         <ProductVersion>3.1.2.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.TrialBalanceReport.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.ValidationService.dll</FileName>
         <FileVersion>3.1.0.0</FileVersion>
         <ProductVersion>3.1.0.0</ProductVersion>
@@ -5617,8 +5622,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Report.LedgerDetailBySegmentV3.dll</FileName>
-        <FileVersion>3.1.5.0</FileVersion>
-        <ProductVersion>3.1.5.0</ProductVersion>
+        <FileVersion>3.1.6.0</FileVersion>
+        <ProductVersion>3.1.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Report.LedgerDetailV4.dll</FileName>
@@ -5664,6 +5669,11 @@
         <FileName>Startup\Main\Agape.App.FI.TradingPartner.dll</FileName>
         <FileVersion>3.1.2.0</FileVersion>
         <ProductVersion>3.1.2.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.App.FI.TrialBalanceReport.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.WHTExportData.dll</FileName>
@@ -6777,8 +6787,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ListOfBillingV2.dll</FileName>
-        <FileVersion>3.1.2.0</FileVersion>
-        <ProductVersion>3.1.2.0</ProductVersion>
+        <FileVersion>3.1.3.0</FileVersion>
+        <ProductVersion>3.1.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ListOfProductionPlan.dll</FileName>
@@ -8094,6 +8104,11 @@
         <FileName>Startup\Main\Agape.Lib.Remote.FI.SysMaterialCode.dll</FileName>
         <FileVersion>3.0.1.0</FileVersion>
         <ProductVersion>3.0.1.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Remote.FI.TrialBalanceReport.dll</FileName>
+        <FileVersion>3.2.1.0</FileVersion>
+        <ProductVersion>3.2.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.FI.WHTExportData.dll</FileName>
