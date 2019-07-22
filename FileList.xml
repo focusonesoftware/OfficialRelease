@@ -1586,6 +1586,11 @@
         <ProductVersion>1.0.0.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.AccruedRevenue.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.AdvRegisterForm.dll</FileName>
         <FileVersion>3.0.0.4</FileVersion>
         <ProductVersion>3.0.0.4</ProductVersion>
@@ -5306,6 +5311,11 @@
         <ProductVersion>3.1.10.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.App.CS.PrintBillingV2.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.App.CS.Report.dll</FileName>
         <FileVersion>3.1.1.0</FileVersion>
         <ProductVersion>3.1.1.0</ProductVersion>
@@ -5662,8 +5672,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.418.0</FileVersion>
-        <ProductVersion>3.1.418.0</ProductVersion>
+        <FileVersion>3.1.419.0</FileVersion>
+        <ProductVersion>3.1.419.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -6254,6 +6264,11 @@
         <FileName>Startup\Main\Agape.App.Report.AccountInventoryByMaterial.dll</FileName>
         <FileVersion>3.0.0.2</FileVersion>
         <ProductVersion>3.0.0.2</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.App.Report.AccruedRevenue.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.AdvancePay.dll</FileName>
@@ -6979,6 +6994,11 @@
         <FileName>Startup\Main\Agape.App.Report.PrintBillingMass.dll</FileName>
         <FileVersion>3.1.9.0</FileVersion>
         <ProductVersion>3.1.9.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.App.Report.PrintBillingMassV2.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.PrintCNARMass.dll</FileName>
@@ -8437,6 +8457,11 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.ARSubLedgerV4.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Remote.Report.AccruedRevenue.dll</FileName>
         <FileVersion>3.1.1.0</FileVersion>
         <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
