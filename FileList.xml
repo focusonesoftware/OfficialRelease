@@ -5487,8 +5487,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.AR.Statement.dll</FileName>
-        <FileVersion>3.1.9.0</FileVersion>
-        <ProductVersion>3.1.9.0</ProductVersion>
+        <FileVersion>3.1.11.0</FileVersion>
+        <ProductVersion>3.1.11.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.ARInterface.dll</FileName>
@@ -7192,8 +7192,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.SPDTPurchaseOrderToOutgoing.dll</FileName>
-        <FileVersion>3.1.7.0</FileVersion>
-        <ProductVersion>3.1.7.0</ProductVersion>
+        <FileVersion>3.1.10.0</FileVersion>
+        <ProductVersion>3.1.10.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.SPDTReceiveFinishGoods.dll</FileName>
