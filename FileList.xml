@@ -11417,8 +11417,8 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\RPT_PaymentAndCheque.rpt</FileName>
-        <FileVersion>2.0.0.0</FileVersion>
-        <ProductVersion>2.0.0.0</ProductVersion>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\ReportFile\RPT_SALEQUOTATIONREPORT_DTCSALEQUOTATIONREPORT.rpt</FileName>
