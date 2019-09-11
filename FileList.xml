@@ -442,8 +442,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Collection.DLL</FileName>
-        <FileVersion>3.1.23.0</FileVersion>
-        <ProductVersion>3.1.23.0</ProductVersion>
+        <FileVersion>3.1.25.0</FileVersion>
+        <ProductVersion>3.1.25.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.CreditorsMovementReport.dll</FileName>
@@ -5682,8 +5682,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.430.0</FileVersion>
-        <ProductVersion>3.1.430.0</ProductVersion>
+        <FileVersion>3.1.434.0</FileVersion>
+        <ProductVersion>3.1.434.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -11392,8 +11392,8 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\RPT_PaymentAndCheque.rpt</FileName>
-        <FileVersion>3.0.0.0</FileVersion>
-        <ProductVersion>3.0.0.0</ProductVersion>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\ReportFile\RPT_SALEQUOTATIONREPORT_DTCSALEQUOTATIONREPORT.rpt</FileName>
