@@ -1277,8 +1277,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.PP.ProductionJobOrder.dll</FileName>
-        <FileVersion>3.1.0.130</FileVersion>
-        <ProductVersion>3.1.0.130</ProductVersion>
+        <FileVersion>3.1.0.132</FileVersion>
+        <ProductVersion>3.1.0.132</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.PP.ProductionOrder.dll</FileName>
@@ -6187,8 +6187,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.ProductionJobOrder.dll</FileName>
-        <FileVersion>3.1.0.160</FileVersion>
-        <ProductVersion>3.1.0.160</ProductVersion>
+        <FileVersion>3.1.0.164</FileVersion>
+        <ProductVersion>3.1.0.164</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.ProductionOrder.dll</FileName>
