@@ -11196,6 +11196,11 @@
         <ProductVersion></ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\ReportFile\INETIncommingTaxReport53Summary.rpt</FileName>
+        <FileVersion>1.0.0.0</FileVersion>
+        <ProductVersion>1.0.0.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\ReportFile\INET_IncommingTaxMainReport53V1.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
