@@ -1,1 +1,5 @@
 #OnlineLiveUpdateXMLGenerate.exe
+.svn/
+**/bin
+**/obj
+**/*.pdb
