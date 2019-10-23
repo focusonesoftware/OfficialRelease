@@ -16,11 +16,6 @@
         <ProductVersion></ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\AddIns\FocusOne.addin</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-    </Description>
-    <Description>
         <FileName>Startup\AddIns\Misc\Authentication.addin</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
@@ -5712,8 +5707,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.442.0</FileVersion>
-        <ProductVersion>3.1.442.0</ProductVersion>
+        <FileVersion>3.1.443.0</FileVersion>
+        <ProductVersion>3.1.443.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
