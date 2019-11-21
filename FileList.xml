@@ -7257,8 +7257,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.SPDTPurchaseOrderToOutgoing.dll</FileName>
-        <FileVersion>3.1.13.0</FileVersion>
-        <ProductVersion>3.1.13.0</ProductVersion>
+        <FileVersion>3.1.14.0</FileVersion>
+        <ProductVersion>3.1.14.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.SPDTReceiveFinishGoods.dll</FileName>
