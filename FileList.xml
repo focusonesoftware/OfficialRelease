@@ -4176,6 +4176,11 @@
         <ProductVersion>3.1.0.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SaleReportByJob.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SaleShippingandBilling.dll</FileName>
         <FileVersion>3.1.2.0</FileVersion>
         <ProductVersion>3.1.2.0</ProductVersion>
@@ -7326,6 +7331,11 @@
         <ProductVersion>3.1.2.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.App.Report.SaleReportByJob.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.App.Report.SaleShippingandBilling.dll</FileName>
         <FileVersion>3.1.11.0</FileVersion>
         <ProductVersion>3.1.11.0</ProductVersion>
@@ -9074,6 +9084,11 @@
         <FileName>Startup\Main\Agape.Lib.Remote.Report.SaleOrderToJobOrderTracking.dll</FileName>
         <FileVersion>3.1.0.2</FileVersion>
         <ProductVersion>3.1.0.2</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Remote.Report.SaleReportByJob.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.SaleTaxReportDefer.dll</FileName>
