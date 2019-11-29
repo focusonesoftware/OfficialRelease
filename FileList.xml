@@ -3127,8 +3127,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.PEAKSPOForm.dll</FileName>
-        <FileVersion>3.1.1.3</FileVersion>
-        <ProductVersion>3.1.1.3</ProductVersion>
+        <FileVersion>3.1.1.4</FileVersion>
+        <ProductVersion>3.1.1.4</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.PEAKSPRForm.dll</FileName>
@@ -9389,6 +9389,31 @@
         <FileName>Startup\Main\Agape.Lib.Report.INETPaymentAndCheque.dll</FileName>
         <FileVersion>3.1.2.0</FileVersion>
         <ProductVersion>3.1.2.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.PEAKSGIForm.dll</FileName>
+        <FileVersion>3.1.1.2</FileVersion>
+        <ProductVersion>3.1.1.2</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.PEAKSGRForm.dll</FileName>
+        <FileVersion>3.1.1.1</FileVersion>
+        <ProductVersion>3.1.1.1</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.PEAKSPOForm.dll</FileName>
+        <FileVersion>3.1.1.1</FileVersion>
+        <ProductVersion>3.1.1.1</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.PEAKSPRForm.dll</FileName>
+        <FileVersion>3.1.1.1</FileVersion>
+        <ProductVersion>3.1.1.1</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.PEAKSSaleQuotationForm.dll</FileName>
+        <FileVersion>3.1.1.1</FileVersion>
+        <ProductVersion>3.1.1.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Util.dll</FileName>
