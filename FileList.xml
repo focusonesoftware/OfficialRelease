@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <FileList>
     <Description>
-        <FileName>FileList.xml</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-    </Description>
-    <Description>
-        <FileName>OnlineLiveUpdateXMLGenerate.exe</FileName>
-        <FileVersion>1.0.0.0</FileVersion>
-        <ProductVersion>1.0.0.0</ProductVersion>
-    </Description>
-    <Description>
         <FileName>Setup_ERP_client.jpg</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
@@ -397,8 +387,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.AR.dll</FileName>
-        <FileVersion>3.1.16.0</FileVersion>
-        <ProductVersion>3.1.16.0</ProductVersion>
+        <FileVersion>3.1.17.0</FileVersion>
+        <ProductVersion>3.1.17.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.ARInterface.dll</FileName>
@@ -5722,8 +5712,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.447.0</FileVersion>
-        <ProductVersion>3.1.447.0</ProductVersion>
+        <FileVersion>3.1.450.0</FileVersion>
+        <ProductVersion>3.1.450.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -9447,8 +9437,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>3.2.12.0</FileVersion>
-        <ProductVersion>3.2.12.0</ProductVersion>
+        <FileVersion>3.2.16.0</FileVersion>
+        <ProductVersion>3.2.16.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL.bak</FileName>
