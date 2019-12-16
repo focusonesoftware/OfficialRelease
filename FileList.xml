@@ -6586,6 +6586,11 @@
         <ProductVersion>3.1.0.23</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.App.Report.DeferredRevenue.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.App.Report.DemandAnalysis.dll</FileName>
         <FileVersion>3.1.0.1</FileVersion>
         <ProductVersion>3.1.0.1</ProductVersion>
