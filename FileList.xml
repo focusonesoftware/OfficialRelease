@@ -4932,8 +4932,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DLL</FileName>
-        <FileVersion>3.1.64.0</FileVersion>
-        <ProductVersion>3.1.64.0</ProductVersion>
+        <FileVersion>3.1.65.0</FileVersion>
+        <ProductVersion>3.1.65.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DeliveryOrder.dll</FileName>
@@ -5722,8 +5722,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.453.0</FileVersion>
-        <ProductVersion>3.1.453.0</ProductVersion>
+        <FileVersion>3.1.456.0</FileVersion>
+        <ProductVersion>3.1.456.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -7352,8 +7352,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.SaleShippingandBillingV3.dll</FileName>
-        <FileVersion>3.1.6.0</FileVersion>
-        <ProductVersion>3.1.6.0</ProductVersion>
+        <FileVersion>3.1.5.0</FileVersion>
+        <ProductVersion>3.1.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.SaleSummarys.dll</FileName>
@@ -7607,8 +7607,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>3.1.250.0</FileVersion>
-        <ProductVersion>3.1.250.0</ProductVersion>
+        <FileVersion>3.1.254.0</FileVersion>
+        <ProductVersion>3.1.254.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
@@ -9452,8 +9452,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>3.2.16.0</FileVersion>
-        <ProductVersion>3.2.16.0</ProductVersion>
+        <FileVersion>3.2.15.0</FileVersion>
+        <ProductVersion>3.2.15.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL.bak</FileName>
