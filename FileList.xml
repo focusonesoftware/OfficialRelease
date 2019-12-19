@@ -3082,8 +3082,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.NewCustomerV2.dll</FileName>
-        <FileVersion>3.1.5.0</FileVersion>
-        <ProductVersion>3.1.5.0</ProductVersion>
+        <FileVersion>3.1.6.0</FileVersion>
+        <ProductVersion>3.1.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.OpenCloseStock.dll</FileName>
@@ -6927,8 +6927,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.NewCustomer.dll</FileName>
-        <FileVersion>3.1.3.0</FileVersion>
-        <ProductVersion>3.1.3.0</ProductVersion>
+        <FileVersion>3.1.4.0</FileVersion>
+        <ProductVersion>3.1.4.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.NewCustomerV2.dll</FileName>
@@ -7606,6 +7606,11 @@
         <ProductVersion>3.1.5.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
+        <FileVersion>3.1.254.0</FileVersion>
+        <ProductVersion>3.1.254.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
         <FileVersion>3.1.25.0</FileVersion>
         <ProductVersion>3.1.25.0</ProductVersion>
@@ -7699,11 +7704,6 @@
         <FileName>Startup\Main\Agape.App.SD.UpdateSOCustomerData.dll</FileName>
         <FileVersion>3.1.4.0</FileVersion>
         <ProductVersion>3.1.4.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>3.1.254.0</FileVersion>
-        <ProductVersion>3.1.254.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SO.Report.SellOnCashAndCreditMCT.dll</FileName>
