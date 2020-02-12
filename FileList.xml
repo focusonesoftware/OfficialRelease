@@ -192,8 +192,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.CS.DLL</FileName>
-        <FileVersion>3.1.47.0</FileVersion>
-        <ProductVersion>3.1.47.0</ProductVersion>
+        <FileVersion>3.1.48.0</FileVersion>
+        <ProductVersion>3.1.48.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.CS.GenarateBackBox.dll</FileName>
@@ -5417,8 +5417,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CS.dll</FileName>
-        <FileVersion>3.2.38.0</FileVersion>
-        <ProductVersion>3.2.38.0</ProductVersion>
+        <FileVersion>3.2.39.0</FileVersion>
+        <ProductVersion>3.2.39.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CSSimDetailManageMent.dll</FileName>
@@ -7532,8 +7532,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.VendorAgingReport.dll</FileName>
-        <FileVersion>3.1.6.0</FileVersion>
-        <ProductVersion>3.1.6.0</ProductVersion>
+        <FileVersion>3.1.7.0</FileVersion>
+        <ProductVersion>3.1.7.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.VendorLeasingSummaryReport.dll</FileName>
@@ -11332,8 +11332,8 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\INETIncommingTaxReport53Summary.rpt</FileName>
-        <FileVersion>2.0.0.0</FileVersion>
-        <ProductVersion>2.0.0.0</ProductVersion>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\ReportFile\INET_IncommingTaxMainReport53V1.rpt</FileName>
