@@ -64,6 +64,7 @@
   <Resource Name="AG.IM.IM_M_0007.DESC" Type="System.String" FileName="" Value="Sales BOM" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.FI.APClearingOpenReport.Description" Type="System.String" FileName="" Value="Vendor Transaction List" />
   <Resource Name="Dialog.HighlightingEditor.EnvColors.FoldMarker" Type="System.String" FileName="" Value="Folding marker" />
+  <Resource Name="AG.FI.2013_FIRPT_R_0006_V2.DESC" Type="System.String" FileName="" Value="LedgerDetailReport (CostCenter)" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.DefineVendorNoRangeMapping.Label" Type="System.String" FileName="" Value="Assign Vendor Group to No. Range" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.SalesandLogisticsSetup.Label" Type="System.String" FileName="" Value="Sale and Logistic Setup" />
   <Resource Name="MainWindow.FileScoutToolTip" Type="System.String" FileName="" Value="File Scout" />
@@ -385,6 +386,7 @@
   <Resource Name="AG.LO.CAM_C_0003.DESC" Type="System.String" FileName="" Value="Define Rewards" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.MM.GoodsTransfer.Description" Type="System.String" FileName="" Value="Goods Transfer" />
   <Resource Name="ICSharpCode.AssemblyAnalyser.Rules.CheckCollectionSuffix.Description" Type="System.String" FileName="" Value="Collections names have the suffix 'Collection', 'Queue' or 'Stack'" />
+  <Resource Name="AG.FIBANK.FIBANK_T_0012_UI_INET.DESC" Type="System.String" FileName="" Value="Incoming Payment All R2020" />
   <Resource Name="MainWindow.StatusBar.OpeningCombineMessage" Type="System.String" FileName="" Value="Opening Combine..." />
   <Resource Name="Dialog.Options.CodeTemplate.AddGroupLabel" Type="System.String" FileName="" Value="A&amp;dd new Group" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.AssignAssignCasher.Description" Type="System.String" FileName="" Value="Assign Sales Cashier (POS)" />
@@ -532,8 +534,10 @@
   <Resource Name="AG.PROC.PO_R_0029.DESC" Type="System.String" FileName="" Value="RPTPO029 - PO Tracking History Report" />
   <Resource Name="AG.IC.IC_C_0001.DESC" Type="System.String" FileName="" Value="Define Batch Group " />
   <Resource Name="AG.LO.SO_C_0004.DESC" Type="System.String" FileName="" Value="Define Mat. Type Group" />
+  <Resource Name="AG.FI.2013_REC_CLEAR_CREDITCARD.DESC" Type="System.String" FileName="" Value="Incoming Clear Credit Card" />
   <Resource Name="Dialog.Options.PrjOptions.Configuration.CompileTarget.Library" Type="System.String" FileName="" Value="Library" />
   <Resource Name="AG.FI.FICASH_R_0010.DESC" Type="System.String" FileName="" Value="RPTBANK006 - Legacy Data Comparison Report" />
+  <Resource Name="AG.FI.2014_REPORT_GLPOSTING.DESC" Type="System.String" FileName="" Value="Report GL Posting" />
   <Resource Name="Dialog.HighlightingEditor.TreeView.RootRuleSet" Type="System.String" FileName="" Value="Root Rule set" />
   <Resource Name="Internal.Project.Deploy.AssemblyDeploy.DeployTargetNotSet" Type="System.String" FileName="" Value="Can't deploy: no deployment target set." />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.DefineLONoRangeObject.Description" Type="System.String" FileName="" Value="Define Sale And Logistic Doc No. Range" />
@@ -887,6 +891,7 @@
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.DebitNote.Description" Type="System.String" FileName="" Value="Debit Note" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.DefineSalesDistChannelCode.Label" Type="System.String" FileName="" Value="Define Sale Dist Channel Code" />
   <Resource Name="Global.NextButtonText" Type="System.String" FileName="" Value="Next &gt;" />
+  <Resource Name="AG.FI.2012_OUTPAYDEPOSIT.DESC" Type="System.String" FileName="" Value="Outgoing Deposit" />
   <Resource Name="Dialog.Wizards.CodeCompletionDatabaseWizard.SetupPanel.UseExistingRadioButton" Type="System.String" FileName="" Value="Use existing code completion database" />
   <Resource Name="AG.ADM.FOlDER06" Type="System.String" FileName="" Value="Plant Maintenance" />
   <Resource Name="Templates.File.#Develop.View.Name" Type="System.String" FileName="" Value="Empty View" />
@@ -1054,6 +1059,7 @@
   <Resource Name="AG.FI.FIAR_R_0003.DESC" Type="System.String" FileName="" Value="RPTAR003 - Output VAT Report #1" />
   <Resource Name="Dialog.Options.IDEOptions.SelectMenuStyle.StandardRadioButton" Type="System.String" FileName="" Value="Standard" />
   <Resource Name="AG.SYS.SYS_T_0003.DESC" Type="System.String" FileName="" Value="User Session" />
+  <Resource Name="AG.FI.FI_ARSUBLEDGERV2_REPORT_R_0001.DESC" Type="System.String" FileName="" Value="AR Sub-ledger V2 Report" />
   <Resource Name="AG.ADM.LOSO_C_0010.DESC" Type="System.String" FileName="" Value="Define Sale Entity" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.InventorySetup.Label" Type="System.String" FileName="" Value="Inventory Setup" />
   <Resource Name="AG.SM.MO_C_0001.DESC" Type="System.String" FileName="" Value="Maintenance Plan Properties" />
@@ -1262,6 +1268,7 @@
   <Resource Name="AG.FI.FIGL_C_0003.DESC" Type="System.String" FileName="" Value="Posting Period Setup" />
   <Resource Name="AG.FI.FIGL_R_0007.DESC" Type="System.String" FileName="" Value="RPTFI013 - Stock Movement by Costing Report" />
   <Resource Name="NUnitPad.NUnitPadContent.TestTreeView.ClickOnRunInformationNode" Type="System.String" FileName="" Value="Click on run tests or refresh to activate testing" />
+  <Resource Name="AG.FI.FIFICOMPARE_R_0009.DESC" Type="System.String" FileName="" Value="Financial Statement Report(Compare)" />
   <Resource Name="XML.MainMenu.HelpMenu.GPL" Type="System.String" FileName="" Value="&amp;GPL..." />
   <Resource Name="Dialog.Wizards.CodeCompletionDatabaseWizard.FinishedPanel.Title" Type="System.String" FileName="" Value="Finished" />
   <Resource Name="AG.LO.LOSO_M_0021.DESC" Type="System.String" FileName="" Value="Obligation Process Setup" />
@@ -1346,6 +1353,7 @@
   <Resource Name="AG.PP.JOB_C_0009.DESC" Type="System.String" FileName="" Value="Production Properties Master" />
   <Resource Name="Dialog.Options.CodeTemplate.Template" Type="System.String" FileName="" Value="Template" />
   <Resource Name="ICSharpCode.AssemblyAnalyser.AssemblyCantBeLoaded.Resolution" Type="System.String" FileName="" Value="Sorry I can't give a solution. I couldn't analyse the assembly &lt;code&gt;${FileName}&lt;/code&gt; because of loading errors. &lt;BR&gt;Exception was:&lt;b&gt;${ExceptionMessage}&lt;/b&gt;" />
+  <Resource Name="AG.FI.FI_ARSUBLEDGER_REPORT_R_0001_v3.DESC" Type="System.String" FileName="" Value="AR Sub-ledger Report V3" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.Was.CashFlowSummaryReport.Description" Type="System.String" FileName="" Value="CashFlowSummaryReport" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.HR.Employment.Label" Type="System.String" FileName="" Value="Employment" />
   <Resource Name="Dialog.HighlightingEditor.ColorDlg.SystemColor" Type="System.String" FileName="" Value="System color:" />
@@ -1409,6 +1417,7 @@
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.CostingStatus.Label" Type="System.String" FileName="" Value="Costing Status" />
   <Resource Name="ObjectBrowser.Nodes.SuperTypes" Type="System.String" FileName="" Value="SuperTypes" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.PaymentMethod.Label" Type="System.String" FileName="" Value="Payment Method" />
+  <Resource Name="AG.FI.FIAR_T_0009.DESC" Type="System.String" FileName="" Value="AR - PDC Check Encashment V2" />
   <Resource Name="Dialog.Options.ExternalTool.ArgumentLabel" Type="System.String" FileName="" Value="&amp;Arguments" />
   <Resource Name="AG.PP.FOLDER" Type="System.String" FileName="" Value="Production Planning Management" />
   <Resource Name="ICSharpCode.AssemblyAnalyser.Rules.AbstractTypesPublicConstructors.Details" Type="System.String" FileName="" Value="You can not create abstract types therefore public constructors do not make any sense." />
@@ -1582,6 +1591,7 @@
   <Resource Name="BackendBindings.CompilerOptions.CodeGeneration.DebugMode" Type="System.String" FileName="" Value="Emit debugging information" />
   <Resource Name="Global.ChangeButtonText" Type="System.String" FileName="" Value="&amp;Change" />
   <Resource Name="XML.MainMenu.FormatMenu.AlignMenu" Type="System.String" FileName="" Value="&amp;Align" />
+  <Resource Name="AG.FI.FIAP_R_0014.DESC" Type="System.String" FileName="" Value="Buy Tax Report By Defer" />
   <Resource Name="AG.HR.ACT_M_02" Type="System.String" FileName="" Value="HR HeadOffice BSACT" />
   <Resource Name="AG.HR.ACT_M_03" Type="System.String" FileName="" Value="ACTiiS" />
   <Resource Name="AG.HR.ACT_M_01" Type="System.String" FileName="" Value="ACTiiS HR for Head Office" />
@@ -1627,6 +1637,7 @@
   <Resource Name="Dialogs.TestEnvironment.FailedMessage" Type="System.String" FileName="" Value="Failed" />
   <Resource Name="Dialog.Options.IDEOptions.AssemblyScout.PrivateMembers" Type="System.String" FileName="" Value="Private members:" />
   <Resource Name="AG.ADM.Tool_C_0003.DESC" Type="System.String" FileName="" Value="Define Barcode Master" />
+  <Resource Name="AG.FI.FIAP_R_0015.DESC" Type="System.String" FileName="" Value="Buy Tax Report By Wait Tax Invoice" />
   <Resource Name="ObjectBrowser.Search.ItemsFound" Type="System.String" FileName="" Value="items found" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.Employee.Label" Type="System.String" FileName="" Value="Employee" />
   <Resource Name="AG.LO.LODO_R_0002.DESC" Type="System.String" FileName="" Value="RPTDO002 - List of Delivery Order" />
@@ -1914,6 +1925,7 @@
   <Resource Name="XML.MainMenu.SearchMenu" Type="System.String" FileName="" Value="&amp;Search" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.MM.GoodsReceive.Label" Type="System.String" FileName="" Value="Goods Receive" />
   <Resource Name="AG.FI.FICHECK_R_0006.DESC" Type="System.String" FileName="" Value="RPTCHECK006 - Stop Cheque Report" />
+  <Resource Name="AG.FI.FICHECKV2_T_0001.DESC" Type="System.String" FileName="" Value="Cheque Maintenance V2" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.MM.ProductionMaster.Label" Type="System.String" FileName="" Value="Production Master" />
   <Resource Name="Templates.File.Text.EmptyTextFile.Description" Type="System.String" FileName="" Value="Creates a new text file." />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.BudgetingReservationReport.Label" Type="System.String" FileName="" Value="Budgeting Reservation Report" />
@@ -2420,6 +2432,7 @@
   <Resource Name="Dialogs.TestEnvironment.TimeMessage" Type="System.String" FileName="" Value="Time" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.HR.MasterEmployee.Description" Type="System.String" FileName="" Value="Employee Master Data" />
   <Resource Name="_TAB_DocType" Type="System.String" FileName="" Value="General" />
+  <Resource Name="AG.FI.FI_LEDGERBYSEGMENT_0001_V3.DESC" Type="System.String" FileName="" Value="LedgerDetailReport V3" />
   <Resource Name="Dialog.HighlightingEditor.TreeView.EnvironmentColors" Type="System.String" FileName="" Value="Environment colors" />
   <Resource Name="_TAB_DocDate" Type="System.String" FileName="" Value="Document" />
   <Resource Name="XML.MainMenu.EditMenu.FormatMenu.Tab2Space" Type="System.String" FileName="" Value="Tabs to Spaces" />
@@ -2819,6 +2832,7 @@
   <Resource Name="XML.MainMenu.DebugMenu.Stop.Description" Type="System.String" FileName="" Value="Stops the current process and terminates debugging." />
   <Resource Name="TAB_Tranfer" Type="System.String" FileName="" Value="Goods Transfer" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.SD.Transaction.SalesQuotation.Label" Type="System.String" FileName="" Value="Sale Quotation" />
+  <Resource Name="AG.FI.FI_LEDGERBYSEGMENT_0001.DESC" Type="System.String" FileName="" Value="LedgerDetailReport V2" />
   <Resource Name="FormsDesigner.DesignTabPages.SourceTabPage" Type="System.String" FileName="" Value="Source" />
   <Resource Name="AG.ADM.ADMMC_M_0002.DESC" Type="System.String" FileName="" Value="Assign Controlling Area to Comp Code" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.Locations.Label" Type="System.String" FileName="" Value="Location Setup" />
@@ -2890,7 +2904,6 @@
   <Resource Name="XML.TreeMenu.Agape.FocusOne.SD.Transaction.ReverseSalesOrder.Description" Type="System.String" FileName="" Value="Reverse Sale Order" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.FI.PipelineManagement.Description" Type="System.String" FileName="" Value="Pipeline Management " />
   <Resource Name="AG.LO.CRM_T_0003.DESC" Type="System.String" FileName="" Value="Post Calculation Campaigns Processing" />
-  <Resource Name="_TSBT_Genreservation" Type="System.String" FileName="" Value="OK" />
   <Resource Name="ObjectBrowser.Menu.ShowPrivTypes" Type="System.String" FileName="" Value="Show Private Types" />
   <Resource Name="ICSharpCode.AssemblyAnalyser.Rules.TypesArePascalCased.Resolution" Type="System.String" FileName="" Value="Use pascal casing for the type &lt;code&gt;${TypeName}&lt;/code&gt;.&lt;BR&gt;For example: &lt;code&gt;${AlternateName}&lt;/code&gt;." />
   <Resource Name="MainWindow.StatusBar.ErrorWarningsMessage" Type="System.String" FileName="" Value="${Errors} errors, ${Warnings} warnings." />
@@ -3080,6 +3093,7 @@
   <Resource Name="XML.MainMenu.WindowMenu.PrvWindow.Description" Type="System.String" FileName="" Value="Activate previous open window" />
   <Resource Name="XML.MainMenu.ToolMenu.ConvertBufferToSharp.Description" Type="System.String" FileName="" Value="Converts the current buffer to C# (creating a new buffer)" />
   <Resource Name="XML.MainMenu.WindowMenu.Split.Description" Type="System.String" FileName="" Value="Splits the text editor" />
+  <Resource Name="AG.FIBANK.FIBANK_T_0012_UI.DESC" Type="System.String" FileName="" Value="Incoming Payment All V2" />
   <Resource Name="AG.ADM.AM.FOLDER" Type="System.String" FileName="" Value="Asset Accounting Setup" />
   <Resource Name="AG.AM.AM_T_0004.DESC" Type="System.String" FileName="" Value="Depreciation Posting" />
   <Resource Name="Dialog.Options.IDEOptions.CodingOptionsText" Type="System.String" FileName="" Value="Coding" />
@@ -3512,6 +3526,7 @@
   <Resource Name="ObjectBrowser.Menu.RemoveAsm" Type="System.String" FileName="" Value="Remove Selected Assembly" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.APAgingReport.Description" Type="System.String" FileName="" Value="AP Aging Report" />
   <Resource Name="Dialog.Options.IDEOptions.ProjectAndCombineOptions.ProjectLocationLabel" Type="System.String" FileName="" Value="Default &amp;combine location:" />
+  <Resource Name="AG.FI.FIFICOSTCENTER_R_0009.DESC" Type="System.String" FileName="" Value="Financial Statement Report(Cost Center)" />
   <Resource Name="OpenFileTabEventHandler.CopyPathName" Type="System.String" FileName="" Value="Copy file path/name" />
   <Resource Name="SharpQuery.Label.Connect" Type="System.String" FileName="" Value="Connect to database" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.DefineCallStatusCode.Description" Type="System.String" FileName="" Value="Define Call Status Code" />
@@ -3582,6 +3597,7 @@
   <Resource Name="XML.TextAreaContextMenu.UncommentSelection" Type="System.String" FileName="" Value="Uncomment region" />
   <Resource Name="XML.MainMenu.MasterDataMenu.CustomerMasterMenu.Maintain" Type="System.String" FileName="" Value="สร้าง , แก้ไข และ แสดงข้อมูลลูกค้า" />
   <Resource Name="XML.TreeMenu.PurchasingMenu.PurchaseOrderMenu.Maintain" Type="System.String" FileName="" Value="แก้ไขใบสั่งซื้อ" />
+  <Resource Name="AG.FI.FI_RECONINCOMING_T_0001.DESC" Type="System.String" FileName="" Value="Reconcile Incoming" />
   <Resource Name="AG.HR.HR_T_0002.DESC" Type="System.String" FileName="" Value="Plan Schedule" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.DefineMatProperties.Label" Type="System.String" FileName="" Value="Define Mat Properties" />
   <Resource Name="RegExpTk.MainDialog.Replace" Type="System.String" FileName="" Value="Replace" />
@@ -3593,6 +3609,7 @@
   <Resource Name="ICSharpCode.SharpDevelop.Gui.Components.BooleanTypeConverter.FalseString" Type="System.String" FileName="" Value="False" />
   <Resource Name="ObjectBrowser.Menu.ShowSpecial" Type="System.String" FileName="" Value="Show Special Methods" />
   <Resource Name="Global.Location.currentfile" Type="System.String" FileName="" Value="current file" />
+  <Resource Name="AG.FI.FIBANK_T_0002.DESC" Type="System.String" FileName="" Value="Incoming Payment (Credit Card) V2" />
   <Resource Name="Templates.Project.UserControlLibrary.Description" Type="System.String" FileName="" Value="A project that creates user controls which are used in windows applications." />
   <Resource Name="SharpDevelop.FormsDesigner.ContextMenus.SelectionMenu.AlignToGrid" Type="System.String" FileName="" Value="Align to &amp;Grid" />
   <Resource Name="Dialog.HighlightingEditor.RuleSet.NameEmpty" Type="System.String" FileName="" Value="The rule set name must not be empty. Only the root rule set has no name." />
@@ -3655,6 +3672,7 @@
   <Resource Name="XML.TreeMenu.Agape.FocusOne.CO.InitialBudgeting.Label" Type="System.String" FileName="" Value="Initial Budgeting" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.Rounding.Description" Type="System.String" FileName="" Value="Define Rounding" />
   <Resource Name="NewProject.SearchReplace.FindInFilesDialogName" Type="System.String" FileName="" Value="Find in Files" />
+  <Resource Name="AG.FI.FIBANK_T_0004.DESC" Type="System.String" FileName="" Value="Incoming Payment (Check) V2" />
   <Resource Name="Dialog.Options.CombineOptions.Configurations.EntriesGroupBox" Type="System.String" FileName="" Value="Entries" />
   <Resource Name="AG.ADM.LOSO_C_0006.DESC" Type="System.String" FileName="" Value="Define Price Group" />
   <Resource Name="AG.ADM.FOLDER04" Type="System.String" FileName="" Value="Production" />
@@ -3675,7 +3693,7 @@
   <Resource Name="Dialog.Options.CodeTemplate.EditTemplateDialog.DescriptionLabel" Type="System.String" FileName="" Value="&amp;Description" />
   <Resource Name="AG.HR.HR_T_0001.DESC" Type="System.String" FileName="" Value="Actual Schedule" />
   <Resource Name="Dialog.Options.CombineOptions.Startup.EntryColumnHeader" Type="System.String" FileName="" Value="Entry" />
-  <Resource Name="AG.ADM.ADMFI_C_0008.DESC" Type="System.String" FileName="" Value="Define RC Doc Type No. Range" />
+  <Resource Name="AG.ADM.ADMFI_C_0008.DESC" Type="System.String" FileName="" Value="Define RC Doc Type" />
   <Resource Name="Dialog.Options.ExternalTool.QuickInsertMenu.FullTargetPath" Type="System.String" FileName="" Value="Target Path" />
   <Resource Name="XML.MainMenu.EditMenu.Paste.Description" Type="System.String" FileName="" Value="Paste text from clipboard" />
   <Resource Name="Dialog.Options.IDEOptions.TaskListOptions.PanelName" Type="System.String" FileName="" Value="Task list" />
@@ -3698,7 +3716,7 @@
   <Resource Name="Dialog.Options.IDEOptions.LoadSaveOptions.PanelName" Type="System.String" FileName="" Value="Load/Save" />
   <Resource Name="ICSharpCode.AssemblyAnalyser.Rules.EventSecondParameterIsEventArgs.Details" Type="System.String" FileName="" Value="As a convention in .NET events have two parameters a sender and an event data object. The event data must always extend from the type &lt;code&gt;&lt;a href='help://types/System.EventArgs'&gt;System.EventArgs&lt;/a&gt;&lt;/code&gt; .&lt;BR&gt;For example: &lt;code&gt;void MouseEventHandler(object sender, MouseEventArgs e);&lt;/code&gt; where &lt;code&gt;MouseEventArgs&lt;/code&gt; extends &lt;code&gt;&lt;a href='help://types/System.EventArgs'&gt;System.EventArgs&lt;/a&gt;&lt;/code&gt;." />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.BalancingTemplate.Label" Type="System.String" FileName="" Value="BalancingTemplate" />
-  <Resource Name="AG.ADM.ADMFI_C_0009.DESC" Type="System.String" FileName="" Value="Define RC Doc Type" />
+  <Resource Name="AG.ADM.ADMFI_C_0009.DESC" Type="System.String" FileName="" Value="Define RC Doc Type No. Range" />
   <Resource Name="AG.FI.FIBANK_R_0004.DESC" Type="System.String" FileName="" Value="RPTFIOP003 - Outgoing Payment Report(STD)" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.FI.CustomerRelationshipManagement.Label" Type="System.String" FileName="" Value="Customer Relationship Management" />
   <Resource Name="AG.BC.FOLDER_DUMMY_01" Type="System.String" FileName="" Value="Work Flow System Configuration(Super Hero)" />
@@ -3903,21 +3921,4 @@
   <Resource Name="Dialog.Options.PrjOptions.VBDOCConfiguration.FilesToParseLabel" Type="System.String" FileName="" Value="Files to parse:" />
   <Resource Name="AG.ADM.PN.FOLDER" Type="System.String" FileName="" Value="Promisory Note Setup" />
   <Resource Name="XML.MainMenu.FormatMenu.SameSizeMenu.SizeToGrid" Type="System.String" FileName="" Value="Size to Gri&amp;d" />
-  <Resource Name="AG.FI.2013_REC_CLEAR_CREDITCARD.DESC" Type="System.String" FileName="" Value="Incoming Clear Credit Card" />
-  <Resource Name="AG.FI.FIAR_T_0009.DESC" Type="System.String" FileName="" Value="AR - PDC Check Encashment V2" />
-  <Resource Name="AG.FI.FIBANK_T_0002.DESC" Type="System.String" FileName="" Value="Incoming Payment (Credit Card) V2" />
-  <Resource Name="AG.FI.FIBANK_T_0004.DESC" Type="System.String" FileName="" Value="Incoming Payment (Check) V2" />
-  <Resource Name="AG.FI.2012_OUTPAYDEPOSIT.DESC" Type="System.String" FileName="" Value="Outgoing Deposit" />
-  <Resource Name="AG.FI.FI_RECONINCOMING_T_0001.DESC" Type="System.String" FileName="" Value="Reconcile Incoming" />
-  <Resource Name="AG.FI.FICHECKV2_T_0001.DESC" Type="System.String" FileName="" Value="Cheque Maintenance V2" />
-  <Resource Name="AG.FI.FIFICOSTCENTER_R_0009.DESC" Type="System.String" FileName="" Value="Financial Statement Report(Cost Center)" />
-  <Resource Name="AG.FI.FIFICOMPARE_R_0009.DESC" Type="System.String" FileName="" Value="Financial Statement Report(Compare)" />
-  <Resource Name="AG.FI.2013_FIRPT_R_0006_V2.DESC" Type="System.String" FileName="" Value="LedgerDetailReport (CostCenter)" />
-  <Resource Name="AG.FI.FI_LEDGERBYSEGMENT_0001_V3.DESC" Type="System.String" FileName="" Value="LedgerDetailReport V3" />
-  <Resource Name="AG.FI.FI_LEDGERBYSEGMENT_0001.DESC" Type="System.String" FileName="" Value="LedgerDetailReport V2" />
-  <Resource Name="AG.FI.2014_REPORT_GLPOSTING.DESC" Type="System.String" FileName="" Value="Report GL Posting" />
-  <Resource Name="AG.FI.FIAP_R_0014.DESC" Type="System.String" FileName="" Value="Buy Tax Report By Defer" />
-  <Resource Name="AG.FI.FIAP_R_0015.DESC" Type="System.String" FileName="" Value="Buy Tax Report By Wait Tax Invoice" />
-  <Resource Name="AG.FI.FI_ARSUBLEDGER_REPORT_R_0001_v3.DESC" Type="System.String" FileName="" Value="AR Sub-ledger Report V3" />
-  <Resource Name="AG.FI.FI_ARSUBLEDGERV2_REPORT_R_0001.DESC" Type="System.String" FileName="" Value="AR Sub-ledger V2 Report" />
 </Resources>
