@@ -26,11 +26,6 @@
         <ProductVersion></ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\AddIns\FocusOne.addin</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-    </Description>
-    <Description>
         <FileName>Startup\AddIns\Misc\Authentication.addin</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
