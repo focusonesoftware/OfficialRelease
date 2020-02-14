@@ -11861,29 +11861,24 @@
         <ProductVersion></ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\data\resources\ResourceEditor.exe</FileName>
-        <FileVersion>1.0.1046.26375</FileVersion>
-        <ProductVersion>1.0.1046.26375</ProductVersion>
-    </Description>
-    <Description>
         <FileName>Startup\data\resources\StringResources.en.resources</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
+        <FileVersion>1.0.0.0</FileVersion>
+        <ProductVersion>1.0.0.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\data\resources\StringResources.en.resourcesConfig</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
+        <FileVersion>1.0.0.0</FileVersion>
+        <ProductVersion>1.0.0.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\data\resources\StringResources.th.resources</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
+        <FileVersion>1.0.0.0</FileVersion>
+        <ProductVersion>1.0.0.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\data\resources\StringResources.th.resourcesConfig</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
+        <FileVersion>1.0.0.0</FileVersion>
+        <ProductVersion>1.0.0.0</ProductVersion>
     </Description>
     <Description>
         <FileName>license.rtf</FileName>
