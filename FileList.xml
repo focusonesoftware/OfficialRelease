@@ -2767,8 +2767,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETInvoice.dll</FileName>
-        <FileVersion>3.1.34.0</FileVersion>
-        <ProductVersion>3.1.34.0</ProductVersion>
+        <FileVersion>3.1.35.0</FileVersion>
+        <ProductVersion>3.1.35.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETInvoiceVer01Form.dll</FileName>
@@ -2967,8 +2967,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ListOfSaleOrderV3.dll</FileName>
-        <FileVersion>3.1.1.0</FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <FileVersion>3.1.2.0</FileVersion>
+        <ProductVersion>3.1.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ListPRReport.dll</FileName>
@@ -6897,8 +6897,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ListOfSaleOrderV3.dll</FileName>
-        <FileVersion>3.1.4.0</FileVersion>
-        <ProductVersion>3.1.4.0</ProductVersion>
+        <FileVersion>3.1.6.0</FileVersion>
+        <ProductVersion>3.1.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ListSaleOrderItem.dll</FileName>
