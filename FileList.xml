@@ -4482,8 +4482,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRGRForm.dll</FileName>
-        <FileVersion>3.1.1.5</FileVersion>
-        <ProductVersion>3.1.1.5</ProductVersion>
+        <FileVersion>3.1.1.6</FileVersion>
+        <ProductVersion>3.1.1.6</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRInvoice.dll</FileName>
@@ -4492,13 +4492,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRPOForm.dll</FileName>
-        <FileVersion>3.1.1.8</FileVersion>
-        <ProductVersion>3.1.1.8</ProductVersion>
+        <FileVersion>3.1.1.9</FileVersion>
+        <ProductVersion>3.1.1.9</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRPRForm.dll</FileName>
-        <FileVersion>3.1.1.1</FileVersion>
-        <ProductVersion>3.1.1.1</ProductVersion>
+        <FileVersion>3.1.1.6</FileVersion>
+        <ProductVersion>3.1.1.6</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRSaleQuotationForm.dll</FileName>
@@ -9969,16 +9969,6 @@
         <FileName>Startup\Main\Agape.Lib.Report.TPRInvoice.dll</FileName>
         <FileVersion>3.1.1.0</FileVersion>
         <ProductVersion>3.1.1.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.Report.TPRPOForm.dll</FileName>
-        <FileVersion>3.1.1.1</FileVersion>
-        <ProductVersion>3.1.1.1</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.Report.TPRPRForm.dll</FileName>
-        <FileVersion>3.1.1.1</FileVersion>
-        <ProductVersion>3.1.1.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Report.YMFShopfloor.dll</FileName>
