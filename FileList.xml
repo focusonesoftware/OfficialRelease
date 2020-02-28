@@ -382,8 +382,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.AP.dll</FileName>
-        <FileVersion>3.1.37.0</FileVersion>
-        <ProductVersion>3.1.37.0</ProductVersion>
+        <FileVersion>3.1.39.0</FileVersion>
+        <ProductVersion>3.1.39.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.AR.PN.dll</FileName>
@@ -557,8 +557,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.ReCurring.dll</FileName>
-        <FileVersion>3.1.3.0</FileVersion>
-        <ProductVersion>3.1.3.0</ProductVersion>
+        <FileVersion>3.1.5.0</FileVersion>
+        <ProductVersion>3.1.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Reconcile.Incoming.dll</FileName>
@@ -987,8 +987,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DLL</FileName>
-        <FileVersion>3.1.114.0</FileVersion>
-        <ProductVersion>3.1.114.0</ProductVersion>
+        <FileVersion>3.1.115.0</FileVersion>
+        <ProductVersion>3.1.115.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DTCBorrowReport.dll</FileName>
@@ -5282,8 +5282,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DLL</FileName>
-        <FileVersion>3.1.94.0</FileVersion>
-        <ProductVersion>3.1.94.0</ProductVersion>
+        <FileVersion>3.1.95.0</FileVersion>
+        <ProductVersion>3.1.95.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DocumentStatus.dll</FileName>
@@ -5427,8 +5427,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.dll</FileName>
-        <FileVersion>3.1.64.0</FileVersion>
-        <ProductVersion>3.1.64.0</ProductVersion>
+        <FileVersion>3.1.66.0</FileVersion>
+        <ProductVersion>3.1.66.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Budget.Report.dll</FileName>
@@ -5632,8 +5632,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.18.0</FileVersion>
-        <ProductVersion>3.2.18.0</ProductVersion>
+        <FileVersion>3.2.23.0</FileVersion>
+        <ProductVersion>3.2.23.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -5797,8 +5797,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Recurring.dll</FileName>
-        <FileVersion>3.1.24.0</FileVersion>
-        <ProductVersion>3.1.24.0</ProductVersion>
+        <FileVersion>3.1.25.0</FileVersion>
+        <ProductVersion>3.1.25.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Report.CheckRegistrationForMCT.dll</FileName>
@@ -5882,8 +5882,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.460.0</FileVersion>
-        <ProductVersion>3.1.460.0</ProductVersion>
+        <FileVersion>3.1.464.0</FileVersion>
+        <ProductVersion>3.1.464.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -6282,8 +6282,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>3.1.335.0</FileVersion>
-        <ProductVersion>3.1.335.0</ProductVersion>
+        <FileVersion>3.1.337.0</FileVersion>
+        <ProductVersion>3.1.337.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -10152,8 +10152,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\ConstantUtility.dll</FileName>
-        <FileVersion>3.1.63.0</FileVersion>
-        <ProductVersion>3.1.63.0</ProductVersion>
+        <FileVersion>3.1.65.0</FileVersion>
+        <ProductVersion>3.1.65.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\ConstantUtilityReport.dll</FileName>
