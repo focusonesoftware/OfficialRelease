@@ -4472,8 +4472,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRARInvoice.dll</FileName>
-        <FileVersion>3.1.1.4</FileVersion>
-        <ProductVersion>3.1.1.4</ProductVersion>
+        <FileVersion>3.1.1.5</FileVersion>
+        <ProductVersion>3.1.1.5</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRARStatement.dll</FileName>
@@ -4504,6 +4504,11 @@
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRInvoice.dll</FileName>
         <FileVersion>3.1.1.6</FileVersion>
         <ProductVersion>3.1.1.6</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRInvoiceVerForm.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRPOForm.dll</FileName>
