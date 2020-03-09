@@ -4497,8 +4497,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRGIForm.dll</FileName>
-        <FileVersion>3.1.1.5</FileVersion>
-        <ProductVersion>3.1.1.5</ProductVersion>
+        <FileVersion>3.1.1.6</FileVersion>
+        <ProductVersion>3.1.1.6</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRGRForm.dll</FileName>
@@ -4512,8 +4512,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRInvoice.dll</FileName>
-        <FileVersion>3.1.1.6</FileVersion>
-        <ProductVersion>3.1.1.6</ProductVersion>
+        <FileVersion>3.1.1.7</FileVersion>
+        <ProductVersion>3.1.1.7</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRInvoiceVerForm.dll</FileName>
