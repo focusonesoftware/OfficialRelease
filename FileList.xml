@@ -4471,9 +4471,24 @@
         <ProductVersion>3.1.7.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRAPCreditNoteForm.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRAPDebitNoteForm.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRAPInvoice.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRARInvoice.dll</FileName>
-        <FileVersion>3.1.1.4</FileVersion>
-        <ProductVersion>3.1.1.4</ProductVersion>
+        <FileVersion>3.1.1.5</FileVersion>
+        <ProductVersion>3.1.1.5</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRARStatement.dll</FileName>
@@ -4487,8 +4502,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRGIForm.dll</FileName>
-        <FileVersion>3.1.1.5</FileVersion>
-        <ProductVersion>3.1.1.5</ProductVersion>
+        <FileVersion>3.1.1.6</FileVersion>
+        <ProductVersion>3.1.1.6</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRGRForm.dll</FileName>
@@ -4497,13 +4512,18 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRINCOMMINGFORM.dll</FileName>
-        <FileVersion>3.1.1.1</FileVersion>
-        <ProductVersion>3.1.1.1</ProductVersion>
+        <FileVersion>3.1.1.4</FileVersion>
+        <ProductVersion>3.1.1.4</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRInvoice.dll</FileName>
-        <FileVersion>3.1.1.4</FileVersion>
-        <ProductVersion>3.1.1.4</ProductVersion>
+        <FileVersion>3.1.1.7</FileVersion>
+        <ProductVersion>3.1.1.7</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRInvoiceVerForm.dll</FileName>
+        <FileVersion>3.1.1.6</FileVersion>
+        <ProductVersion>3.1.1.6</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRPOForm.dll</FileName>
@@ -4517,8 +4537,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRSaleQuotationForm.dll</FileName>
-        <FileVersion>3.1.1.19</FileVersion>
-        <ProductVersion>3.1.1.19</ProductVersion>
+        <FileVersion>3.1.1.25</FileVersion>
+        <ProductVersion>3.1.1.25</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRShippingByDealerSO.dll</FileName>
