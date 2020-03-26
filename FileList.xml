@@ -712,8 +712,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.dll</FileName>
-        <FileVersion>3.1.81.0</FileVersion>
-        <ProductVersion>3.1.81.0</ProductVersion>
+        <FileVersion>3.1.82.0</FileVersion>
+        <ProductVersion>3.1.82.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FOBGP.dll</FileName>
@@ -5392,8 +5392,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.dll</FileName>
-        <FileVersion>3.1.67.0</FileVersion>
-        <ProductVersion>3.1.67.0</ProductVersion>
+        <FileVersion>3.1.68.0</FileVersion>
+        <ProductVersion>3.1.68.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Budget.Report.dll</FileName>
