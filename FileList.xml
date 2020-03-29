@@ -102,8 +102,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.BP.DLL</FileName>
-        <FileVersion>3.1.28.0</FileVersion>
-        <ProductVersion>3.1.28.0</ProductVersion>
+        <FileVersion>3.1.29.0</FileVersion>
+        <ProductVersion>3.1.29.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.BP.DTCUpdateSaleRepresent.dll</FileName>
@@ -2916,6 +2916,11 @@
         <ProductVersion>3.1.0.2</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.LeasingDetail.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.LedgerDetailForm.dll</FileName>
         <FileVersion>3.1.5.0</FileVersion>
         <ProductVersion>3.1.5.0</ProductVersion>
@@ -3449,6 +3454,11 @@
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.PISA.WORKCONST.LIV.dll</FileName>
         <FileVersion>3.1.4.0</FileVersion>
         <ProductVersion>3.1.4.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.POAccrualReport.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.POByMonthWithPOCostCenter.dll</FileName>
@@ -4212,8 +4222,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SaleShippingandBillingV3.dll</FileName>
-        <FileVersion>3.1.6.0</FileVersion>
-        <ProductVersion>3.1.6.0</ProductVersion>
+        <FileVersion>3.1.9.0</FileVersion>
+        <ProductVersion>3.1.9.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SaleSummary.dll</FileName>
@@ -5282,8 +5292,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DLL</FileName>
-        <FileVersion>3.1.64.0</FileVersion>
-        <ProductVersion>3.1.64.0</ProductVersion>
+        <FileVersion>3.1.68.0</FileVersion>
+        <ProductVersion>3.1.68.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DTCUpdateAccountAgent.dll</FileName>
@@ -5747,8 +5757,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.464.0</FileVersion>
-        <ProductVersion>3.1.464.0</ProductVersion>
+        <FileVersion>3.1.469.0</FileVersion>
+        <ProductVersion>3.1.469.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -6142,8 +6152,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>3.1.333.0</FileVersion>
-        <ProductVersion>3.1.333.0</ProductVersion>
+        <FileVersion>3.1.339.0</FileVersion>
+        <ProductVersion>3.1.339.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -6856,6 +6866,11 @@
         <ProductVersion>3.1.0.6</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.App.Report.LeasingDetail.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.App.Report.ListOfAPInvoice.dll</FileName>
         <FileVersion>3.1.2.0</FileVersion>
         <ProductVersion>3.1.2.0</ProductVersion>
@@ -6997,6 +7012,11 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.PFLandedCost.dll</FileName>
+        <FileVersion>3.1.3.0</FileVersion>
+        <ProductVersion>3.1.3.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.App.Report.POAccrualReport.dll</FileName>
         <FileVersion>3.1.3.0</FileVersion>
         <ProductVersion>3.1.3.0</ProductVersion>
     </Description>
@@ -7387,8 +7407,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.SaleShippingandBillingV3.dll</FileName>
-        <FileVersion>3.1.8.0</FileVersion>
-        <ProductVersion>3.1.8.0</ProductVersion>
+        <FileVersion>3.1.10.0</FileVersion>
+        <ProductVersion>3.1.10.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.SaleSummarys.dll</FileName>
@@ -7537,8 +7557,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.VendorLeasingSummaryReport.dll</FileName>
-        <FileVersion>3.1.3.0</FileVersion>
-        <ProductVersion>3.1.3.0</ProductVersion>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.VerifyOfflineData.dll</FileName>
@@ -7647,8 +7667,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>3.1.257.0</FileVersion>
-        <ProductVersion>3.1.257.0</ProductVersion>
+        <FileVersion>3.1.259.0</FileVersion>
+        <ProductVersion>3.1.259.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
@@ -8831,6 +8851,11 @@
         <ProductVersion>3.1.0.1</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.Lib.Remote.Report.LeasingDetail.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.ListOfAPInvoice.dll</FileName>
         <FileVersion>3.1.1.0</FileVersion>
         <ProductVersion>3.1.1.0</ProductVersion>
@@ -8932,6 +8957,11 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.PFLandedCost.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Remote.Report.POAccrualReport.dll</FileName>
         <FileVersion>3.1.1.0</FileVersion>
         <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
