@@ -12353,7 +12353,7 @@
     <Description>
         <FileName>Startup\data\resources\StringResources.en.resources</FileName>
         <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\data\resources\StringResources.en.resourcesConfig</FileName>
@@ -12363,7 +12363,7 @@
     <Description>
         <FileName>Startup\data\resources\StringResources.th.resources</FileName>
         <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\data\resources\StringResources.th.resourcesConfig</FileName>
