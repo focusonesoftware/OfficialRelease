@@ -5757,8 +5757,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.469.0</FileVersion>
-        <ProductVersion>3.1.469.0</ProductVersion>
+        <FileVersion>3.1.470.0</FileVersion>
+        <ProductVersion>3.1.470.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -11803,7 +11803,7 @@
     <Description>
         <FileName>Startup\data\resources\StringResources.en.resources</FileName>
         <FileVersion></FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\data\resources\StringResources.en.resourcesConfig</FileName>
@@ -11813,7 +11813,7 @@
     <Description>
         <FileName>Startup\data\resources\StringResources.th.resources</FileName>
         <FileVersion></FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\data\resources\StringResources.th.resourcesConfig</FileName>
