@@ -2904,6 +2904,7 @@
   <Resource Name="XML.TreeMenu.Agape.FocusOne.SD.Transaction.ReverseSalesOrder.Description" Type="System.String" FileName="" Value="Reverse Sale Order" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.FI.PipelineManagement.Description" Type="System.String" FileName="" Value="Pipeline Management " />
   <Resource Name="AG.LO.CRM_T_0003.DESC" Type="System.String" FileName="" Value="Post Calculation Campaigns Processing" />
+  <Resource Name="_TSBT_Genreservation" Type="System.String" FileName="" Value="OK" />
   <Resource Name="ObjectBrowser.Menu.ShowPrivTypes" Type="System.String" FileName="" Value="Show Private Types" />
   <Resource Name="ICSharpCode.AssemblyAnalyser.Rules.TypesArePascalCased.Resolution" Type="System.String" FileName="" Value="Use pascal casing for the type &lt;code&gt;${TypeName}&lt;/code&gt;.&lt;BR&gt;For example: &lt;code&gt;${AlternateName}&lt;/code&gt;." />
   <Resource Name="MainWindow.StatusBar.ErrorWarningsMessage" Type="System.String" FileName="" Value="${Errors} errors, ${Warnings} warnings." />
@@ -3921,4 +3922,5 @@
   <Resource Name="Dialog.Options.PrjOptions.VBDOCConfiguration.FilesToParseLabel" Type="System.String" FileName="" Value="Files to parse:" />
   <Resource Name="AG.ADM.PN.FOLDER" Type="System.String" FileName="" Value="Promisory Note Setup" />
   <Resource Name="XML.MainMenu.FormatMenu.SameSizeMenu.SizeToGrid" Type="System.String" FileName="" Value="Size to Gri&amp;d" />
+  <Resource Name="DEFAULT.DESC" Type="System.String" FileName="" Value="WELCOME TO FOCUS ONE ERP" />
 </Resources>

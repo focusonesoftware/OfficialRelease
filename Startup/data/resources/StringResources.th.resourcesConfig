@@ -379,6 +379,7 @@
   <Resource Name="AG.LO.CAM_C_0003.DESC" Type="System.String" FileName="" Value="กำหนดของรางวัล" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.MM.GoodsTransfer.Description" Type="System.String" FileName="" Value="Goods Transfer" />
   <Resource Name="ICSharpCode.AssemblyAnalyser.Rules.CheckCollectionSuffix.Description" Type="System.String" FileName="" Value="Collections names have the suffix 'Collection', 'Queue' or 'Stack'" />
+  <Resource Name="AG.FIBANK.FIBANK_T_0012_UI_INET.DESC" Type="System.String" FileName="" Value="การบันทึกรับชำระ(ทุกรายการ) R2020" />
   <Resource Name="MainWindow.StatusBar.OpeningCombineMessage" Type="System.String" FileName="" Value="Opening Combine..." />
   <Resource Name="Dialog.Options.CodeTemplate.AddGroupLabel" Type="System.String" FileName="" Value="A&amp;dd new Group" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.AssignAssignCasher.Description" Type="System.String" FileName="" Value="Assign Sales Cashier (POS)" />
@@ -3016,6 +3017,7 @@
   <Resource Name="XML.MainMenu.WindowMenu.PrvWindow.Description" Type="System.String" FileName="" Value="Activate previous open window" />
   <Resource Name="XML.MainMenu.ToolMenu.ConvertBufferToSharp.Description" Type="System.String" FileName="" Value="Converts the current buffer to C# (creating a new buffer)" />
   <Resource Name="XML.MainMenu.WindowMenu.Split.Description" Type="System.String" FileName="" Value="Splits the text editor" />
+  <Resource Name="AG.FIBANK.FIBANK_T_0012_UI.DESC" Type="System.String" FileName="" Value="การบันทึกรับชำระ (ทุกรายการ) V2" />
   <Resource Name="AG.ADM.AM.FOLDER" Type="System.String" FileName="" Value="การกำหนดระบบบัญชีสินทรัพย์" />
   <Resource Name="AG.AM.AM_T_0004.DESC" Type="System.String" FileName="" Value="รายการลงบัญชีค่าเสื่อม" />
   <Resource Name="Dialog.Options.IDEOptions.CodingOptionsText" Type="System.String" FileName="" Value="Coding" />
@@ -3821,4 +3823,5 @@
   <Resource Name="Dialog.Options.PrjOptions.VBDOCConfiguration.FilesToParseLabel" Type="System.String" FileName="" Value="Files to parse:" />
   <Resource Name="AG.ADM.PN.FOLDER" Type="System.String" FileName="" Value="การกำหนดข้อมูลตั๋วสัญญาใช้เงิน" />
   <Resource Name="XML.MainMenu.FormatMenu.SameSizeMenu.SizeToGrid" Type="System.String" FileName="" Value="Size to Gri&amp;d" />
+  <Resource Name="DEFAULT.DESC" Type="System.String" FileName="" Value="ยินดีต้อนรับเข้าสู่การใช้งานระบบโฟกัสวัน" />
 </Resources>
