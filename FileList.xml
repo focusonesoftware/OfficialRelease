@@ -5362,8 +5362,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>3.1.83.0</FileVersion>
-        <ProductVersion>3.1.83.0</ProductVersion>
+        <FileVersion>3.1.85.1</FileVersion>
+        <ProductVersion>3.1.85.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -5597,8 +5597,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.24.0</FileVersion>
-        <ProductVersion>3.2.24.0</ProductVersion>
+        <FileVersion>3.2.26.0</FileVersion>
+        <ProductVersion>3.2.26.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -5652,8 +5652,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.AP.Statement.dll</FileName>
-        <FileVersion>3.2.1.0</FileVersion>
-        <ProductVersion>3.2.1.0</ProductVersion>
+        <FileVersion>3.2.1.1</FileVersion>
+        <ProductVersion>3.2.1.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.AR.PN.dll</FileName>
@@ -5727,8 +5727,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MaintainTax.dll</FileName>
-        <FileVersion>3.1.29.0</FileVersion>
-        <ProductVersion>3.1.29.0</ProductVersion>
+        <FileVersion>3.1.29.1</FileVersion>
+        <ProductVersion>3.1.29.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MaintainWht.dll</FileName>
@@ -5797,8 +5797,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Report.LedgerDetailV5.dll</FileName>
-        <FileVersion>3.1.3.0</FileVersion>
-        <ProductVersion>3.1.3.0</ProductVersion>
+        <FileVersion>3.1.3.1</FileVersion>
+        <ProductVersion>3.1.3.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Report.PettyCashSummaryBAMReport.dll</FileName>
@@ -5827,8 +5827,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.SubSequence.dll</FileName>
-        <FileVersion>3.2.3.0</FileVersion>
-        <ProductVersion>3.2.3.0</ProductVersion>
+        <FileVersion>3.2.3.1</FileVersion>
+        <ProductVersion>3.2.3.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.SysMaterialCode.dll</FileName>
@@ -5847,13 +5847,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.WHTExportData.dll</FileName>
-        <FileVersion>3.1.3.0</FileVersion>
-        <ProductVersion>3.1.3.0</ProductVersion>
+        <FileVersion>3.1.3.1</FileVersion>
+        <ProductVersion>3.1.3.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.467.0</FileVersion>
-        <ProductVersion>3.1.467.0</ProductVersion>
+        <FileVersion>3.1.469.1</FileVersion>
+        <ProductVersion>3.1.469.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -6072,8 +6072,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.ImportMaterialMaster.dll</FileName>
-        <FileVersion>3.1.0.2</FileVersion>
-        <ProductVersion>3.1.0.2</ProductVersion>
+        <FileVersion>3.1.0.3</FileVersion>
+        <ProductVersion>3.1.0.3</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.ImportStock.dll</FileName>
@@ -6087,8 +6087,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Inventory.Movement.Asset.dll</FileName>
-        <FileVersion>3.1.44.0</FileVersion>
-        <ProductVersion>3.1.44.0</ProductVersion>
+        <FileVersion>3.1.44.1</FileVersion>
+        <ProductVersion>3.1.44.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Inventory.Report.dll</FileName>
@@ -6257,8 +6257,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
-        <FileVersion>3.2.0.0</FileVersion>
-        <ProductVersion>3.2.0.0</ProductVersion>
+        <FileVersion>3.2.0.1</FileVersion>
+        <ProductVersion>3.2.0.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.MappingBatch.dll</FileName>
@@ -6377,8 +6377,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.RB.dll</FileName>
-        <FileVersion>3.1.103.0</FileVersion>
-        <ProductVersion>3.1.103.0</ProductVersion>
+        <FileVersion>3.1.103.1</FileVersion>
+        <ProductVersion>3.1.103.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Remote.APInvoiceNoRefPo.dll</FileName>
@@ -6432,8 +6432,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ARSubLedger.dll</FileName>
-        <FileVersion>3.1.16.0</FileVersion>
-        <ProductVersion>3.1.16.0</ProductVersion>
+        <FileVersion>3.1.17.1</FileVersion>
+        <ProductVersion>3.1.17.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ARSubLedgerV2.dll</FileName>
@@ -6447,8 +6447,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ARSubLedgerV4.dll</FileName>
-        <FileVersion>3.1.2.0</FileVersion>
-        <ProductVersion>3.1.2.0</ProductVersion>
+        <FileVersion>3.1.2.1</FileVersion>
+        <ProductVersion>3.1.2.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.AccountInventoryByMaterial.dll</FileName>
@@ -6507,13 +6507,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.BuyTaxReportDefer.dll</FileName>
-        <FileVersion>3.1.0.4</FileVersion>
-        <ProductVersion>3.1.0.4</ProductVersion>
+        <FileVersion>3.1.0.5</FileVersion>
+        <ProductVersion>3.1.0.5</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.BuyTaxReportWaitTaxInvoice.dll</FileName>
-        <FileVersion>3.1.0.4</FileVersion>
-        <ProductVersion>3.1.0.4</ProductVersion>
+        <FileVersion>3.1.0.5</FileVersion>
+        <ProductVersion>3.1.0.5</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.COIOReport.dll</FileName>
@@ -6937,8 +6937,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.IncomingListReportV2.dll</FileName>
-        <FileVersion>3.1.11.0</FileVersion>
-        <ProductVersion>3.1.11.0</ProductVersion>
+        <FileVersion>3.1.11.1</FileVersion>
+        <ProductVersion>3.1.11.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.IncomingSubLedger.dll</FileName>
@@ -7782,8 +7782,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>3.1.259.0</FileVersion>
-        <ProductVersion>3.1.259.0</ProductVersion>
+        <FileVersion>3.1.259.2</FileVersion>
+        <ProductVersion>3.1.259.2</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
