@@ -5861,11 +5861,6 @@
         <ProductVersion>3.1.469.1</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\Agape.App.FI.pdb</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-    </Description>
-    <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
         <FileVersion>3.1.0.5</FileVersion>
         <ProductVersion>3.1.0.5</ProductVersion>
