@@ -5487,8 +5487,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.AUD.dll</FileName>
-        <FileVersion>3.1.0.1</FileVersion>
-        <ProductVersion>3.1.0.1</ProductVersion>
+        <FileVersion>3.2.0.1</FileVersion>
+        <ProductVersion>3.2.0.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
@@ -5502,8 +5502,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BK.dll</FileName>
-        <FileVersion>3.1.8.0</FileVersion>
-        <ProductVersion>3.1.8.0</ProductVersion>
+        <FileVersion>3.2.0.1</FileVersion>
+        <ProductVersion>3.2.0.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.CustomerActivity.dll</FileName>
@@ -5727,8 +5727,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.26.0</FileVersion>
-        <ProductVersion>3.2.26.0</ProductVersion>
+        <FileVersion>3.2.26.2</FileVersion>
+        <ProductVersion>3.2.26.2</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -5992,8 +5992,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP_V2.dll</FileName>
-        <FileVersion>3.1.0.1</FileVersion>
-        <ProductVersion>3.1.0.1</ProductVersion>
+        <FileVersion>3.1.0.2</FileVersion>
+        <ProductVersion>3.1.0.2</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.GLinterface.dll</FileName>
@@ -7812,8 +7812,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.UserStatus.dll</FileName>
-        <FileVersion>3.1.1.0</FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <FileVersion>3.1.1.1</FileVersion>
+        <ProductVersion>3.1.1.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.VendorAgingReport.dll</FileName>
@@ -8047,8 +8047,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SYS.dll</FileName>
-        <FileVersion>3.1.8.0</FileVersion>
-        <ProductVersion>3.1.8.0</ProductVersion>
+        <FileVersion>3.1.8.1</FileVersion>
+        <ProductVersion>3.1.8.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SotoContractReportDTC.dll</FileName>
@@ -8062,18 +8062,18 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Tools.dll</FileName>
-        <FileVersion>3.1.10.0</FileVersion>
-        <ProductVersion>3.1.10.0</ProductVersion>
+        <FileVersion>3.2.1.1</FileVersion>
+        <ProductVersion>3.2.1.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.UME.DLL</FileName>
-        <FileVersion>3.1.8.0</FileVersion>
-        <ProductVersion>3.1.8.0</ProductVersion>
+        <FileVersion>3.1.8.1</FileVersion>
+        <ProductVersion>3.1.8.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.UME.RoleDetailReport.dll</FileName>
-        <FileVersion>3.1.1.0</FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <FileVersion>3.1.1.1</FileVersion>
+        <ProductVersion>3.1.1.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.USR02.dll</FileName>
