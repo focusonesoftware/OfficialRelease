@@ -2127,8 +2127,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCPOListSummary.dll</FileName>
-        <FileVersion>3.1.1.0</FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <FileVersion>3.1.2.0</FileVersion>
+        <ProductVersion>3.1.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCPRForm.dll</FileName>
@@ -3027,8 +3027,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ListPRReport.dll</FileName>
-        <FileVersion>3.1.1.0</FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <FileVersion>3.1.2.0</FileVersion>
+        <ProductVersion>3.1.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ListPurchasingDocByMaterial.dll</FileName>
@@ -3612,8 +3612,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.POReport.dll</FileName>
-        <FileVersion>3.1.1.0</FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <FileVersion>3.1.2.0</FileVersion>
+        <ProductVersion>3.1.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.POToGoodsReceipt.dll</FileName>
@@ -6087,8 +6087,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.InterfaceBillPaymentTemp.dll</FileName>
-        <FileVersion>3.1.36.0</FileVersion>
-        <ProductVersion>3.1.36.0</ProductVersion>
+        <FileVersion>3.1.37.0</FileVersion>
+        <ProductVersion>3.1.37.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.KM.dll</FileName>
@@ -6387,8 +6387,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>3.1.340.0</FileVersion>
-        <ProductVersion>3.1.340.0</ProductVersion>
+        <FileVersion>3.1.342.0</FileVersion>
+        <ProductVersion>3.1.342.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -6727,8 +6727,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.DLL</FileName>
-        <FileVersion>3.1.13.0</FileVersion>
-        <ProductVersion>3.1.13.0</ProductVersion>
+        <FileVersion>3.1.14.0</FileVersion>
+        <ProductVersion>3.1.14.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.DTCARSubLedgerTeleSale.dll</FileName>
@@ -6792,8 +6792,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.DTCPOListSummary.dll</FileName>
-        <FileVersion>3.1.1.0</FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <FileVersion>3.1.2.0</FileVersion>
+        <ProductVersion>3.1.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.DTCPaymentVoucherV1.dll</FileName>
