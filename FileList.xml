@@ -5522,8 +5522,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.dll</FileName>
-        <FileVersion>3.1.68.0</FileVersion>
-        <ProductVersion>3.1.68.0</ProductVersion>
+        <FileVersion>3.1.68.1</FileVersion>
+        <ProductVersion>3.1.68.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Budget.Report.dll</FileName>
@@ -5707,13 +5707,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.MappingAddress.dll</FileName>
-        <FileVersion>3.1.11.0</FileVersion>
-        <ProductVersion>3.1.11.0</ProductVersion>
+        <FileVersion>3.1.11.1</FileVersion>
+        <ProductVersion>3.1.11.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.PositionMappingProjectElement.dll</FileName>
-        <FileVersion>3.1.5.0</FileVersion>
-        <ProductVersion>3.1.5.0</ProductVersion>
+        <FileVersion>3.1.5.1</FileVersion>
+        <ProductVersion>3.1.5.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.ProjectElementDocType.dll</FileName>
@@ -5727,8 +5727,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.26.2</FileVersion>
-        <ProductVersion>3.2.26.2</ProductVersion>
+        <FileVersion>3.2.26.3</FileVersion>
+        <ProductVersion>3.2.26.3</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -5967,8 +5967,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.TradingPartner.dll</FileName>
-        <FileVersion>3.1.2.0</FileVersion>
-        <ProductVersion>3.1.2.0</ProductVersion>
+        <FileVersion>3.1.2.1</FileVersion>
+        <ProductVersion>3.1.2.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.TrialBalanceReport.dll</FileName>
@@ -5982,8 +5982,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.470.0</FileVersion>
-        <ProductVersion>3.1.470.0</ProductVersion>
+        <FileVersion>3.1.471.1</FileVersion>
+        <ProductVersion>3.1.471.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -6002,8 +6002,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.HR.dll</FileName>
-        <FileVersion>3.1.19.0</FileVersion>
-        <ProductVersion>3.1.19.0</ProductVersion>
+        <FileVersion>3.2.0.1</FileVersion>
+        <ProductVersion>3.2.0.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.IAMMargin.dll</FileName>
@@ -6722,8 +6722,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.CustomerCreditLimit.dll</FileName>
-        <FileVersion>3.1.4.0</FileVersion>
-        <ProductVersion>3.1.4.0</ProductVersion>
+        <FileVersion>3.1.4.1</FileVersion>
+        <ProductVersion>3.1.4.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.DLL</FileName>
@@ -7222,8 +7222,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.NewCustomer.dll</FileName>
-        <FileVersion>3.1.9.0</FileVersion>
-        <ProductVersion>3.1.9.0</ProductVersion>
+        <FileVersion>3.1.9.1</FileVersion>
+        <ProductVersion>3.1.9.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.NewCustomerV2.dll</FileName>
@@ -8087,8 +8087,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Util.Email.dll</FileName>
-        <FileVersion>3.1.1.0</FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <FileVersion>3.1.1.1</FileVersion>
+        <ProductVersion>3.1.1.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.WF.DLL</FileName>
