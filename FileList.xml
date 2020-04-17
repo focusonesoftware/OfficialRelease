@@ -6391,11 +6391,6 @@
         <ProductVersion>3.1.342.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\Agape.App.MM.pdb</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-    </Description>
-    <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
         <FileVersion>3.2.0.1</FileVersion>
         <ProductVersion>3.2.0.1</ProductVersion>
@@ -8111,11 +8106,6 @@
         <ProductVersion>3.2.2.5</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\Agape.Base.pdb</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-    </Description>
-    <Description>
         <FileName>Startup\Main\Agape.CommandBar.dll</FileName>
         <FileVersion>1.0.3208.21888</FileVersion>
         <ProductVersion>1.0.3208.21888</ProductVersion>
@@ -9806,11 +9796,6 @@
         <ProductVersion>3.2.0.6</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\Agape.Lib.Remote.pdb</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-    </Description>
-    <Description>
         <FileName>Startup\Main\Agape.Lib.Report.AccruedRevenue.dll</FileName>
         <FileVersion>3.1.4.0</FileVersion>
         <ProductVersion>3.1.4.0</ProductVersion>
@@ -9904,11 +9889,6 @@
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
         <FileVersion>3.1.40.0</FileVersion>
         <ProductVersion>3.1.40.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Util.pdb</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.rar</FileName>
