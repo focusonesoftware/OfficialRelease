@@ -438,10 +438,10 @@
   <Resource Name="AG.IC.ADMIM_C_0022.DESC" Type="System.String" FileName="" Value="Assign Plant to Company Code" />
   <Resource Name="AG.IC.ADMIM_C_0023.DESC" Type="System.String" FileName="" Value="Assign Branch to Plant" />
   <Resource Name="AG.IC.FOLDER01_03.DESC" Type="System.String" FileName="" Value="MATERIAL PROPERTY SETUP" />
-  <Resource Name="AG.IC.LOSO_C_0023.DESC" Type="System.String" FileName="" Value="Define Material Group" />
-  <Resource Name="AG.IC.ADMIM_C_0004.DESC" Type="System.String" FileName="" Value="Define Material UOM" />
-  <Resource Name="AG.IC.ADMIM_C_0026.DESC" Type="System.String" FileName="" Value="Define Mat Classification" />
-  <Resource Name="AG.IC.ADMIM_C_0027.DESC" Type="System.String" FileName="" Value="MATERIAL COST ACCOUNTING SETUP" />
+  <Resource Name="AG.IC.LOSO_C_0023.DESC" Type="System.String" FileName="" Value="Define Material Type" />
+  <Resource Name="AG.IC.ADMIM_C_0004.DESC" Type="System.String" FileName="" Value="Define Material Group" />
+  <Resource Name="AG.IC.ADMIM_C_0026.DESC" Type="System.String" FileName="" Value="Define Material UOM" />
+  <Resource Name="AG.IC.ADMIM_C_0027.DESC" Type="System.String" FileName="" Value="Define Mat Classification" />
   <Resource Name="AG.IC.FOLDER01_04.DESC" Type="System.String" FileName="" Value="MATERIAL COST ACCOUNTING SETUP" />
   <Resource Name="AG.IC.ICFI_C_0003.DESC" Type="System.String" FileName="" Value="Define Material Standard Cost" />
   <Resource Name="AG.IC.IC_C_0007.DESC" Type="System.String" FileName="" Value="Material Expense Account Setting" />
@@ -465,7 +465,7 @@
   <Resource Name="AG.IC.EQ_M_0003.DESC" Type="System.String" FileName="" Value="Equipment Barcode Master" />
   <Resource Name="AG.IC.EQ_C_0018.DESC" Type="System.String" FileName="" Value="Define Equipment Group Document Number Range" />
   <Resource Name="AG.IC.EQ_C_0017.DESC" Type="System.String" FileName="" Value="Define Equipment Group Document Type" />
-  <Resource Name="AG.IC.MappingEquipmentNumberRange" Type="System.String" FileName="" Value="Assign Equipment Document Type to Number Range" />
+  <Resource Name="AG.IC.EQ_C_0019.DESC" Type="System.String" FileName="" Value="Assign Equipment Document Type to Number Range" />
   <Resource Name="AG.IC.FOLDER05.DESC" Type="System.String" FileName="" Value="GARMENT MASTER DATA" />
   <Resource Name="AG.IC.MATGROUPTYPEUPLOAD_M_0001.DESC" Type="System.String" FileName="" Value="Import Material Group Type" />
   <Resource Name="AG.IC.IM_M_0007.DESC" Type="System.String" FileName="" Value="Garment - Sale BOM" />

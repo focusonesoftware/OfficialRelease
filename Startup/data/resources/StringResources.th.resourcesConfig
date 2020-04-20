@@ -438,10 +438,10 @@
   <Resource Name="AG.IC.ADMIM_C_0022.DESC" Type="System.String" FileName="" Value="กำหนดโรงงานกับรหัสบริษัท" />
   <Resource Name="AG.IC.ADMIM_C_0023.DESC" Type="System.String" FileName="" Value="กำหนดสาขากับโรงงาน" />
   <Resource Name="AG.IC.FOLDER01_03.DESC" Type="System.String" FileName="" Value="การกำหนดคุณลักษณะสินค้า" />
-  <Resource Name="AG.IC.LOSO_C_0023.DESC" Type="System.String" FileName="" Value="กำหนดข้อมูลหลักกลุ่มสินค้า" />
-  <Resource Name="AG.IC.ADMIM_C_0004.DESC" Type="System.String" FileName="" Value="กำหนดหน่วยนับสินค้า" />
-  <Resource Name="AG.IC.ADMIM_C_0026.DESC" Type="System.String" FileName="" Value="กำหนดการจำแนกข้อมูลสินค้า" />
-  <Resource Name="AG.IC.ADMIM_C_0027.DESC" Type="System.String" FileName="" Value="การกำหนดบัญชีต้นทุนสินค้า" />
+  <Resource Name="AG.IC.LOSO_C_0023.DESC" Type="System.String" FileName="" Value="กำหนดข้อมูลหลักประเภทสินค้า" />
+  <Resource Name="AG.IC.ADMIM_C_0004.DESC" Type="System.String" FileName="" Value="กำหนดข้อมูลหลักกลุ่มสินค้า" />
+  <Resource Name="AG.IC.ADMIM_C_0026.DESC" Type="System.String" FileName="" Value="กำหนดหน่วยนับสินค้า" />
+  <Resource Name="AG.IC.ADMIM_C_0027.DESC" Type="System.String" FileName="" Value="กำหนดการจำแนกข้อมูลสินค้า" />
   <Resource Name="AG.IC.FOLDER01_04.DESC" Type="System.String" FileName="" Value="การกำหนดบัญชีต้นทุนสินค้า" />
   <Resource Name="AG.IC.ICFI_C_0003.DESC" Type="System.String" FileName="" Value="การตั้งค่าต้นทุนมาตรฐานสินค้าวัสดุ" />
   <Resource Name="AG.IC.IC_C_0007.DESC" Type="System.String" FileName="" Value="การตั้งค่าบัญชีค่าใช้จ่ายวัสดุ" />
@@ -465,7 +465,7 @@
   <Resource Name="AG.IC.EQ_M_0003.DESC" Type="System.String" FileName="" Value="ข้อมูลหลักบาร์โค๊ดของวัสดุอุปกรณ์" />
   <Resource Name="AG.IC.EQ_C_0018.DESC" Type="System.String" FileName="" Value="กำหนดรหัสเลขที่เอกสารกลุ่มวัสดุอุปกรณ์" />
   <Resource Name="AG.IC.EQ_C_0017.DESC" Type="System.String" FileName="" Value="กำหนดประเภทเอกสารกลุ่มวัสดุอุปกรณ์" />
-  <Resource Name="AG.IC.MappingEquipmentNumberRange" Type="System.String" FileName="" Value="กำหนดประเภทเอกสารกลุ่มวัสดุอุปกรณ์กับเลขที่เอกสาร" />
+  <Resource Name="AG.IC.EQ_C_0019.DESC" Type="System.String" FileName="" Value="กำหนดประเภทเอกสารกลุ่มวัสดุอุปกรณ์กับเลขที่เอกสาร" />
   <Resource Name="AG.IC.FOLDER05.DESC" Type="System.String" FileName="" Value="ข้อมูลหลักสินค้าประเภทเสื้อผ้า" />
   <Resource Name="AG.IC.MATGROUPTYPEUPLOAD_M_0001.DESC" Type="System.String" FileName="" Value="นำเข้าประเภทกลุ่มข้อมูลสินค้า" />
   <Resource Name="AG.IC.IM_M_0007.DESC" Type="System.String" FileName="" Value="ข้อมูลหลักสินค้าชุดการขายสินค้า" />
