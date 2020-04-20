@@ -6,4 +6,10 @@
     <Host>203.154.41.15</Host>
     <Port>9008</Port>
   </Connection>
+  <Connection>
+    <ApplicationID>9009</ApplicationID>
+    <ApplicationName>ERP DEMO</ApplicationName>
+    <Host>203.154.41.15</Host>
+    <Port>9009</Port>
+  </Connection>
 </DocumentElement>
