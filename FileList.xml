@@ -4551,6 +4551,11 @@
         <ProductVersion>3.1.1.14</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRJournalVoucheForm.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRPOForm.dll</FileName>
         <FileVersion>3.1.1.34</FileVersion>
         <ProductVersion>3.1.1.34</ProductVersion>
