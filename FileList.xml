@@ -6392,8 +6392,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>3.1.343.0</FileVersion>
-        <ProductVersion>3.1.343.0</ProductVersion>
+        <FileVersion>3.1.344.0</FileVersion>
+        <ProductVersion>3.1.344.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -8107,8 +8107,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Base.dll</FileName>
-        <FileVersion>3.2.2.5</FileVersion>
-        <ProductVersion>3.2.2.5</ProductVersion>
+        <FileVersion>3.2.2.6</FileVersion>
+        <ProductVersion>3.2.2.6</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.CommandBar.dll</FileName>
@@ -9867,8 +9867,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Search.dll</FileName>
-        <FileVersion>3.2.5.0</FileVersion>
-        <ProductVersion>3.2.5.0</ProductVersion>
+        <FileVersion>3.2.6.0</FileVersion>
+        <ProductVersion>3.2.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.SharpAssembly.dll</FileName>
@@ -9881,11 +9881,6 @@
         <ProductVersion>3.1.0.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>3.2.18.0</FileVersion>
-        <ProductVersion>3.2.18.0</ProductVersion>
-    </Description>
-    <Description>
         <FileName>Startup\Main\Agape.Util.DLL.bak</FileName>
         <FileVersion>3.1.47.0</FileVersion>
         <ProductVersion>3.1.47.0</ProductVersion>
@@ -9894,6 +9889,11 @@
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
         <FileVersion>3.1.40.0</FileVersion>
         <ProductVersion>3.1.40.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Util.dll</FileName>
+        <FileVersion>3.2.19.0</FileVersion>
+        <ProductVersion>3.2.19.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.rar</FileName>
