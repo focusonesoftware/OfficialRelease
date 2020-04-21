@@ -1,9 +1,98 @@
 <?xml version="1.0"?>
 <Resources Extension=".resources">
+  <Resource Name="XML.MainMenu.FileMenu.ClearRecentProjects.Description" Type="System.String" FileName="" Value="Clears the list of recently opened projects and combines" />
+  <Resource Name="XML.MainMenu.FileMenu.New.File" Type="System.String" FileName="" Value="&amp;File…" />
+  <Resource Name="XML.MainMenu.FileMenu.RecentFiles" Type="System.String" FileName="" Value="Recent &amp;Files" />
+  <Resource Name="XML.MainMenu.FileMenu.New.File.Description" Type="System.String" FileName="" Value="Open new buffer" />
+  <Resource Name="XML.MainMenu.FileMenu.Reload.Description" Type="System.String" FileName="" Value="Reloads the content of the actual window from disk." />
+  <Resource Name="XML.MainMenu.FileMenu.SaveAs.Description" Type="System.String" FileName="" Value="Save current buffer under different name" />
+  <Resource Name="XML.MainMenu.FileMenu.Open.File" Type="System.String" FileName="" Value="&amp;File…" />
+  <Resource Name="XML.MainMenu.FileMenu.ExportSolution" Type="System.String" FileName="" Value="Export Pro&amp;ject..." />
+  <Resource Name="XML.MainMenu.FileMenu.ClearRecentProjects" Type="System.String" FileName="" Value="Clear recent projects list" />
+  <Resource Name="XML.MainMenu.FileMenu.New.Project.Description" Type="System.String" FileName="" Value="Create and open new project" />
+  <Resource Name="XML.MainMenu.FileMenu.CloseAll.Description" Type="System.String" FileName="" Value="Closes all buffers currently open" />
+  <Resource Name="XML.MainMenu.FileMenu.New.Project" Type="System.String" FileName="" Value="&amp;Combine..." />
+  <Resource Name="XML.MainMenu.FileMenu.Open.Project" Type="System.String" FileName="" Value="&amp;Project/Combine…" />
+  <Resource Name="XML.MainMenu.FileMenu.Print" Type="System.String" FileName="" Value="P&amp;rint" />
+  <Resource Name="XML.MainMenu.FileMenu.Close" Type="System.String" FileName="" Value="&amp;Close" />
+  <Resource Name="XML.MainMenu.FileMenu.SaveAll" Type="System.String" FileName="" Value="Save A&amp;ll" />
+  <Resource Name="XML.MainMenu.FileMenu.ClearRecentFiles.Description" Type="System.String" FileName="" Value="Clears the list of recently opened files" />
+  <Resource Name="XML.MainMenu.FileMenu.Open.File.Description" Type="System.String" FileName="" Value="Open buffer from disc" />
+  <Resource Name="XML.MainMenu.FileMenu.PrintPreview" Type="System.String" FileName="" Value="Print &amp;Preview" />
+  <Resource Name="XML.MainMenu.FileMenu.SaveAs" Type="System.String" FileName="" Value="Save &amp;As…" />
+  <Resource Name="XML.MainMenu.FileMenu.RecentProjects" Type="System.String" FileName="" Value="Recent P&amp;rojects" />
+  <Resource Name="XML.MainMenu.FileMenu.ClearRecentFiles" Type="System.String" FileName="" Value="Clear recent files list" />
+  <Resource Name="XML.MainMenu.FileMenu.Save.Description" Type="System.String" FileName="" Value="Save current buffer" />
+  <Resource Name="XML.MainMenu.FileMenu.Reload" Type="System.String" FileName="" Value="R&amp;eload file" />
+  <Resource Name="XML.MainMenu.FileMenu" Type="System.String" FileName="" Value="&amp;File" />
+  <Resource Name="XML.MainMenu.FileMenu.Exit.Description" Type="System.String" FileName="" Value="Close Sharp Develop" />
+  <Resource Name="XML.MainMenu.FileMenu.ImportSolution" Type="System.String" FileName="" Value="&amp;Import Project..." />
+  <Resource Name="XML.MainMenu.FileMenu.Print.Description" Type="System.String" FileName="" Value="Print the buffer currently open" />
+  <Resource Name="XML.MainMenu.FileMenu.Open.Project.Description" Type="System.String" FileName="" Value="Open existing project or combine" />
+  <Resource Name="XML.MainMenu.FileMenu.New" Type="System.String" FileName="" Value="&amp;New" />
+  <Resource Name="XML.MainMenu.FileMenu.PrintPreview.Description" Type="System.String" FileName="" Value="Print the buffer currently open" />
+  <Resource Name="XML.MainMenu.FileMenu.Close.Project" Type="System.String" FileName="" Value="&amp;Combine" />
+  <Resource Name="XML.MainMenu.FileMenu.ExportSolution.Description" Type="System.String" FileName="" Value="Exports the Combine or an open Project to a Visual Studio Solution or Borland C# Builder Project" />
+  <Resource Name="XML.MainMenu.FileMenu.ImportSolution.Description" Type="System.String" FileName="" Value="Imports Visual Studio solution and C# Builder project files into #Develop" />
+  <Resource Name="XML.MainMenu.FileMenu.Close.File" Type="System.String" FileName="" Value="&amp;File" />
+  <Resource Name="XML.MainMenu.FileMenu.Save" Type="System.String" FileName="" Value="&amp;Save" />
+  <Resource Name="XML.MainMenu.FileMenu.Open" Type="System.String" FileName="" Value="&amp;Open" />
+  <Resource Name="XML.MainMenu.FileMenu.Exit" Type="System.String" FileName="" Value="E&amp;xit" />
+  <Resource Name="XML.MainMenu.FileMenu.SaveAll.Description" Type="System.String" FileName="" Value="Save all buffers currently open" />
+  <Resource Name="XML.MainMenu.FileMenu.Close.Project.Desription" Type="System.String" FileName="" Value="Close active combine" />
+  <Resource Name="XML.MainMenu.FileMenu.Close.File.Desription" Type="System.String" FileName="" Value="Close active buffer" />
+  <Resource Name="XML.MainMenu.FileMenu.CloseAll" Type="System.String" FileName="" Value="C&amp;lose All Documents" />
+  <Resource Name="XML.MainMenu.ViewMenu.ClassScout" Type="System.String" FileName="" Value="Class Scout" />
+  <Resource Name="XML.MainMenu.ViewMenu.TextLib" Type="System.String" FileName="" Value="&amp;Text Lib" />
+  <Resource Name="XML.MainMenu.ViewMenu.AssemblyAnalyser" Type="System.String" FileName="" Value="Assembly Anal&amp;yser" />
+  <Resource Name="XML.MainMenu.ViewMenu.ToolBar" Type="System.String" FileName="" Value="&amp;Tool Scout" />
+  <Resource Name="XML.MainMenu.ViewMenu.ClassScout.Description" Type="System.String" FileName="" Value="Toggle visibility of the Class Scout" />
+  <Resource Name="XML.MainMenu.ViewMenu.ErrorWindow" Type="System.String" FileName="" Value="&amp;Error Window" />
+  <Resource Name="XML.MainMenu.ViewMenu.FullScreen.Description" Type="System.String" FileName="" Value="Toggle fullscreen modus" />
+  <Resource Name="XML.MainMenu.ViewMenu" Type="System.String" FileName="" Value="&amp;View" />
+  <Resource Name="XML.MainMenu.ViewMenu.FileStrip.Description" Type="System.String" FileName="" Value="Toggle visibility of the open file tab control" />
+  <Resource Name="XML.MainMenu.ViewMenu.FileScout" Type="System.String" FileName="" Value="&amp;File Scout" />
+  <Resource Name="XML.MainMenu.ViewMenu.FileStrip" Type="System.String" FileName="" Value="&amp;Open File Strip" />
+  <Resource Name="XML.MainMenu.ViewMenu.FileScout.Description" Type="System.String" FileName="" Value="Toggle visibility of the file scout" />
+  <Resource Name="XML.MainMenu.ViewMenu.ProjectScout.Description" Type="System.String" FileName="" Value="Toggle visibility of the project scout" />
+  <Resource Name="XML.MainMenu.ViewMenu.DebugMenu" Type="System.String" FileName="" Value="&amp;Debug" />
+  <Resource Name="XML.MainMenu.ViewMenu.ProjectScout" Type="System.String" FileName="" Value="&amp;Project Scout" />
+  <Resource Name="XML.MainMenu.ViewMenu.ShowStartPage" Type="System.String" FileName="" Value="&amp;Show start page" />
+  <Resource Name="XML.MainMenu.ViewMenu.ToolsMenu" Type="System.String" FileName="" Value="&amp;Tools" />
+  <Resource Name="XML.MainMenu.ViewMenu.VisibilityMenu" Type="System.String" FileName="" Value="&amp;Visibility" />
+  <Resource Name="XML.MainMenu.ViewMenu.ToolBar.Description" Type="System.String" FileName="" Value="Toggle tool scout visibility" />
+  <Resource Name="XML.MainMenu.ViewMenu.FullScreen" Type="System.String" FileName="" Value="&amp;Fullscreen" />
+  <Resource Name="XML.MainMenu.ViewMenu.ErrorWindow.Description" Type="System.String" FileName="" Value="Toggle visibility of the output window" />
+  <Resource Name="XML.MainMenu.OptionsMenu" Type="System.String" FileName="" Value="&amp;Options" />
+  <Resource Name="XML.MainMenu.OptionsMenu.GLMasterChart" Type="System.String" FileName="" Value="รหัสผังบัญชี (ระดับบริษัท)" />
+  <Resource Name="XML.MainMenu.OptionsMenu.ChartCodeMaster" Type="System.String" FileName="" Value="รหัสผังบัญชี" />
+  <Resource Name="XML.MainMenu.OptionsMenu.CompanyMaster" Type="System.String" FileName="" Value="รหัสบริษัท" />
+  <Resource Name="XML.MainMenu.OptionsMenu.BankAccountMaster.Description" Type="System.String" FileName="" Value="เลขที่บัญชีธนาคาร" />
+  <Resource Name="XML.MainMenu.OptionsMenu.GLAccount.Description" Type="System.String" FileName="" Value="รหัสบัญชี" />
+  <Resource Name="XML.MainMenu.OptionsMenu.BankAccountMaster" Type="System.String" FileName="" Value="บัญชีธนาคาร" />
+  <Resource Name="XML.MainMenu.OptionsMenu.GLAccount" Type="System.String" FileName="" Value="รหัสบัญชี" />
+  <Resource Name="XML.MainMenu.OptionsMenu.CompanyMaster.Description" Type="System.String" FileName="" Value="รหัสบริษัท" />
+  <Resource Name="XML.MainMenu.HelpMenu.About.Description" Type="System.String" FileName="" Value="About Sharp Develop" />
+  <Resource Name="XML.MainMenu.HelpMenu.DynamicHelp" Type="System.String" FileName="" Value="&amp;Dynamic Help" />
+  <Resource Name="XML.MainMenu.HelpMenu.Topics.Description" Type="System.String" FileName="" Value="Open helpfile" />
+  <Resource Name="XML.MainMenu.HelpMenu.DynamicHelp.Description" Type="System.String" FileName="" Value="Shows dynamic help." />
+  <Resource Name="XML.MainMenu.HelpMenu.Tips.Description" Type="System.String" FileName="" Value="View tip of the day" />
+  <Resource Name="XML.MainMenu.HelpMenu.About" Type="System.String" FileName="" Value="&amp;About…" />
+  <Resource Name="XML.MainMenu.HelpMenu.StyleGuide" Type="System.String" FileName="" Value="Coding Style Guide" />
+  <Resource Name="XML.MainMenu.HelpMenu.ReadMe.Description" Type="System.String" FileName="" Value="Read the Sharp Develop readme" />
+  <Resource Name="XML.MainMenu.HelpMenu.GPL" Type="System.String" FileName="" Value="&amp;GPL..." />
+  <Resource Name="XML.MainMenu.HelpMenu.Tips" Type="System.String" FileName="" Value="&amp;Tip of the Day…" />
+  <Resource Name="XML.MainMenu.HelpMenu" Type="System.String" FileName="" Value="&amp;Help" />
+  <Resource Name="XML.MainMenu.HelpMenu.WebMenu" Type="System.String" FileName="" Value="Web" />
+  <Resource Name="XML.MainMenu.HelpMenu.StyleGuide.Description" Type="System.String" FileName="" Value="The style guide for SharpDevelop contributors. (Can be applied to other projects as well)" />
+  <Resource Name="XML.MainMenu.HelpMenu.ReadMe" Type="System.String" FileName="" Value="&amp;ReadMe…" />
+  <Resource Name="XML.MainMenu.HelpMenu.Topics" Type="System.String" FileName="" Value="&amp;Help Topics" />
+  <Resource Name="XML.MainMenu.HelpMenu.GPL.Description" Type="System.String" FileName="" Value="View GPL" />
+  <Resource Name="DEFAULT.DESC" Type="System.String" FileName="" Value="ยินดีต้อนรับเข้าสู่การใช้งานระบบโฟกัสวัน" />
   <Resource Name="F1 ERP COMMUNITY EDITION PACKAGE.DESC" Type="System.String" FileName="" Value="ระบบโฟกัสวันอีอาร์พี คอมมูนิตี้ อิดิชั่น แพคเกจ" />
   <Resource Name="AG.BPMASTER.FOLDER.DESC" Type="System.String" FileName="" Value="ระบบข้อมูลหลักพันธมิตรองค์กร" />
   <Resource Name="AG.BPMASTER.FOLDER01.DESC" Type="System.String" FileName="" Value="ระบบข้อมูลหลักลูกค้า" />
-  <Resource Name="AG.BPMASTER.2012_CUSTOMER_LITE.DESC" Type="System.String" FileName="" Value="หน้าง่ายข้อมูลหลักลูกค้า" />
+  <Resource Name="AG.BPMASTER.2012_CUSTOMER_LITE.DESC" Type="System.String" FileName="" Value="ข้อมูลหลักลูกค้าแบบสมาร์ท" />
   <Resource Name="AG.BPMASTER.EP_M_0001.DESC" Type="System.String" FileName="" Value="ข้อมูลหลักลูกค้า" />
   <Resource Name="AG.BPMASTER.FOLDER01_1.DESC" Type="System.String" FileName="" Value="การกำหนดช่วงหมายเลขลูกค้า" />
   <Resource Name="AG.BPMASTER.COMP_C_0010.DESC" Type="System.String" FileName="" Value="การกำหนดกลุ่มลูกค้า" />
@@ -16,8 +105,8 @@
   <Resource Name="AG.BPMASTER.FICUST_R_0011.DESC" Type="System.String" FileName="" Value="FICUST-R0010 - รายงานข้อมูลว่าที่ลูกค้า" />
   <Resource Name="AG.BPMASTER.FICUST_R_0001.DESC" Type="System.String" FileName="" Value="FICUST-R0011 - รายงานข้อมูลหลักลูกค้า" />
   <Resource Name="AG.BPMASTER.FOLDER02.DESC" Type="System.String" FileName="" Value="ระบบข้อมูลหลักผู้จำหน่าย" />
-  <Resource Name="AG.BPMASTER.2012_VENDOR_LITE.DESC" Type="System.String" FileName="" Value="หน้าง่ายข้อมูลหลักข้อมูลหลักผู้จำหน่าย" />
-  <Resource Name="AG.BPMASTER.EP_M_0002.DESC" Type="System.String" FileName="" Value="ข้อมูลหลักข้อมูลหลักผู้จำหน่าย" />
+  <Resource Name="AG.BPMASTER.2012_VENDOR_LITE.DESC" Type="System.String" FileName="" Value="ข้อมูลหลักผู้จำหน่ายแบบสมาร์ท" />
+  <Resource Name="AG.BPMASTER.EP_M_0002.DESC" Type="System.String" FileName="" Value="ข้อมูลหลักผู้จำหน่าย" />
   <Resource Name="AG.BPMASTER.FOLDER02_1.DESC" Type="System.String" FileName="" Value="การกำหนดช่วงหมายเลขผู้จำหน่าย" />
   <Resource Name="AG.BPMASTER.COMP_C_0013.DESC" Type="System.String" FileName="" Value="การกำหนดกลุ่มผู้จำหน่าย" />
   <Resource Name="AG.BPMASTER.COMP_C_0014.DESC" Type="System.String" FileName="" Value="การกำหนดช่วงหมายเลขกลุ่มผู้จำหน่าย" />
