@@ -9881,24 +9881,14 @@
         <ProductVersion>3.1.0.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\Agape.Util.DLL.bak</FileName>
-        <FileVersion>3.1.47.0</FileVersion>
-        <ProductVersion>3.1.47.0</ProductVersion>
+        <FileName>Startup\Main\Agape.Util.DLL</FileName>
+        <FileVersion>3.2.19.0</FileVersion>
+        <ProductVersion>3.2.19.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
         <FileVersion>3.1.40.0</FileVersion>
         <ProductVersion>3.1.40.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Util.dll</FileName>
-        <FileVersion>3.2.19.0</FileVersion>
-        <ProductVersion>3.2.19.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Util.rar</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.WinFormsUI.DLL</FileName>
