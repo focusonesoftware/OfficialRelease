@@ -676,6 +676,11 @@
         <ProductVersion>3.1.8.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.TPRPettyCashReport.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.TTIReportWHT.dll</FileName>
         <FileVersion>3.1.1.0</FileVersion>
         <ProductVersion>3.1.1.0</ProductVersion>
@@ -4507,8 +4512,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRGRForm.dll</FileName>
-        <FileVersion>3.1.1.11</FileVersion>
-        <ProductVersion>3.1.1.11</ProductVersion>
+        <FileVersion>3.1.1.12</FileVersion>
+        <ProductVersion>3.1.1.12</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRINCOMMINGFORM.dll</FileName>
@@ -4527,8 +4532,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRJournalVoucheForm.dll</FileName>
-        <FileVersion>3.1.1.0</FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <FileVersion>3.1.1.4</FileVersion>
+        <ProductVersion>3.1.1.4</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRPAYForm.dll</FileName>
+        <FileVersion>3.1.1.5</FileVersion>
+        <ProductVersion>3.1.1.5</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRPOForm.dll</FileName>
