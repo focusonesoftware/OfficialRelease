@@ -2888,24 +2888,24 @@
   <Resource Name="AG.CS.CS_M_0002.DESC" Type="System.String" FileName="" Value="การตั้งค่ารอบการเรียกเก็บเงินบริการ" />
   <Resource Name="AG.CS.CS_M_0001.DESC" Type="System.String" FileName="" Value="การเรียกเก็บเงินบริการ - การตั้งค่าวันเพิ่มเติม" />
   <Resource Name="AG.CS.FOLDER02.DESC" Type="System.String" FileName="" Value="เอกสารงานบริการลูกค้า" />
-  <Resource Name="AG.CS.ImportNewSim_M_0001.DESC" Type="System.String" FileName="" Value="นำเข้าข้อมูลไฟล์ CSV ของ SIM" />
-  <Resource Name="AG.CS.DTC_ATB009.DESC" Type="System.String" FileName="" Value="ข้อมูลหลักซิม" />
-  <Resource Name="AG.CS.2013_DTC_EDITSIM.DESC" Type="System.String" FileName="" Value="การจัดการข้อมูลซิมจำนวนมาก" />
+  <Resource Name="AG.CS.ImportNewSim_M_0001.DESC" Type="System.String" FileName="" Value="การนำเข้าข้อมูลซิมผ่านไฟล์ CSV" />
+  <Resource Name="AG.CS.DTC_ATB009.DESC" Type="System.String" FileName="" Value="การจัดการข้อมูลซิมสำหรับระบบ DMS" />
+  <Resource Name="AG.CS.2013_DTC_EDITSIM.DESC" Type="System.String" FileName="" Value="การจัดการข้อมูลรายละเอียดซิม" />
   <Resource Name="AG.CS.SV_T_0001.DESC" Type="System.String" FileName="" Value="ใบสัญญาบริการ" />
   <Resource Name="AG.CS.2014_UpdateServiceContract.DESC" Type="System.String" FileName="" Value="ปรับปรุงข้อมูลสัญญาบริการโดยไฟล์ CSV" />
   <Resource Name="AG.CS.CSITF_T_0001.DESC" Type="System.String" FileName="" Value="การแปลงข้อมูลสัญญาบริการโดยไฟล์ CSV" />
-  <Resource Name="AG.CS.2013_MASS_SV_CONTRACT.DESC" Type="System.String" FileName="" Value="ใบสัญญาบริการหลายใบอ้างอิงใบสั่งขาย เวอร์ชั่น1" />
-  <Resource Name="AG.CS.2018_MASS_SV_CONTRACT.DESC" Type="System.String" FileName="" Value="ใบสัญญาบริการหลายใบอ้างอิงใบสั่งขาย เวอร์ชั่น2" />
-  <Resource Name="AG.CS.2018_MASS_SV_CONTRACT_V3.DESC" Type="System.String" FileName="" Value="ใบสัญญาบริการทั่วไปหลายใบอ้างอิงใบสั่งขาย เวอร์ชั่น3" />
+  <Resource Name="AG.CS.2013_MASS_SV_CONTRACT.DESC" Type="System.String" FileName="" Value="การสร้างเอกสารใบสัญญาบริการอ้างอิงใบสั่งขาย เวอร์ชั่น 1" />
+  <Resource Name="AG.CS.2018_MASS_SV_CONTRACT.DESC" Type="System.String" FileName="" Value="การสร้างเอกสารใบสัญญาบริการอ้างอิงใบสั่งขาย เวอร์ชั่น 2" />
+  <Resource Name="AG.CS.2018_MASS_SV_CONTRACT_V3.DESC" Type="System.String" FileName="" Value="การสร้างเอกสารใบสัญญาบริการอ้างอิงใบสั่งขาย เวอร์ชั่น 3" />
   <Resource Name="AG.CS.2013_CANCEL_LIST_CONTRACT.DESC" Type="System.String" FileName="" Value="ยกเลิกใบสัญญาบริการหลายใบ" />
   <Resource Name="AG.CS.WAS_T_0007.DESC" Type="System.String" FileName="" Value="ใบสั่งงานบริการ (แบบไม่อ้างอิงเอกสาร)" />
   <Resource Name="AG.CS.WAS_T_0009.DESC" Type="System.String" FileName="" Value="ใบสั่งงานบริการ (อ้างอิงเอกสารใบสั่งขาย)" />
   <Resource Name="AG.CS.WAS_T_0010.DESC" Type="System.String" FileName="" Value="ใบสั่งงานบริการ (อ้างอิงเอกสารรับบริการลูกค้า)" />
-  <Resource Name="AG.CS.WAS_T_0011.DESC" Type="System.String" FileName="" Value="ใบของานสำหรับแผนบริการ (ควบคุมการเบิกจ่ายสินค้า)" />
-  <Resource Name="AG.CS.WAS_T_0008.DESC" Type="System.String" FileName="" Value="ใบเคลมสำหรับการรับประกันปกติ(อ้างอิงใบงาน)" />
+  <Resource Name="AG.CS.WAS_T_0011.DESC" Type="System.String" FileName="" Value="ใบสั่งงานสำหรับแผนบริการ (ควบคุมการเบิกจ่ายสินค้า)" />
+  <Resource Name="AG.CS.WAS_T_0008.DESC" Type="System.String" FileName="" Value="ใบสั่งเคลมบริการสำหรับการรับประกัน(อ้างอิงใบงาน)" />
   <Resource Name="AG.CS.DTC_AT_B010.DESC" Type="System.String" FileName="" Value="สร้างกล่องดำ" />
   <Resource Name="AG.CS.DTC_SUBAT_B010.DESC" Type="System.String" FileName="" Value="แก้ไขและจัดการกล่องดำ" />
-  <Resource Name="AG.CS.WAS_T_0012.DESC" Type="System.String" FileName="" Value="รายการกิจกรรมใบสั่งงานบริการ" />
+  <Resource Name="AG.CS.WAS_T_0012.DESC" Type="System.String" FileName="" Value="ใบงานกิจกรรม" />
   <Resource Name="AG.CS.SV_T_0002.DESC" Type="System.String" FileName="" Value="แม่แบบสัญญาบริการ" />
   <Resource Name="AG.CS.FOLDER_R01.DESC" Type="System.String" FileName="" Value="รายงานระบบงานบริการลูกค้า" />
   <Resource Name="AG.CS.SV_R_0001.DESC" Type="System.String" FileName="" Value="SV-R0001 รายงานแสดงข้อมูลเอกสารใบรับบริการลูกค้า" />
@@ -2934,6 +2934,34 @@
   <Resource Name="AG.SOLO.CONSIGN_T_0005.DESC" Type="System.String" FileName="" Value="ใบลดหนี้ของสินค้าฝากขาย" />
   <Resource Name="AG.SOLO.2013_AUTOTRANSFERCONSIGNMENT.DESC" Type="System.String" FileName="" Value="การจัดการเอกสารฝากขายโดยอัตโนมัติ" />
   <Resource Name="AG.SOLO.2013_RECONCILE_CONSIGNMENT.DESC" Type="System.String" FileName="" Value="การกระทบยอดสินค้าฝากขาย" />
+  <Resource Name="AG.SOLO.FOLDER03.DESC" Type="System.String" FileName="" Value="เอกสารระบบโลจิสติกส์" />
+  <Resource Name="AG.SOLO.LODO_T_0001.DESC" Type="System.String" FileName="" Value="ใบส่งสินค้า" />
+  <Resource Name="AG.SOLO.LODO_T_0005.DESC" Type="System.String" FileName="" Value="ข้อมูลการส่งพัสดุภัณฑ์" />
+  <Resource Name="AG.SOLO.FOLDER04.DESC" Type="System.String" FileName="" Value="เอกสารระบบวางบิลลูกหนี้" />
+  <Resource Name="AG.SOLO.2012_BILLING_LITE.DESC" Type="System.String" FileName="" Value="ใบวางบิลแบบง่าย เวอร์ชั่น 2" />
+  <Resource Name="AG.SOLO.2012_BILL_T_0003.DESC" Type="System.String" FileName="" Value="ใบวางบิลอ้างอิงใบส่งของ" />
+  <Resource Name="AG.SOLO.2012_BILL_T_0002.DESC" Type="System.String" FileName="" Value="ใบวางบิลแบบมีค่ามัดจำ" />
+  <Resource Name="AG.SOLO.LOBILL_T_1000.DESC" Type="System.String" FileName="" Value="ใบวางบิลอ้างอิงใบสั่งขาย" />
+  <Resource Name="AG.SOLO.LOBILL_T_0004.DESC" Type="System.String" FileName="" Value="ใบลดหนี้สำหรับใบวางบิล" />
+  <Resource Name="AG.SOLO.PRINTBILLINGMASS" Type="System.String" FileName="" Value="พิมพ์ใบวางบิลจำนวนมาก เวอร์ชั่น 1" />
+  <Resource Name="AG.SOLO.PRINTBILLINGMASSV2" Type="System.String" FileName="" Value="พิมพ์ใบวางบิลจำนวนมาก เวอร์ชั่น 2" />
+  <Resource Name="AG.SOLO.BL_CREDITBLOCK_0001.DESC" Type="System.String" FileName="" Value="การปล่อยสถานะบล็อกการวางบิล" />
+  <Resource Name="AG.SOLO.SDBL_T_0001.DESC" Type="System.String" FileName="" Value="อินเตอร์เฟซใบวางบิล" />
+  <Resource Name="AG.SOLO.FOLDER04_01.DESC" Type="System.String" FileName="" Value="เอกสารระบบวางบิลลูกหนี้แบบรายการที่เกิดประจำ" />
+  <Resource Name="AG.SOLO.2013_MASTER_CONFIG_MASS_SV.DESC" Type="System.String" FileName="" Value="กำหนดประเภทเอกสารใบสัญญาบริการกับประเภทการขาย" />
+  <Resource Name="AG.SOLO.2018_M_HOLD_SC_PERIOD.DESC" Type="System.String" FileName="" Value="การระงับสัญญาบริการ" />
+  <Resource Name="AG.SOLO.2018_M_SUSPENDDATE_AMOR.DESC" Type="System.String" FileName="" Value="การกำหนดการวันที่ไม่ได้รับบริการเพื่อหัก คชจ รายเดือน" />
+  <Resource Name="AG.SOLO.2013_MASS_BL_DISCOUNT.DESC" Type="System.String" FileName="" Value="การกำหนดส่วนลดสำหรับใบวางบิลจำนวนมาก" />
+  <Resource Name="AG.SOLO.2013_CONF_ADJ_BILLINGRECURRING.DESC" Type="System.String" FileName="" Value="การคำนวณค่าใช้จ่ายใบวางบิลใหม่" />
+  <Resource Name="AG.SOLO.2018_SVCT_AMOR_BILL_V2.DESC" Type="System.String" FileName="" Value="สร้างใบวางบิลตามงวดการเก็บเงิน(เป็นงวดตัดจ่าย) เวอร์ชั่น 2" />
+  <Resource Name="AG.SOLO.2013_SVCT_AMOR_BILL.DESC" Type="System.String" FileName="" Value="สร้างใบวางบิลตามงวดการเก็บเงิน(เป็นงวดตัดจ่าย)ตามสัญญา" />
+  <Resource Name="AG.SOLO.LOBILL_T_1001.DESC" Type="System.String" FileName="" Value="การจัดการเอกสารใบวางบิลแบบเป็นงวดประจำ เวอร์ชั่น 1" />
+  <Resource Name="AG.SOLO.2014_BILLING_SALECONTRACT_V2.DESC" Type="System.String" FileName="" Value="การจัดการเอกสารใบวางบิลแบบเป็นงวดประจำ เวอร์ชั่น 2" />
+  <Resource Name="AG.SOLO.RPTDTCATB05" Type="System.String" FileName="" Value="พิมพ์ใบวางบิลจำนวนมาก (เป็นงวดตัดจ่าย) เวอร์ชั่น 1" />
+  <Resource Name="AG.SOLO.RPTDTCATB05V2" Type="System.String" FileName="" Value="พิมพ์ใบวางบิลจำนวนมาก (เป็นงวดตัดจ่าย) เวอร์ชั่น 2" />
+  <Resource Name="AG.SOLO.FOLDER_R01.DESC" Type="System.String" FileName="" Value="รายงานระบบขาย" />
+  <Resource Name="AG.SOLO.FOLDER_R02.DESC" Type="System.String" FileName="" Value="รายงานระบบโลจิสติกส์" />
+  <Resource Name="AG.SOLO.FOLDER_R03.DESC" Type="System.String" FileName="" Value="รายงานการวางบิลแบบอื่นๆ" />
   <Resource Name="AG.PROCURE.FOLDER.DESC" Type="System.String" FileName="" Value="ระบบการจัดซื้อจัดจ้าง" />
   <Resource Name="AG.PROCURE.FOLDER01.DESC" Type="System.String" FileName="" Value="ข้อมูลหลักประวัติการซื้อ" />
   <Resource Name="AG.PROCURE.PO_M_0001.DESC" Type="System.String" FileName="" Value="ข้อมูลหลักประวัติการซื้อ" />
@@ -3044,10 +3072,10 @@
   <Resource Name="AG.IC.IC_C_0007.DESC" Type="System.String" FileName="" Value="การตั้งค่าบัญชีค่าใช้จ่ายวัสดุ" />
   <Resource Name="AG.IC.IC_C_SYSMATERIALCODE.DESC" Type="System.String" FileName="" Value="กำหนดเลขที่บัญชีกับรหัสสินค้าวัสดุ" />
   <Resource Name="AG.IC.FOLDER02.DESC" Type="System.String" FileName="" Value="การกำหนด BATCH" />
-  <Resource Name="AG.IC.2013_BATCHGROUP_MAPP_DOCTYPE.DESC" Type="System.String" FileName="" Value="กำหนดประเภทเอกสารกลุ่ม Batch" />
-  <Resource Name="AG.IC.IM_M_0001.DESC" Type="System.String" FileName="" Value="กำหนดกลุ่ม Batch" />
-  <Resource Name="AG.IC.IM_M_0002.DESC" Type="System.String" FileName="" Value="กำหนดชุด Batch กับวันที่ใช้งาน" />
-  <Resource Name="AG.IC.2013_GEN_BG_FROM_LOTNUMBER.DESC" Type="System.String" FileName="" Value="ตั้งค่ากลุ่ม Batch กับเลขที่ Lot(ฉลาก)" />
+  <Resource Name="AG.IC.2013_BATCHGROUP_MAPP_DOCTYPE.DESC" Type="System.String" FileName="" Value="กำหนดประเภทเอกสารกลุ่มแบทช์" />
+  <Resource Name="AG.IC.IM_M_0001.DESC" Type="System.String" FileName="" Value="กำหนดกลุ่มแบทช์" />
+  <Resource Name="AG.IC.IM_M_0002.DESC" Type="System.String" FileName="" Value="กำหนดชุดแบทช์กับวันที่ใช้งาน" />
+  <Resource Name="AG.IC.2013_GEN_BG_FROM_LOTNUMBER.DESC" Type="System.String" FileName="" Value="ตั้งค่ากลุ่มแบทช์กับเลขที่ลอท(ฉลาก)" />
   <Resource Name="AG.IC.FOLDER03.DESC" Type="System.String" FileName="" Value="การกำหนดเลขหมายประจำเครื่อง (SERIAL)" />
   <Resource Name="AG.IC.IC_C_0003.DESC" Type="System.String" FileName="" Value="กำหนดเลขเดี่ยวประจำเครื่อง" />
   <Resource Name="AG.IC.IC_C_0004.DESC" Type="System.String" FileName="" Value="กำหนดเลขกลุ่มประจำเครื่อง" />

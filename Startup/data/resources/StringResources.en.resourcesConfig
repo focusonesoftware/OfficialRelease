@@ -2953,24 +2953,24 @@
   <Resource Name="AG.CS.CS_M_0002.DESC" Type="System.String" FileName="" Value="Service Billing Cycle Setup" />
   <Resource Name="AG.CS.CS_M_0001.DESC" Type="System.String" FileName="" Value="Service Billing - Additional Days Setup" />
   <Resource Name="AG.CS.FOLDER02.DESC" Type="System.String" FileName="" Value="CUSTOMER SERVICE PROCESS DOCUMENTS" />
-  <Resource Name="AG.CS.ImportNewSim_M_0001.DESC" Type="System.String" FileName="" Value="Import SIM CSV File Data" />
-  <Resource Name="AG.CS.DTC_ATB009.DESC" Type="System.String" FileName="" Value="SIM Master Data" />
-  <Resource Name="AG.CS.2013_DTC_EDITSIM.DESC" Type="System.String" FileName="" Value="Bulk SIM Data Management" />
+  <Resource Name="AG.CS.ImportNewSim_M_0001.DESC" Type="System.String" FileName="" Value="Import SIM Data Via CSV File" />
+  <Resource Name="AG.CS.DTC_ATB009.DESC" Type="System.String" FileName="" Value="SIM Details Management For DMS" />
+  <Resource Name="AG.CS.2013_DTC_EDITSIM.DESC" Type="System.String" FileName="" Value="SIM Information Management" />
   <Resource Name="AG.CS.SV_T_0001.DESC" Type="System.String" FileName="" Value="Service Contract" />
   <Resource Name="AG.CS.2014_UpdateServiceContract.DESC" Type="System.String" FileName="" Value="Update Service Contract By CSV File" />
   <Resource Name="AG.CS.CSITF_T_0001.DESC" Type="System.String" FileName="" Value="Services Contract Conversion By CSV File" />
-  <Resource Name="AG.CS.2013_MASS_SV_CONTRACT.DESC" Type="System.String" FileName="" Value="Multiple Service Contracts Ref SO V1" />
-  <Resource Name="AG.CS.2018_MASS_SV_CONTRACT.DESC" Type="System.String" FileName="" Value="Multiple Service Contracts Ref SO V2" />
-  <Resource Name="AG.CS.2018_MASS_SV_CONTRACT_V3.DESC" Type="System.String" FileName="" Value="General Multiple Service Contracts Ref SO V3" />
+  <Resource Name="AG.CS.2013_MASS_SV_CONTRACT.DESC" Type="System.String" FileName="" Value="Create Multiple Service Contract Ref SO V1" />
+  <Resource Name="AG.CS.2018_MASS_SV_CONTRACT.DESC" Type="System.String" FileName="" Value="Create Multiple Service Contract Ref SO V2" />
+  <Resource Name="AG.CS.2018_MASS_SV_CONTRACT_V3.DESC" Type="System.String" FileName="" Value="Create Multiple Service Contract Ref SO V3" />
   <Resource Name="AG.CS.2013_CANCEL_LIST_CONTRACT.DESC" Type="System.String" FileName="" Value="Cancel multiple Service Contracts" />
-  <Resource Name="AG.CS.WAS_T_0007.DESC" Type="System.String" FileName="" Value="Service Order Ref No Document" />
+  <Resource Name="AG.CS.WAS_T_0007.DESC" Type="System.String" FileName="" Value="Service Order No Ref Document" />
   <Resource Name="AG.CS.WAS_T_0009.DESC" Type="System.String" FileName="" Value="Service Order Ref SO Document" />
   <Resource Name="AG.CS.WAS_T_0010.DESC" Type="System.String" FileName="" Value="Service Order Ref Service Call Document" />
-  <Resource Name="AG.CS.WAS_T_0011.DESC" Type="System.String" FileName="" Value="Work Request Ref Service Plan for IC Movement" />
+  <Resource Name="AG.CS.WAS_T_0011.DESC" Type="System.String" FileName="" Value="Work Order Ref Service Plan for IC Movement" />
   <Resource Name="AG.CS.WAS_T_0008.DESC" Type="System.String" FileName="" Value="Claims Order for Service Warranty" />
   <Resource Name="AG.CS.DTC_AT_B010.DESC" Type="System.String" FileName="" Value="Generate Black Boxes" />
   <Resource Name="AG.CS.DTC_SUBAT_B010.DESC" Type="System.String" FileName="" Value="Manage Black Boxes" />
-  <Resource Name="AG.CS.WAS_T_0012.DESC" Type="System.String" FileName="" Value="Service Activity List Order" />
+  <Resource Name="AG.CS.WAS_T_0012.DESC" Type="System.String" FileName="" Value="Service Activity Document" />
   <Resource Name="AG.CS.SV_T_0002.DESC" Type="System.String" FileName="" Value="Service Contract Templates Configuration" />
   <Resource Name="AG.CS.FOLDER_R01.DESC" Type="System.String" FileName="" Value="CUSTOMER SERVICE REPORTS" />
   <Resource Name="AG.CS.SV_R_0001.DESC" Type="System.String" FileName="" Value="SV-R0001 Service Call List Report" />
@@ -2999,6 +2999,34 @@
   <Resource Name="AG.SOLO.CONSIGN_T_0005.DESC" Type="System.String" FileName="" Value="Billing Consignment Return" />
   <Resource Name="AG.SOLO.2013_AUTOTRANSFERCONSIGNMENT.DESC" Type="System.String" FileName="" Value="Automatic Managing Consignment Documents" />
   <Resource Name="AG.SOLO.2013_RECONCILE_CONSIGNMENT.DESC" Type="System.String" FileName="" Value="Goods Consignment Reconciliation" />
+  <Resource Name="AG.SOLO.FOLDER03.DESC" Type="System.String" FileName="" Value="LOGISTICS PROCESS DOCUMENTS" />
+  <Resource Name="AG.SOLO.LODO_T_0001.DESC" Type="System.String" FileName="" Value="Delivery Order" />
+  <Resource Name="AG.SOLO.LODO_T_0005.DESC" Type="System.String" FileName="" Value="Products Package Delivery Data" />
+  <Resource Name="AG.SOLO.FOLDER04.DESC" Type="System.String" FileName="" Value="BILLING PROCESS DOCUMENTS" />
+  <Resource Name="AG.SOLO.2012_BILLING_LITE.DESC" Type="System.String" FileName="" Value="Easy Billing V2" />
+  <Resource Name="AG.SOLO.2012_BILL_T_0003.DESC" Type="System.String" FileName="" Value="Billing Ref Delivery Order" />
+  <Resource Name="AG.SOLO.2012_BILL_T_0002.DESC" Type="System.String" FileName="" Value="Billing Deposit" />
+  <Resource Name="AG.SOLO.LOBILL_T_1000.DESC" Type="System.String" FileName="" Value="Billing Ref Sales Order" />
+  <Resource Name="AG.SOLO.LOBILL_T_0004.DESC" Type="System.String" FileName="" Value="Billing - Credit Note" />
+  <Resource Name="AG.SOLO.PRINTBILLINGMASS" Type="System.String" FileName="" Value="Print Mass Billing V1" />
+  <Resource Name="AG.SOLO.PRINTBILLINGMASSV2" Type="System.String" FileName="" Value="Print Mass Billing V2" />
+  <Resource Name="AG.SOLO.BL_CREDITBLOCK_0001.DESC" Type="System.String" FileName="" Value="Release Billing Block Status" />
+  <Resource Name="AG.SOLO.SDBL_T_0001.DESC" Type="System.String" FileName="" Value="Billing Interface" />
+  <Resource Name="AG.SOLO.FOLDER04_01.DESC" Type="System.String" FileName="" Value="AR BILLING RECURRING PROCESS DOCUMENTS" />
+  <Resource Name="AG.SOLO.2013_MASTER_CONFIG_MASS_SV.DESC" Type="System.String" FileName="" Value="Define Service Contract Doc Type To Sales Doc" />
+  <Resource Name="AG.SOLO.2018_M_HOLD_SC_PERIOD.DESC" Type="System.String" FileName="" Value="Hold Service Contract Period" />
+  <Resource Name="AG.SOLO.2018_M_SUSPENDDATE_AMOR.DESC" Type="System.String" FileName="" Value="Define No Service Received Days For Monthly Payments" />
+  <Resource Name="AG.SOLO.2013_MASS_BL_DISCOUNT.DESC" Type="System.String" FileName="" Value="Discount For Mass Billings Configuration" />
+  <Resource Name="AG.SOLO.2013_CONF_ADJ_BILLINGRECURRING.DESC" Type="System.String" FileName="" Value="Recalculate Of Billing Cost For GAB V2" />
+  <Resource Name="AG.SOLO.2018_SVCT_AMOR_BILL_V2.DESC" Type="System.String" FileName="" Value="Generate Amortization Billing V2" />
+  <Resource Name="AG.SOLO.2013_SVCT_AMOR_BILL.DESC" Type="System.String" FileName="" Value="Generate Amortization Billing Under Contracts" />
+  <Resource Name="AG.SOLO.LOBILL_T_1001.DESC" Type="System.String" FileName="" Value="Amortization Billing Recurring V1" />
+  <Resource Name="AG.SOLO.2014_BILLING_SALECONTRACT_V2.DESC" Type="System.String" FileName="" Value="Amortization Billing Recurring V2" />
+  <Resource Name="AG.SOLO.RPTDTCATB05" Type="System.String" FileName="" Value="Print Mass Billing For Amortization V1" />
+  <Resource Name="AG.SOLO.RPTDTCATB05V2" Type="System.String" FileName="" Value="Print Mass Billing For Amortization V2" />
+  <Resource Name="AG.SOLO.FOLDER_R01.DESC" Type="System.String" FileName="" Value="SALES MANAGEMENT REPORTS" />
+  <Resource Name="AG.SOLO.FOLDER_R02.DESC" Type="System.String" FileName="" Value="LOGISTICS MANAGEMENT REPORTS" />
+  <Resource Name="AG.SOLO.FOLDER_R03.DESC" Type="System.String" FileName="" Value="OTHER BILLING REPORTS" />
   <Resource Name="AG.PROCURE.FOLDER.DESC" Type="System.String" FileName="" Value="PROCUREMENT MANAGEMENT SYSTEM" />
   <Resource Name="AG.PROCURE.FOLDER01.DESC" Type="System.String" FileName="" Value="PUCHASING RECORD DATA" />
   <Resource Name="AG.PROCURE.PO_M_0001.DESC" Type="System.String" FileName="" Value="Purchasing Record Master" />
