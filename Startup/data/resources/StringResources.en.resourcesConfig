@@ -2637,7 +2637,7 @@
   <Resource Name="AG.BPMASTER.COMP_C_0014.DESC" Type="System.String" FileName="" Value="Define Vendor Group Number Range" />
   <Resource Name="AG.BPMASTER.COMP_C_0015.DESC" Type="System.String" FileName="" Value="Assign Vendor Group to Number Range" />
   <Resource Name="AG.BPMASTER.FOLDER2_1.DESC" Type="System.String" FileName="" Value="VENDOR MASTER REPORTS" />
-  <Resource Name="AG.BPMASTER.FIAP_R_0001.DESC" Type="System.String" FileName="" Value="FIVEND-R0003 Vendor Master Data" />
+  <Resource Name="AG.BPMASTER.FIAP_R_0001.DESC" Type="System.String" FileName="" Value="FIVEND-R0003 Vendor Master Data V1" />
   <Resource Name="AG.BPMASTER.PO_R_0001.DESC" Type="System.String" FileName="" Value="FIVEND-R0004 Vendor Master Data V2" />
   <Resource Name="AG.BPMASTER.FIVEND_R_0002.DESC" Type="System.String" FileName="" Value="FIVEND-R0002 - Vendor Account Balance Report" />
   <Resource Name="AG.BPMASTER.FIVEND_R_0001.DESC" Type="System.String" FileName="" Value="FIVEND-R0001 - Vendor Payment journal Report" />
@@ -3024,9 +3024,57 @@
   <Resource Name="AG.SOLO.2014_BILLING_SALECONTRACT_V2.DESC" Type="System.String" FileName="" Value="Amortization Billing Recurring V2" />
   <Resource Name="AG.SOLO.RPTDTCATB05" Type="System.String" FileName="" Value="Print Mass Billing For Amortization V1" />
   <Resource Name="AG.SOLO.RPTDTCATB05V2" Type="System.String" FileName="" Value="Print Mass Billing For Amortization V2" />
+  <Resource Name="AG.SOLO.GENAMOTIZE_M_0001.DESC" Type="System.String" FileName="" Value="Amortized Billing Reporting Tool" />
   <Resource Name="AG.SOLO.FOLDER_R01.DESC" Type="System.String" FileName="" Value="SALES MANAGEMENT REPORTS" />
+  <Resource Name="AG.SOLO.FIRPT_R_1001.DESC" Type="System.String" FileName="" Value="FIRPT-R1001 Customer Aging Report V2.0" />
+  <Resource Name="AG.SOLO.FIRPT_R_1002.DESC" Type="System.String" FileName="" Value="FIRPT-R1002 Customer Credit Limit Report" />
+  <Resource Name="AG.SOLO.LOSO_R_0021.DESC" Type="System.String" FileName="" Value="LOSO-R0021 Sales Tracking Reports" />
+  <Resource Name="AG.SOLO.LOSO_R_0008.DESC" Type="System.String" FileName="" Value="LOSO-R0008 Daily Sales Report" />
+  <Resource Name="AG.SOLO.LOSO_R_0021_1.DESC" Type="System.String" FileName="" Value="LOSO-R00211 Sales Tracking Reports V2" />
+  <Resource Name="AG.SOLO.LOSO_R_0021_3.DESC" Type="System.String" FileName="" Value="LOSO-R00213 Sales Tracking Reports V3" />
+  <Resource Name="AG.SOLO.LISTOFSALEORDERREPORTV2" Type="System.String" FileName="" Value="SD01-R002 List Of Sales Order Report V2" />
+  <Resource Name="AG.SOLO.LISTOFSALEORDERREPORTV3" Type="System.String" FileName="" Value="SD01-R003 List Of Sales Order Report V3" />
+  <Resource Name="AG.SOLO.SD01_ORDER_REPT_001.DESC" Type="System.String" FileName="" Value="SD01-R001 List Of Sales Order By Doc Status" />
+  <Resource Name="AG.SOLO.SD_R_0001.DESC" Type="System.String" FileName="" Value="SD-R0001 Monthly Sales Report" />
+  <Resource Name="AG.SOLO.SD_R_0003.DESC" Type="System.String" FileName="" Value="SD-R0003 Sales Credit Note Verification Reports" />
+  <Resource Name="AG.SOLO.SD_R_0007.DESC" Type="System.String" FileName="" Value="SD-R0007 Sales By Status Report" />
+  <Resource Name="AG.SOLO.SD_R_0006.DESC" Type="System.String" FileName="" Value="SD-R0006 Sale Report By Job" />
+  <Resource Name="AG.SOLO.FIAR_R_0015.DESC" Type="System.String" FileName="" Value="FIAR-R0015 INet SaleOrder By Job Report" />
+  <Resource Name="AG.SOLO.2014_REPORT_SALEBYPROPERTIES.DESC" Type="System.String" FileName="" Value="SD-R0008 Report Sale Properties" />
+  <Resource Name="AG.SOLO.2014_REPORT_SALEGROUPBYPROPERTIES.DESC" Type="System.String" FileName="" Value="SD-R0009 Report Sale GroupBy Properties" />
+  <Resource Name="AG.SOLO.2014_REPORT_SALEBYCONDITION.DESC" Type="System.String" FileName="" Value="SD-R0010 Report Sale by Condition" />
+  <Resource Name="AG.SOLO.LOSIS_R_0006.DESC" Type="System.String" FileName="" Value="LOSIS-R0006" />
+  <Resource Name="AG.SOLO.LOSO_R_0009.DESC" Type="System.String" FileName="" Value="LOSO-R0009" />
+  <Resource Name="AG.SOLO.LOSO_R_0010.DESC" Type="System.String" FileName="" Value="LOSO-R0010" />
+  <Resource Name="AG.SOLO.HODiscountSummaryCommand" Type="System.String" FileName="" Value="RPTSO012 -" />
+  <Resource Name="AG.SOLO.LOSO_R_0011.DESC" Type="System.String" FileName="" Value="LOSO-R0011" />
+  <Resource Name="AG.SOLO.LOSO_R_0012.DESC" Type="System.String" FileName="" Value="LOSO-R0012" />
+  <Resource Name="AG.SOLO.LOSO_R_0013.DESC" Type="System.String" FileName="" Value="LOSO-R0013" />
+  <Resource Name="AG.SOLO.LOSO_R_0015.DESC" Type="System.String" FileName="" Value="LOSO-R0015" />
+  <Resource Name="AG.SOLO.LOSO_R_0016.DESC" Type="System.String" FileName="" Value="LOSO-R0016" />
+  <Resource Name="AG.SOLO.LOSO_R_0017.DESC" Type="System.String" FileName="" Value="LOSO-R0017" />
+  <Resource Name="AG.SOLO.LOSIS_R_0001.DESC" Type="System.String" FileName="" Value="LOSIS-R0001" />
+  <Resource Name="AG.SOLO.LOSO_T_0005.DESC" Type="System.String" FileName="" Value="LOSO-T0005" />
+  <Resource Name="AG.SOLO.LOSIS_R_0004.DESC" Type="System.String" FileName="" Value="LOSIS-R0004" />
+  <Resource Name="AG.SOLO.LOSO_R_0005.DESC" Type="System.String" FileName="" Value="LOSO-P0005" />
+  <Resource Name="AG.SOLO.LOSIS_R_0006_V3.DESC" Type="System.String" FileName="" Value="LOSIS-R00063" />
+  <Resource Name="AG.SOLO.LOSIS_R_0006_V2.DESC" Type="System.String" FileName="" Value="LOSIS-R00062" />
+  <Resource Name="AG.SOLO.LOSIS_R_0005.DESC" Type="System.String" FileName="" Value="LOSIS-R0005" />
+  <Resource Name="AG.SOLO.LOSO_R_0018.DESC" Type="System.String" FileName="" Value="LOSO-R0018" />
+  <Resource Name="AG.SOLO.LOSO_R_0019.DESC" Type="System.String" FileName="" Value="LOSO-R0019" />
+  <Resource Name="AG.SOLO.LOSO_R_0020.DESC" Type="System.String" FileName="" Value="LOSO-R0020" />
+  <Resource Name="AG.SOLO.SDBL_T_0002.DESC" Type="System.String" FileName="" Value="SDBL-T0002 Sale Order Interface" />
+  <Resource Name="AG.SOLO.YMFROYALTYREPORT" Type="System.String" FileName="" Value="YMF-R001 Royalty Report" />
+  <Resource Name="AG.SOLO.SOTOCONTARCT_M_0001.DESC" Type="System.String" FileName="" Value="CT-R001 Sold-to Contract Report" />
+  <Resource Name="AG.SOLO.2013_RPT_SO_DTC.DESC" Type="System.String" FileName="" Value="CT-R002 Sale Order" />
+  <Resource Name="AG.SOLO.LOSO_R_0001.DESC" Type="System.String" FileName="" Value="LOSO_R_0001" />
   <Resource Name="AG.SOLO.FOLDER_R02.DESC" Type="System.String" FileName="" Value="LOGISTICS MANAGEMENT REPORTS" />
+  <Resource Name="AG.SOLO.LOLIS_R_0001.DESC" Type="System.String" FileName="" Value="LOLIS-R0001" />
+  <Resource Name="AG.SOLO.LOLIS_R_0002.DESC" Type="System.String" FileName="" Value="LOLIS-R0002" />
+  <Resource Name="AG.SOLO.LODO_R_0003.DESC" Type="System.String" FileName="" Value="LODO-R0003" />
+  <Resource Name="AG.SOLO.LODO_R_0004.DESC" Type="System.String" FileName="" Value="LODO-R0004" />
   <Resource Name="AG.SOLO.FOLDER_R03.DESC" Type="System.String" FileName="" Value="OTHER BILLING REPORTS" />
+  <Resource Name="AG.SOLO.SD_R_0005.DESC" Type="System.String" FileName="" Value="SD-R0005 List Of Billing Amortize Report" />
   <Resource Name="AG.PROCURE.FOLDER.DESC" Type="System.String" FileName="" Value="PROCUREMENT MANAGEMENT SYSTEM" />
   <Resource Name="AG.PROCURE.FOLDER01.DESC" Type="System.String" FileName="" Value="PUCHASING RECORD DATA" />
   <Resource Name="AG.PROCURE.PO_M_0001.DESC" Type="System.String" FileName="" Value="Purchasing Record Master" />
