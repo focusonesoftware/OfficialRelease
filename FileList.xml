@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <FileList>
     <Description>
-        <FileName>FileList.xml</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-    </Description>
-    <Description>
-        <FileName>OnlineLiveUpdateXMLGenerate.exe</FileName>
-        <FileVersion>1.0.0.0</FileVersion>
-        <ProductVersion>1.0.0.0</ProductVersion>
-    </Description>
-    <Description>
         <FileName>Setup_ERP_client.jpg</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
@@ -244,6 +234,11 @@
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.CS.SimDetailManageMent.dll</FileName>
         <FileVersion>3.1.0.7</FileVersion>
         <ProductVersion>3.1.0.7</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.CS.UpdateServiceContract.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.CallBack.dll</FileName>
@@ -2809,6 +2804,11 @@
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETINVPVForm.dll</FileName>
         <FileVersion>3.1.5.0</FileVersion>
         <ProductVersion>3.1.5.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETIncomingListReport.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETInvoice.dll</FileName>
@@ -5612,8 +5612,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CS.LogGenAmortizeBillingReport.dll</FileName>
-        <FileVersion>3.1.2.0</FileVersion>
-        <ProductVersion>3.1.2.0</ProductVersion>
+        <FileVersion>3.1.3.0</FileVersion>
+        <ProductVersion>3.1.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CS.PrintBilling.dll</FileName>
@@ -5649,6 +5649,11 @@
         <FileName>Startup\Main\Agape.App.CS.ServiceOrder.dll</FileName>
         <FileVersion>3.2.11.0</FileVersion>
         <ProductVersion>3.2.11.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.App.CS.UpdateServiceContract.dll</FileName>
+        <FileVersion>3.1.0.1</FileVersion>
+        <ProductVersion>3.1.0.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CS.dll</FileName>
@@ -6107,8 +6112,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.LogGenAmortizeBillingReport.dll</FileName>
-        <FileVersion>3.1.0.12</FileVersion>
-        <ProductVersion>3.1.0.12</ProductVersion>
+        <FileVersion>3.1.2.0</FileVersion>
+        <ProductVersion>3.1.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Barcode.dll</FileName>
@@ -7069,6 +7074,11 @@
         <FileName>Startup\Main\Agape.App.Report.HistoryPO.dll</FileName>
         <FileVersion>3.1.0.4</FileVersion>
         <ProductVersion>3.1.0.4</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.App.Report.INETIncomingListReport.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.INetSaleOrderByJobReport.dll</FileName>
@@ -8286,6 +8296,11 @@
         <ProductVersion>3.1.0.1</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.Lib.Remote.CS.UpdateServiceContract.dll</FileName>
+        <FileVersion>3.1.0.1</FileVersion>
+        <ProductVersion>3.1.0.1</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.CS.dll</FileName>
         <FileVersion>3.1.0.2</FileVersion>
         <ProductVersion>3.1.0.2</ProductVersion>
@@ -9114,6 +9129,11 @@
         <FileName>Startup\Main\Agape.Lib.Remote.Report.HOSaleTransactionComparePurchasePriceReport.dll</FileName>
         <FileVersion>1.0.0.0</FileVersion>
         <ProductVersion>1.0.0.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Remote.Report.INETIncomingListReport.dll</FileName>
+        <FileVersion>3.1.0.1</FileVersion>
+        <ProductVersion>3.1.0.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.INetSaleOrderByJobReport.dll</FileName>
