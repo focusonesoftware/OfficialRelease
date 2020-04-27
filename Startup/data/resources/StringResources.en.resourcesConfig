@@ -2726,7 +2726,7 @@
   <Resource Name="AG.FI.FIBANK_T_0012.DESC" Type="System.String" FileName="" Value="Incoming Posting All Entries (STD)" />
   <Resource Name="AG.FI.FIBANK_T_0012_UI.DESC" Type="System.String" FileName="" Value="Incoming Posting All Entries (UI V2)" />
   <Resource Name="AG.FI.FIREC_T_0001.DESC" Type="System.String" FileName="" Value="Receipt Voucher" />
-  <Resource Name="AG.FI.PRINTINCOMINGMASS" Type="System.String" FileName="" Value="Print Incoming Document (Mass)" />
+  <Resource Name="AG.FI.PRINTINCOMINGMASS.DESC" Type="System.String" FileName="" Value="Print Incoming Document (Mass)" />
   <Resource Name="AG.FI.FI_RECONINCOMING_T_0001.DESC" Type="System.String" FileName="" Value="Reconcile Incoming Entries" />
   <Resource Name="AG.FI.2012_INCPAY_ADDGL.DESC" Type="System.String" FileName="" Value="Incoming Mapping Additional GL" />
   <Resource Name="AG.FI.2014_FI_INCOMINGPAYMENT_V2.DESC" Type="System.String" FileName="" Value="Incoming Posting Entries V2" />
@@ -2812,7 +2812,7 @@
   <Resource Name="AG.ACCT.APCNREFQC_T_0001.DESC" Type="System.String" FileName="" Value="AP Credit Note (Ref QC)" />
   <Resource Name="AG.ACCT.APDNREFQC_T_0001.DESC" Type="System.String" FileName="" Value="AP Debit Note (Ref QC)" />
   <Resource Name="AG.ACCT.FOLDER03_01.DESC" Type="System.String" FileName="" Value="AP LEASING DOCUMENTS" />
-  <Resource Name="AG.ACCT.FOLDER06.DESC" Type="System.String" FileName="" Value="VAT - WITHHOLDING TAX" />
+  <Resource Name="AG.ACCT.FOLDER04.DESC" Type="System.String" FileName="" Value="VAT - WITHHOLDING TAX" />
   <Resource Name="AG.ACCT.FIGL_T_9999.DESC" Type="System.String" FileName="" Value="GL Generate Value Added Taxes" />
   <Resource Name="AG.ACCT.FIGL_T_9998.DESC" Type="System.String" FileName="" Value="GL Generate Withholding Taxes" />
   <Resource Name="AG.ACCT.FIAR_T_0011.DESC" Type="System.String" FileName="" Value="Maintain Output Tax" />
@@ -2821,17 +2821,17 @@
   <Resource Name="AG.ACCT.FIAP_R_0015.DESC" Type="System.String" FileName="" Value="Input Tax Report Wait for Tax Invoices" />
   <Resource Name="AG.ACCT.FIMAINTAINWHT_T_0001.DESC" Type="System.String" FileName="" Value="Maintain Withholding Taxes" />
   <Resource Name="AG.ACCT.2013_WHT_EXPORTDATA.DESC" Type="System.String" FileName="" Value="Export Withholding Taxes Data" />
-  <Resource Name="AG.ACCT.FOLDER07.DESC" Type="System.String" FileName="" Value="ACCOUNT PERIOD CLOSING" />
+  <Resource Name="AG.ACCT.FOLDER05.DESC" Type="System.String" FileName="" Value="ACCOUNT PERIOD CLOSING" />
   <Resource Name="AG.ACCT.FI_POSTWITHCLEARING_T_0001.DESC" Type="System.String" FileName="" Value="Post With Clearing" />
   <Resource Name="AG.ACCT.FIGL_C_0002.DESC" Type="System.String" FileName="" Value="Define GL Code for PL" />
   <Resource Name="AG.ACCT.FIGL_C_0003.DESC" Type="System.String" FileName="" Value="Posting Period Setup" />
   <Resource Name="AG.ACCT.FIGL_C_0004.DESC" Type="System.String" FileName="" Value="Open and Close Period" />
   <Resource Name="AG.ACCT.FIGL_C_0005.DESC" Type="System.String" FileName="" Value="Balance Carry Forward" />
   <Resource Name="AG.ACCT.FIGL_T_0004.DESC" Type="System.String" FileName="" Value="Close Period AR Sub Ledger" />
-  <Resource Name="AG.ACCT.FOLDER08.DESC" Type="System.String" FileName="" Value="AR/AP CARRYING FORWARD" />
+  <Resource Name="AG.ACCT.FOLDER06.DESC" Type="System.String" FileName="" Value="AR/AP CARRYING FORWARD" />
   <Resource Name="AG.ACCT.2014_ARInterface.DESC" Type="System.String" FileName="" Value="Account Receivable Interface Data" />
   <Resource Name="AG.ACCT.2019_JVInterface.DESC" Type="System.String" FileName="" Value="JV Interface Data Conversion" />
-  <Resource Name="AG.FIACT.FOLDER09.DESC" Type="System.String" FileName="" Value="FI SUPER HERO TOOL" />
+  <Resource Name="AG.FIACT.FOLDER07.DESC" Type="System.String" FileName="" Value="FI SUPER HERO TOOL" />
   <Resource Name="AG.FIACT.SUPERFI_C_0001.DESC" Type="System.String" FileName="" Value="SUPFI-C001 Define Account Posting Key" />
   <Resource Name="AG.FIACT.SUPERFI_C_0002.DESC" Type="System.String" FileName="" Value="SUPFI-C002 Define Account Posting Group" />
   <Resource Name="AG.FIACT.SUPERFI_C_0003.DESC" Type="System.String" FileName="" Value="SUPFI-C003 Assign Posting Group to Posting Type" />
@@ -2865,7 +2865,7 @@
   <Resource Name="AG.FIACT.FIGL_R_0002.DESC" Type="System.String" FileName="" Value="FIGL-R0005 Cash Balance Report" />
   <Resource Name="AG.FIACT.FIRPT_R_0002.DESC" Type="System.String" FileName="" Value="FIRPT-R0002 Account Balance Report" />
   <Resource Name="AG.FIACT.FIGL_R_0005.DESC" Type="System.String" FileName="" Value="FIGL-R0005 Account Balance by Project/CC Report" />
-  <Resource Name="AG.FIACT.PrintGLPostingMass" Type="System.String" FileName="" Value="FIGL-R0091 Print GL Posting(Mass)" />
+  <Resource Name="AG.FIACT.PrintGLPostingMass.DESC" Type="System.String" FileName="" Value="FIGL-R0091 Print GL Posting(Mass)" />
   <Resource Name="AG.FIACT.FI_LEDGERBYSEGMENT_0001_V4.DESC" Type="System.String" FileName="" Value="FIGL-R0003 Sub-Ledger Report(Segment) V4" />
   <Resource Name="AG.FIACT.2014_REPORT_GLBYSEGMENT.DESC" Type="System.String" FileName="" Value="FIGL-R0004 GL By Segmentation Report" />
   <Resource Name="AG.FIACT.2014_REPORT_GLPOSTING.DESC" Type="System.String" FileName="" Value="FIGL-R0006 GL By Posting Entries Report" />
@@ -2879,8 +2879,8 @@
   <Resource Name="AG.FIACT.FIAR_R_0013.DESC" Type="System.String" FileName="" Value="FIAR-R0013 Customer Aging Report By Due Date" />
   <Resource Name="AG.FIACT.FIAR_R_0011.DESC" Type="System.String" FileName="" Value="FIAR-R0011 Customer Aging Report By Statement Date" />
   <Resource Name="AG.FIACT.FIAR_R_0012.DESC" Type="System.String" FileName="" Value="FIAR-R0012 Customer Aging Report By Collection Date" />
-  <Resource Name="AG.FIACT.CUSTOMERAGINGV3" Type="System.String" FileName="" Value="CUSTAR-R01V3 Customer Aging Report V3" />
-  <Resource Name="AG.FIACT.CUSTOMERAGINGV5" Type="System.String" FileName="" Value="CUSTAR-R01V5 Customer Aging Report V5" />
+  <Resource Name="AG.FIACT.CUSTOMERAGINGV3.DESC" Type="System.String" FileName="" Value="CUSTAR-R01V3 Customer Aging Report V3" />
+  <Resource Name="AG.FIACT.CUSTOMERAGINGV5.DESC" Type="System.String" FileName="" Value="CUSTAR-R01V5 Customer Aging Report V5" />
   <Resource Name="AG.FIACT.FI_REVENUERECONCILES_0001.DESC" Type="System.String" FileName="" Value="FIREV-R0001 Revenue Reconciles Report" />
   <Resource Name="AG.FIACT.FIRPT_R_1014.DESC" Type="System.String" FileName="" Value="FIREV-R0002 Open AR Invoice Report(by Product Grp)" />
   <Resource Name="AG.FIACT.FIAR_R_0004.DESC" Type="System.String" FileName="" Value="FIAR-R0004 Outstanding AR Invoice Report" />
@@ -2961,7 +2961,7 @@
   <Resource Name="AG.CS.CSITF_T_0001.DESC" Type="System.String" FileName="" Value="Services Contract Conversion By CSV File" />
   <Resource Name="AG.CS.2013_MASS_SV_CONTRACT.DESC" Type="System.String" FileName="" Value="Create Multiple Service Contract Ref SO V1" />
   <Resource Name="AG.CS.2018_MASS_SV_CONTRACT.DESC" Type="System.String" FileName="" Value="Create Multiple Service Contract Ref SO V2" />
-  <Resource Name="AG.CS.2018_MASS_SV_CONTRACT_V3.DESC" Type="System.String" FileName="" Value="Create Multiple Service Contract Ref SO V3" />
+  <Resource Name="AG.CS.2018_MASS_SV_CONTRACT_V3.DESC" Type="System.String" FileName="" Value="Create Multiple Service Contract No Ref SO V3" />
   <Resource Name="AG.CS.2013_CANCEL_LIST_CONTRACT.DESC" Type="System.String" FileName="" Value="Cancel multiple Service Contracts" />
   <Resource Name="AG.CS.WAS_T_0007.DESC" Type="System.String" FileName="" Value="Service Order No Ref Document" />
   <Resource Name="AG.CS.WAS_T_0009.DESC" Type="System.String" FileName="" Value="Service Order Ref SO Document" />
@@ -2982,7 +2982,7 @@
   <Resource Name="AG.CS.SV_R_0008.DESC" Type="System.String" FileName="" Value="SV-R0008 Service Order Tracking Report" />
   <Resource Name="AG.CS.2012_EQ_R_0001.DESC" Type="System.String" FileName="" Value="EQ-R0001 Equipment Master Lists" />
   <Resource Name="AG.CS.2013_REPORT_DTCSIMCOST.DESC" Type="System.String" FileName="" Value="EQ-R0003 SIM Cost Report V1" />
-  <Resource Name="AG.CS.RPTDTCATB09" Type="System.String" FileName="" Value="EQ-R0002 SIM Cost Report V2" />
+  <Resource Name="AG.CS.RPTDTCATB09.DESC" Type="System.String" FileName="" Value="EQ-R0002 SIM Cost Report V2" />
   <Resource Name="AG.CS.CS_R_0001.DESC" Type="System.String" FileName="" Value="CS-R0001 Automatic Renewal SV Contract Report" />
   <Resource Name="AG.SOLO.FOLDER.DESC" Type="System.String" FileName="" Value="SALES AND LOGISTICS MANAGEMENT" />
   <Resource Name="AG.SOLO.FOLDER01.DESC" Type="System.String" FileName="" Value="SALES ORDER PROCESS DOCUMENTS" />
@@ -3008,8 +3008,8 @@
   <Resource Name="AG.SOLO.2012_BILL_T_0002.DESC" Type="System.String" FileName="" Value="Billing Deposit" />
   <Resource Name="AG.SOLO.LOBILL_T_1000.DESC" Type="System.String" FileName="" Value="Billing Ref Sales Order" />
   <Resource Name="AG.SOLO.LOBILL_T_0004.DESC" Type="System.String" FileName="" Value="Billing - Credit Note" />
-  <Resource Name="AG.SOLO.PRINTBILLINGMASS" Type="System.String" FileName="" Value="Print Mass Billing V1" />
-  <Resource Name="AG.SOLO.PRINTBILLINGMASSV2" Type="System.String" FileName="" Value="Print Mass Billing V2" />
+  <Resource Name="AG.SOLO.PRINTBILLINGMASS.DESC" Type="System.String" FileName="" Value="Print Mass Billing V1" />
+  <Resource Name="AG.SOLO.PRINTBILLINGMASSV2.DESC" Type="System.String" FileName="" Value="Print Mass Billing V2" />
   <Resource Name="AG.SOLO.BL_CREDITBLOCK_0001.DESC" Type="System.String" FileName="" Value="Release Billing Block Status" />
   <Resource Name="AG.SOLO.SDBL_T_0001.DESC" Type="System.String" FileName="" Value="Billing Interface" />
   <Resource Name="AG.SOLO.FOLDER04_01.DESC" Type="System.String" FileName="" Value="AR BILLING RECURRING PROCESS DOCUMENTS" />
@@ -3022,8 +3022,8 @@
   <Resource Name="AG.SOLO.2013_SVCT_AMOR_BILL.DESC" Type="System.String" FileName="" Value="Generate Amortization Billing Under Contracts" />
   <Resource Name="AG.SOLO.LOBILL_T_1001.DESC" Type="System.String" FileName="" Value="Amortization Billing Recurring V1" />
   <Resource Name="AG.SOLO.2014_BILLING_SALECONTRACT_V2.DESC" Type="System.String" FileName="" Value="Amortization Billing Recurring V2" />
-  <Resource Name="AG.SOLO.RPTDTCATB05" Type="System.String" FileName="" Value="Print Mass Billing For Amortization V1" />
-  <Resource Name="AG.SOLO.RPTDTCATB05V2" Type="System.String" FileName="" Value="Print Mass Billing For Amortization V2" />
+  <Resource Name="AG.SOLO.RPTDTCATB05.DESC" Type="System.String" FileName="" Value="Print Mass Billing For Amortization V1" />
+  <Resource Name="AG.SOLO.RPTDTCATB05V2.DESC" Type="System.String" FileName="" Value="Print Mass Billing For Amortization V2" />
   <Resource Name="AG.SOLO.GENAMOTIZE_M_0001.DESC" Type="System.String" FileName="" Value="Amortized Billing Reporting Tool" />
   <Resource Name="AG.SOLO.FOLDER_R01.DESC" Type="System.String" FileName="" Value="SALES MANAGEMENT REPORTS" />
   <Resource Name="AG.SOLO.FIRPT_R_1001.DESC" Type="System.String" FileName="" Value="FIRPT-R1001 Customer Aging Report V2.0" />
@@ -3032,8 +3032,8 @@
   <Resource Name="AG.SOLO.LOSO_R_0008.DESC" Type="System.String" FileName="" Value="LOSO-R0008 Daily Sales Report" />
   <Resource Name="AG.SOLO.LOSO_R_0021_1.DESC" Type="System.String" FileName="" Value="LOSO-R00211 Sales Tracking Reports V2" />
   <Resource Name="AG.SOLO.LOSO_R_0021_3.DESC" Type="System.String" FileName="" Value="LOSO-R00213 Sales Tracking Reports V3" />
-  <Resource Name="AG.SOLO.LISTOFSALEORDERREPORTV2" Type="System.String" FileName="" Value="SD01-R002 List Of Sales Order Report V2" />
-  <Resource Name="AG.SOLO.LISTOFSALEORDERREPORTV3" Type="System.String" FileName="" Value="SD01-R003 List Of Sales Order Report V3" />
+  <Resource Name="AG.SOLO.LISTOFSALEORDERREPORTV2.DESC" Type="System.String" FileName="" Value="SD01-R002 List Of Sales Order Report V2" />
+  <Resource Name="AG.SOLO.LISTOFSALEORDERREPORTV3.DESC" Type="System.String" FileName="" Value="SD01-R003 List Of Sales Order Report V3" />
   <Resource Name="AG.SOLO.SD01_ORDER_REPT_001.DESC" Type="System.String" FileName="" Value="SD01-R001 List Of Sales Order By Doc Status" />
   <Resource Name="AG.SOLO.SD_R_0001.DESC" Type="System.String" FileName="" Value="SD-R0001 Monthly Sales Report" />
   <Resource Name="AG.SOLO.SD_R_0003.DESC" Type="System.String" FileName="" Value="SD-R0003 Sales Credit Note Verification Reports" />
@@ -3046,7 +3046,7 @@
   <Resource Name="AG.SOLO.LOSIS_R_0006.DESC" Type="System.String" FileName="" Value="LOSIS-R0006 รายงานสอบถามราคาขาย" />
   <Resource Name="AG.SOLO.LOSO_R_0009.DESC" Type="System.String" FileName="" Value="LOSO-R0009 รายงานการขาย แยกตามลูกค้า" />
   <Resource Name="AG.SOLO.LOSO_R_0010.DESC" Type="System.String" FileName="" Value="LOSO-R0010 รายงานราคาขายประจำวัน(ดูตามสินค้า)" />
-  <Resource Name="AG.SOLO.HODiscountSummaryCommand" Type="System.String" FileName="" Value="RPTSO012 รายงานการขาย ตามสินค้า" />
+  <Resource Name="AG.SOLO.HODiscountSummaryCommand.DESC" Type="System.String" FileName="" Value="RPTSO012 รายงานการขาย ตามสินค้า" />
   <Resource Name="AG.SOLO.LOSO_R_0011.DESC" Type="System.String" FileName="" Value="LOSO-R0011 รายงานการตรวจสอบส่วนลด" />
   <Resource Name="AG.SOLO.LOSO_R_0012.DESC" Type="System.String" FileName="" Value="LOSO-R0012 รายงานการขาย ตามสินค้า" />
   <Resource Name="AG.SOLO.LOSO_R_0013.DESC" Type="System.String" FileName="" Value="LOSO-R0013 รายการขายแยกตามกลุ่มลูกค้า" />
@@ -3064,7 +3064,7 @@
   <Resource Name="AG.SOLO.LOSO_R_0019.DESC" Type="System.String" FileName="" Value="LOSO-R0019 รายงานเอกสารขายคงค้างรับชำระ" />
   <Resource Name="AG.SOLO.LOSO_R_0020.DESC" Type="System.String" FileName="" Value="LOSO-R0020 รายงานใบสั่งขายแสดงรายการสินค้า" />
   <Resource Name="AG.SOLO.SDBL_T_0002.DESC" Type="System.String" FileName="" Value="SDBL-T0002 Sale Order Interface" />
-  <Resource Name="AG.SOLO.YMFROYALTYREPORT" Type="System.String" FileName="" Value="YMF-R001 Royalty Report" />
+  <Resource Name="AG.SOLO.YMFROYALTYREPORT.DESC" Type="System.String" FileName="" Value="YMF-R001 Royalty Report" />
   <Resource Name="AG.SOLO.SOTOCONTARCT_M_0001.DESC" Type="System.String" FileName="" Value="CT-R001 Sold-to Contract Report" />
   <Resource Name="AG.SOLO.2013_RPT_SO_DTC.DESC" Type="System.String" FileName="" Value="CT-R002 Sale Order" />
   <Resource Name="AG.SOLO.LOSO_R_0001.DESC" Type="System.String" FileName="" Value="LOSO_R_0001 รายงานโอกาสทางการขาย" />
@@ -3101,7 +3101,7 @@
   <Resource Name="AG.PROCURE.PO_T_0010.DESC" Type="System.String" FileName="" Value="AP Invoice Verification Return" />
   <Resource Name="AG.PROCURE.INV_OSRETURN_T_0001.DESC" Type="System.String" FileName="" Value="AP Invoice Verification Outsource Return" />
   <Resource Name="AG.PROCURE.FOLDER_R01.DESC" Type="System.String" FileName="" Value="PROCUREMENT MANAGEMENT REPORTS" />
-  <Resource Name="AG.FIACT.2013_AP_TRACKING_REPORT.DESC" Type="System.String" FileName="" Value="PO-R-2000 PO Tracking Report" />
+  <Resource Name="AG.PROCURE.2013_AP_TRACKING_REPORT.DESC" Type="System.String" FileName="" Value="PO-R-2000 PO Tracking Report" />
   <Resource Name="AG.PROCURE.2013_PR_FROM_COSTCENTER_RPT.DESC" Type="System.String" FileName="" Value="PO-R-2001 PR By Cost Center Report" />
   <Resource Name="AG.PROCURE.2013_PR_FROM_PRNUMBER_RPT.DESC" Type="System.String" FileName="" Value="PO-R-2002 PR By PR Doc Number Report" />
   <Resource Name="AG.PROCURE.2013_PR_TO_PO_LEADTIME_RPT.DESC" Type="System.String" FileName="" Value="PO-R-2003 Lead Time For PR to PO Report" />
@@ -3292,24 +3292,24 @@
   <Resource Name="AG.IC.IC_R_0024.DESC" Type="System.String" FileName="" Value="IC-R0024 Stock Adjustment During Stock Count" />
   <Resource Name="AG.IC.IC_R_0025.DESC" Type="System.String" FileName="" Value="IC-R0025 Inventory Quantity Report" />
   <Resource Name="AG.IC.IC_R_0026.DESC" Type="System.String" FileName="" Value="IC-R0026 Stock Movement Report V1" />
-  <Resource Name="AG.IC.IC_R_0027.DESC" Type="System.String" FileName="" Value="IC-R0027" />
-  <Resource Name="AG.IC.IC_R_0028.DESC" Type="System.String" FileName="" Value="IC-R0028" />
-  <Resource Name="AG.IC.IC_R_0029.DESC" Type="System.String" FileName="" Value="IC-R0029" />
-  <Resource Name="AG.IC.IC_R_0030.DESC" Type="System.String" FileName="" Value="IC-R0030" />
-  <Resource Name="AG.IC.IC_R_0031.DESC" Type="System.String" FileName="" Value="IC-R0031" />
-  <Resource Name="AG.IC.IC_R_0032.DESC" Type="System.String" FileName="" Value="IC-R0032" />
-  <Resource Name="AG.IC.IC_R_0033.DESC" Type="System.String" FileName="" Value="IC-R0033" />
-  <Resource Name="AG.IC.IC_R_0034.DESC" Type="System.String" FileName="" Value="IC-R0034" />
-  <Resource Name="AG.IC.IC_R_0036.DESC" Type="System.String" FileName="" Value="IC-R0036" />
-  <Resource Name="AG.IC.IC_R_0038.DESC" Type="System.String" FileName="" Value="IC-R0038 Stock Over View By Date Report" />
-  <Resource Name="AG.IC.IC_R_0039.DESC" Type="System.String" FileName="" Value="IC-R0039 Stock Movement Ref. Consignment Report" />
-  <Resource Name="AG.IC.IM_R_0011.DESC" Type="System.String" FileName="" Value="IM-R0011 Minimum Stock Report" />
-  <Resource Name="AG.IC.2012_MM_R_0001.DESC" Type="System.String" FileName="" Value="2012MM-R0001 InventoryStatusReport" />
-  <Resource Name="AG.IC.2012_RPT_FG.DESC" Type="System.String" FileName="" Value="IC-R0040 FinishGoodsReport" />
-  <Resource Name="AG.IC.2014_REPORT_GOODSISSUERESERVATION.DESC" Type="System.String" FileName="" Value="IC-R0041 Reservation Report" />
-  <Resource Name="AG.IC.SUMMARYOFGOODSISSUEREPORT" Type="System.String" FileName="" Value="IC-R0042 Summary Of Goods Issue Report" />
-  <Resource Name="AG.IC.SUMMARYOFOUTSTANDINGGOODSISSUEREPORT" Type="System.String" FileName="" Value="IC-R0043 Summary Of Outstanding Goods Issue Report" />
-  <Resource Name="AG.IC.2015_Borrowdue.DESC" Type="System.String" FileName="" Value="IC-R0044 Borrow Duedate Report" />
+  <Resource Name="AG.IC.IC_R_0027.DESC" Type="System.String" FileName="" Value="IC-R0027 Stock Transfer with Cost Report" />
+  <Resource Name="AG.IC.IC_R_0028.DESC" Type="System.String" FileName="" Value="IC-R0028 Inventory Price Balance Report" />
+  <Resource Name="AG.IC.IC_R_0029.DESC" Type="System.String" FileName="" Value="IC-R0029 Stock Movement Report V2" />
+  <Resource Name="AG.IC.IC_R_0030.DESC" Type="System.String" FileName="" Value="IC-R0030 Product Borrowing Balance Report" />
+  <Resource Name="AG.IC.IC_R_0031.DESC" Type="System.String" FileName="" Value="IC-R0031 List Of Product Borrowing Form" />
+  <Resource Name="AG.IC.IC_R_0032.DESC" Type="System.String" FileName="" Value="IC-R0032 List Of Product Issuance Form" />
+  <Resource Name="AG.IC.IC_R_0033.DESC" Type="System.String" FileName="" Value="IC-R0033 List of Product Borrowed Return Form" />
+  <Resource Name="AG.IC.IC_R_0034.DESC" Type="System.String" FileName="" Value="IC-R0034 Inventory Control Report V3" />
+  <Resource Name="AG.IC.IC_R_0036.DESC" Type="System.String" FileName="" Value="IC-R0036 Periodic Inventory Balance Report" />
+  <Resource Name="AG.IC.IC_R_0038.DESC" Type="System.String" FileName="" Value="IC-R0038 Stock Overview Report" />
+  <Resource Name="AG.IC.IC_R_0039.DESC" Type="System.String" FileName="" Value="IC-R0039 Stock Consignment Movement Report" />
+  <Resource Name="AG.IC.IM_R_0011.DESC" Type="System.String" FileName="" Value="IM-R0011 Safety Stock Report" />
+  <Resource Name="AG.IC.2012_MM_R_0001.DESC" Type="System.String" FileName="" Value="2012MM-R0001 Inventory Status Report" />
+  <Resource Name="AG.IC.2012_RPT_FG.DESC" Type="System.String" FileName="" Value="IC-R0040 FG Inventory Report" />
+  <Resource Name="AG.IC.2014_REPORT_GOODSISSUERESERVATION.DESC" Type="System.String" FileName="" Value="IC-R0041 Inventory Reservation Report" />
+  <Resource Name="AG.IC.SUMMARYOFGOODSISSUEREPORT.DESC" Type="System.String" FileName="" Value="IC-R0042 Goods Issue Summary Report" />
+  <Resource Name="AG.IC.SUMMARYOFOUTSTANDINGGOODSISSUEREPORT.DESC" Type="System.String" FileName="" Value="IC-R0043 Outstanding Goods Issue Summary Report" />
+  <Resource Name="AG.IC.2015_Borrowdue.DESC" Type="System.String" FileName="" Value="IC-R0044 Due date of Product Borrowed Report" />
   <Resource Name="AG.IC.FOLDER_R03.DESC" Type="System.String" FileName="" Value="INVENTORY MOVEMENT REPORTS" />
   <Resource Name="AG.IC.2014QCRAWMATERIAL_R_0001.DESC" Type="System.String" FileName="" Value="ICMOVE-R01 QC Raw Material Report" />
   <Resource Name="AG.IC.2014_REPORT_TRANSFERCONSIGNMENTPRINT.DESC" Type="System.String" FileName="" Value="ICMOVE-R02 TransferConsignmentPrint Report" />
@@ -3387,7 +3387,7 @@
   <Resource Name="AG.PP.PerformanceofProduction_P_0001.DESC" Type="System.String" FileName="" Value="Production Performance Report" />
   <Resource Name="AG.PP.2013_PRD_PART_LIST_RPT.DESC" Type="System.String" FileName="" Value="Raw Materials Usage For BOM Details Report" />
   <Resource Name="AG.PP.2013_PRD_PLAN_ESTTIME_RPT.DESC" Type="System.String" FileName="" Value="Estimated Time Usage For BOM Production Report" />
-  <Resource Name="AG.PP.ZSPDT0014" Type="System.String" FileName="" Value="BOM Details Report" />
+  <Resource Name="AG.PP.ZSPDT0014.DESC" Type="System.String" FileName="" Value="BOM Details Report" />
   <Resource Name="AG.MRP.FOLDER.DESC" Type="System.String" FileName="" Value="MRP MANAGEMENT SYSTEM" />
   <Resource Name="AG.MRP.FOLDER01.DESC" Type="System.String" FileName="" Value="MRP-JIT PROCESS DOCUMENTS" />
   <Resource Name="AG.MRP.JIT_C_0001.DESC" Type="System.String" FileName="" Value="MRP Based On Purchasing Documents" />
@@ -3425,7 +3425,7 @@
   <Resource Name="AG.SYSTEM.SYS_T_0002.DESC" Type="System.String" FileName="" Value="SYS-T0002 System Program Log" />
   <Resource Name="AG.SYSTEM.SYS_T_0003.DESC" Type="System.String" FileName="" Value="SYS-T0003 Users System Session" />
   <Resource Name="AG.SYSTEM.SYS_T_0004.DESC" Type="System.String" FileName="" Value="SYS-T0004 Buffer System Management" />
-  <Resource Name="AG.SYSTEM.2013LOGPROGRAMREPORT" Type="System.String" FileName="" Value="2013-RPTLOG Program Log Report" />
+  <Resource Name="AG.SYSTEM.2013LOGPROGRAMREPORT.DESC" Type="System.String" FileName="" Value="2013-RPTLOG Program Log Report" />
   <Resource Name="AG.SYSTEM.2012_USR_0001.DESC" Type="System.String" FileName="" Value="2012-USR0001 Role and Users Authorization" />
   <Resource Name="AG.SYSTEM.SYS_T_9999.DESC" Type="System.String" FileName="" Value="SYS-T9999 Menu System Management" />
   <Resource Name="AG.SYSTEM.2014_FOBGP_CONFIG_V2.DESC" Type="System.String" FileName="" Value="2014-FOBGPV2 Search Help System Configuration V2" />
