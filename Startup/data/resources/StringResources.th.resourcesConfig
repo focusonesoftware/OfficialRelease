@@ -2974,10 +2974,10 @@
   <Resource Name="AG.SOLO.SD_R_0003.DESC" Type="System.String" FileName="" Value="SD-R0003 รายงานตรวจสอบการขายเครดิต" />
   <Resource Name="AG.SOLO.SD_R_0007.DESC" Type="System.String" FileName="" Value="SD-R0007 รายงานขายตรวจสอบทุกสถานะ" />
   <Resource Name="AG.SOLO.SD_R_0006.DESC" Type="System.String" FileName="" Value="SD-R0006 รายงานขายตามกลุ่มลกค้า" />
-  <Resource Name="AG.SOLO.FIAR_R_0015.DESC" Type="System.String" FileName="" Value="FIAR-R0015" />
-  <Resource Name="AG.SOLO.2014_REPORT_SALEBYPROPERTIES.DESC" Type="System.String" FileName="" Value="SD-R0008" />
-  <Resource Name="AG.SOLO.2014_REPORT_SALEGROUPBYPROPERTIES.DESC" Type="System.String" FileName="" Value="SD-R0009" />
-  <Resource Name="AG.SOLO.2014_REPORT_SALEBYCONDITION.DESC" Type="System.String" FileName="" Value="SD-R0010" />
+  <Resource Name="AG.SOLO.FIAR_R_0015.DESC" Type="System.String" FileName="" Value="FIAR-R0015 INet SaleOrder By Job Report" />
+  <Resource Name="AG.SOLO.2014_REPORT_SALEBYPROPERTIES.DESC" Type="System.String" FileName="" Value="SD-R0008 Report Sale Properties" />
+  <Resource Name="AG.SOLO.2014_REPORT_SALEGROUPBYPROPERTIES.DESC" Type="System.String" FileName="" Value="SD-R0009 Report Sale GroupBy Properties" />
+  <Resource Name="AG.SOLO.2014_REPORT_SALEBYCONDITION.DESC" Type="System.String" FileName="" Value="SD-R0010 Report Sale by Condition" />
   <Resource Name="AG.SOLO.LOSIS_R_0006.DESC" Type="System.String" FileName="" Value="LOSIS-R0006 รายงานสอบถามราคาขาย" />
   <Resource Name="AG.SOLO.LOSO_R_0009.DESC" Type="System.String" FileName="" Value="LOSO-R0009 รายงานการขาย แยกตามลูกค้า" />
   <Resource Name="AG.SOLO.LOSO_R_0010.DESC" Type="System.String" FileName="" Value="LOSO-R0010 รายงานราคาขายประจำวัน(ดูตามสินค้า)" />
@@ -2998,10 +2998,10 @@
   <Resource Name="AG.SOLO.LOSO_R_0018.DESC" Type="System.String" FileName="" Value="LOSO-R0018 รายงานใบแจ้งหนี้ขายครบกำหนดชำระ" />
   <Resource Name="AG.SOLO.LOSO_R_0019.DESC" Type="System.String" FileName="" Value="LOSO-R0019 รายงานเอกสารขายคงค้างรับชำระ" />
   <Resource Name="AG.SOLO.LOSO_R_0020.DESC" Type="System.String" FileName="" Value="LOSO-R0020 รายงานใบสั่งขายแสดงรายการสินค้า" />
-  <Resource Name="AG.SOLO.SDBL_T_0002.DESC" Type="System.String" FileName="" Value="SDBL-T0002" />
-  <Resource Name="AG.SOLO.YMFROYALTYREPORT" Type="System.String" FileName="" Value="YMF-R001" />
-  <Resource Name="AG.SOLO.SOTOCONTARCT_M_0001.DESC" Type="System.String" FileName="" Value="CT-R001" />
-  <Resource Name="AG.SOLO.2013_RPT_SO_DTC.DESC" Type="System.String" FileName="" Value="CT-R002" />
+  <Resource Name="AG.SOLO.SDBL_T_0002.DESC" Type="System.String" FileName="" Value="SDBL-T0002 Sale Order Interface" />
+  <Resource Name="AG.SOLO.YMFROYALTYREPORT" Type="System.String" FileName="" Value="YMF-R001 Royalty Report" />
+  <Resource Name="AG.SOLO.SOTOCONTARCT_M_0001.DESC" Type="System.String" FileName="" Value="CT-R001 Sold-to Contract Report" />
+  <Resource Name="AG.SOLO.2013_RPT_SO_DTC.DESC" Type="System.String" FileName="" Value="CT-R002 Sale Order" />
   <Resource Name="AG.SOLO.LOSO_R_0001.DESC" Type="System.String" FileName="" Value="LOSO_R_0001 รายงานโอกาสทางการขาย" />
   <Resource Name="AG.SOLO.FOLDER_R02.DESC" Type="System.String" FileName="" Value="รายงานระบบโลจิสติกส์" />
   <Resource Name="AG.SOLO.LOLIS_R_0001.DESC" Type="System.String" FileName="" Value="LOLIS-R0001 รายงานการบันทึกการส่งสินค้า" />
@@ -3009,6 +3009,7 @@
   <Resource Name="AG.SOLO.LODO_R_0003.DESC" Type="System.String" FileName="" Value="LODO-R0003 รายงานตารางการส่งของตามใบส่งของ" />
   <Resource Name="AG.SOLO.LODO_R_0004.DESC" Type="System.String" FileName="" Value="LODO-R0004 รายงานตารางจัดส่งสินค้ารูปแบบ 2" />
   <Resource Name="AG.SOLO.FOLDER_R03.DESC" Type="System.String" FileName="" Value="รายงานการวางบิลแบบอื่นๆ" />
+  <Resource Name="AG.SOLO.SD_R_0005.DESC" Type="System.String" FileName="" Value="SD-R0005 List Of Billing Amortize Report" />
   <Resource Name="AG.PROCURE.FOLDER.DESC" Type="System.String" FileName="" Value="ระบบการจัดซื้อจัดจ้าง" />
   <Resource Name="AG.PROCURE.FOLDER01.DESC" Type="System.String" FileName="" Value="ข้อมูลหลักประวัติการซื้อ" />
   <Resource Name="AG.PROCURE.PO_M_0001.DESC" Type="System.String" FileName="" Value="ข้อมูลหลักประวัติการซื้อ" />
@@ -3027,7 +3028,7 @@
   <Resource Name="AG.PROCURE.PO_T_0004.DESC" Type="System.String" FileName="" Value="การยกเลิกใบสั่งซื้อแบบหลายรายการ" />
   <Resource Name="AG.PROCURE.2012_PR_MULTICANCEL.DESC" Type="System.String" FileName="" Value="การยกเลิกใบขอซื้อแบบหลายรายการ" />
   <Resource Name="AG.PROCURE.2012_PR_MULTICLOSE.DESC" Type="System.String" FileName="" Value="ปิดใบขอซื้อหลายรายการ" />
-  <Resource Name="AG.PROCURE.PROC_T_0007.DESC" Type="System.String" FileName="" Value="ปิดใบสั่งซื้อหลายรายการ" />
+  <Resource Name="AG.PROCURE.PROC_T_0007.DESC" Type="System.String" FileName="" Value="ปลดปล่อยใบสั่งซื้อหลายรายการ" />
   <Resource Name="AG.PROCURE.2012_PO_MULTICLOSE.DESC" Type="System.String" FileName="" Value="ปิดใบสั่งซื้อหลายรายการ" />
   <Resource Name="AG.PROCURE.MMPO_T_0001.DESC" Type="System.String" FileName="" Value="โปรแกรมอินเตอร์เฟซใบสั่งซื้อ" />
   <Resource Name="AG.PROCURE.FOLDER03.DESC" Type="System.String" FileName="" Value="เอกสารการบันทึกใบแจ้งหนี้" />
@@ -3184,11 +3185,190 @@
   <Resource Name="AG.IC.2013_CONFIRMTRNCONSIGNMENT.DESC" Type="System.String" FileName="" Value="ยืนยันการโอนสินค้าฝากขายอัตโนมัติ" />
   <Resource Name="AG.IC.2013_CONFIRMTRNCONSIGNMENT_RECEIVE.DESC" Type="System.String" FileName="" Value="ยืนยันการรับสินค้าฝากขายอัตโนมัติ" />
   <Resource Name="AG.IC.2014_GOODSRETURN_CONSIGNMENT.DESC" Type="System.String" FileName="" Value="การส่งคืนสินค้าฝากขาย" />
-  <Resource Name="AG.IC.FOLDER07.DESC" Type="System.String" FileName="" Value="บาร์โค้ด" />
+  <Resource Name="AG.IC.FOLDER07.DESC" Type="System.String" FileName="" Value="การจัดการข้อมูลบาร์โค้ด" />
   <Resource Name="AG.IC.FOLDER07_01.DESC" Type="System.String" FileName="" Value="การกำหนดข้อมูลหลักบาร์โค้ด" />
-  <Resource Name="AG.IC.FOLDER07_02.DESC" Type="System.String" FileName="" Value="กระบวนการบาร์โค้ด" />
+  <Resource Name="AG.IC.2014_MASTER_BARCODETYPE.DESC" Type="System.String" FileName="" Value="กำหนดประเภทบาร์โค้ด" />
+  <Resource Name="AG.IC.2014_MASTER_MAPPINGBARCODETYPE.DESC" Type="System.String" FileName="" Value="กำหนดประเภทบาร์โค้ดกับรหัสสินค้า" />
+  <Resource Name="AG.IC.FOLDER07_02.DESC" Type="System.String" FileName="" Value="เอกสารระบบบาร์โค้ด" />
+  <Resource Name="AG.IC.MBARCODE_T_0001.DESC" Type="System.String" FileName="" Value="รูปแบบบาร์โค๊ดสินค้า" />
+  <Resource Name="AG.IC.MBARCODE_T_0002.DESC" Type="System.String" FileName="" Value="สร้างบาร์โค๊ดสินค้า เวอร์ชั่น1" />
+  <Resource Name="AG.IC.2014_GENERATE_BARCODE.DESC" Type="System.String" FileName="" Value="สร้างบาร์โค๊ดสินค้า เวอร์ชั่น2" />
+  <Resource Name="AG.IC.MM_INVENTORY_BARCODE_0001.DESC" Type="System.String" FileName="" Value="บาร์โค้ดสินค้าคงคลัง" />
   <Resource Name="AG.IC.FOLDER_R01.DESC" Type="System.String" FileName="" Value="บัญชีสินค้าคงคลัง" />
+  <Resource Name="AG.IC.IC_T_0017.DESC" Type="System.String" FileName="" Value="การปิดยอดสินค้า ณ สิ้นเดือน" />
+  <Resource Name="AG.IC.IC_T_0018.DESC" Type="System.String" FileName="" Value="การประมวลผลต้นทุนสินค้าแบบ FIFO" />
+  <Resource Name="AG.IC.IC_T_0019.DESC" Type="System.String" FileName="" Value="การประมวลผลการลงบัญชีสินค้า" />
+  <Resource Name="AG.IC.IC_T_0021.DESC" Type="System.String" FileName="" Value="สร้างต้นทุนแฝงทางการเงิน" />
+  <Resource Name="AG.IC.2013_STOCK_REVALUATION.DESC" Type="System.String" FileName="" Value="การประเมินมูลค่าสินค้าคงคลัง" />
   <Resource Name="AG.IC.FOLDER_R02.DESC" Type="System.String" FileName="" Value="รายงานระบบการจัดการสินค้าคงคลัง" />
-  <Resource Name="AG.WMS.FOLDER.DESC" Type="System.String" FileName="" Value="ระบบจัดการคลังสินค้า" />
+  <Resource Name="AG.IC.IM_R_0001.DESC" Type="System.String" FileName="" Value="IM-R0001 รายงานสินค้าทั่วไป" />
+  <Resource Name="AG.IC.IC_R_0002.DESC" Type="System.String" FileName="" Value="IC-R0002 รายงานสินค้าและวัตถุดิบ" />
+  <Resource Name="AG.IC.IC_R_0003.DESC" Type="System.String" FileName="" Value="IC-R0003 รายงานใบเบิกสินค้า" />
+  <Resource Name="AG.IC.IC_R_0004.DESC" Type="System.String" FileName="" Value="IC-R0004 รายงานการรับสินค้ารูปแบบที่ 1" />
+  <Resource Name="AG.IC.IC_R_0005.DESC" Type="System.String" FileName="" Value="IC-R0005 รายงานใบส่งคืนสินค้า" />
+  <Resource Name="AG.IC.IC_R_0006.DESC" Type="System.String" FileName="" Value="IC-R0006 รายงานการเบิกสินค้า" />
+  <Resource Name="AG.IC.IC_R_0007.DESC" Type="System.String" FileName="" Value="IC-R0007 รายงานการรับสินค้า" />
+  <Resource Name="AG.IC.IC_R_0008.DESC" Type="System.String" FileName="" Value="IC-R0008 รายงานการส่งคืนสินค้า" />
+  <Resource Name="AG.IC.IC_R_0009.DESC" Type="System.String" FileName="" Value="IC-R0009 รายงานการขอโอนสินค้า" />
+  <Resource Name="AG.IC.IC_R_0010.DESC" Type="System.String" FileName="" Value="IC-R0010 รายงานใบขอโอนสินค้า" />
+  <Resource Name="AG.IC.IC_R_0011.DESC" Type="System.String" FileName="" Value="IC-R0011 รายงานสินค้าเคลื่อนไหวแบบ FIFO (แบบสินค้า)" />
+  <Resource Name="AG.IC.IC_R_0012.DESC" Type="System.String" FileName="" Value="IC-R0012 รายงานสินค้าคงเหลือแบบ FIFO" />
+  <Resource Name="AG.IC.IC_R_0013.DESC" Type="System.String" FileName="" Value="IC-R0013 รายงานการลงทะเบียนสินค้าคงคลัง" />
+  <Resource Name="AG.IC.IC_R_0014.DESC" Type="System.String" FileName="" Value="IC-R0014 รายงานมูลค่าสินค้าคงเหลือ" />
+  <Resource Name="AG.IC.IC_R_0015.DESC" Type="System.String" FileName="" Value="IC-R0015 รายงานวัสดุคงเหลือ" />
+  <Resource Name="AG.IC.IC_R_0016.DESC" Type="System.String" FileName="" Value="IC-R0016 รายงานการโอนสินค้า" />
+  <Resource Name="AG.IC.IC_R_0017.DESC" Type="System.String" FileName="" Value="IC-R0017 รายงานสินค้ารอโอน" />
+  <Resource Name="AG.IC.IC_R_0018.DESC" Type="System.String" FileName="" Value="IC-R0018 รายงานการปรับปรุงสินค้าคงคลัง" />
+  <Resource Name="AG.IC.IC_R_0019.DESC" Type="System.String" FileName="" Value="IC-R0019 รายงานดูสินค้าคงเหลือรายวัน" />
+  <Resource Name="AG.IC.IC_R_0020.DESC" Type="System.String" FileName="" Value="IC-R0020 รายงานดูสินค้าคงเหลือตามหน่วยจัดเก็บ" />
+  <Resource Name="AG.IC.IC_R_0021.DESC" Type="System.String" FileName="" Value="IC-R0021 รายงานการรับสินค้า เวอร์ชั่น 2" />
+  <Resource Name="AG.IC.IC_R_0022.DESC" Type="System.String" FileName="" Value="IC-R0022 รายงานการวิเคราะห์สินค้า" />
+  <Resource Name="AG.IC.IC_R_0023.DESC" Type="System.String" FileName="" Value="IC-R0023 รายงานค้างโอน-รอรับโอนสินค้า" />
+  <Resource Name="AG.IC.IC_R_0024.DESC" Type="System.String" FileName="" Value="IC-R0024 รายงานปรับปรุงสินค้าจากการนับ" />
+  <Resource Name="AG.IC.IC_R_0025.DESC" Type="System.String" FileName="" Value="IC-R0025 รายงานจำนวนสินค้า" />
+  <Resource Name="AG.IC.IC_R_0026.DESC" Type="System.String" FileName="" Value="IC-R0026 รายงานการเคลื่อนไหวสินค้ารูปแบบที่ 1" />
+  <Resource Name="AG.IC.IC_R_0027.DESC" Type="System.String" FileName="" Value="IC-R0027 รายงานการโอนสินค้าแสดงต้นทุน" />
+  <Resource Name="AG.IC.IC_R_0028.DESC" Type="System.String" FileName="" Value="IC-R0028 รายงานยอดสินค้ายอดคงเหลือแสดงราคา" />
+  <Resource Name="AG.IC.IC_R_0029.DESC" Type="System.String" FileName="" Value="IC-R0029 รายงานการเคลื่อนไหวสินค้ารูปแบบที่ 2" />
+  <Resource Name="AG.IC.IC_R_0030.DESC" Type="System.String" FileName="" Value="IC-R0030 รายงานยอดคงเหลือใบขอยืมสินค้า" />
+  <Resource Name="AG.IC.IC_R_0031.DESC" Type="System.String" FileName="" Value="IC-R0031 รายงานใบขอยืมสินค้า" />
+  <Resource Name="AG.IC.IC_R_0032.DESC" Type="System.String" FileName="" Value="IC-R0032 รายงานใบเบิกการยืมสินค้า" />
+  <Resource Name="AG.IC.IC_R_0033.DESC" Type="System.String" FileName="" Value="IC-R0033 รายงานใบคืนสินค้ายืม" />
+  <Resource Name="AG.IC.IC_R_0034.DESC" Type="System.String" FileName="" Value="IC-R0034 รายงานคุมบัญชีสินค้าคงคลังรูปแบบที่ 3" />
+  <Resource Name="AG.IC.IC_R_0036.DESC" Type="System.String" FileName="" Value="IC-R0036 รายงานยอดสินค้าคงเหลือ ณ สิ้นงวด" />
+  <Resource Name="AG.IC.IC_R_0038.DESC" Type="System.String" FileName="" Value="IC-R0038 Stock Over View By Date Report" />
+  <Resource Name="AG.IC.IC_R_0039.DESC" Type="System.String" FileName="" Value="IC-R0039 Stock Movement Ref. Consignment Report" />
+  <Resource Name="AG.IC.IM_R_0011.DESC" Type="System.String" FileName="" Value="IM-R0011 Minimum Stock Report" />
+  <Resource Name="AG.IC.2012_MM_R_0001.DESC" Type="System.String" FileName="" Value="2012MM-R0001 InventoryStatusReport" />
+  <Resource Name="AG.IC.2012_RPT_FG.DESC" Type="System.String" FileName="" Value="IC-R0040 FinishGoodsReport" />
+  <Resource Name="AG.IC.2014_REPORT_GOODSISSUERESERVATION.DESC" Type="System.String" FileName="" Value="IC-R0041 Reservation Report" />
+  <Resource Name="AG.IC.SUMMARYOFGOODSISSUEREPORT" Type="System.String" FileName="" Value="IC-R0042 Summary Of Goods Issue Report" />
+  <Resource Name="AG.IC.SUMMARYOFOUTSTANDINGGOODSISSUEREPORT" Type="System.String" FileName="" Value="IC-R0043 Summary Of Outstanding Goods Issue Report" />
+  <Resource Name="AG.IC.2015_Borrowdue.DESC" Type="System.String" FileName="" Value="IC-R0044 Borrow Duedate Report" />
+  <Resource Name="AG.IC.FOLDER_R03.DESC" Type="System.String" FileName="" Value="รายงานการเคลื่อนไหวสินค้า" />
+  <Resource Name="AG.IC.2014QCRAWMATERIAL_R_0001.DESC" Type="System.String" FileName="" Value="ICMOVE-R01 QC Raw Material Report" />
+  <Resource Name="AG.IC.2014_REPORT_TRANSFERCONSIGNMENTPRINT.DESC" Type="System.String" FileName="" Value="ICMOVE-R02 TransferConsignmentPrint Report" />
+  <Resource Name="AG.IC.FOLDER_R04.DESC" Type="System.String" FileName="" Value="รายงานสินค้าฝากขาย" />
+  <Resource Name="AG.IC.2013_CONSIGNMNET_INVENTORY_REPORT.DESC" Type="System.String" FileName="" Value="ICCON-R01 Consignment Inventory Report" />
+  <Resource Name="AG.IC.2013_R_CONSIGNMNET_INVENTORY_REPORT_NOTRECONCILE.DESC" Type="System.String" FileName="" Value="ICCON-R02 Consignment Inventory Report As OfDate Not ReConcile" />
+  <Resource Name="AG.IC.2013_CONSIGNMNET_INVENTORY_REPORT_ASOFDATE.DESC" Type="System.String" FileName="" Value="ICCON-R03 Consignment Invertory Report As Of Date" />
+  <Resource Name="AG.IC.FOLDER_R05.DESC" Type="System.String" FileName="" Value="รายงานวัสดุอุปกรณ์" />
+  <Resource Name="AG.IC.EQPM_R_0003.DESC" Type="System.String" FileName="" Value="EQPM-R0003 รายงานวัสดุอุปกรณ์" />
+  <Resource Name="AG.IC.2013_LIST_EQUIPMENT_RPT.DESC" Type="System.String" FileName="" Value="EQPM-R0001" />
+  <Resource Name="AG.WMS.FOLDER.DESC" Type="System.String" FileName="" Value="ระบบจัดการบริหารคลังสินค้า" />
+  <Resource Name="AG.WMS.FOLDER01.DESC" Type="System.String" FileName="" Value="ระบบเอกสารการบริหารคลังสินค้า" />
+  <Resource Name="AG.WMS.2017_CONFIRMBILLINGOUTSTANDING.DESC" Type="System.String" FileName="" Value="การยืนยันใบวางบิลคงค้าง" />
+  <Resource Name="AG.WMS.FOLDER_R01.DESC" Type="System.String" FileName="" Value="รายงานการบริหารคลังสินค้า" />
   <Resource Name="AG.PP.FOLDER.DESC" Type="System.String" FileName="" Value="ระบบวางแผนการผลิต" />
+  <Resource Name="AG.PP.FOLDER01.DESC" Type="System.String" FileName="" Value="ข้อมูลหลักการคิดต้นทุนการผลิต" />
+  <Resource Name="AG.PP.JOB_M_0005.DESC" Type="System.String" FileName="" Value="ต้นแบบสินค้าชุดเพื่อผลิต" />
+  <Resource Name="AG.PP.FOLDER02.DESC" Type="System.String" FileName="" Value="ระบบการจัดการและเอกสารการผลิต" />
+  <Resource Name="AG.PP.2013_TEMPLATE_MASTER_PLAN.DESC" Type="System.String" FileName="" Value="โครงสร้างข้อมูลหลักแผนการผลิตสำหรับสินค้าชุด" />
+  <Resource Name="AG.PP.PP_MULTIGENBOMANDPLAN_0001V2.DESC" Type="System.String" FileName="" Value="สร้างสินค้าชุดและสูตรแผนผลิตหลายรูปแบบ เวอร์ชั่น2" />
+  <Resource Name="AG.PP.2013_PRODUCTION_PLAN.DESC" Type="System.String" FileName="" Value="แผนการหลักสำหรับสายการผลิต" />
+  <Resource Name="AG.PP.2014_PRODUCTION_REQUEST.DESC" Type="System.String" FileName="" Value="ใบคำขอสำหรับการผลิต" />
+  <Resource Name="AG.PP.2013_PP_PRODUCTION_ORDER_REFSALEQUOTATION.DESC" Type="System.String" FileName="" Value="ประมาณการใบสั่งผลิตอ้างอิงใบเสนอราคา" />
+  <Resource Name="AG.PP.2013_PP_PRODUCTION_ORDER_REFSALEORDER.DESC" Type="System.String" FileName="" Value="ใบสั่งผลิต" />
+  <Resource Name="AG.PP.PP_JOBORDER_0001.DESC" Type="System.String" FileName="" Value="ใบสั่งงานอ้างอิงใบสั่งผลิต" />
+  <Resource Name="AG.PP.2013_PP_CAPACITYPLANNING.DESC" Type="System.String" FileName="" Value="การวางแผนกำลังการผลิต" />
+  <Resource Name="AG.PP.2013_PP_JOBORDERPLANNINGV2.DESC" Type="System.String" FileName="" Value="การควบคุมการผลิตระดับหน่วย เวอร์ชั่น2" />
+  <Resource Name="AG.PP.2013_PP_JOBORDERPLANNINGV3.DESC" Type="System.String" FileName="" Value="การควบคุมการผลิตระดับหน่วยอ้างอิงใบสั่งผลิต เวอร์ชั่น2" />
+  <Resource Name="AG.PP.PP_MULTIGENERATEJOBORDER.DESC" Type="System.String" FileName="" Value="สร้างใบสั่งงานแบบหลายใบ" />
+  <Resource Name="AG.PP.PP_GOODSISSUERAWMAT_0001.DESC" Type="System.String" FileName="" Value="ใบเบิกวัตถุดิบอ้างอิงใบสั่งงาน" />
+  <Resource Name="AG.PP.PP_GOODSISSUEFABRIC_0001.DESC" Type="System.String" FileName="" Value="ใบเบิกวัตถุดิบเสื้อผ้าอ้างอิงใบสั่งงาน" />
+  <Resource Name="AG.PP.IC_T_0020.DESC" Type="System.String" FileName="" Value="ใบโอนสินค้าระหว่างผลิต" />
+  <Resource Name="AG.PP.PP_M_0019.DESC" Type="System.String" FileName="" Value="การกำหนดค่าตั้งต้นสำหรับศูนย์ผลิต" />
+  <Resource Name="AG.PP.PP_T_0004.DESC" Type="System.String" FileName="" Value="การควบคุมการผลิตระดับหน่วยอ้างอิงใบสั่งผลิต เวอร์ชั่น1" />
+  <Resource Name="AG.PP.PP_T_0002.DESC" Type="System.String" FileName="" Value="ยกเลิกใบสั่งงานผลิตหลายใบ" />
+  <Resource Name="AG.PP.PP_T_0003.DESC" Type="System.String" FileName="" Value="ปิดใบสั่งงานผลิตหลายใบ" />
+  <Resource Name="AG.PP.PP_M_0020.DESC" Type="System.String" FileName="" Value="อัพโหลดเวลาทำงาน" />
+  <Resource Name="AG.PP.FOLDER03.DESC" Type="System.String" FileName="" Value="ระบบจัดการแผนการผลิตเกี่ยวกับเสื้อผ้า" />
+  <Resource Name="AG.PP.FOLDER03_01.DESC" Type="System.String" FileName="" Value="กำหนดข้อมูลหลักวิธีการมัดย้อม" />
+  <Resource Name="AG.PP.DYEDPROCESS_M_0001.DESC" Type="System.String" FileName="" Value="ข้อมูลหลักขั้นตอนการย้อม" />
+  <Resource Name="AG.PP.COLORGROUP_M_0001.DESC" Type="System.String" FileName="" Value="การกำหนดค่ากลุ่มสีผ้าในการย้อม" />
+  <Resource Name="AG.PP.FABICTYPE_M_0001.DESC" Type="System.String" FileName="" Value="การกำหนดค่าประเภทผ้าในการย้อม" />
+  <Resource Name="AG.PP.SCORE_M_0001.DESC" Type="System.String" FileName="" Value="การกำหนดค่าคะแนนย้อม" />
+  <Resource Name="AG.PP.DATACOLORMAIN_M_0001.DESC" Type="System.String" FileName="" Value="การกำหนดสีและเคมีที่ใช้กับชุดงานย้อม" />
+  <Resource Name="AG.PP.DESIGN_M_0001.DESC" Type="System.String" FileName="" Value="การกำหนดรูปแบบผ้า" />
+  <Resource Name="AG.PP.DYEDTYPE_M_0001.DESC" Type="System.String" FileName="" Value="การกำหนดประเภทงานย้อม" />
+  <Resource Name="AG.PP.DATACOLOR_M_0001.DESC" Type="System.String" FileName="" Value="การกำหนดประเภทซีซัน (ผ้า/สี/ชุดการย้อม)" />
+  <Resource Name="AG.PP.PP_M_0001.DESC" Type="System.String" FileName="" Value="การกำหนดกลุ่มงานการย้อม" />
+  <Resource Name="AG.PP.PP_M_0002.DESC" Type="System.String" FileName="" Value="การกำหนดกลุ่มงานย้อมเข้ากับขั้นตอนย้อม" />
+  <Resource Name="AG.PP.PP_M_0012.DESC" Type="System.String" FileName="" Value="การกำหนดหม้อย้อม" />
+  <Resource Name="AG.PP.PP_M_0013.DESC" Type="System.String" FileName="" Value="การกำหนดหม้อย้อมกับกลุ่มผ้าและน้ำหนัก" />
+  <Resource Name="AG.PP.FOLDER03_02.DESC" Type="System.String" FileName="" Value="กระบวนการย้อม" />
+  <Resource Name="AG.PP.2013_PP_ORDERSHEET_DYED.DESC" Type="System.String" FileName="" Value="ใบขอย้อม" />
+  <Resource Name="AG.PP.2013_PP_JOBS_DYEING.DESC" Type="System.String" FileName="" Value="อัพเดทใบงานสั่งย้อมต่อหม้อ" />
+  <Resource Name="AG.PP.PP_DYEORDER_T_0001.DESC" Type="System.String" FileName="" Value="ใบสั่งย้อม" />
+  <Resource Name="AG.PP.FOLDER_R01.DESC" Type="System.String" FileName="" Value="รายงานการวางแผนการผลิต" />
+  <Resource Name="AG.PP.PP_R_0003.DESC" Type="System.String" FileName="" Value="รายงานแสดงมูลค่าของการผลิต" />
+  <Resource Name="AG.PP.PP_R_0013.DESC" Type="System.String" FileName="" Value="รายงานการใช้วัตถุดิบจากใบสั่งงาน" />
+  <Resource Name="AG.PP.PP_R_0004.DESC" Type="System.String" FileName="" Value="รายงานแสดงความเคลื่อนไหวของใบสั่งผลิต" />
+  <Resource Name="AG.PP.PP_R_0005.DESC" Type="System.String" FileName="" Value="รายงานการวางแผนรายวันของการผลิตระดับหน่วย" />
+  <Resource Name="AG.PP.PP_R_0006.DESC" Type="System.String" FileName="" Value="รายงานการเปรียบเทียบใบสั่งผลิตรายวัน" />
+  <Resource Name="AG.PP.PP_R_0007.DESC" Type="System.String" FileName="" Value="รายงานแสดงยอดสินค้าที่ผลิตเสร็จสิ้นอ้างอิงใบสั่งผลิต" />
+  <Resource Name="AG.PP.PP_R_0008.DESC" Type="System.String" FileName="" Value="รายงานติดตามการทำงานของแต่ละหน่วยงาน" />
+  <Resource Name="AG.PP.PP_R_0014.DESC" Type="System.String" FileName="" Value="รายงานรายการแผนการผลิต" />
+  <Resource Name="AG.PP.PP_R_0019.DESC" Type="System.String" FileName="" Value="รายงานแสดงประมาณการการผลิตอ้างอิงใบสั่งผลิต" />
+  <Resource Name="AG.PP.PP_R_0023.DESC" Type="System.String" FileName="" Value="รายงานแสดงต้นทุนผลิตตามวัตถุดิบที่ใช้" />
+  <Resource Name="AG.PP.MMBOM_R_0001.DESC" Type="System.String" FileName="" Value="รายงานแสดงรายละเอียดของสูตรสินค้าชุด" />
+  <Resource Name="AG.PP.PP_SHOPFLOORPLANNINGREPORT_0001.DESC" Type="System.String" FileName="" Value="พิมพ์แบบฟอร์มใบสั่งงาน" />
+  <Resource Name="AG.PP.2013_PP_PRODUCTION_SCHEDULE.DESC" Type="System.String" FileName="" Value="รายงานกำหนดการผลิต" />
+  <Resource Name="AG.PP.COST_R_0007.DESC" Type="System.String" FileName="" Value="รายงานแสดงต้นทุนสูตรการผลิต" />
+  <Resource Name="AG.PP.2014SOTOJOBORDER_R_0001.DESC" Type="System.String" FileName="" Value="รายงานการติดตามการผลิตอ้างอิงใบสั่งขาย" />
+  <Resource Name="AG.PP.2014MAKETOSTOCK_R_0001.DESC" Type="System.String" FileName="" Value="รายงานแสดงข้อมูลของการผลิตของเข้าคลัง" />
+  <Resource Name="AG.PP.ProductionStatus_P_0001.DESC" Type="System.String" FileName="" Value="รายงานแสดงรายละเอียดใบสั่งผลิต" />
+  <Resource Name="AG.PP.SummaryProductionPlan_P_0001.DESC" Type="System.String" FileName="" Value="รายงานสรุปยอดของแผนการผลิต (จริงVSแผน)" />
+  <Resource Name="AG.PP.PerformanceofProduction_P_0001.DESC" Type="System.String" FileName="" Value="รายงานประสิทธิภาพการผลิต" />
+  <Resource Name="AG.PP.2013_PRD_PART_LIST_RPT.DESC" Type="System.String" FileName="" Value="รายงานแสดงวัตถุดิบที่ใช้สำหรับสูตรการผลิต" />
+  <Resource Name="AG.PP.2013_PRD_PLAN_ESTTIME_RPT.DESC" Type="System.String" FileName="" Value="รายงานแสดงเวลาที่ใช้ในแต่ละขั้นตอนของสูตรการผลิต" />
+  <Resource Name="AG.PP.ZSPDT0014" Type="System.String" FileName="" Value="รายงานรายละเอียดสูตรการผลิต" />
+  <Resource Name="AG.MRP.FOLDER.DESC" Type="System.String" FileName="" Value="ระบบการวางแผนความต้องการวัตถุดิบและสินค้า" />
+  <Resource Name="AG.MRP.FOLDER01.DESC" Type="System.String" FileName="" Value="เอกสารการวางแผนการสั่งซื้อวัสดุให้ทันเวลา" />
+  <Resource Name="AG.MRP.JIT_C_0001.DESC" Type="System.String" FileName="" Value="การวางแผนความต้องการโดยคำนวณจากเอกสารจัดซื้อ" />
+  <Resource Name="AG.MRP.JIT_C_0002.DESC" Type="System.String" FileName="" Value="การวางแผนความต้องการโดยคำนวณจากเอกสารการขาย" />
+  <Resource Name="AG.MRP.JIT_T_0003.DESC" Type="System.String" FileName="" Value="ข้อมูลแนะนำสำหรับความต้องการวัตถุดิบและสินค้า" />
+  <Resource Name="AG.MRP.FOLDER02.DESC" Type="System.String" FileName="" Value="รายงานการวางแผนการสั่งซื้อวัสดุให้ทันเวลา" />
+  <Resource Name="AG.MRP.2012_JIT_0001.DESC" Type="System.String" FileName="" Value="JIT-R0001 รายงานการวางแผนการสั่งซื้อวัสดุอ้างอิงใบขอซื้อ" />
+  <Resource Name="AG.SUPERHERO.FOLDER.DESC" Type="System.String" FileName="" Value="ระบบจัดการระบบแบบซูเปอร์ฮีโร่" />
+  <Resource Name="AG.SUPERHERO.CONF_M_0001.DESC" Type="System.String" FileName="" Value="CONF-M0001 การกำหนดค่าพื้นฐานหน้าจอต่างๆ" />
+  <Resource Name="AG.SUPERHERO.FIAR_R_0008.DESC" Type="System.String" FileName="" Value="FIAR-R0008 การกำหนดข้อมูลรายงานไอแอมมาร์จิ้น" />
+  <Resource Name="AG.SUPERHERO.FI_C_0005.DESC" Type="System.String" FileName="" Value="FI-C0005 การกำหนดรูปแบบสรุปข้อมูลไอแอมมาร์จิ้น" />
+  <Resource Name="AG.SUPERHERO.2015_LOG_0001.DESC" Type="System.String" FileName="" Value="LOG-0001 การบันทึกช่วงหมายเลขสำหรับระบบ" />
+  <Resource Name="AG.SUPERHERO.2015_LOGCONF_0001.DESC" Type="System.String" FileName="" Value="LOGCONF-0001 กำหนดตารางเก็บข้อมูลสำหรับเอกสารรายการ" />
+  <Resource Name="AG.SUPERHERO.2015_LOGCONFCOLUMN_0001.DESC" Type="System.String" FileName="" Value="LOGCONFCOLUMN-0001 กำหนดคอลัมน์เก็บข้อมูลสำหรับเอกสารรายการ" />
+  <Resource Name="AG.SUPERHERO.UME_M_0004.DESC" Type="System.String" FileName="" Value="UME-M0004 การกำหนดรหัสผ่านครั้งเดียว" />
+  <Resource Name="AG.SUPERHERO.2012_DOCFLOW_0001.DESC" Type="System.String" FileName="" Value="DOCFLOW-0001 กำหนดการเก็บการไหลของเอกสาร" />
+  <Resource Name="AG.SUPERHERO.2012_TOOLS_SQL_0001.DESC" Type="System.String" FileName="" Value="SQLTOOLS-0001 การเรียกใช้สคริปต์เพื่ออัปเดตเวอร์ชัน" />
+  <Resource Name="AG.SUPERHERO.2012_CONF_FRM_RPT.DESC" Type="System.String" FileName="" Value="CONF-FRM การกำหนดหน้าจอรายงานและแบบฟอร์มของระบบ" />
+  <Resource Name="AG.AUTHUSER.FOLDER.DESC" Type="System.String" FileName="" Value="การควบคุมสิทธิผู้ใช้งาน" />
+  <Resource Name="AG.AUTHUSER.FOLDER01.DESC" Type="System.String" FileName="" Value="การกำหนดและการจัดการสิทธิผู้ใช้งาน" />
+  <Resource Name="AG.AUTHUSER.USR02_M_0001.DESC" Type="System.String" FileName="" Value="USR02-M0001 การกำหนดเงื่อนไขการตั้งรหัสผ่าน" />
+  <Resource Name="AG.AUTHUSER.2015_AUTH_REPORT.DESC" Type="System.String" FileName="" Value="2015AUTH-REPORT รายการแสดงสิทธิ์ผู้ใช้งานในระบบโฟกัสวัน" />
+  <Resource Name="AG.AUTHUSER.UME_M_0001.DESC" Type="System.String" FileName="" Value="UME-M0001 ข้อมูลหลักสิทธิผู้ใช้งาน" />
+  <Resource Name="AG.AUTHUSER.UME_M_0002.DESC" Type="System.String" FileName="" Value="UME-M0002 บทบาทสิทธิผู้ใช้งาน" />
+  <Resource Name="AG.AUTHUSER.UME_M_0003.DESC" Type="System.String" FileName="" Value="UME-M0003 กำหนดข้อมูลตั้งต้นของผู้ใช้งาน" />
+  <Resource Name="AG.AUTHUSER.AUTH_M_0004.DESC" Type="System.String" FileName="" Value="AUTH-M0004 กำหนดบทบาทกับสิทธิ์กับผู้ใช้งาน" />
+  <Resource Name="AG.AUTHUSER.AUTH_M_0005.DESC" Type="System.String" FileName="" Value="AUTH-M0005 กำหนดสิทธิ์กับบทบาทและรหัสโปรแกรม" />
+  <Resource Name="AG.AUTHUSER.AUTH_M_0006.DESC" Type="System.String" FileName="" Value="AUTH-M0006 กำหนดผู้ใช้งานกับสิทธิ์ผู้ใช้งานสำหรับเว็บ" />
+  <Resource Name="AG.AUTHUSER.AUTH_M_0008.DESC" Type="System.String" FileName="" Value="AUTH-M0008 กำหนดประเภทบทบาทและสิทธิ์ของผู้ใช้งาน" />
+  <Resource Name="AG.AUTHUSER.FOLDER02.DESC" Type="System.String" FileName="" Value="การกำหนดข้อมูลทั่วไปสิทธิผู้ใช้งาน" />
+  <Resource Name="AG.AUTHUSER.2012_AUTH_0002.DESC" Type="System.String" FileName="" Value="2012AUTH-0002 กำหนดสิทธิ์ย่อยในแต่ละโปรแกรม" />
+  <Resource Name="AG.AUTHUSER.2012_AUTH_0001.DESC" Type="System.String" FileName="" Value="2012AUTH-0001 กำหนดสิทธิ์กับโปรแกรม Mapping Role กับ ProgramID" />
+  <Resource Name="AG.SYSTEM.FOLDER.DESC" Type="System.String" FileName="" Value="การควบคุมการจัดการระบบ" />
+  <Resource Name="AG.SYSTEM.FOLDER01.DESC" Type="System.String" FileName="" Value="การกำหนดระบบบันทึกการใช้งาน" />
+  <Resource Name="AG.SYSTEM.SYS_T_0002.DESC" Type="System.String" FileName="" Value="SYS-T0002 รูปแบบการดูข้อมูลจากการบันทึก" />
+  <Resource Name="AG.SYSTEM.SYS_T_0003.DESC" Type="System.String" FileName="" Value="SYS-T0003 ช่วงเวลาในการใช้งานระบบของผู้ใช้งาน" />
+  <Resource Name="AG.SYSTEM.SYS_T_0004.DESC" Type="System.String" FileName="" Value="SYS-T0004 การจัดการบัฟเฟอร์ระบบ" />
+  <Resource Name="AG.SYSTEM.2013LOGPROGRAMREPORT" Type="System.String" FileName="" Value="2013-RPTLOG รายงานประวัติการใช้งานโปรแกรมของผู้ใช้งาน" />
+  <Resource Name="AG.SYSTEM.2012_USR_0001.DESC" Type="System.String" FileName="" Value="2012-USR0001 การจัดการบทบาทกับสิทธิ์กับผู้ใช้งาน" />
+  <Resource Name="AG.SYSTEM.SYS_T_9999.DESC" Type="System.String" FileName="" Value="SYS-T9999 การจัดการระบบเมนู" />
+  <Resource Name="AG.SYSTEM.2014_FOBGP_CONFIG_V2.DESC" Type="System.String" FileName="" Value="2014-FOBGPV2 การกำหนดค่าเสริชเฮลป์ เวอร์ชั่น2" />
+  <Resource Name="AG.SYSTEM.FOLDER_R01.DESC" Type="System.String" FileName="" Value="รายงานระบบบันทึกการใช้งาน" />
+  <Resource Name="AG.SYSTEM.LOG_R_0001.DESC" Type="System.String" FileName="" Value="LOG-R0001 รายงานการใช้ระบบ (รับรองจากกรมสรรพากร)" />
+  <Resource Name="AG.SYSTEM.LOG_R_0002.DESC" Type="System.String" FileName="" Value="LOG-R0002 รายงานตรวจสอบการใช้ระบบ (รับรองจากกรมสรรพากร)" />
+  <Resource Name="AG.SYSTEM.LOG_R_0003.DESC" Type="System.String" FileName="" Value="LOG-R0003 รายงานตรวจสอบประเภทเอกสารของระบบ (รับรองจากกรมสรรพากร)" />
+  <Resource Name="AG.SYSTEM.UMEROLE_R_0001.DESC" Type="System.String" FileName="" Value="UME-ROLE0001 รายงานแสดงรายการสิทธิ์การใช้งาน" />
+  <Resource Name="AG.SYSTEM.UME_R_0001.DESC" Type="System.String" FileName="" Value="UME-R0001 รายงานแสดงผู้ใช้งานในระบบ" />
+  <Resource Name="AG.SYSTEM.2012_LOGIN_LOG.DESC" Type="System.String" FileName="" Value="2012-LOGINLOG รายงานการเข้าสู่ระบบ" />
 </Resources>
