@@ -6202,13 +6202,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.GIOutsource.dll</FileName>
-        <FileVersion>3.1.19.0</FileVersion>
-        <ProductVersion>3.1.19.0</ProductVersion>
+        <FileVersion>3.1.19.1</FileVersion>
+        <ProductVersion>3.1.19.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.GROutsource.dll</FileName>
-        <FileVersion>3.1.19.0</FileVersion>
-        <ProductVersion>3.1.19.0</ProductVersion>
+        <FileVersion>3.1.19.1</FileVersion>
+        <ProductVersion>3.1.19.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.ImportMaterialMaster.dll</FileName>
@@ -6282,8 +6282,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.POOutsource.dll</FileName>
-        <FileVersion>3.1.34.0</FileVersion>
-        <ProductVersion>3.1.34.0</ProductVersion>
+        <FileVersion>3.1.34.1</FileVersion>
+        <ProductVersion>3.1.34.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.PackingList.dll</FileName>
@@ -6522,8 +6522,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.RB.dll</FileName>
-        <FileVersion>3.1.103.1</FileVersion>
-        <ProductVersion>3.1.103.1</ProductVersion>
+        <FileVersion>3.1.104.0</FileVersion>
+        <ProductVersion>3.1.104.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Remote.APInvoiceNoRefPo.dll</FileName>
@@ -9907,8 +9907,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>3.2.19.4</FileVersion>
-        <ProductVersion>3.2.19.4</ProductVersion>
+        <FileVersion>3.2.19.5</FileVersion>
+        <ProductVersion>3.2.19.5</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
