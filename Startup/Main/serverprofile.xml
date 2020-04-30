@@ -2,8 +2,14 @@
 <DocumentElement>
   <Connection>
     <ApplicationID>5001</ApplicationID>
-    <ApplicationName>INET UAT</ApplicationName>
-    <Host>203.150.109.150</Host>
+    <ApplicationName>TTE TEST</ApplicationName>
+    <Host>192.168.1.96</Host>
     <Port>5001</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>5002</ApplicationID>
+    <ApplicationName>ANT TEST</ApplicationName>
+    <Host>192.168.1.96</Host>
+    <Port>5002</Port>
   </Connection>
 </DocumentElement>
