@@ -1,9 +1,9 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
   <Connection>
-    <ApplicationID>9001</ApplicationID>
-    <ApplicationName>SLSN PRD</ApplicationName>
+    <ApplicationID>9011</ApplicationID>
+    <ApplicationName>SLTS PRD</ApplicationName>
     <Host>203.154.41.73</Host>
-    <Port>9001</Port>
+    <Port>9011</Port>
   </Connection>
 </DocumentElement>
