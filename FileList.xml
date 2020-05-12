@@ -5172,8 +5172,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DLL</FileName>
-        <FileVersion>3.1.96.0</FileVersion>
-        <ProductVersion>3.1.96.0</ProductVersion>
+        <FileVersion>3.1.97.0</FileVersion>
+        <ProductVersion>3.1.97.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DocumentStatus.dll</FileName>
@@ -5517,8 +5517,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.28.0</FileVersion>
-        <ProductVersion>3.2.28.0</ProductVersion>
+        <FileVersion>3.2.29.0</FileVersion>
+        <ProductVersion>3.2.29.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
