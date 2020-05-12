@@ -1,6 +1,5 @@
 <?xml version="1.0"?>
 <Resources Extension=".resources">
-  <Resource Name="Account Key FI" Type="System.String" FileName="" Value="1. Define Account Posting Key" />
   <Resource Name="AddIns.ProjectImportExporter.ExportProjectDialog.DialogName" Type="System.String" FileName="" Value="Export Project" />
   <Resource Name="AddIns.ProjectImportExporter.ExportProjectDialog.ExportGroupBox" Type="System.String" FileName="" Value="Export" />
   <Resource Name="AddIns.ProjectImportExporter.ExportProjectDialog.OutputFormatLabel" Type="System.String" FileName="" Value="Output &amp;format" />
@@ -14,35 +13,7 @@
   <Resource Name="AddIns.ProjectImportExporter.ImportProjectDialog.SupportedFormatsLabel" Type="System.String" FileName="" Value="Supported formats:" />
   <Resource Name="Agape.Services.FileUtilityService.CantLoadFileStandardText" Type="System.String" FileName="" Value="Can't load file ${FileNameWithoutPath} under ${Path}.&#xA;Check the file permission and the existence of that file." />
   <Resource Name="Agape.Services.FileUtilityService.CantSaveFileStandardText" Type="System.String" FileName="" Value="Can't save file ${FileNameWithoutPath} under ${Path}.&#xA;Choose another file name or check if the directory exists and that&#xA;you have write permission in that path and file. (maybe a write protection problem?)&#xA;" />
-  <Resource Name="agLabel1" Type="System.String" FileName="" Value="Job Order Type" />
-  <Resource Name="agLabel10" Type="System.String" FileName="" Value="Job Distributed By" />
-  <Resource Name="agLabel11" Type="System.String" FileName="" Value="Actual Time Closed" />
-  <Resource Name="agLabel12" Type="System.String" FileName="" Value="Plan End Time" />
-  <Resource Name="agLabel13" Type="System.String" FileName="" Value="Plan Start Time" />
-  <Resource Name="agLabel14" Type="System.String" FileName="" Value="Actual Date Open" />
-  <Resource Name="agLabel15" Type="System.String" FileName="" Value="Actual Time Open" />
-  <Resource Name="agLabel16" Type="System.String" FileName="" Value="Item Status" />
-  <Resource Name="agLabel17" Type="System.String" FileName="" Value="Business Type" />
-  <Resource Name="agLabel18" Type="System.String" FileName="" Value="Response By" />
-  <Resource Name="agLabel19" Type="System.String" FileName="" Value="Movement No" />
-  <Resource Name="agLabel2" Type="System.String" FileName="" Value="Job Order Number" />
-  <Resource Name="agLabel20" Type="System.String" FileName="" Value="Movement Type" />
-  <Resource Name="agLabel21" Type="System.String" FileName="" Value="Movement Year" />
-  <Resource Name="agLabel22" Type="System.String" FileName="" Value="Plan Start Date" />
-  <Resource Name="agLabel23" Type="System.String" FileName="" Value="Actual Start Date" />
-  <Resource Name="agLabel24" Type="System.String" FileName="" Value="Plan End Date" />
-  <Resource Name="agLabel25" Type="System.String" FileName="" Value="Actual End Date" />
-  <Resource Name="agLabel3" Type="System.String" FileName="" Value="Job Header Status" />
-  <Resource Name="agLabel4" Type="System.String" FileName="" Value="Document Year" />
-  <Resource Name="agLabel5" Type="System.String" FileName="" Value="Plan Start Date" />
-  <Resource Name="agLabel6" Type="System.String" FileName="" Value="Plan End Date" />
-  <Resource Name="agLabel7" Type="System.String" FileName="" Value="Actual Date Closed" />
-  <Resource Name="agLabel8" Type="System.String" FileName="" Value="Job Responsed By" />
-  <Resource Name="agLabel9" Type="System.String" FileName="" Value="Document Date" />
-  <Resource Name="Assign Cost Element to Cost Center" Type="System.String" FileName="" Value="6. Assign Cost Element to Cost Center" />
-  <Resource Name="AssignFromToDoctype" Type="System.String" FileName="" Value="Mapping Reimburse Form to Doc Type" />
-  <Resource Name="AuthRole Assignment" Type="System.String" FileName="" Value="Assign Role Authorization To User " />
-  <Resource Name="AuthRole Detail" Type="System.String" FileName="" Value="Define Role " />
+  <Resource Name="Asset Administrative Module" Type="System.String" FileName="" Value="การกำหนดข้อมูลพื้นฐานของระบบสินทรัพย์" />
   <Resource Name="BackendBindings.CompilerOptions.CodeGeneration" Type="System.String" FileName="" Value="Code Generation" />
   <Resource Name="BackendBindings.CompilerOptions.CodeGeneration.DebugMode" Type="System.String" FileName="" Value="Emit debugging information" />
   <Resource Name="BackendBindings.CompilerOptions.CodeGeneration.DebugMode.Description" Type="System.String" FileName="" Value="Emits debugging information as PDB files (/debug[+|-])." />
@@ -70,27 +41,12 @@
   <Resource Name="BackendBindings.CompilerOptions.WarningAndErrorCategory.WarningLevel" Type="System.String" FileName="" Value="Warning level" />
   <Resource Name="BackendBindings.CompilerOptions.WarningAndErrorCategory.WarningLevel.Description" Type="System.String" FileName="" Value="Set the warning level (0-4) (/warn:&lt;n&gt;)." />
   <Resource Name="BackendBindings.ExecutionManager.CantExecuteDLLError" Type="System.String" FileName="" Value="Project is configured as dll and no execution command is specified.&#xA;You can specifiy an execution command in the project options." />
-  <Resource Name="BillBlockCode" Type="System.String" FileName="" Value="Billing Block Code" />
-  <Resource Name="Budget Assignment" Type="System.String" FileName="" Value="Setup Budget Allocation " />
-  <Resource Name="ChangeCs_JobOrder_ViewName" Type="System.String" FileName="" Value="Edit Claim-Job Order Note" />
   <Resource Name="CompilerResultView.DescriptionText" Type="System.String" FileName="" Value="Description" />
   <Resource Name="CompilerResultView.FileText" Type="System.String" FileName="" Value="File" />
   <Resource Name="CompilerResultView.LineText" Type="System.String" FileName="" Value="Line" />
   <Resource Name="CompilerResultView.PathText" Type="System.String" FileName="" Value="Path" />
-  <Resource Name="ConfigSBDocumentType" Type="System.String" FileName="" Value="Define SB Doc type" />
-  <Resource Name="ConfigSBMappingNr" Type="System.String" FileName="" Value="Assign SB Doc type to No Range" />
-  <Resource Name="ConfigSBNumberRange" Type="System.String" FileName="" Value="Define SB Doc No Range" />
-  <Resource Name="Cost Center Group" Type="System.String" FileName="" Value="1. Define Cost Center Group" />
-  <Resource Name="Cost Element Group" Type="System.String" FileName="" Value="3. Define Cost Element Group" />
-  <Resource Name="Cost Element Hierarchy" Type="System.String" FileName="" Value="5. Define Define Cost Element Hierachy" />
-  <Resource Name="CostCenter" Type="System.String" FileName="" Value="2. Define Cost Center" />
-  <Resource Name="CostElement" Type="System.String" FileName="" Value="4. Define Cost Element" />
-  <Resource Name="CostElementPlanning" Type="System.String" FileName="" Value="10. Setup Cost Element Plan Version" />
-  <Resource Name="CreateCs_JobOrder_ViewName" Type="System.String" FileName="" Value="Create Claim-Job Order Note" />
   <Resource Name="CSharpBinding.OutputOptionsPanel.InvalidAssemblyNameError" Type="System.String" FileName="" Value="Invalid assembly name specified." />
   <Resource Name="CSharpBinding.OutputOptionsPanel.InvalidOutputDirectoryError" Type="System.String" FileName="" Value="Invalid output directory specified." />
-  <Resource Name="Cycle Period Status" Type="System.String" FileName="" Value="9. Cycle Period Status" />
-  <Resource Name="Description" Type="System.String" FileName="" Value="Description" />
   <Resource Name="Dialog.About.ChangeLogTabName" Type="System.String" FileName="" Value="ChangeLog" />
   <Resource Name="Dialog.About.DialogName" Type="System.String" FileName="" Value="About SharpDevelop" />
   <Resource Name="Dialog.About.label1Text" Type="System.String" FileName="" Value="Version" />
@@ -591,9 +547,6 @@
   <Resource Name="Dialogs.TestEnvironment.TestsGroupBoxText" Type="System.String" FileName="" Value="Tests" />
   <Resource Name="Dialogs.TestEnvironment.TestsMessage" Type="System.String" FileName="" Value="Tests" />
   <Resource Name="Dialogs.TestEnvironment.TimeMessage" Type="System.String" FileName="" Value="Time" />
-  <Resource Name="Display Multi PO" Type="System.String" FileName="" Value="Display Multi PO" />
-  <Resource Name="DisplayCs_JobOrder_ViewName" Type="System.String" FileName="" Value="Display Claim-Job Order Note" />
-  <Resource Name="ExchangeTypeCodeMaster" Type="System.String" FileName="" Value="Define Exchange Rate Type" />
   <Resource Name="Fileutility.CantFindFileError" Type="System.String" FileName="" Value="Can't load ${File}.File not found." />
   <Resource Name="FileUtilityService.ErrorWhileLoading" Type="System.String" FileName="" Value="Error while loading" />
   <Resource Name="FileUtilityService.ErrorWhileSaving" Type="System.String" FileName="" Value="Error while saving" />
@@ -631,7 +584,6 @@
   <Resource Name="Global.WarningText" Type="System.String" FileName="" Value="Warning" />
   <Resource Name="Gui.ProjectBrowser.FileInUseError" Type="System.String" FileName="" Value="File or directory name is already in use, choose a different one." />
   <Resource Name="Gui.ProjectBrowser.IllegalCharactersInFileNameError" Type="System.String" FileName="" Value="The file name you have chosen contains illegal characters. Please choose a different file name." />
-  <Resource Name="HeadofficeCreditCard" Type="System.String" FileName="" Value="Master Credit Card" />
   <Resource Name="ICSharpCode.AssemblyAnalyser.AssemblyCantBeLoaded.Description" Type="System.String" FileName="" Value="Assembly can't be loaded" />
   <Resource Name="ICSharpCode.AssemblyAnalyser.AssemblyCantBeLoaded.Details" Type="System.String" FileName="" Value="When an assembly can't be loaded it indicates that the format is corrupt. This means that the .dll or .exe might not be in a managed .NET format or that the file was altered (in this case recompile might help)." />
   <Resource Name="ICSharpCode.AssemblyAnalyser.AssemblyCantBeLoaded.Resolution" Type="System.String" FileName="" Value="Sorry I can't give a solution. I couldn't analyse the assembly &lt;code&gt;${FileName}&lt;/code&gt; because of loading errors. &lt;BR&gt;Exception was:&lt;b&gt;${ExceptionMessage}&lt;/b&gt;" />
@@ -1000,11 +952,6 @@
   <Resource Name="MainWindow.Windows.TextlibLabel" Type="System.String" FileName="" Value="Textlib" />
   <Resource Name="MainWindow.Windows.ToolbarLabel" Type="System.String" FileName="" Value="Tools" />
   <Resource Name="MainWindow.Windows.TreeMenuScoutLabel" Type="System.String" FileName="" Value="Menu" />
-  <Resource Name="MasterAgent" Type="System.String" FileName="" Value="Define Agent Type " />
-  <Resource Name="MasterLevel" Type="System.String" FileName="" Value="Define Workflow Level (Header/Item)" />
-  <Resource Name="MasterPostingType" Type="System.String" FileName="" Value="3. Assign Post Group to Post Type" />
-  <Resource Name="MaterialType" Type="System.String" FileName="" Value="1. Define GL to Material Type" />
-  <Resource Name="MaterMaterialCode" Type="System.String" FileName="" Value="2. Define GL to Mat Code" />
   <Resource Name="MysticDrawDialog.Options.PrjOptions.Configuration.ExecuteScriptGroupBox.ExecuteCommandLabel" Type="System.String" FileName="" Value="Execute Command" />
   <Resource Name="NewProject.SearchReplace.Directory" Type="System.String" FileName="" Value="Directory" />
   <Resource Name="NewProject.SearchReplace.FileMask" Type="System.String" FileName="" Value="Filemask" />
@@ -1118,6 +1065,9 @@
   <Resource Name="OpenFileTabEventHandler.ContextMenu.Save" Type="System.String" FileName="" Value="S&amp;ave" />
   <Resource Name="OpenFileTabEventHandler.ContextMenu.SaveAs" Type="System.String" FileName="" Value="Save A&amp;s..." />
   <Resource Name="OpenFileTabEventHandler.CopyPathName" Type="System.String" FileName="" Value="Copy file path/name" />
+  <Resource Name="Petty Cash Advance Management" Type="System.String" FileName="" Value="ระบบเงินสดย่อยและเงินทดรอง" />
+  <Resource Name="Petty Cash Master" Type="System.String" FileName="" Value="ข้อมูลหลักเงินสดย่อย" />
+  <Resource Name="PettyCashFloatMaster" Type="System.String" FileName="" Value="ทะเบียนเงินสดย่อย" />
   <Resource Name="Plugins.Wizards.MessageBoxBuilder.DialogPanels.CodeGenerationPanel.CodeGenerationGroupBox" Type="System.String" FileName="" Value="Code Generation" />
   <Resource Name="Plugins.Wizards.MessageBoxBuilder.DialogPanels.CodeGenerationPanel.CodeGenerationGroupBox.GenerateReturnValueCheckBox" Type="System.String" FileName="" Value="&amp;Generate return value" />
   <Resource Name="Plugins.Wizards.MessageBoxBuilder.DialogPanels.CodeGenerationPanel.CodeGenerationGroupBox.GenerateSwitchCaseCheckBox" Type="System.String" FileName="" Value="G&amp;enerate switch case" />
@@ -1136,8 +1086,6 @@
   <Resource Name="Plugins.Wizards.MessageBoxBuilder.DialogPanels.ViewPropertyPanel.TextGroupBox.MessageLabel" Type="System.String" FileName="" Value="&amp;Message" />
   <Resource Name="Plugins.Wizards.MessageBoxBuilder.MessageBoxWizardMenuCommand" Type="System.String" FileName="" Value="Messagebox &amp;Wizard" />
   <Resource Name="Plugins.Wizards.MessageBoxBuilder.MessageBoxWizardMenuCommand.Description" Type="System.String" FileName="" Value="Visually designs a messagebox call" />
-  <Resource Name="PorstingSegmentationLookup" Type="System.String" FileName="" Value="7. Mapping Parameter Type With Condition" />
-  <Resource Name="PostingGroup" Type="System.String" FileName="" Value="2. Define Posting Group" />
   <Resource Name="ProjectComponent.AddFilesToProjectFileFilter" Type="System.String" FileName="" Value="All files (*.*)|*.*" />
   <Resource Name="ProjectComponent.CombineNameString" Type="System.String" FileName="" Value="Combine '${Combinename}' (${Entries} entries)" />
   <Resource Name="ProjectComponent.CombineNameStringNoEntry" Type="System.String" FileName="" Value="Combine '${Combinename}'" />
@@ -1220,12 +1168,6 @@
   <Resource Name="RegExpTk.Messages.Match" Type="System.String" FileName="" Value="match" />
   <Resource Name="RegExpTk.Messages.Matches" Type="System.String" FileName="" Value="matches" />
   <Resource Name="RegExpTk.Messages.RegexMissing" Type="System.String" FileName="" Value="Please enter a regular expression" />
-  <Resource Name="Reimburse Doctype Form" Type="System.String" FileName="" Value="Define Reimburse Doc Type Form" />
-  <Resource Name="Reimburse Numberrange Form" Type="System.String" FileName="" Value="Define Reimburse Doc Type Form No Range" />
-  <Resource Name="Reimburse Numberrange Mapping DocType Form" Type="System.String" FileName="" Value="Assign Reimburse Doc Type Form to No Range" />
-  <Resource Name="ReimburseDoctype" Type="System.String" FileName="" Value="Define Reimburse Doc Type " />
-  <Resource Name="ReimburseNumberrange" Type="System.String" FileName="" Value="Define Reimburse No Range" />
-  <Resource Name="ReimburseNumberrangeMappingDocType" Type="System.String" FileName="" Value="Assign Reimburse Doc Type to No Range" />
   <Resource Name="ResourceEditor.BitmapView.UpdateBitmap" Type="System.String" FileName="" Value="Update bitmap ..." />
   <Resource Name="ResourceEditor.EditEntry.EditEntryDialogName" Type="System.String" FileName="" Value="Edit string entry" />
   <Resource Name="ResourceEditor.EditEntry.EntryGroupBox" Type="System.String" FileName="" Value="Entry" />
@@ -1314,8 +1256,6 @@
   <Resource Name="SideBarComponent.ContextMenu.MoveTabUp" Type="System.String" FileName="" Value="Move Tab &amp;Up" />
   <Resource Name="SideBarComponent.ContextMenu.RenameTab" Type="System.String" FileName="" Value="&amp;Rename Tab" />
   <Resource Name="SideBarComponent.ContextMenu.RenameTabItem" Type="System.String" FileName="" Value="&amp;Rename Item" />
-  <Resource Name="SODoctypeMapping" Type="System.String" FileName="" Value="Mapping WebSale  Doc Type" />
-  <Resource Name="Standard Cost" Type="System.String" FileName="" Value="3. Define Material Standard Cost" />
   <Resource Name="StartPage.AuthorsMenu.BarNameName" Type="System.String" FileName="" Value="Show Authors" />
   <Resource Name="StartPage.AuthorsMenu.Name" Type="System.String" FileName="" Value="Authors" />
   <Resource Name="StartPage.ChangeLogMenu.BarNameName" Type="System.String" FileName="" Value="Show Change Log" />
@@ -1333,10 +1273,6 @@
   <Resource Name="StatusBarService.CaretModes.Insert" Type="System.String" FileName="" Value="INS" />
   <Resource Name="StatusBarService.CaretModes.Overwrite" Type="System.String" FileName="" Value="OVR" />
   <Resource Name="StatusBarService.CursorStatusBarPanelText" Type="System.String" FileName="" Value="ln ${Line} col ${Column} ch ${Character}" />
-  <Resource Name="TAB_GoodIssue" Type="System.String" FileName="" Value="Goods Issue " />
-  <Resource Name="TAB_GoodsReceive" Type="System.String" FileName="" Value="Goods Receive " />
-  <Resource Name="TAB_Reservation" Type="System.String" FileName="" Value="Reservation" />
-  <Resource Name="TAB_Tranfer" Type="System.String" FileName="" Value="Goods Transfer" />
   <Resource Name="Templates.File.#Develop.MenuCommand.Description" Type="System.String" FileName="" Value="An empty menu command for #D." />
   <Resource Name="Templates.File.#Develop.MenuCommand.Name" Type="System.String" FileName="" Value="Menu Command" />
   <Resource Name="Templates.File.#Develop.OptionPanel.Description" Type="System.String" FileName="" Value="A #D option panel." />
@@ -1412,7 +1348,6 @@
   <Resource Name="Templates.Project.WindowsApplication.Name" Type="System.String" FileName="" Value="Windows Application" />
   <Resource Name="Templates.Project.WindowsService.Description" Type="System.String" FileName="" Value="A project for creating a windows service." />
   <Resource Name="Templates.Project.WindowsService.Name" Type="System.String" FileName="" Value="Windows Service" />
-  <Resource Name="Version Master" Type="System.String" FileName="" Value="7. Cost Element Plan Version Master" />
   <Resource Name="XML.FormsDesigner.SideBar.CustomizeSidebar" Type="System.String" FileName="" Value="Configure Sidebar..." />
   <Resource Name="XML.MainMenu.DebugMenu" Type="System.String" FileName="" Value="&amp;Debug" />
   <Resource Name="XML.MainMenu.DebugMenu.Continue" Type="System.String" FileName="" Value="&amp;Continue debugging" />
@@ -1845,7 +1780,7 @@
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.BudgetingOverview.Label" Type="System.String" FileName="" Value="Budgeting Overview" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.BudgetingPlanningReport.Description" Type="System.String" FileName="" Value="Budgeting Planning Report" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.BudgetingPlanningReport.Label" Type="System.String" FileName="" Value="Budgeting Planning Report" />
-  <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.BudgetingReport.Label" Type="System.String" FileName="" Value="Budgeting Report" />
+  <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.BudgetingReport.Label" Type="System.String" FileName="" Value="การเก็บเงิน" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.BudgetingReservation.Description" Type="System.String" FileName="" Value="Budgeting Reservation" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.BudgetingReservation.Label" Type="System.String" FileName="" Value="Budgeting Reservation" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.BudgetingReservationReport.Description" Type="System.String" FileName="" Value="Budgeting Reservation Report" />
@@ -2143,7 +2078,7 @@
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.ProjectOverview.Label" Type="System.String" FileName="" Value="Project Overview" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.ProjectPlanningReport.Description" Type="System.String" FileName="" Value="Project Planning Report" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.ProjectPlanningReport.Label" Type="System.String" FileName="" Value="Project Planning Report" />
-  <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.ProjectReport.Label" Type="System.String" FileName="" Value="Project Report" />
+  <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.ProjectReport.Label" Type="System.String" FileName="" Value="การจ่ายเงิน" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.ProjectStatus.Description" Type="System.String" FileName="" Value="Project Status" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.ProjectStatus.Label" Type="System.String" FileName="" Value="Project Status" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.PropertiesSetup.Description" Type="System.String" FileName="" Value="Enterprise Properties" />
@@ -3030,7 +2965,8 @@
   <Resource Name="AG.SOLO.FIRPT_R_1002.DESC" Type="System.String" FileName="" Value="FIRPT-R1002 Customer Credit Limit Report" />
   <Resource Name="AG.SOLO.LOSO_R_0021.DESC" Type="System.String" FileName="" Value="LOSO-R0021 Sales Tracking Reports" />
   <Resource Name="AG.SOLO.LOSO_R_0008.DESC" Type="System.String" FileName="" Value="LOSO-R0008 Daily Sales Report" />
-  <Resource Name="AG.SOLO.LOSO_R_0021_1.DESC" Type="System.String" FileName="" Value="LOSO-R00211 Sales Tracking Reports V2" />
+  <Resource Name="AG.SOLO.LOSO_R_0021_1.DESC" Type="System.String" FileName="" Value="LOSO-R00211 Sales Tracking Reports V1" />
+  <Resource Name="AG.SOLO.LOSO_R_0021_2.DESC" Type="System.String" FileName="" Value="LOSO-R00212 Sales Tracking Reports V2" />
   <Resource Name="AG.SOLO.LOSO_R_0021_3.DESC" Type="System.String" FileName="" Value="LOSO-R00213 Sales Tracking Reports V3" />
   <Resource Name="AG.SOLO.LISTOFSALEORDERREPORTV2.DESC" Type="System.String" FileName="" Value="SD01-R002 List Of Sales Order Report V2" />
   <Resource Name="AG.SOLO.LISTOFSALEORDERREPORTV3.DESC" Type="System.String" FileName="" Value="SD01-R003 List Of Sales Order Report V3" />
@@ -3514,7 +3450,7 @@
   <Resource Name="AG.ADM.FI.FICHECK_C_0002.DESC" Type="System.String" FileName="" Value="Define Company Cheque Type" />
   <Resource Name="AG.ADM.FI.FICHECK_C_0003.DESC" Type="System.String" FileName="" Value="Define Payment Cheque Type" />
   <Resource Name="AG.ADM.FI.FICHECK_C_0004.DESC" Type="System.String" FileName="" Value="Define Cheque Delivered Type" />
-  <Resource Name="AG.ADM.FI.FICHECK_C_0013.DESC" Type="System.String" FileName="" Value="Define Reason For Cheque Cancellation" />
+  <Resource Name="AG.ADM.FI.CHECK_C_0005.DESC" Type="System.String" FileName="" Value="Define Reason For Cheque Cancellation" />
   <Resource Name="AG.ADM.BUDCO.FOLDER.DESC" Type="System.String" FileName="" Value="COST CONTROLLING-BUDGETING CONFIGURATION" />
   <Resource Name="AG.ADM.BUD.FOLDER01.DESC" Type="System.String" FileName="" Value="BUDGETING SETUP" />
   <Resource Name="AG.ADM.BUD.BUD_C_0002.DESC" Type="System.String" FileName="" Value="Define Budget Memo Document Type" />
@@ -3636,7 +3572,6 @@
   <Resource Name="AG.ADM.PO.2013MMDOCMAPPING_PORG_PGRP.DESC" Type="System.String" FileName="" Value="Maintain Purchasing Doc Type To Purchasing Org" />
   <Resource Name="AG.ADM.PO.2012_PRBGMAPPING.DESC" Type="System.String" FileName="" Value="Assign PR Doc Type To Budget Doc Type" />
   <Resource Name="AG.ADM.PO.2015_FISYSACCASSIGNMENTMAPPINGDOCTYPE.DESC" Type="System.String" FileName="" Value="Assign PO Doc Type To Account Assignment" />
-  <Resource Name="AG.ADM.PO.MaterialAccountSetting.DESC" Type="System.String" FileName="" Value="Assign Materials Account To PO Doc Type" />
   <Resource Name="AG.ADM.PO.MM_M_0001.DESC" Type="System.String" FileName="" Value="Define Purchasing Objective Code" />
   <Resource Name="AG.ADM.PO.MM_M_0002.DESC" Type="System.String" FileName="" Value="Assign Materials To Purchasing Objective Code" />
   <Resource Name="AG.ADM.PO.MM_M_0003.DESC" Type="System.String" FileName="" Value="Define Recurring Payment Master" />

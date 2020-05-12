@@ -2965,7 +2965,8 @@
   <Resource Name="AG.SOLO.FIRPT_R_1002.DESC" Type="System.String" FileName="" Value="FIRPT-R1002 รายงานวงเงินสินเชื่อลูกค้า" />
   <Resource Name="AG.SOLO.LOSO_R_0021.DESC" Type="System.String" FileName="" Value="LOSO-R0021 รายงานสถานะใบสั่งขายถึงรับชำระ" />
   <Resource Name="AG.SOLO.LOSO_R_0008.DESC" Type="System.String" FileName="" Value="LOSO-R0008 รายงานการขายประจำวัน" />
-  <Resource Name="AG.SOLO.LOSO_R_0021_1.DESC" Type="System.String" FileName="" Value="LOSO-R00211 รายงานสถานะใบสั่งขายถึงรับชำระ เวอร์ชั่น 2" />
+  <Resource Name="AG.SOLO.LOSO_R_0021_1.DESC" Type="System.String" FileName="" Value="LOSO-R00211 รายงานสถานะใบสั่งขายถึงรับชำระ เวอร์ชั่น 1" />
+  <Resource Name="AG.SOLO.LOSO_R_0021_2.DESC" Type="System.String" FileName="" Value="LOSO-R00212 รายงานสถานะใบสั่งขายถึงรับชำระ เวอร์ชั่น 2" />
   <Resource Name="AG.SOLO.LOSO_R_0021_3.DESC" Type="System.String" FileName="" Value="LOSO-R00213 รายงานสถานะใบสั่งขายถึงรับชำระ เวอร์ชั่น 3" />
   <Resource Name="AG.SOLO.LISTOFSALEORDERREPORTV2.DESC" Type="System.String" FileName="" Value="SD01-R002 รายงานใบสั่งขายตามประเภทเอกสาร เวอร์ชั่น 2" />
   <Resource Name="AG.SOLO.LISTOFSALEORDERREPORTV3.DESC" Type="System.String" FileName="" Value="SD01-R003 รายงานใบสั่งขายตามประเภทเอกสาร เวอร์ชั่น 2" />
@@ -3449,7 +3450,7 @@
   <Resource Name="AG.ADM.FI.FICHECK_C_0002.DESC" Type="System.String" FileName="" Value="การกำหนดประเภทเช็คของบริษัท" />
   <Resource Name="AG.ADM.FI.FICHECK_C_0003.DESC" Type="System.String" FileName="" Value="การกำหนดประเภทเช็คจ่าย" />
   <Resource Name="AG.ADM.FI.FICHECK_C_0004.DESC" Type="System.String" FileName="" Value="กำหนดประเภทการส่งเช็ค" />
-  <Resource Name="AG.ADM.FI.FICHECK_C_0013.DESC" Type="System.String" FileName="" Value="การกำหนดเหตุผลการยกเลิกเช็ค" />
+  <Resource Name="AG.ADM.FI.CHECK_C_0005.DESC" Type="System.String" FileName="" Value="การกำหนดเหตุผลการยกเลิกเช็ค" />
   <Resource Name="AG.ADM.BUDCO.FOLDER.DESC" Type="System.String" FileName="" Value="การกำหนดระบบงานงบประมาณและบัญชีบริหาร" />
   <Resource Name="AG.ADM.BUD.FOLDER01.DESC" Type="System.String" FileName="" Value="กำหนดข้อมูลเอกสารควบคุมงบประมาณ" />
   <Resource Name="AG.ADM.BUD.BUD_C_0002.DESC" Type="System.String" FileName="" Value="กำหนดประเภทเอกสารควบคุมงบประมาณ" />
@@ -3571,7 +3572,6 @@
   <Resource Name="AG.ADM.PO.2013MMDOCMAPPING_PORG_PGRP.DESC" Type="System.String" FileName="" Value="ปรับปรุงประเภทเอกสารการจัดซื้อให้กับหน่วยจัดซื้อ" />
   <Resource Name="AG.ADM.PO.2012_PRBGMAPPING.DESC" Type="System.String" FileName="" Value="การกำหนดประเภทใบขอซื้อกับประเภทเอกสารงบประมาณ" />
   <Resource Name="AG.ADM.PO.2015_FISYSACCASSIGNMENTMAPPINGDOCTYPE.DESC" Type="System.String" FileName="" Value="การกำหนดประเภทใบสั่งซื้อกับการกำหนดบัญชี" />
-  <Resource Name="AG.ADM.PO.MaterialAccountSetting.DESC" Type="System.String" FileName="" Value="การกำหนดรหัส บช สำหรับเอกสาร PO" />
   <Resource Name="AG.ADM.PO.MM_M_0001.DESC" Type="System.String" FileName="" Value="การกำหนดรหัสวัตถุประสงค์การจัดซื้อ" />
   <Resource Name="AG.ADM.PO.MM_M_0002.DESC" Type="System.String" FileName="" Value="การกำหนดรหัสวัตถุประสงค์การจัดซื้อกับสินค้า" />
   <Resource Name="AG.ADM.PO.MM_M_0003.DESC" Type="System.String" FileName="" Value="การกำหนดข้อมูลหลักการชำระเงินที่เกิดขึ้นประจำ" />
