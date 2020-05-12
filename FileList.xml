@@ -592,8 +592,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Report.DLL</FileName>
-        <FileVersion>3.1.10.0</FileVersion>
-        <ProductVersion>3.1.10.0</ProductVersion>
+        <FileVersion>3.1.13.0</FileVersion>
+        <ProductVersion>3.1.13.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Report.DepositWithdrawalsDaily.dll</FileName>
@@ -987,8 +987,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DLL</FileName>
-        <FileVersion>3.1.119.0</FileVersion>
-        <ProductVersion>3.1.119.0</ProductVersion>
+        <FileVersion>3.1.120.0</FileVersion>
+        <ProductVersion>3.1.120.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DTCBorrowReport.dll</FileName>
@@ -5162,8 +5162,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DLL</FileName>
-        <FileVersion>3.1.96.0</FileVersion>
-        <ProductVersion>3.1.96.0</ProductVersion>
+        <FileVersion>3.1.97.0</FileVersion>
+        <ProductVersion>3.1.97.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DocumentStatus.dll</FileName>
@@ -5507,8 +5507,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.19.0</FileVersion>
-        <ProductVersion>3.2.19.0</ProductVersion>
+        <FileVersion>3.2.29.0</FileVersion>
+        <ProductVersion>3.2.29.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -6152,8 +6152,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>3.1.339.0</FileVersion>
-        <ProductVersion>3.1.339.0</ProductVersion>
+        <FileVersion>3.1.349.0</FileVersion>
+        <ProductVersion>3.1.349.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -7092,8 +7092,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.PoList.dll</FileName>
-        <FileVersion>3.1.26.0</FileVersion>
-        <ProductVersion>3.1.26.0</ProductVersion>
+        <FileVersion>3.1.27.0</FileVersion>
+        <ProductVersion>3.1.27.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.PoListByCostcenter.dll</FileName>
