@@ -2969,7 +2969,7 @@
   <Resource Name="AG.SOLO.LOSO_R_0021_2.DESC" Type="System.String" FileName="" Value="LOSO-R00212 รายงานสถานะใบสั่งขายถึงรับชำระ เวอร์ชั่น 2" />
   <Resource Name="AG.SOLO.LOSO_R_0021_3.DESC" Type="System.String" FileName="" Value="LOSO-R00213 รายงานสถานะใบสั่งขายถึงรับชำระ เวอร์ชั่น 3" />
   <Resource Name="AG.SOLO.LISTOFSALEORDERREPORTV2.DESC" Type="System.String" FileName="" Value="SD01-R002 รายงานใบสั่งขายตามประเภทเอกสาร เวอร์ชั่น 2" />
-  <Resource Name="AG.SOLO.LISTOFSALEORDERREPORTV3.DESC" Type="System.String" FileName="" Value="SD01-R003 รายงานใบสั่งขายตามประเภทเอกสาร เวอร์ชั่น 2" />
+  <Resource Name="AG.SOLO.LISTOFSALEORDERREPORTV3.DESC" Type="System.String" FileName="" Value="SD01-R003 รายงานใบสั่งขายตามประเภทเอกสาร เวอร์ชั่น 3" />
   <Resource Name="AG.SOLO.SD01_ORDER_REPT_001.DESC" Type="System.String" FileName="" Value="SD01-R001 รายงานใบสั่งขายตามสถานะเอกสาร" />
   <Resource Name="AG.SOLO.SD_R_0001.DESC" Type="System.String" FileName="" Value="SD-R0001 รายงานการขายรายเดือน" />
   <Resource Name="AG.SOLO.SD_R_0003.DESC" Type="System.String" FileName="" Value="SD-R0003 รายงานตรวจสอบการขายเครดิต" />
