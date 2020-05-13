@@ -1,9 +1,9 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
   <Connection>
-    <ApplicationID>9010</ApplicationID>
+    <ApplicationID>9011</ApplicationID>
     <ApplicationName>TST PRD</ApplicationName>
     <Host>203.154.41.15</Host>
-    <Port>9010</Port>
+    <Port>9011</Port>
   </Connection>
 </DocumentElement>
