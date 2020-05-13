@@ -11412,8 +11412,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\serverprofile.xml</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\vslangproj.olb</FileName>

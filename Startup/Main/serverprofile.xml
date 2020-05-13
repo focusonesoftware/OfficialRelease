@@ -2,7 +2,7 @@
 <DocumentElement>
   <Connection>
     <ApplicationID>9010</ApplicationID>
-    <ApplicationName>TST PRD</ApplicationName>
+    <ApplicationName>TST TEST</ApplicationName>
     <Host>203.154.41.15</Host>
     <Port>9010</Port>
   </Connection>
