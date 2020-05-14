@@ -3637,4 +3637,6 @@
   <Resource Name="AG.ADM.TOOL.Tool_C_0012.DESC" Type="System.String" FileName="" Value="กำหนดรูปแบบรายงาน FOBGP" />
   <Resource Name="AG.ADM.TOOL.Tool_P_0001.DESC" Type="System.String" FileName="" Value="การกำหนดบทบาทเรียกดูรายงาน" />
   <Resource Name="AG.NEWPROGRAM.FOLDER.DESC" Type="System.String" FileName="" Value="ระบบโฟกัสวันอีอาร์พี - โปรแกรมใหม่" />
+  <Resource Name="AG.FIACT.FIFI_R_0022.DESC" Type="System.String" FileName="" Value="FIFI-R0022 งบทดลองดูตามการเปรียบเทียบบัญชีแยกประเภท" />
+  <Resource Name="AG.AM.WAS_T_0013.DESC" Type="System.String" FileName="" Value="การยกเลิกการเช่าสินทรัพย์" />
 </Resources>
