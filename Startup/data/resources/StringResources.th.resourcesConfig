@@ -3636,4 +3636,5 @@
   <Resource Name="AG.ADM.TOOL.Tool_C_0011.DESC" Type="System.String" FileName="" Value="กำหนดกลุ่ม FOBGP" />
   <Resource Name="AG.ADM.TOOL.Tool_C_0012.DESC" Type="System.String" FileName="" Value="กำหนดรูปแบบรายงาน FOBGP" />
   <Resource Name="AG.ADM.TOOL.Tool_P_0001.DESC" Type="System.String" FileName="" Value="การกำหนดบทบาทเรียกดูรายงาน" />
+  <Resource Name="AG.NEWPROGRAM.FOLDER.DESC" Type="System.String" FileName="" Value="ระบบโฟกัสวันอีอาร์พี - โปรแกรมใหม่" />
 </Resources>
