@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <FileList>
     <Description>
-        <FileName>FileList.xml</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-    </Description>
-    <Description>
-        <FileName>OnlineLiveUpdateXMLGenerate.exe</FileName>
-        <FileVersion>1.0.0.0</FileVersion>
-        <ProductVersion>1.0.0.0</ProductVersion>
-    </Description>
-    <Description>
         <FileName>Setup_ERP_client.jpg</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
@@ -22,11 +12,6 @@
     </Description>
     <Description>
         <FileName>Startup\AddIns\BackendBindings\BackendBindings.addin</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\AddIns\FocusOne.addin</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
@@ -11282,8 +11267,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\serverprofile.xml</FileName>
-        <FileVersion>1.0.0.0</FileVersion>
-        <ProductVersion>1.0.0.0</ProductVersion>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\vslangproj.olb</FileName>
@@ -12049,11 +12034,6 @@
         <FileName>Startup\data\resources\BitmapResources.resourcesConfig</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\data\resources\ResourceEditor.exe</FileName>
-        <FileVersion>1.0.1046.26375</FileVersion>
-        <ProductVersion>1.0.1046.26375</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\data\resources\StringResources.en.resources</FileName>
