@@ -392,8 +392,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.AR.dll</FileName>
-        <FileVersion>3.1.17.0</FileVersion>
-        <ProductVersion>3.1.17.0</ProductVersion>
+        <FileVersion>3.1.19.0</FileVersion>
+        <ProductVersion>3.1.19.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.ARInterface.dll</FileName>
@@ -5182,8 +5182,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DLL</FileName>
-        <FileVersion>3.1.69.0</FileVersion>
-        <ProductVersion>3.1.69.0</ProductVersion>
+        <FileVersion>3.1.70.0</FileVersion>
+        <ProductVersion>3.1.70.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DeliveryOrder.dll</FileName>
@@ -5977,8 +5977,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.471.0</FileVersion>
-        <ProductVersion>3.1.471.0</ProductVersion>
+        <FileVersion>3.1.473.0</FileVersion>
+        <ProductVersion>3.1.473.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -6377,8 +6377,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>3.1.347.0</FileVersion>
-        <ProductVersion>3.1.347.0</ProductVersion>
+        <FileVersion>3.1.350.0</FileVersion>
+        <ProductVersion>3.1.350.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -7902,8 +7902,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>3.1.259.0</FileVersion>
-        <ProductVersion>3.1.259.0</ProductVersion>
+        <FileVersion>3.1.262.0</FileVersion>
+        <ProductVersion>3.1.262.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
