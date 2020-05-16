@@ -2691,6 +2691,7 @@
   <Resource Name="AG.AM.AM_T_0004V2.DESC" Type="System.String" FileName="" Value="Asset Depreciation Post V2" />
   <Resource Name="AG.AM.AM_T_0007.DESC" Type="System.String" FileName="" Value="Asset Depreciation Reset" />
   <Resource Name="AG.AM.2014_ASSET_TRANSFER_MULTI.DESC" Type="System.String" FileName="" Value="Multi-Transfer Asset" />
+  <Resource Name="AG.AM.WAS_T_0013.DESC" Type="System.String" FileName="" Value="Cancel Asset Rent" />
   <Resource Name="AG.AM.FOLDER_R01.DESC" Type="System.String" FileName="" Value="ASSET MANAGEMENT REPORTS" />
   <Resource Name="AG.AM.AM_R_0001.DESC" Type="System.String" FileName="" Value="AM-R0001 Asset Master Registration Report" />
   <Resource Name="AG.AM.AM_R_0003.DESC" Type="System.String" FileName="" Value="AM-R0003 Asset Depreciation Report" />
@@ -2870,6 +2871,7 @@
   <Resource Name="AG.FIACT.2014_REPORT_GLBYSEGMENT.DESC" Type="System.String" FileName="" Value="FIGL-R0004 GL By Segmentation Report" />
   <Resource Name="AG.FIACT.2014_REPORT_GLPOSTING.DESC" Type="System.String" FileName="" Value="FIGL-R0006 GL By Posting Entries Report" />
   <Resource Name="AG.FIACT.2012_FITAX_0001.DESC" Type="System.String" FileName="" Value="FITAX-0001 Tax Comparison Report" />
+  <Resource Name="AG.FIACT.FIFI_R_0022.DESC" Type="System.String" FileName="" Value="FIFI-R0022 Trial Balance By GL Comparison" />
   <Resource Name="AG.FIACT.FOLDER_R03.DESC" Type="System.String" FileName="" Value="ACCOUNTS RECEIVABLE REPORTS" />
   <Resource Name="AG.FIACT.2014_FI_INC_R_0001.DESC" Type="System.String" FileName="" Value="FIINC-R0001 Incoming List Report" />
   <Resource Name="AG.FIACT.2014_FI_INC_R_0001_V2.DESC" Type="System.String" FileName="" Value="FIINC-R0001V2 Incoming List Report V2" />
@@ -3030,7 +3032,8 @@
   <Resource Name="AG.SOLO.FIRPT_R_1002.DESC" Type="System.String" FileName="" Value="FIRPT-R1002 Customer Credit Limit Report" />
   <Resource Name="AG.SOLO.LOSO_R_0021.DESC" Type="System.String" FileName="" Value="LOSO-R0021 Sales Tracking Reports" />
   <Resource Name="AG.SOLO.LOSO_R_0008.DESC" Type="System.String" FileName="" Value="LOSO-R0008 Daily Sales Report" />
-  <Resource Name="AG.SOLO.LOSO_R_0021_1.DESC" Type="System.String" FileName="" Value="LOSO-R00211 Sales Tracking Reports V2" />
+  <Resource Name="AG.SOLO.LOSO_R_0021_1.DESC" Type="System.String" FileName="" Value="LOSO-R00211 Sales Tracking Reports V1" />
+  <Resource Name="AG.SOLO.LOSO_R_0021_2.DESC" Type="System.String" FileName="" Value="LOSO-R00212 Sales Tracking Reports V2" />
   <Resource Name="AG.SOLO.LOSO_R_0021_3.DESC" Type="System.String" FileName="" Value="LOSO-R00213 Sales Tracking Reports V3" />
   <Resource Name="AG.SOLO.LISTOFSALEORDERREPORTV2.DESC" Type="System.String" FileName="" Value="SD01-R002 List Of Sales Order Report V2" />
   <Resource Name="AG.SOLO.LISTOFSALEORDERREPORTV3.DESC" Type="System.String" FileName="" Value="SD01-R003 List Of Sales Order Report V3" />
@@ -3046,7 +3049,6 @@
   <Resource Name="AG.SOLO.LOSIS_R_0006.DESC" Type="System.String" FileName="" Value="LOSIS-R0006 รายงานสอบถามราคาขาย" />
   <Resource Name="AG.SOLO.LOSO_R_0009.DESC" Type="System.String" FileName="" Value="LOSO-R0009 รายงานการขาย แยกตามลูกค้า" />
   <Resource Name="AG.SOLO.LOSO_R_0010.DESC" Type="System.String" FileName="" Value="LOSO-R0010 รายงานราคาขายประจำวัน(ดูตามสินค้า)" />
-  <Resource Name="AG.SOLO.HODiscountSummaryCommand.DESC" Type="System.String" FileName="" Value="RPTSO012 รายงานการขาย ตามสินค้า" />
   <Resource Name="AG.SOLO.LOSO_R_0011.DESC" Type="System.String" FileName="" Value="LOSO-R0011 รายงานการตรวจสอบส่วนลด" />
   <Resource Name="AG.SOLO.LOSO_R_0012.DESC" Type="System.String" FileName="" Value="LOSO-R0012 รายงานการขาย ตามสินค้า" />
   <Resource Name="AG.SOLO.LOSO_R_0013.DESC" Type="System.String" FileName="" Value="LOSO-R0013 รายการขายแยกตามกลุ่มลูกค้า" />
@@ -3437,6 +3439,10 @@
   <Resource Name="AG.SYSTEM.UMEROLE_R_0001.DESC" Type="System.String" FileName="" Value="UME-ROLE0001 Role Details Report" />
   <Resource Name="AG.SYSTEM.UME_R_0001.DESC" Type="System.String" FileName="" Value="UME-R0001 User Status Report" />
   <Resource Name="AG.SYSTEM.2012_LOGIN_LOG.DESC" Type="System.String" FileName="" Value="2012-LOGINLOG System Login Report" />
+  <Resource Name="AG.NEWPROGRAM.FOLDER.DESC" Type="System.String" FileName="" Value="F1 ERP - NEW PROGRAMS" />
+  <Resource Name="AG.NEWPROGRAM.PP_T_0006.DESC" Type="System.String" FileName="" Value="PP-T0006 Continuous Flow Production Order" />
+  <Resource Name="AG.NEWPROGRAM.POSO_R_0001.DESC" Type="System.String" FileName="" Value="POSO-R0001 Sales-Purchase Products Viewed by BU-Project Report" />
+  <Resource Name="AG.NEWPROGRAM.FIREIMMULTI_T_0001.DESC" Type="System.String" FileName="" Value="Advance Payment With Multi Currency" />
   <Resource Name="F1 ERP ADMINISTRATIVE MODULE.DESC" Type="System.String" FileName="" Value="F1 ERP ADMINISTRATIVE SYSTEM" />
   <Resource Name="AG.ADM.GEN.FOLDER.DESC" Type="System.String" FileName="" Value="GENERAL SETTING" />
   <Resource Name="AG.ADM.GEN.FOLDER01.DESC" Type="System.String" FileName="" Value="EXCHANGE RATE - CALENDAR SETUP" />
@@ -3514,7 +3520,7 @@
   <Resource Name="AG.ADM.FI.FICHECK_C_0002.DESC" Type="System.String" FileName="" Value="Define Company Cheque Type" />
   <Resource Name="AG.ADM.FI.FICHECK_C_0003.DESC" Type="System.String" FileName="" Value="Define Payment Cheque Type" />
   <Resource Name="AG.ADM.FI.FICHECK_C_0004.DESC" Type="System.String" FileName="" Value="Define Cheque Delivered Type" />
-  <Resource Name="AG.ADM.FI.FICHECK_C_0013.DESC" Type="System.String" FileName="" Value="Define Reason For Cheque Cancellation" />
+  <Resource Name="AG.ADM.FI.CHECK_C_0005.DESC" Type="System.String" FileName="" Value="Define Reason For Cheque Cancellation" />
   <Resource Name="AG.ADM.BUDCO.FOLDER.DESC" Type="System.String" FileName="" Value="COST CONTROLLING-BUDGETING CONFIGURATION" />
   <Resource Name="AG.ADM.BUD.FOLDER01.DESC" Type="System.String" FileName="" Value="BUDGETING SETUP" />
   <Resource Name="AG.ADM.BUD.BUD_C_0002.DESC" Type="System.String" FileName="" Value="Define Budget Memo Document Type" />
@@ -3636,7 +3642,6 @@
   <Resource Name="AG.ADM.PO.2013MMDOCMAPPING_PORG_PGRP.DESC" Type="System.String" FileName="" Value="Maintain Purchasing Doc Type To Purchasing Org" />
   <Resource Name="AG.ADM.PO.2012_PRBGMAPPING.DESC" Type="System.String" FileName="" Value="Assign PR Doc Type To Budget Doc Type" />
   <Resource Name="AG.ADM.PO.2015_FISYSACCASSIGNMENTMAPPINGDOCTYPE.DESC" Type="System.String" FileName="" Value="Assign PO Doc Type To Account Assignment" />
-  <Resource Name="AG.ADM.PO.MaterialAccountSetting.DESC" Type="System.String" FileName="" Value="Assign Materials Account To PO Doc Type" />
   <Resource Name="AG.ADM.PO.MM_M_0001.DESC" Type="System.String" FileName="" Value="Define Purchasing Objective Code" />
   <Resource Name="AG.ADM.PO.MM_M_0002.DESC" Type="System.String" FileName="" Value="Assign Materials To Purchasing Objective Code" />
   <Resource Name="AG.ADM.PO.MM_M_0003.DESC" Type="System.String" FileName="" Value="Define Recurring Payment Master" />
