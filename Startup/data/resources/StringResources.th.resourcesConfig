@@ -3391,7 +3391,6 @@
   <Resource Name="AG.ADM.GEN.COMP_C_0002.DESC" Type="System.String" FileName="" Value="กำหนดรหัสบริษัทกับปีบัญชี" />
   <Resource Name="AG.ADM.GEN.COMP_C_0004.DESC" Type="System.String" FileName="" Value="การกำหนดรหัสสาขา" />
   <Resource Name="AG.ADM.GEN.COMP_C_0017.DESC" Type="System.String" FileName="" Value="กำหนดสาขากับประเภทเอกสาร" />
-  <Resource Name="AG.ADM.GEN.COMP_C_0003.DESC" Type="System.String" FileName="" Value="การกำหนดประเภทเอกสารรายการกับสาขา" />
   <Resource Name="AG.ADM.GEN.ADMPR_C_0007.DESC" Type="System.String" FileName="" Value="กำหนดสถานที่ที่สาขาจดทะเบียนภาษี" />
   <Resource Name="AG.ADM.GEN.COMP_C_0008.DESC" Type="System.String" FileName="" Value="กำหนดคำนำหน้าชื่อ" />
   <Resource Name="AG.ADM.GEN.COMP_C_0009.DESC" Type="System.String" FileName="" Value="การกำหนดค่าที่ถูกเลือก" />
@@ -3641,4 +3640,5 @@
   <Resource Name="AG.ADM.TOOL.Tool_C_0011.DESC" Type="System.String" FileName="" Value="กำหนดกลุ่ม FOBGP" />
   <Resource Name="AG.ADM.TOOL.Tool_C_0012.DESC" Type="System.String" FileName="" Value="กำหนดรูปแบบรายงาน FOBGP" />
   <Resource Name="AG.ADM.TOOL.Tool_P_0001.DESC" Type="System.String" FileName="" Value="การกำหนดบทบาทเรียกดูรายงาน" />
+  <Resource Name="AG.ADM.GEN.COMP_C_0003.DESC" Type="System.String" FileName="" Value="การกำหนดสาขากับคลังสินค้า" />
 </Resources>
