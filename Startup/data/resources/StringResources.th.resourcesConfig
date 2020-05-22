@@ -3030,7 +3030,7 @@
   <Resource Name="AG.PROCURE.PO_T_0004.DESC" Type="System.String" FileName="" Value="การยกเลิกใบสั่งซื้อแบบหลายรายการ" />
   <Resource Name="AG.PROCURE.2012_PR_MULTICANCEL.DESC" Type="System.String" FileName="" Value="การยกเลิกใบขอซื้อแบบหลายรายการ" />
   <Resource Name="AG.PROCURE.2012_PR_MULTICLOSE.DESC" Type="System.String" FileName="" Value="ปิดใบขอซื้อหลายรายการ" />
-  <Resource Name="AG.PROCURE.PROC_T_0007.DESC" Type="System.String" FileName="" Value="ปลดปล่อยใบสั่งซื้อหลายรายการ" />
+  <Resource Name="AG.PROCURE.PROC_T_0007.DESC" Type="System.String" FileName="" Value="การอนุมัติใบสั่งซื้อหลายรายการ" />
   <Resource Name="AG.PROCURE.2012_PO_MULTICLOSE.DESC" Type="System.String" FileName="" Value="ปิดใบสั่งซื้อหลายรายการ" />
   <Resource Name="AG.PROCURE.MMPO_T_0001.DESC" Type="System.String" FileName="" Value="โปรแกรมอินเตอร์เฟซใบสั่งซื้อ" />
   <Resource Name="AG.PROCURE.FOLDER03.DESC" Type="System.String" FileName="" Value="เอกสารการบันทึกใบแจ้งหนี้" />
@@ -3391,6 +3391,7 @@
   <Resource Name="AG.ADM.GEN.COMP_C_0002.DESC" Type="System.String" FileName="" Value="กำหนดรหัสบริษัทกับปีบัญชี" />
   <Resource Name="AG.ADM.GEN.COMP_C_0004.DESC" Type="System.String" FileName="" Value="การกำหนดรหัสสาขา" />
   <Resource Name="AG.ADM.GEN.COMP_C_0017.DESC" Type="System.String" FileName="" Value="กำหนดสาขากับประเภทเอกสาร" />
+  <Resource Name="AG.ADM.GEN.COMP_C_0003.DESC" Type="System.String" FileName="" Value="การกำหนดสาขากับคลังสินค้า" />
   <Resource Name="AG.ADM.GEN.ADMPR_C_0007.DESC" Type="System.String" FileName="" Value="กำหนดสถานที่ที่สาขาจดทะเบียนภาษี" />
   <Resource Name="AG.ADM.GEN.COMP_C_0008.DESC" Type="System.String" FileName="" Value="กำหนดคำนำหน้าชื่อ" />
   <Resource Name="AG.ADM.GEN.COMP_C_0009.DESC" Type="System.String" FileName="" Value="การกำหนดค่าที่ถูกเลือก" />
@@ -3640,5 +3641,4 @@
   <Resource Name="AG.ADM.TOOL.Tool_C_0011.DESC" Type="System.String" FileName="" Value="กำหนดกลุ่ม FOBGP" />
   <Resource Name="AG.ADM.TOOL.Tool_C_0012.DESC" Type="System.String" FileName="" Value="กำหนดรูปแบบรายงาน FOBGP" />
   <Resource Name="AG.ADM.TOOL.Tool_P_0001.DESC" Type="System.String" FileName="" Value="การกำหนดบทบาทเรียกดูรายงาน" />
-  <Resource Name="AG.ADM.GEN.COMP_C_0003.DESC" Type="System.String" FileName="" Value="การกำหนดสาขากับคลังสินค้า" />
 </Resources>
