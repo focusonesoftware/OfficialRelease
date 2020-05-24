@@ -3456,7 +3456,7 @@
   <Resource Name="AG.ADM.GEN.COMP_C_0002.DESC" Type="System.String" FileName="" Value="Assign Company Code to Fiscal Year" />
   <Resource Name="AG.ADM.GEN.COMP_C_0004.DESC" Type="System.String" FileName="" Value="Define Branch Code" />
   <Resource Name="AG.ADM.GEN.COMP_C_0017.DESC" Type="System.String" FileName="" Value="Mapping Branch Code to Document Type" />
-  <Resource Name="AG.ADM.GEN.COMP_C_0003.DESC" Type="System.String" FileName="" Value="Assign Transaction doc Type to Branch" />
+  <Resource Name="AG.ADM.GEN.COMP_C_0003.DESC" Type="System.String" FileName="" Value="Assign Branch to Plant" />
   <Resource Name="AG.ADM.GEN.ADMPR_C_0007.DESC" Type="System.String" FileName="" Value="Define Bussiness Place" />
   <Resource Name="AG.ADM.GEN.COMP_C_0008.DESC" Type="System.String" FileName="" Value="Define Name Prefix" />
   <Resource Name="AG.ADM.GEN.COMP_C_0009.DESC" Type="System.String" FileName="" Value="Define Selected Value" />
