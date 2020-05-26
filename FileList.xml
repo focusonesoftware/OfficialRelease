@@ -1232,8 +1232,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.PP.Costsheet.dll</FileName>
-        <FileVersion>3.1.0.80</FileVersion>
-        <ProductVersion>3.1.0.80</ProductVersion>
+        <FileVersion>3.1.4.0</FileVersion>
+        <ProductVersion>3.1.4.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.PP.DLL</FileName>
@@ -6437,8 +6437,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.Costsheet.dll</FileName>
-        <FileVersion>3.1.0.104</FileVersion>
-        <ProductVersion>3.1.0.104</ProductVersion>
+        <FileVersion>3.1.9.0</FileVersion>
+        <ProductVersion>3.1.9.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.DistributionCost.dll</FileName>
