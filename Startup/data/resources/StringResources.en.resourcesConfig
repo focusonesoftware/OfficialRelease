@@ -2939,7 +2939,6 @@
   <Resource Name="AG.BUDCO.FIFI_M_0019_02.DESC" Type="System.String" FileName="" Value="CC Node Master Mapping Objectives Statement" />
   <Resource Name="AG.BUDCO.MM_M_0005.DESC" Type="System.String" FileName="" Value="Mapping Project Elements To Document Type" />
   <Resource Name="AG.BUDCO.2014_COST_DRIVER_MASTER.DESC" Type="System.String" FileName="" Value="Cost Driver Master" />
-  <Resource Name="AG.BUDCO.FOLDER02.DESC" Type="System.String" FileName="" Value="BUDGETING MASTER-CONFIGURATION" />
   <Resource Name="AG.BUDCO.BUD_T_0001.DESC" Type="System.String" FileName="" Value="Asset Budget Planning" />
   <Resource Name="AG.BUDCO.FOLDER03.DESC" Type="System.String" FileName="" Value="COST CONTROLLING REPORTS" />
   <Resource Name="AG.BUDCO.CO_R_0002.DESC" Type="System.String" FileName="" Value="CO-R0002 Cost Controlling Summary Plan Report" />
@@ -3544,7 +3543,6 @@
   <Resource Name="AG.ADM.CO.CC_C_0011.DESC" Type="System.String" FileName="" Value="Define Cost Controlling Period Cycle" />
   <Resource Name="AG.ADM.CO.CC_C_0012.DESC" Type="System.String" FileName="" Value="Define Cost Controlling Period Status" />
   <Resource Name="AG.ADM.CO.CC_C_0013.DESC" Type="System.String" FileName="" Value="Define Cost Element Plan Version" />
-  <Resource Name="AG.ADM.CO.CC_C_0014.DESC" Type="System.String" FileName="" Value="Cost Controlling Account Posting" />
   <Resource Name="AG.ADM.CS.FOLDER.DESC" Type="System.String" FileName="" Value="CUSTOMER SERVICE SYSTEM CONFIGURATION" />
   <Resource Name="AG.ADM.SV.FOLDER01.DESC" Type="System.String" FileName="" Value="CUSTOMER SERVICE SETUP" />
   <Resource Name="AG.ADM.SV.2013_MASTER_CONFIG_MASS_SV.DESC" Type="System.String" FileName="" Value="Configure Mass Service Contract" />
@@ -3706,4 +3704,6 @@
   <Resource Name="AG.ADM.TOOL.Tool_C_0011.DESC" Type="System.String" FileName="" Value="Configure FOBGP Group" />
   <Resource Name="AG.ADM.TOOL.Tool_C_0012.DESC" Type="System.String" FileName="" Value="Configure Report Layout (FOBGP)" />
   <Resource Name="AG.ADM.TOOL.Tool_P_0001.DESC" Type="System.String" FileName="" Value="Configure Report Role (FOBGP)" />
+  <Resource Name="AG.BUDCO.FOLDER02.DESC" Type="System.String" FileName="" Value="COST CONTROLLING ACCOUNT POSTING" />
+  <Resource Name="AG.BUDCO.CC_C_0014.DESC" Type="System.String" FileName="" Value="Cost Controlling Account Posting" />
 </Resources>
