@@ -2875,11 +2875,12 @@
   <Resource Name="AG.BUDCO.MM_M_0005.DESC" Type="System.String" FileName="" Value="การกำหนดโครงการกับประเภทกิจกรรมเอกสาร" />
   <Resource Name="AG.BUDCO.2014_COST_DRIVER_MASTER.DESC" Type="System.String" FileName="" Value="สูตรปันส่วนต้นทุนกิจกรรม" />
   <Resource Name="AG.BUDCO.BUD_T_0001.DESC" Type="System.String" FileName="" Value="การวางแผนงบประมาณสินทรัพย์" />
-  <Resource Name="AG.BUDCO.FOLDER03.DESC" Type="System.String" FileName="" Value="รายงานระบบควบคุมต้นทุน" />
+  <Resource Name="AG.BUDCO.FOLDER03.DESC" Type="System.String" FileName="" Value="การกำหนดข้อมูลพื้นฐานหลักของระบบงบประมาณ" />
+  <Resource Name="AG.BUDCO.FOLDER_R01.DESC" Type="System.String" FileName="" Value="รายงานระบบควบคุมต้นทุน" />
   <Resource Name="AG.BUDCO.CO_R_0002.DESC" Type="System.String" FileName="" Value="CO-R0002 รายงานแผนสรุปการควบคุมต้นทุน" />
   <Resource Name="AG.BUDCO.CO_R_0001.DESC" Type="System.String" FileName="" Value="CO-R0001 รายงานควบคุมการใช้จ่ายของกิจกรรม" />
   <Resource Name="AG.BUDCO.FIFI_R_0019.DESC" Type="System.String" FileName="" Value="FIFI-R0019 งบประมาณการลงทุน" />
-  <Resource Name="AG.BUDCO.FOLDER04.DESC" Type="System.String" FileName="" Value="รายงานระบบงบประมาณ" />
+  <Resource Name="AG.BUDCO.FOLDER_R02.DESC" Type="System.String" FileName="" Value="รายงานระบบงบประมาณ" />
   <Resource Name="AG.BUDCO.BUDRPT_R_0001.DESC" Type="System.String" FileName="" Value="BUD-R0001 รายงานความเคลื่อนไหวการใช้งบประมาณ" />
   <Resource Name="AG.BUDCO.BUDRPT_R_0002.DESC" Type="System.String" FileName="" Value="BUD-R0002 รายงานความเคลื่อนไหวงบประมาณ" />
   <Resource Name="AG.BUDCO.BUDRPT_R_0003.DESC" Type="System.String" FileName="" Value="BUD-R0003 รายงานงบประมาณสินทรัพย์" />

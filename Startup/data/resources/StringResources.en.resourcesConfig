@@ -2940,11 +2940,12 @@
   <Resource Name="AG.BUDCO.MM_M_0005.DESC" Type="System.String" FileName="" Value="Mapping Project Elements To Document Type" />
   <Resource Name="AG.BUDCO.2014_COST_DRIVER_MASTER.DESC" Type="System.String" FileName="" Value="Cost Driver Master" />
   <Resource Name="AG.BUDCO.BUD_T_0001.DESC" Type="System.String" FileName="" Value="Asset Budget Planning" />
-  <Resource Name="AG.BUDCO.FOLDER03.DESC" Type="System.String" FileName="" Value="COST CONTROLLING REPORTS" />
+  <Resource Name="AG.BUDCO.FOLDER03.DESC" Type="System.String" FileName="" Value="BUDGETING MASTER-CONFIGURATION" />
+  <Resource Name="AG.BUDCO.FOLDER_R01.DESC" Type="System.String" FileName="" Value="COST CONTROLLING REPORTS" />
   <Resource Name="AG.BUDCO.CO_R_0002.DESC" Type="System.String" FileName="" Value="CO-R0002 Cost Controlling Summary Plan Report" />
   <Resource Name="AG.BUDCO.CO_R_0001.DESC" Type="System.String" FileName="" Value="CO-R0001 Internal Order (CC) Report" />
   <Resource Name="AG.BUDCO.FIFI_R_0019.DESC" Type="System.String" FileName="" Value="FIFI-R0019 Capital Budgeting Statement" />
-  <Resource Name="AG.BUDCO.FOLDER04.DESC" Type="System.String" FileName="" Value="BUDGETING REPORTS" />
+  <Resource Name="AG.BUDCO.FOLDER_R02.DESC" Type="System.String" FileName="" Value="BUDGETING REPORTS" />
   <Resource Name="AG.BUDCO.BUDRPT_R_0001.DESC" Type="System.String" FileName="" Value="BUD-R0001 Budgeting Usage Report" />
   <Resource Name="AG.BUDCO.BUDRPT_R_0002.DESC" Type="System.String" FileName="" Value="BUD-R0002 Budgeting Movement Report" />
   <Resource Name="AG.BUDCO.BUDRPT_R_0003.DESC" Type="System.String" FileName="" Value="BUD-R0003 Fixed Asset Budget Report" />
