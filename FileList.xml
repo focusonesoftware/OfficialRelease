@@ -992,8 +992,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DLL</FileName>
-        <FileVersion>3.1.121.0</FileVersion>
-        <ProductVersion>3.1.121.0</ProductVersion>
+        <FileVersion>3.1.123.0</FileVersion>
+        <ProductVersion>3.1.123.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DTCBorrowReport.dll</FileName>
@@ -4567,13 +4567,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRBillingForm.dll</FileName>
-        <FileVersion>3.1.1.13</FileVersion>
-        <ProductVersion>3.1.1.13</ProductVersion>
+        <FileVersion>3.1.1.14</FileVersion>
+        <ProductVersion>3.1.1.14</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRGIForm.dll</FileName>
-        <FileVersion>3.1.1.14</FileVersion>
-        <ProductVersion>3.1.1.14</ProductVersion>
+        <FileVersion>3.1.1.16</FileVersion>
+        <ProductVersion>3.1.1.16</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRGRForm.dll</FileName>
@@ -5747,8 +5747,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.34.0</FileVersion>
-        <ProductVersion>3.2.34.0</ProductVersion>
+        <FileVersion>3.2.35.0</FileVersion>
+        <ProductVersion>3.2.35.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -5997,8 +5997,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.475.0</FileVersion>
-        <ProductVersion>3.1.475.0</ProductVersion>
+        <FileVersion>3.1.476.0</FileVersion>
+        <ProductVersion>3.1.476.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -6397,8 +6397,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>3.1.352.0</FileVersion>
-        <ProductVersion>3.1.352.0</ProductVersion>
+        <FileVersion>3.1.354.0</FileVersion>
+        <ProductVersion>3.1.354.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -9807,8 +9807,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>3.2.19.0</FileVersion>
-        <ProductVersion>3.2.19.0</ProductVersion>
+        <FileVersion>3.2.20.0</FileVersion>
+        <ProductVersion>3.2.20.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
