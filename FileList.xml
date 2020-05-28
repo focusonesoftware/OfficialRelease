@@ -4097,8 +4097,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SLSNSaleQuotationForm.dll</FileName>
-        <FileVersion>3.1.1.2</FileVersion>
-        <ProductVersion>3.1.1.2</ProductVersion>
+        <FileVersion>3.1.1.5</FileVersion>
+        <ProductVersion>3.1.1.5</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SMEBillingForm.dll</FileName>
@@ -4617,13 +4617,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRBillingForm.dll</FileName>
-        <FileVersion>3.1.1.13</FileVersion>
-        <ProductVersion>3.1.1.13</ProductVersion>
+        <FileVersion>3.1.1.14</FileVersion>
+        <ProductVersion>3.1.1.14</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRGIForm.dll</FileName>
-        <FileVersion>3.1.1.13</FileVersion>
-        <ProductVersion>3.1.1.13</ProductVersion>
+        <FileVersion>3.1.1.16</FileVersion>
+        <ProductVersion>3.1.1.16</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRGRForm.dll</FileName>
@@ -9886,6 +9886,11 @@
         <ProductVersion>3.1.21.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.SLSNSaleQuotationForm.dll</FileName>
+        <FileVersion>3.1.1.1</FileVersion>
+        <ProductVersion>3.1.1.1</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.Lib.Report.TPRAPCreditNote.dll</FileName>
         <FileVersion>3.1.1.1</FileVersion>
         <ProductVersion>3.1.1.1</ProductVersion>
@@ -9937,8 +9942,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Report.TPRGIForm.dll</FileName>
-        <FileVersion>3.1.1.4</FileVersion>
-        <ProductVersion>3.1.1.4</ProductVersion>
+        <FileVersion>3.1.1.6</FileVersion>
+        <ProductVersion>3.1.1.6</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Report.TPRGRForm.dll</FileName>
@@ -9992,8 +9997,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Report.TPRShippingByDealerSO.dll</FileName>
-        <FileVersion>3.1.1.5</FileVersion>
-        <ProductVersion>3.1.1.5</ProductVersion>
+        <FileVersion>3.1.1.8</FileVersion>
+        <ProductVersion>3.1.1.8</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Util.dll</FileName>
