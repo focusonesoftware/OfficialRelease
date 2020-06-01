@@ -147,7 +147,6 @@
   <Resource Name="VB.Project.Form" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="C#.Project.WebProject" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.HtmlElements.ListBoxElement" Type="System.Drawing.Bitmap" FileName="" Value="" />
-  <Resource Name="AG_BLACKGROUND_WHITE30x30" Type="System.Drawing.Bitmap" FileName="E:\99.Backup จากเครื่องเก่า\Other\สีพื้นสีขาว.jpg" Value="" />
   <Resource Name="Icons.16x16.HtmlElements.Element" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.Indexer" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_ICON_ORG" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -310,6 +309,7 @@
   <Resource Name="C#.Project.Form" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FindInFiles" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="C#.File.NewClass" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BLACKGROUND_WHITE30x30" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.ToggleBookmark" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_ADD" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_NEW" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -437,4 +437,7 @@
   <Resource Name="AGToolsBar_MAIL" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AGToolsBar_SAVE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.ViewCode" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="Icons.24x24.Folder.Cyan" Type="System.Drawing.Bitmap" FileName="D:\Oishi\ICON\Folder_24px_Cyan.png" Value="" />
+  <Resource Name="Icons.24x24.Expand.Right" Type="System.Drawing.Bitmap" FileName="D:\Oishi\ICON\Expand_Down_r_24px_Gray_1.png" Value="" />
+  <Resource Name="Icons.24x24.Folder.White" Type="System.Drawing.Bitmap" FileName="D:\Oishi\ICON\Folder_24px_White_0.png" Value="" />
 </Resources>
