@@ -7,9 +7,9 @@
     <Port>9011</Port>
   </Connection>
   <Connection>
-    <ApplicationID>5011</ApplicationID>
+    <ApplicationID>6011</ApplicationID>
     <ApplicationName>SLTS UAT</ApplicationName>
     <Host>203.154.41.73</Host>
-    <Port>5011</Port>
+    <Port>6011</Port>
   </Connection>
 </DocumentElement>
