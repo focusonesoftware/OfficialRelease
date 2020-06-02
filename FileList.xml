@@ -8232,8 +8232,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Base.dll</FileName>
-        <FileVersion>3.2.3.1</FileVersion>
-        <ProductVersion>3.2.3.1</ProductVersion>
+        <FileVersion>3.2.3.3</FileVersion>
+        <ProductVersion>3.2.3.3</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.CommandBar.dll</FileName>
@@ -10022,8 +10022,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>3.2.21.1</FileVersion>
-        <ProductVersion>3.2.21.1</ProductVersion>
+        <FileVersion>3.2.21.2</FileVersion>
+        <ProductVersion>3.2.21.2</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
