@@ -2874,13 +2874,13 @@
   <Resource Name="AG.BUDCO.FIFI_M_0019_02.DESC" Type="System.String" FileName="" Value="การกำหนดบัญชีต้นทุนกับวัตถุประสงค์ของกิจกรรม" />
   <Resource Name="AG.BUDCO.MM_M_0005.DESC" Type="System.String" FileName="" Value="การกำหนดโครงการกับประเภทกิจกรรมเอกสาร" />
   <Resource Name="AG.BUDCO.2014_COST_DRIVER_MASTER.DESC" Type="System.String" FileName="" Value="สูตรปันส่วนต้นทุนกิจกรรม" />
-  <Resource Name="AG.BUDCO.FOLDER02.DESC" Type="System.String" FileName="" Value="การกำหนดข้อมูลพื้นฐานหลักของระบบงบประมาณ" />
   <Resource Name="AG.BUDCO.BUD_T_0001.DESC" Type="System.String" FileName="" Value="การวางแผนงบประมาณสินทรัพย์" />
-  <Resource Name="AG.BUDCO.FOLDER03.DESC" Type="System.String" FileName="" Value="รายงานระบบควบคุมต้นทุน" />
+  <Resource Name="AG.BUDCO.FOLDER03.DESC" Type="System.String" FileName="" Value="การกำหนดข้อมูลพื้นฐานหลักของระบบงบประมาณ" />
+  <Resource Name="AG.BUDCO.FOLDER_R01.DESC" Type="System.String" FileName="" Value="รายงานระบบควบคุมต้นทุน" />
   <Resource Name="AG.BUDCO.CO_R_0002.DESC" Type="System.String" FileName="" Value="CO-R0002 รายงานแผนสรุปการควบคุมต้นทุน" />
   <Resource Name="AG.BUDCO.CO_R_0001.DESC" Type="System.String" FileName="" Value="CO-R0001 รายงานควบคุมการใช้จ่ายของกิจกรรม" />
   <Resource Name="AG.BUDCO.FIFI_R_0019.DESC" Type="System.String" FileName="" Value="FIFI-R0019 งบประมาณการลงทุน" />
-  <Resource Name="AG.BUDCO.FOLDER04.DESC" Type="System.String" FileName="" Value="รายงานระบบงบประมาณ" />
+  <Resource Name="AG.BUDCO.FOLDER_R02.DESC" Type="System.String" FileName="" Value="รายงานระบบงบประมาณ" />
   <Resource Name="AG.BUDCO.BUDRPT_R_0001.DESC" Type="System.String" FileName="" Value="BUD-R0001 รายงานความเคลื่อนไหวการใช้งบประมาณ" />
   <Resource Name="AG.BUDCO.BUDRPT_R_0002.DESC" Type="System.String" FileName="" Value="BUD-R0002 รายงานความเคลื่อนไหวงบประมาณ" />
   <Resource Name="AG.BUDCO.BUDRPT_R_0003.DESC" Type="System.String" FileName="" Value="BUD-R0003 รายงานงบประมาณสินทรัพย์" />
@@ -3479,7 +3479,6 @@
   <Resource Name="AG.ADM.CO.CC_C_0011.DESC" Type="System.String" FileName="" Value="กำหนดวงจรงวดบัญชีของบัญชีบริหาร" />
   <Resource Name="AG.ADM.CO.CC_C_0012.DESC" Type="System.String" FileName="" Value="กำหนดสถานะงวดบัญชีของบัญชีบริหาร" />
   <Resource Name="AG.ADM.CO.CC_C_0013.DESC" Type="System.String" FileName="" Value="กำหนดเวอร์ชั่นแผนของบัญชีต้นทุน" />
-  <Resource Name="AG.ADM.CO.CC_C_0014.DESC" Type="System.String" FileName="" Value="การกำหนดการลงบัญชีของศูนย์งานบัญชีบริหาร" />
   <Resource Name="AG.ADM.CS.FOLDER.DESC" Type="System.String" FileName="" Value="การกำหนดระบบงานบริการลูกค้า" />
   <Resource Name="AG.ADM.SV.FOLDER01.DESC" Type="System.String" FileName="" Value="การกำหนดงานบริการลูกค้า" />
   <Resource Name="AG.ADM.SV.2013_MASTER_CONFIG_MASS_SV.DESC" Type="System.String" FileName="" Value="การกำหนดเงื่อนไขสัญญาบริการจำนวนมาก" />
@@ -3641,4 +3640,6 @@
   <Resource Name="AG.ADM.TOOL.Tool_C_0011.DESC" Type="System.String" FileName="" Value="กำหนดกลุ่ม FOBGP" />
   <Resource Name="AG.ADM.TOOL.Tool_C_0012.DESC" Type="System.String" FileName="" Value="กำหนดรูปแบบรายงาน FOBGP" />
   <Resource Name="AG.ADM.TOOL.Tool_P_0001.DESC" Type="System.String" FileName="" Value="การกำหนดบทบาทเรียกดูรายงาน" />
+  <Resource Name="AG.BUDCO.FOLDER02.DESC" Type="System.String" FileName="" Value="การบันทึกบัญชีของศูนย์งานบัญชีบริหาร" />
+  <Resource Name="AG.BUDCO.CC_C_0014.DESC" Type="System.String" FileName="" Value="เอกสารการบันทึกบัญชีของบัญชีบริหาร" />
 </Resources>
