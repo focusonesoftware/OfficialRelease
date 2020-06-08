@@ -217,8 +217,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.CS.ServiceContractDTC.dll</FileName>
-        <FileVersion>3.1.6.0</FileVersion>
-        <ProductVersion>3.1.6.0</ProductVersion>
+        <FileVersion>3.1.8.0</FileVersion>
+        <ProductVersion>3.1.8.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.CS.ServiceOrder.DLL</FileName>
@@ -292,6 +292,11 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Conf.DoctypeMappingServiceID.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Conf.FI.Reconcile.dll</FileName>
         <FileVersion>3.1.1.0</FileVersion>
         <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
@@ -457,8 +462,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.DLL</FileName>
-        <FileVersion>3.1.82.0</FileVersion>
-        <ProductVersion>3.1.82.0</ProductVersion>
+        <FileVersion>3.1.83.0</FileVersion>
+        <ProductVersion>3.1.83.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.EndCashMent.DLL</FileName>
@@ -494,6 +499,11 @@
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Incoming.AutoIncoming.dll</FileName>
         <FileVersion>3.1.0.1</FileVersion>
         <ProductVersion>3.1.0.1</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.InterfaceBankReconcile.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.JVInterface.dll</FileName>
@@ -552,8 +562,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.PostWithClearing.dll</FileName>
-        <FileVersion>3.1.0.0</FileVersion>
-        <ProductVersion>3.1.0.0</ProductVersion>
+        <FileVersion>3.1.3.0</FileVersion>
+        <ProductVersion>3.1.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.PostingService.dll</FileName>
@@ -4047,8 +4057,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SLSNSaleQuotationForm.dll</FileName>
-        <FileVersion>3.1.1.5</FileVersion>
-        <ProductVersion>3.1.1.5</ProductVersion>
+        <FileVersion>3.1.1.6</FileVersion>
+        <ProductVersion>3.1.1.6</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SMEBillingForm.dll</FileName>
@@ -5402,8 +5412,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DLL</FileName>
-        <FileVersion>3.1.101.0</FileVersion>
-        <ProductVersion>3.1.101.0</ProductVersion>
+        <FileVersion>3.1.102.0</FileVersion>
+        <ProductVersion>3.1.102.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DocumentStatus.dll</FileName>
@@ -5657,8 +5667,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CS.ServiceContractDTC.dll</FileName>
-        <FileVersion>3.1.13.0</FileVersion>
-        <ProductVersion>3.1.13.0</ProductVersion>
+        <FileVersion>3.1.15.0</FileVersion>
+        <ProductVersion>3.1.15.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CS.ServiceOrder.Report.dll</FileName>
@@ -5667,8 +5677,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CS.ServiceOrder.dll</FileName>
-        <FileVersion>3.2.12.0</FileVersion>
-        <ProductVersion>3.2.12.0</ProductVersion>
+        <FileVersion>3.2.13.0</FileVersion>
+        <ProductVersion>3.2.13.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CS.UpdateServiceContract.dll</FileName>
@@ -5731,6 +5741,11 @@
         <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.App.Conf.FI.Reconcile.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.App.Conf.MMObjectiveCode.dll</FileName>
         <FileVersion>3.1.7.0</FileVersion>
         <ProductVersion>3.1.7.0</ProductVersion>
@@ -5757,8 +5772,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.37.0</FileVersion>
-        <ProductVersion>3.2.37.0</ProductVersion>
+        <FileVersion>3.2.38.0</FileVersion>
+        <ProductVersion>3.2.38.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -5881,6 +5896,11 @@
         <ProductVersion>3.1.0.13</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.App.FI.InterfaceBankReconcile.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.App.FI.JVInterface.dll</FileName>
         <FileVersion>3.2.6.0</FileVersion>
         <ProductVersion>3.2.6.0</ProductVersion>
@@ -5912,8 +5932,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.PostWithClearing.dll</FileName>
-        <FileVersion>3.1.0.9</FileVersion>
-        <ProductVersion>3.1.0.9</ProductVersion>
+        <FileVersion>3.1.10.0</FileVersion>
+        <ProductVersion>3.1.10.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Reconcile.Incoming.dll</FileName>
@@ -6007,8 +6027,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.479.0</FileVersion>
-        <ProductVersion>3.1.479.0</ProductVersion>
+        <FileVersion>3.1.480.0</FileVersion>
+        <ProductVersion>3.1.480.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -8341,6 +8361,11 @@
         <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.Lib.Remote.Conf.FI.Reconcile.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Conf.MMObjectiveCode.dll</FileName>
         <FileVersion>3.1.1.0</FileVersion>
         <ProductVersion>3.1.1.0</ProductVersion>
@@ -8469,6 +8494,11 @@
         <FileName>Startup\Main\Agape.Lib.Remote.FI.GenerateJVBank.dll</FileName>
         <FileVersion>3.1.0.2</FileVersion>
         <ProductVersion>3.1.0.2</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Remote.FI.InterfaceBankReconcile.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.FI.JVInterface.dll</FileName>
@@ -9912,8 +9942,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\ConstantUtility.DLL</FileName>
-        <FileVersion>3.1.67.0</FileVersion>
-        <ProductVersion>3.1.67.0</ProductVersion>
+        <FileVersion>3.1.68.0</FileVersion>
+        <ProductVersion>3.1.68.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\ConstantUtilityReport.dll</FileName>
