@@ -2691,6 +2691,7 @@
   <Resource Name="AG.AM.AM_T_0004V2.DESC" Type="System.String" FileName="" Value="Asset Depreciation Post V2" />
   <Resource Name="AG.AM.AM_T_0007.DESC" Type="System.String" FileName="" Value="Asset Depreciation Reset" />
   <Resource Name="AG.AM.2014_ASSET_TRANSFER_MULTI.DESC" Type="System.String" FileName="" Value="Multi-Transfer Asset" />
+  <Resource Name="AG.AM.WAS_T_0013.DESC" Type="System.String" FileName="" Value="Cancel Asset Rent" />
   <Resource Name="AG.AM.FOLDER_R01.DESC" Type="System.String" FileName="" Value="ASSET MANAGEMENT REPORTS" />
   <Resource Name="AG.AM.AM_R_0001.DESC" Type="System.String" FileName="" Value="AM-R0001 Asset Master Registration Report" />
   <Resource Name="AG.AM.AM_R_0003.DESC" Type="System.String" FileName="" Value="AM-R0003 Asset Depreciation Report" />
@@ -2870,6 +2871,7 @@
   <Resource Name="AG.FIACT.2014_REPORT_GLBYSEGMENT.DESC" Type="System.String" FileName="" Value="FIGL-R0004 GL By Segmentation Report" />
   <Resource Name="AG.FIACT.2014_REPORT_GLPOSTING.DESC" Type="System.String" FileName="" Value="FIGL-R0006 GL By Posting Entries Report" />
   <Resource Name="AG.FIACT.2012_FITAX_0001.DESC" Type="System.String" FileName="" Value="FITAX-0001 Tax Comparison Report" />
+  <Resource Name="AG.FIACT.FIFI_R_0022.DESC" Type="System.String" FileName="" Value="FIFI-R0022 Trial Balance By GL Comparison" />
   <Resource Name="AG.FIACT.FOLDER_R03.DESC" Type="System.String" FileName="" Value="ACCOUNTS RECEIVABLE REPORTS" />
   <Resource Name="AG.FIACT.2014_FI_INC_R_0001.DESC" Type="System.String" FileName="" Value="FIINC-R0001 Incoming List Report" />
   <Resource Name="AG.FIACT.2014_FI_INC_R_0001_V2.DESC" Type="System.String" FileName="" Value="FIINC-R0001V2 Incoming List Report V2" />
@@ -2937,13 +2939,13 @@
   <Resource Name="AG.BUDCO.FIFI_M_0019_02.DESC" Type="System.String" FileName="" Value="CC Node Master Mapping Objectives Statement" />
   <Resource Name="AG.BUDCO.MM_M_0005.DESC" Type="System.String" FileName="" Value="Mapping Project Elements To Document Type" />
   <Resource Name="AG.BUDCO.2014_COST_DRIVER_MASTER.DESC" Type="System.String" FileName="" Value="Cost Driver Master" />
-  <Resource Name="AG.BUDCO.FOLDER02.DESC" Type="System.String" FileName="" Value="BUDGETING MASTER-CONFIGURATION" />
   <Resource Name="AG.BUDCO.BUD_T_0001.DESC" Type="System.String" FileName="" Value="Asset Budget Planning" />
-  <Resource Name="AG.BUDCO.FOLDER03.DESC" Type="System.String" FileName="" Value="COST CONTROLLING REPORTS" />
+  <Resource Name="AG.BUDCO.FOLDER03.DESC" Type="System.String" FileName="" Value="BUDGETING MASTER-CONFIGURATION" />
+  <Resource Name="AG.BUDCO.FOLDER_R01.DESC" Type="System.String" FileName="" Value="COST CONTROLLING REPORTS" />
   <Resource Name="AG.BUDCO.CO_R_0002.DESC" Type="System.String" FileName="" Value="CO-R0002 Cost Controlling Summary Plan Report" />
   <Resource Name="AG.BUDCO.CO_R_0001.DESC" Type="System.String" FileName="" Value="CO-R0001 Internal Order (CC) Report" />
   <Resource Name="AG.BUDCO.FIFI_R_0019.DESC" Type="System.String" FileName="" Value="FIFI-R0019 Capital Budgeting Statement" />
-  <Resource Name="AG.BUDCO.FOLDER04.DESC" Type="System.String" FileName="" Value="BUDGETING REPORTS" />
+  <Resource Name="AG.BUDCO.FOLDER_R02.DESC" Type="System.String" FileName="" Value="BUDGETING REPORTS" />
   <Resource Name="AG.BUDCO.BUDRPT_R_0001.DESC" Type="System.String" FileName="" Value="BUD-R0001 Budgeting Usage Report" />
   <Resource Name="AG.BUDCO.BUDRPT_R_0002.DESC" Type="System.String" FileName="" Value="BUD-R0002 Budgeting Movement Report" />
   <Resource Name="AG.BUDCO.BUDRPT_R_0003.DESC" Type="System.String" FileName="" Value="BUD-R0003 Fixed Asset Budget Report" />
@@ -3030,7 +3032,8 @@
   <Resource Name="AG.SOLO.FIRPT_R_1002.DESC" Type="System.String" FileName="" Value="FIRPT-R1002 Customer Credit Limit Report" />
   <Resource Name="AG.SOLO.LOSO_R_0021.DESC" Type="System.String" FileName="" Value="LOSO-R0021 Sales Tracking Reports" />
   <Resource Name="AG.SOLO.LOSO_R_0008.DESC" Type="System.String" FileName="" Value="LOSO-R0008 Daily Sales Report" />
-  <Resource Name="AG.SOLO.LOSO_R_0021_1.DESC" Type="System.String" FileName="" Value="LOSO-R00211 Sales Tracking Reports V2" />
+  <Resource Name="AG.SOLO.LOSO_R_0021_1.DESC" Type="System.String" FileName="" Value="LOSO-R00211 Sales Tracking Reports V1" />
+  <Resource Name="AG.SOLO.LOSO_R_0021_2.DESC" Type="System.String" FileName="" Value="LOSO-R00212 Sales Tracking Reports V2" />
   <Resource Name="AG.SOLO.LOSO_R_0021_3.DESC" Type="System.String" FileName="" Value="LOSO-R00213 Sales Tracking Reports V3" />
   <Resource Name="AG.SOLO.LISTOFSALEORDERREPORTV2.DESC" Type="System.String" FileName="" Value="SD01-R002 List Of Sales Order Report V2" />
   <Resource Name="AG.SOLO.LISTOFSALEORDERREPORTV3.DESC" Type="System.String" FileName="" Value="SD01-R003 List Of Sales Order Report V3" />
@@ -3046,7 +3049,6 @@
   <Resource Name="AG.SOLO.LOSIS_R_0006.DESC" Type="System.String" FileName="" Value="LOSIS-R0006 รายงานสอบถามราคาขาย" />
   <Resource Name="AG.SOLO.LOSO_R_0009.DESC" Type="System.String" FileName="" Value="LOSO-R0009 รายงานการขาย แยกตามลูกค้า" />
   <Resource Name="AG.SOLO.LOSO_R_0010.DESC" Type="System.String" FileName="" Value="LOSO-R0010 รายงานราคาขายประจำวัน(ดูตามสินค้า)" />
-  <Resource Name="AG.SOLO.HODiscountSummaryCommand.DESC" Type="System.String" FileName="" Value="RPTSO012 รายงานการขาย ตามสินค้า" />
   <Resource Name="AG.SOLO.LOSO_R_0011.DESC" Type="System.String" FileName="" Value="LOSO-R0011 รายงานการตรวจสอบส่วนลด" />
   <Resource Name="AG.SOLO.LOSO_R_0012.DESC" Type="System.String" FileName="" Value="LOSO-R0012 รายงานการขาย ตามสินค้า" />
   <Resource Name="AG.SOLO.LOSO_R_0013.DESC" Type="System.String" FileName="" Value="LOSO-R0013 รายการขายแยกตามกลุ่มลูกค้า" />
@@ -3312,14 +3314,14 @@
   <Resource Name="AG.IC.2015_Borrowdue.DESC" Type="System.String" FileName="" Value="IC-R0044 Due date of Product Borrowed Report" />
   <Resource Name="AG.IC.FOLDER_R03.DESC" Type="System.String" FileName="" Value="INVENTORY MOVEMENT REPORTS" />
   <Resource Name="AG.IC.2014QCRAWMATERIAL_R_0001.DESC" Type="System.String" FileName="" Value="ICMOVE-R01 QC Raw Material Report" />
-  <Resource Name="AG.IC.2014_REPORT_TRANSFERCONSIGNMENTPRINT.DESC" Type="System.String" FileName="" Value="ICMOVE-R02 TransferConsignmentPrint Report" />
+  <Resource Name="AG.IC.2014_REPORT_TRANSFERCONSIGNMENTPRINT.DESC" Type="System.String" FileName="" Value="ICMOVE-R02 Print Consignment Inventory Report" />
   <Resource Name="AG.IC.FOLDER_R04.DESC" Type="System.String" FileName="" Value="STOCK CONSIGNMENT REPORTS" />
-  <Resource Name="AG.IC.2013_CONSIGNMNET_INVENTORY_REPORT.DESC" Type="System.String" FileName="" Value="ICCON-R01 Consignment Inventory Report" />
-  <Resource Name="AG.IC.2013_R_CONSIGNMNET_INVENTORY_REPORT_NOTRECONCILE.DESC" Type="System.String" FileName="" Value="ICCON-R02 Consignment Inventory Report As OfDate Not ReConcile" />
-  <Resource Name="AG.IC.2013_CONSIGNMNET_INVENTORY_REPORT_ASOFDATE.DESC" Type="System.String" FileName="" Value="ICCON-R03 Consignment Invertory Report As Of Date" />
+  <Resource Name="AG.IC.2013_CONSIGNMNET_INVENTORY_REPORT.DESC" Type="System.String" FileName="" Value="ICCON-R01 Stock Consignment Report" />
+  <Resource Name="AG.IC.2013_R_CONSIGNMNET_INVENTORY_REPORT_NOTRECONCILE.DESC" Type="System.String" FileName="" Value="ICCON-R02 Stock Consignment Balance Report (Reconcilliation/A Day)" />
+  <Resource Name="AG.IC.2013_CONSIGNMNET_INVENTORY_REPORT_ASOFDATE.DESC" Type="System.String" FileName="" Value="ICCON-R03 Stock Consignment Balance Report as of Date" />
   <Resource Name="AG.IC.FOLDER_R05.DESC" Type="System.String" FileName="" Value="EQUIPMENT REPORTS" />
-  <Resource Name="AG.IC.EQPM_R_0003.DESC" Type="System.String" FileName="" Value="EQPM-R0003 รายงานวัสดุอุปกรณ์" />
-  <Resource Name="AG.IC.2013_LIST_EQUIPMENT_RPT.DESC" Type="System.String" FileName="" Value="EQPM-R0001 EquipmentListReport" />
+  <Resource Name="AG.IC.EQPM_R_0003.DESC" Type="System.String" FileName="" Value="EQPM-R0003 Equipment Details Report" />
+  <Resource Name="AG.IC.2013_LIST_EQUIPMENT_RPT.DESC" Type="System.String" FileName="" Value="EQPM-R0001 Equipment List Report" />
   <Resource Name="AG.WMS.FOLDER.DESC" Type="System.String" FileName="" Value="WAREHOUSE MANAGEMENT SYSTEM" />
   <Resource Name="AG.WMS.FOLDER01.DESC" Type="System.String" FileName="" Value="WMS DOCUMENT PROCESS" />
   <Resource Name="AG.WMS.2017_CONFIRMBILLINGOUTSTANDING.DESC" Type="System.String" FileName="" Value="Confirm Outstanding Billings" />
@@ -3399,6 +3401,7 @@
   <Resource Name="AG.SUPERHERO.CONF_M_0001.DESC" Type="System.String" FileName="" Value="CONF-M0001 Default Value Master" />
   <Resource Name="AG.SUPERHERO.FIAR_R_0008.DESC" Type="System.String" FileName="" Value="FIAR-R0008 I Am Margin" />
   <Resource Name="AG.SUPERHERO.FI_C_0005.DESC" Type="System.String" FileName="" Value="FI-C0005 I Am Margin Broker Configuration" />
+  <Resource Name="AG.SUPERHERO.EDIV02_M_0001.DESC" Type="System.String" FileName="" Value="EDIV02-M0001 Broker Templates Configuration" />
   <Resource Name="AG.SUPERHERO.2015_LOG_0001.DESC" Type="System.String" FileName="" Value="LOG-0001 Number Range Log" />
   <Resource Name="AG.SUPERHERO.2015_LOGCONF_0001.DESC" Type="System.String" FileName="" Value="LOGCONF-0001 Transaction Record Log" />
   <Resource Name="AG.SUPERHERO.2015_LOGCONFCOLUMN_0001.DESC" Type="System.String" FileName="" Value="LOGCONFCOLUMN-0001 T-Column Record Log" />
@@ -3436,4 +3439,272 @@
   <Resource Name="AG.SYSTEM.UMEROLE_R_0001.DESC" Type="System.String" FileName="" Value="UME-ROLE0001 Role Details Report" />
   <Resource Name="AG.SYSTEM.UME_R_0001.DESC" Type="System.String" FileName="" Value="UME-R0001 User Status Report" />
   <Resource Name="AG.SYSTEM.2012_LOGIN_LOG.DESC" Type="System.String" FileName="" Value="2012-LOGINLOG System Login Report" />
+  <Resource Name="AG.NEWPROGRAM.FOLDER.DESC" Type="System.String" FileName="" Value="F1 ERP - NEW PROGRAMS" />
+  <Resource Name="AG.NEWPROGRAM.PP_T_0006.DESC" Type="System.String" FileName="" Value="PP-T0006 Continuous Flow Production Order" />
+  <Resource Name="AG.NEWPROGRAM.POSO_R_0001.DESC" Type="System.String" FileName="" Value="POSO-R0001 Sales-Purchase Products Viewed by BU-Project Report" />
+  <Resource Name="AG.NEWPROGRAM.FIREIMMULTI_T_0001.DESC" Type="System.String" FileName="" Value="Advance Payment With Multi Currency" />
+  <Resource Name="F1 ERP ADMINISTRATIVE MODULE.DESC" Type="System.String" FileName="" Value="F1 ERP ADMINISTRATIVE SYSTEM" />
+  <Resource Name="AG.ADM.GEN.FOLDER.DESC" Type="System.String" FileName="" Value="GENERAL SETTING" />
+  <Resource Name="AG.ADM.GEN.FOLDER01.DESC" Type="System.String" FileName="" Value="EXCHANGE RATE - CALENDAR SETUP" />
+  <Resource Name="AG.ADM.GEN.COMP_C_0007.DESC" Type="System.String" FileName="" Value="Define Currency" />
+  <Resource Name="AG.ADM.GEN.ADMEI_C_0001.DESC" Type="System.String" FileName="" Value="Define Exchange Rate Type" />
+  <Resource Name="AG.ADM.GEN.EIFI_C_0002.DESC" Type="System.String" FileName="" Value="Update Exchange Rate Per Day" />
+  <Resource Name="AG.ADM.GEN.COMP_M_0001.DESC" Type="System.String" FileName="" Value="Define Holiday Calendar" />
+  <Resource Name="AG.ADM.GEN.FOLDER02.DESC" Type="System.String" FileName="" Value="COMPANY-BRANCH SETUP" />
+  <Resource Name="AG.ADM.GEN.COMP_M_0002.DESC" Type="System.String" FileName="" Value="Define Company Code" />
+  <Resource Name="AG.ADM.GEN.COMP_M_0003.DESC" Type="System.String" FileName="" Value="Define Fiscal Year" />
+  <Resource Name="AG.ADM.GEN.COMP_C_0002.DESC" Type="System.String" FileName="" Value="Assign Company Code to Fiscal Year" />
+  <Resource Name="AG.ADM.GEN.COMP_C_0004.DESC" Type="System.String" FileName="" Value="Define Branch Code" />
+  <Resource Name="AG.ADM.GEN.COMP_C_0017.DESC" Type="System.String" FileName="" Value="Mapping Branch Code to Document Type" />
+  <Resource Name="AG.ADM.GEN.COMP_C_0003.DESC" Type="System.String" FileName="" Value="Assign Branch to Plant" />
+  <Resource Name="AG.ADM.GEN.ADMPR_C_0007.DESC" Type="System.String" FileName="" Value="Define Bussiness Place" />
+  <Resource Name="AG.ADM.GEN.COMP_C_0008.DESC" Type="System.String" FileName="" Value="Define Name Prefix" />
+  <Resource Name="AG.ADM.GEN.COMP_C_0009.DESC" Type="System.String" FileName="" Value="Define Selected Value" />
+  <Resource Name="AG.ADM.GEN.ADMIM_C_0025.DESC" Type="System.String" FileName="" Value="Define Property" />
+  <Resource Name="AG.ADM.GEN.COMP_C_0016.DESC" Type="System.String" FileName="" Value="Define Country" />
+  <Resource Name="AG.ADM.PC.FOLDER.DESC" Type="System.String" FileName="" Value="PETTY CASH - ADVANCE CONFIGURATION" />
+  <Resource Name="AG.ADM.PC.ADMFI_C_0005.DESC" Type="System.String" FileName="" Value="Define PC-ADV Document Type" />
+  <Resource Name="AG.ADM.PC.ADMFI_C_0006.DESC" Type="System.String" FileName="" Value="Define PC-ADV Document No Range" />
+  <Resource Name="AG.ADM.PC.ADMFI_C_0007.DESC" Type="System.String" FileName="" Value="Assign PC-ADV Document Type to Number Range" />
+  <Resource Name="AG.ADM.PC.MILGE_C_0007.DESC" Type="System.String" FileName="" Value="Assign Reimburse Doc Type to Objective Code" />
+  <Resource Name="AG.ADM.PC.MILGE_C_0008.DESC" Type="System.String" FileName="" Value="Assign Reimburse Activity to Objective Code" />
+  <Resource Name="AG.ADM.PC.MILGE_C_0009.DESC" Type="System.String" FileName="" Value="Assign Reimburse Activity Group to Objective Code" />
+  <Resource Name="AG.ADM.AM.FOLDER.DESC" Type="System.String" FileName="" Value="ASSET SYSTEM CONFIGURATION" />
+  <Resource Name="AG.ADM.AM.AM_C_0003.DESC" Type="System.String" FileName="" Value="Define Asset Document Type" />
+  <Resource Name="AG.ADM.AM.AM_C_0004.DESC" Type="System.String" FileName="" Value="Define Asset Document No Range" />
+  <Resource Name="AG.ADM.AM.AM_C_0005.DESC" Type="System.String" FileName="" Value="Assign Asset Document Type to Number Range" />
+  <Resource Name="AG.ADM.AM.AM_C_0008.DESC" Type="System.String" FileName="" Value="Depreciation Method Calculation" />
+  <Resource Name="AG.ADM.AM.AM_M_0009.DESC" Type="System.String" FileName="" Value="Define Depreciation Book Type" />
+  <Resource Name="AG.ADM.AM.AM_C_0006.DESC" Type="System.String" FileName="" Value="Asset Acount Code Determination" />
+  <Resource Name="AG.ADM.AM.AM_C_0007.DESC" Type="System.String" FileName="" Value="Asset Acct Transaction Type Determination" />
+  <Resource Name="AG.ADM.AM.AM_M_0005.DESC" Type="System.String" FileName="" Value="Define Asset Leasing Type" />
+  <Resource Name="AG.ADM.AM.AM_C_0002.DESC" Type="System.String" FileName="" Value="Define Asset Group" />
+  <Resource Name="AG.ADM.AM.AM_M_0012.DESC" Type="System.String" FileName="" Value="Define Asset Type" />
+  <Resource Name="AG.ADM.AM.AM_M_0010.DESC" Type="System.String" FileName="" Value="Define Asset Category 1" />
+  <Resource Name="AG.ADM.AM.AM_M_0011.DESC" Type="System.String" FileName="" Value="Define Asset Category 2" />
+  <Resource Name="AG.ADM.AM.AM_ASGROUPLOCAT_M_0001.DESC" Type="System.String" FileName="" Value="Assign Asset Group Location Master" />
+  <Resource Name="AG.ADM.AM.AM_M_0001.DESC" Type="System.String" FileName="" Value="Define Asset Location" />
+  <Resource Name="AG.ADM.AM.AM_M_0004.DESC" Type="System.String" FileName="" Value="Assign Asset Location And Room" />
+  <Resource Name="AG.ADM.AM.AM_M_0007.DESC" Type="System.String" FileName="" Value="Define Asset Source" />
+  <Resource Name="AG.ADM.FIACCT.FOLDER.DESC" Type="System.String" FileName="" Value="FINANCE AND ACCOUNTING CONFIGURATION" />
+  <Resource Name="AG.ADM.ACCT.FOLDER01.DESC" Type="System.String" FileName="" Value="CHART OF ACCOUNT SETUP" />
+  <Resource Name="AG.ADM.ACCT.ADMFI_C_0001.DESC" Type="System.String" FileName="" Value="Define Chart of Account Code" />
+  <Resource Name="AG.ADM.ACCT.ADMAC_C_0026.DESC" Type="System.String" FileName="" Value="Create/Change/Display Chart of Account" />
+  <Resource Name="AG.ADM.ACCT.COMP_C_0001.DESC" Type="System.String" FileName="" Value="Assign Company Code to COA" />
+  <Resource Name="AG.ADM.ACCT.2013_BRANCH_TAX_MASTER.DESC" Type="System.String" FileName="" Value="Define Branch Tax ID" />
+  <Resource Name="AG.ADM.ACCT.2013_FI_CONF_ROUNDING.DESC" Type="System.String" FileName="" Value="Define Decimal Value Rounding" />
+  <Resource Name="AG.ADM.ACCT.ADMFI_C_0010.DESC" Type="System.String" FileName="" Value="Define Business Area" />
+  <Resource Name="AG.ADM.ACCT.FOLDER02.DESC" Type="System.String" FileName="" Value="FINANCE AND ACCOUNTING DOCUMENT SETUP" />
+  <Resource Name="AG.ADM.ACCT.ADMFI_C_0002.DESC" Type="System.String" FileName="" Value="Define Accounting Document Type" />
+  <Resource Name="AG.ADM.ACCT.ADMFI_C_0003.DESC" Type="System.String" FileName="" Value="Define Accounting Document No Range" />
+  <Resource Name="AG.ADM.ACCT.ADMFI_C_0004.DESC" Type="System.String" FileName="" Value="Assign Accounting Document Type to Number Range" />
+  <Resource Name="AG.ADM.ACCT.ADMFI_C_0008.DESC" Type="System.String" FileName="" Value="Define Receipt Document Type" />
+  <Resource Name="AG.ADM.ACCT.ADMFI_C_0009.DESC" Type="System.String" FileName="" Value="Define Receipt Doc Type Number Range" />
+  <Resource Name="AG.ADM.ACCT.FI_M_FIMAPPINGDOCTYPECHECK.DESC" Type="System.String" FileName="" Value="Assign FI Doc Type Mapping GL Posting" />
+  <Resource Name="AG.ADM.ACCT.FOLDER03.DESC" Type="System.String" FileName="" Value="VAT AND WITHHOLDING TAX SETUP" />
+  <Resource Name="AG.ADM.ACCT.ADMFI_C_0011.DESC" Type="System.String" FileName="" Value="Define VAT Code" />
+  <Resource Name="AG.ADM.ACCT.ADMFI_C_0012.DESC" Type="System.String" FileName="" Value="Define VAT Document Type Number Range" />
+  <Resource Name="AG.ADM.ACCT.ADMFI_C_0013.DESC" Type="System.String" FileName="" Value="Define VAT Book Number" />
+  <Resource Name="AG.ADM.ACCT.ADMAC_C_0012.DESC" Type="System.String" FileName="" Value="Define Withholding Tax code" />
+  <Resource Name="AG.ADM.ACCT.ADMFI_C_0015.DESC" Type="System.String" FileName="" Value="Define WHT Tax Document Type Number Range" />
+  <Resource Name="AG.ADM.ACCT.ADMFI_C_0016.DESC" Type="System.String" FileName="" Value="Assing Withholding Tax Book Number" />
+  <Resource Name="AG.ADM.ACCT.FOLDER04.DESC" Type="System.String" FileName="" Value="PAYMENT CONDITION SETUP" />
+  <Resource Name="AG.ADM.ACCT.ADMSD_C_0015.DESC" Type="System.String" FileName="" Value="Define Payment Terms" />
+  <Resource Name="AG.ADM.ACCT.ADMAC_C_0023.DESC" Type="System.String" FileName="" Value="Define Payment Method" />
+  <Resource Name="AG.ADM.ACCT.ADMFI_C_0021.DESC" Type="System.String" FileName="" Value="Define Payment Details Method" />
+  <Resource Name="AG.ADM.ACCT.ADMAC_C_0025.DESC" Type="System.String" FileName="" Value="Define Special Account Code" />
+  <Resource Name="AG.ADM.FI.FOLDER01.DESC" Type="System.String" FileName="" Value="BANK ACCOUNT - CREDIT CARD SETUP" />
+  <Resource Name="AG.ADM.FI.COMP_C_0018.DESC" Type="System.String" FileName="" Value="Define Company Credit Card Type" />
+  <Resource Name="AG.ADM.FI.FIBANK_M_0005.DESC" Type="System.String" FileName="" Value="Define Company Credit Card Bank" />
+  <Resource Name="AG.ADM.FI.FIBANK_M_0003.DESC" Type="System.String" FileName="" Value="Define Company Credit Card Master" />
+  <Resource Name="AG.ADM.FI.FICHECK_C_0002.DESC" Type="System.String" FileName="" Value="Define Company Cheque Type" />
+  <Resource Name="AG.ADM.FI.FICHECK_C_0003.DESC" Type="System.String" FileName="" Value="Define Payment Cheque Type" />
+  <Resource Name="AG.ADM.FI.FICHECK_C_0004.DESC" Type="System.String" FileName="" Value="Define Cheque Delivered Type" />
+  <Resource Name="AG.ADM.FI.CHECK_C_0005.DESC" Type="System.String" FileName="" Value="Define Reason For Cheque Cancellation" />
+  <Resource Name="AG.ADM.BUDCO.FOLDER.DESC" Type="System.String" FileName="" Value="COST CONTROLLING-BUDGETING CONFIGURATION" />
+  <Resource Name="AG.ADM.BUD.FOLDER01.DESC" Type="System.String" FileName="" Value="BUDGETING SETUP" />
+  <Resource Name="AG.ADM.BUD.BUD_C_0002.DESC" Type="System.String" FileName="" Value="Define Budget Memo Document Type" />
+  <Resource Name="AG.ADM.BUD.BUD_C_0003.DESC" Type="System.String" FileName="" Value="Define Budget Memo Document No Range" />
+  <Resource Name="AG.ADM.BUD.BUD_C_0004.DESC" Type="System.String" FileName="" Value="Assign Budget Memo Document Type to Number Range" />
+  <Resource Name="AG.ADM.CO.FOLDER01.DESC" Type="System.String" FileName="" Value="COST CONTROLLING SETUP" />
+  <Resource Name="AG.ADM.CO.CC_C_0019.DESC" Type="System.String" FileName="" Value="Define Cost Controlling Document Type" />
+  <Resource Name="AG.ADM.CO.CC_C_0020.DESC" Type="System.String" FileName="" Value="Define Cost Controlling Doc Number Range" />
+  <Resource Name="AG.ADM.CO.CC_C_0021.DESC" Type="System.String" FileName="" Value="Define Cost Controlling Doc Type to Number Range" />
+  <Resource Name="AG.ADM.CO.CC_C_0001.DESC" Type="System.String" FileName="" Value="Define Controlling Area" />
+  <Resource Name="AG.ADM.CO.CC_C_0002.DESC" Type="System.String" FileName="" Value="Assign Controlling Area to Chart Of Account" />
+  <Resource Name="AG.ADM.CO.CC_C_0004.DESC" Type="System.String" FileName="" Value="Define Cost Center Group" />
+  <Resource Name="AG.ADM.CO.CC_C_0005.DESC" Type="System.String" FileName="" Value="Define Cost Center" />
+  <Resource Name="AG.ADM.CO.CC_C_0006.DESC" Type="System.String" FileName="" Value="Define Cost Element Group" />
+  <Resource Name="AG.ADM.CO.CC_C_0007.DESC" Type="System.String" FileName="" Value="Define Cost Element" />
+  <Resource Name="AG.ADM.CO.CC_C_0009.DESC" Type="System.String" FileName="" Value="Assign Cost Element to Cost Center" />
+  <Resource Name="AG.ADM.CO.CC_C_0016.DESC" Type="System.String" FileName="" Value="Define Controlling Channel" />
+  <Resource Name="AG.ADM.CO.CC_C_0017.DESC" Type="System.String" FileName="" Value="Define Project Code" />
+  <Resource Name="AG.ADM.CO.CC_C_0003.DESC" Type="System.String" FileName="" Value="Define Activity Cost" />
+  <Resource Name="AG.ADM.CO.CC_C_0010.DESC" Type="System.String" FileName="" Value="Define Cost Element Version Master" />
+  <Resource Name="AG.ADM.CO.CC_C_0011.DESC" Type="System.String" FileName="" Value="Define Cost Controlling Period Cycle" />
+  <Resource Name="AG.ADM.CO.CC_C_0012.DESC" Type="System.String" FileName="" Value="Define Cost Controlling Period Status" />
+  <Resource Name="AG.ADM.CO.CC_C_0013.DESC" Type="System.String" FileName="" Value="Define Cost Element Plan Version" />
+  <Resource Name="AG.ADM.CS.FOLDER.DESC" Type="System.String" FileName="" Value="CUSTOMER SERVICE SYSTEM CONFIGURATION" />
+  <Resource Name="AG.ADM.SV.FOLDER01.DESC" Type="System.String" FileName="" Value="CUSTOMER SERVICE SETUP" />
+  <Resource Name="AG.ADM.SV.2013_MASTER_CONFIG_MASS_SV.DESC" Type="System.String" FileName="" Value="Configure Mass Service Contract" />
+  <Resource Name="AG.ADM.SV.ADMSV_C_0001.DESC" Type="System.String" FileName="" Value="Define Call Type" />
+  <Resource Name="AG.ADM.SV.ADMSV_C_0002.DESC" Type="System.String" FileName="" Value="Define Call Status Code" />
+  <Resource Name="AG.ADM.SV.ADMSV_C_0003.DESC" Type="System.String" FileName="" Value="Define information Source" />
+  <Resource Name="AG.ADM.SV.ADMSV_C_0004.DESC" Type="System.String" FileName="" Value="Define Problem Type" />
+  <Resource Name="AG.ADM.EQUIP.FOLDER01.DESC" Type="System.String" FileName="" Value="CUSTOMER EQUIPMENT SETUP" />
+  <Resource Name="AG.ADM.EQUIP.CLM_C_0001.DESC" Type="System.String" FileName="" Value="Define Claim Document Type" />
+  <Resource Name="AG.ADM.EQUIP.CLM_C_0002.DESC" Type="System.String" FileName="" Value="Define Claim Document Number Range" />
+  <Resource Name="AG.ADM.EQUIP.CLM_C_0003.DESC" Type="System.String" FileName="" Value="Assign Claim Document Type to Number Range" />
+  <Resource Name="AG.ADM.EQUIP.CLM_C_0004.DESC" Type="System.String" FileName="" Value="Define Claim Reason" />
+  <Resource Name="AG.ADM.SOLO.FOLDER.DESC" Type="System.String" FileName="" Value="SALE AND LOGISTICS SYSTEM CONFIGURATION" />
+  <Resource Name="AG.ADM.SO.FOLDER01.DESC" Type="System.String" FileName="" Value="SALE AND LOGISTICS SETUP" />
+  <Resource Name="AG.ADM.SO.ADMLO_C_0001.DESC" Type="System.String" FileName="" Value="Define Logistic Document Type" />
+  <Resource Name="AG.ADM.SO.ADMLO_C_0002.DESC" Type="System.String" FileName="" Value="Define Logistic Document Number Range" />
+  <Resource Name="AG.ADM.SO.ADMLO_C_0003.DESC" Type="System.String" FileName="" Value="Assign Logistic Doc Type to Number Range" />
+  <Resource Name="AG.ADM.SO.FOLDER02.DESC" Type="System.String" FileName="" Value="SALE - CREDIT CONTROL SETUP" />
+  <Resource Name="AG.ADM.SO.2013_CREDITCONTROL_CRITERIA.DESC" Type="System.String" FileName="" Value="Define Sale - Credit Control Criteria" />
+  <Resource Name="AG.ADM.SO.2012_SDCR_BLOCK_0002.DESC" Type="System.String" FileName="" Value="Assign Blocking Code to Transactions Type" />
+  <Resource Name="AG.ADM.SO.ADMEI_C_0016.DESC" Type="System.String" FileName="" Value="Define Blocking Reason" />
+  <Resource Name="AG.SOLO.2012_SDCR_BLOCK_0001.DESC" Type="System.String" FileName="" Value="Release Blocking SO Documents" />
+  <Resource Name="AG.ADM.SO.LOSO_M_1000.DESC" Type="System.String" FileName="" Value="Upload Material Sale Pricing" />
+  <Resource Name="AG.ADM.SO.CMC_01_0001.DESC" Type="System.String" FileName="" Value="Outstanding Sales Order Credit Adjustment" />
+  <Resource Name="AG.ADM.SO.CMC_C_0002.DESC" Type="System.String" FileName="" Value="Define Risk Category Code" />
+  <Resource Name="AG.ADM.SO.CMC_C_0003.DESC" Type="System.String" FileName="" Value="Define Credit Control Area" />
+  <Resource Name="AG.ADM.SO.CMC_C_0004.DESC" Type="System.String" FileName="" Value="Assign Company Code to Credit Control Area" />
+  <Resource Name="AG.ADM.SO.CMC_C_0005.DESC" Type="System.String" FileName="" Value="Assign Sale Structure Area to Credit Control Area" />
+  <Resource Name="AG.ADM.SO.FOLDER03.DESC" Type="System.String" FileName="" Value="LOGISTICS DOCUMENT SETUP" />
+  <Resource Name="AG.ADM.SO.LOSO_C_0020.DESC" Type="System.String" FileName="" Value="Define Logistics Documents Reason" />
+  <Resource Name="AG.ADM.SO.LOSO_C_0021.DESC" Type="System.String" FileName="" Value="Define Logistics Documents Reverse Reason" />
+  <Resource Name="AG.ADM.SO.2012_MAT_SPLANT_DEF.DESC" Type="System.String" FileName="" Value="Assign Sales Material To Plant" />
+  <Resource Name="AG.ADM.SO.LOSO_C_0033.DESC" Type="System.String" FileName="" Value="Define Sales - Shipping Condition" />
+  <Resource Name="AG.ADM.SO.LOSO_C_0025.DESC" Type="System.String" FileName="" Value="Assign SO Doc Type to Material Categories" />
+  <Resource Name="AG.ADM.SO.LOSO_C_0030.DESC" Type="System.String" FileName="" Value="Define Route" />
+  <Resource Name="AG.ADM.SO.LOSO_C_0035.DESC" Type="System.String" FileName="" Value="Define Sales - Shipping Point Determination" />
+  <Resource Name="AG.ADM.SO.LODO_C_0001.DESC" Type="System.String" FileName="" Value="Define Delivery - Shipping Point" />
+  <Resource Name="AG.ADM.SO.LODO_C_0002.DESC" Type="System.String" FileName="" Value="Define Loading Group" />
+  <Resource Name="AG.ADM.SO.LODO_C_0003.DESC" Type="System.String" FileName="" Value="Define Delivery - Shipping Condition" />
+  <Resource Name="AG.ADM.SO.LODO_C_0004.DESC" Type="System.String" FileName="" Value="Assign Shipping Point to Loading Group" />
+  <Resource Name="AG.ADM.SO.LODO_C_0005.DESC" Type="System.String" FileName="" Value="Assign Shipping Point to Shipping Condition" />
+  <Resource Name="AG.ADM.SO.LODO_C_0006.DESC" Type="System.String" FileName="" Value="Mapping Shipping Condition To Supplier" />
+  <Resource Name="AG.ADM.SO.FOLDER04.DESC" Type="System.String" FileName="" Value="SALES STRUCTURE SETUP" />
+  <Resource Name="AG.ADM.SO.ADMSD_C_0004.DESC" Type="System.String" FileName="" Value="Define Sales Structure Key" />
+  <Resource Name="AG.ADM.SO.ADMSD_C_0005.DESC" Type="System.String" FileName="" Value="Define Sales Entity" />
+  <Resource Name="AG.ADM.SO.ADMSD_C_0006.DESC" Type="System.String" FileName="" Value="Assign Sales Entity to Company Code" />
+  <Resource Name="AG.ADM.SO.ADMSD_C_0023.DESC" Type="System.String" FileName="" Value="Define Sales Unit" />
+  <Resource Name="AG.ADM.SO.ADMSD_C_0008.DESC" Type="System.String" FileName="" Value="Assign Sales Unit to Sales Entity" />
+  <Resource Name="AG.ADM.SO.ADMSD_C_0009.DESC" Type="System.String" FileName="" Value="Define Sales Distribution Channel" />
+  <Resource Name="AG.ADM.SO.ADMSD_C_0010.DESC" Type="System.String" FileName="" Value="Define Sales Structure Area" />
+  <Resource Name="AG.ADM.SO.ADMSD_C_0011.DESC" Type="System.String" FileName="" Value="Define Sales Office" />
+  <Resource Name="AG.ADM.SO.ADMSD_C_0012.DESC" Type="System.String" FileName="" Value="Define Sales Office to Sales Structure Area" />
+  <Resource Name="AG.ADM.SO.ADMSD_C_0013.DESC" Type="System.String" FileName="" Value="Define Sales Product Group" />
+  <Resource Name="AG.ADM.SO.ADMSD_C_0014.DESC" Type="System.String" FileName="" Value="Assign Sales Product Group to Sales Office" />
+  <Resource Name="AG.ADM.SO.LOSO_C_0043.DESC" Type="System.String" FileName="" Value="Assign Sales Area to Business Area" />
+  <Resource Name="AG.ADM.SO.FOLDER05.DESC" Type="System.String" FileName="" Value="PRICING AND SALES STRATEGIES SETUP" />
+  <Resource Name="AG.ADM.SO.ADMSD_C_0020.DESC" Type="System.String" FileName="" Value="Define Sales Pricing Access Sequence" />
+  <Resource Name="AG.ADM.SO.ADMSD_C_0021.DESC" Type="System.String" FileName="" Value="Maintain Sales Pricing Access Sequence" />
+  <Resource Name="AG.ADM.SO.ADMSD_C_0022.DESC" Type="System.String" FileName="" Value="Define Sales Pricing Components" />
+  <Resource Name="AG.ADM.SO.ADMSD_C_0001.DESC" Type="System.String" FileName="" Value="Define Sales Pricing Strategies" />
+  <Resource Name="AG.ADM.SO.ADMSD_C_0002.DESC" Type="System.String" FileName="" Value="Assign Sales Area to Price Strategies" />
+  <Resource Name="AG.ADM.SO.SDCONF_C_0001.DESC" Type="System.String" FileName="" Value="Define Material Pricing Board" />
+  <Resource Name="AG.ADM.SO.LOSO_T_5001.DESC" Type="System.String" FileName="" Value="Define Sales Pricing Group" />
+  <Resource Name="AG.ADM.SO.LOSO_C_0007.DESC" Type="System.String" FileName="" Value="Define Sales Pricing List To Customer" />
+  <Resource Name="AG.ADM.SO.2014_SD_MarketingAnalysis.DESC" Type="System.String" FileName="" Value="Define Marketing Analysis Strategies" />
+  <Resource Name="AG.ADM.SO.2014_COST_ALLOCATION.DESC" Type="System.String" FileName="" Value="Cost Allocation Program" />
+  <Resource Name="AG.ADM.SO.FOLDER06.DESC" Type="System.String" FileName="" Value="BARCODE AND POS DATA SETUP" />
+  <Resource Name="AG.ADM.SO.DOCTYPEDOCTYPEID_M_0001.DESC" Type="System.String" FileName="" Value="Assign Billing Barcode To Document Type" />
+  <Resource Name="AG.ADM.SO.DOCTYPESERVICEID_M_0001.DESC" Type="System.String" FileName="" Value="Assign Billing Barcode To Service ID" />
+  <Resource Name="AG.ADM.SO.2014_EDC_MASTER.DESC" Type="System.String" FileName="" Value="Define EDC Master" />
+  <Resource Name="AG.ADM.SO.BRANCHPOSID_M_0001.DESC" Type="System.String" FileName="" Value="Assign POS ID To Branch" />
+  <Resource Name="AG.ADM.SO.EXTN_T_1001.DESC" Type="System.String" FileName="" Value="Define MKT Campaign Group To POS" />
+  <Resource Name="AG.ADM.SO.FOLDER07.DESC" Type="System.String" FileName="" Value="SALES COMMISSION SETUP" />
+  <Resource Name="AG.ADM.SO.COMSALE_C_0001.DESC" Type="System.String" FileName="" Value="Assign Achievement Struture To Sales Position" />
+  <Resource Name="AG.ADM.SO.COMSALE_C_0002.DESC" Type="System.String" FileName="" Value="Determine Sales Commission by Achievement Struture" />
+  <Resource Name="AG.ADM.SO.COMSALE_C_0003.DESC" Type="System.String" FileName="" Value="Define Sales Commission Level" />
+  <Resource Name="AG.ADM.SO.COMSALE_C_0004.DESC" Type="System.String" FileName="" Value="Define Sales Commission To Sales Positions" />
+  <Resource Name="AG.ADM.PO.FOLDER.DESC" Type="System.String" FileName="" Value="PROCUREMENT SYSTEM CONFIGURATION" />
+  <Resource Name="AG.ADM.PO.FOLDER01.DESC" Type="System.String" FileName="" Value="PROCUREMENT STRUCTURE SETUP" />
+  <Resource Name="AG.ADM.PO.ADMPR_C_0003.DESC" Type="System.String" FileName="" Value="Define Purchasing Entity" />
+  <Resource Name="AG.ADM.PO.ADMPR_C_0004.DESC" Type="System.String" FileName="" Value="Define Purchasing Group" />
+  <Resource Name="AG.ADM.PO.ADMPR_C_0005.DESC" Type="System.String" FileName="" Value="Assign Purchasing Entity to Company Code" />
+  <Resource Name="AG.ADM.PO.ADMPR_C_0006.DESC" Type="System.String" FileName="" Value="Assign Purchasing Entity to Plant" />
+  <Resource Name="AG.ADM.PO.FOLDER02.DESC" Type="System.String" FileName="" Value="PROCUREMENT DOCUMENTS PROCESS SETUP" />
+  <Resource Name="AG.ADM.PO.ADMLOPR_C_0001.DESC" Type="System.String" FileName="" Value="Define PR Document Type" />
+  <Resource Name="AG.ADM.PO.ADMLOPR_C_0002.DESC" Type="System.String" FileName="" Value="Define PR Document Number Range" />
+  <Resource Name="AG.ADM.PO.ADMPR_C_0001.DESC" Type="System.String" FileName="" Value="Define PO Pricing Strategies" />
+  <Resource Name="AG.ADM.PO.ADMPR_C_0002.DESC" Type="System.String" FileName="" Value="Define Purchasing Pricing Conditions" />
+  <Resource Name="AG.ADM.PO.LOPO_M_0001.DESC" Type="System.String" FileName="" Value="Assign Purchasing Order To Price Strategies" />
+  <Resource Name="AG.ADM.PO.LOPO_M_0002.DESC" Type="System.String" FileName="" Value="Define Purchasing Order Pricing Component" />
+  <Resource Name="AG.ADM.PO.LOPO_M_0003.DESC" Type="System.String" FileName="" Value="Define Purchasing Order Access Sequence" />
+  <Resource Name="AG.ADM.PO.LOPO_M_0004.DESC" Type="System.String" FileName="" Value="Maintain Purchasing Order Access Sequence" />
+  <Resource Name="AG.ADM.PO.MM_PROCUREMENT_C_0001.DESC" Type="System.String" FileName="" Value="Assign Procurement Doc Type To Plant" />
+  <Resource Name="AG.ADM.PO.2013_LODOCTYPE_MAPP_PURORG.DESC" Type="System.String" FileName="" Value="Define Purchasing Doc Type To Purchasing Org" />
+  <Resource Name="AG.ADM.PO.2013MMDOCMAPPING_PORG_PGRP.DESC" Type="System.String" FileName="" Value="Maintain Purchasing Doc Type To Purchasing Org" />
+  <Resource Name="AG.ADM.PO.2012_PRBGMAPPING.DESC" Type="System.String" FileName="" Value="Assign PR Doc Type To Budget Doc Type" />
+  <Resource Name="AG.ADM.PO.2015_FISYSACCASSIGNMENTMAPPINGDOCTYPE.DESC" Type="System.String" FileName="" Value="Assign PO Doc Type To Account Assignment" />
+  <Resource Name="AG.ADM.PO.MM_M_0001.DESC" Type="System.String" FileName="" Value="Define Purchasing Objective Code" />
+  <Resource Name="AG.ADM.PO.MM_M_0002.DESC" Type="System.String" FileName="" Value="Assign Materials To Purchasing Objective Code" />
+  <Resource Name="AG.ADM.PO.MM_M_0003.DESC" Type="System.String" FileName="" Value="Define Recurring Payment Master" />
+  <Resource Name="AG.ADM.PO.PROJECT_M_0001.DESC" Type="System.String" FileName="" Value="Define Project Plan For Procurement" />
+  <Resource Name="AG.ADM.ICWMS.FOLDER.DESC" Type="System.String" FileName="" Value="INVENTORY - WMS SYSTEM CONFIGURATION" />
+  <Resource Name="AG.ADM.IC.FOLDER01.DESC" Type="System.String" FileName="" Value="INVENTORY DATA SETUP (IC)" />
+  <Resource Name="AG.ADM.IC.ADMIM_C_0012.DESC" Type="System.String" FileName="" Value="Define Material Account Key" />
+  <Resource Name="AG.ADM.IC.MasterMatGroup1_M_0001.DESC" Type="System.String" FileName="" Value="Define Material Group 1" />
+  <Resource Name="AG.ADM.IC.MasterMatGroup2_M_0001.DESC" Type="System.String" FileName="" Value="Define Material Group 2" />
+  <Resource Name="AG.ADM.IC.MasterMatGroup3_M_0001.DESC" Type="System.String" FileName="" Value="Define Material Group 3" />
+  <Resource Name="AG.ADM.IC.MasterMatGroup4_M_0001.DESC" Type="System.String" FileName="" Value="Define Material Group 4" />
+  <Resource Name="AG.ADM.IC.MasterMatGroup5_M_0001.DESC" Type="System.String" FileName="" Value="Define Material Group 5" />
+  <Resource Name="AG.ADM.WMS.FOLDER01.DESC" Type="System.String" FileName="" Value="WMS DATA SETUP (WMS)" />
+  <Resource Name="AG.ADM.WMS.SD_M_0001.DESC" Type="System.String" FileName="" Value="Define Reasons For Billing Confirmation" />
+  <Resource Name="AG.ADM.PP.FOLDER.DESC" Type="System.String" FileName="" Value="PRODUCTION PLANNING SYSTEM CONFIGURATION" />
+  <Resource Name="AG.ADM.PP.FOLDER01.DESC" Type="System.String" FileName="" Value="PRODUCTION PLAN DOCUMENTS CONFIGURATION" />
+  <Resource Name="AG.ADM.PP.PP_C_0001.DESC" Type="System.String" FileName="" Value="Define PM Document Type" />
+  <Resource Name="AG.ADM.PP.PP_C_0002.DESC" Type="System.String" FileName="" Value="Define PM Document Number Range" />
+  <Resource Name="AG.ADM.PP.PP_C_0003.DESC" Type="System.String" FileName="" Value="Assign PM Doc Type to Number Range" />
+  <Resource Name="AG.ADM.PP.PP_C_0004.DESC" Type="System.String" FileName="" Value="Define PP Document Type" />
+  <Resource Name="AG.ADM.PP.PP_C_0006.DESC" Type="System.String" FileName="" Value="Define PP Document Number Range" />
+  <Resource Name="AG.ADM.PP.PP_C_0005.DESC" Type="System.String" FileName="" Value="Assign PP Doc Type to Number Range" />
+  <Resource Name="AG.ADM.PP.FOLDER02.DESC" Type="System.String" FileName="" Value="PRODUCTION PLAN PROCESS CONFIGURATION" />
+  <Resource Name="AG.ADM.PP.2013_DEFINE_OPERATION.DESC" Type="System.String" FileName="" Value="Define Production Plan - Operations" />
+  <Resource Name="AG.ADM.PP.2013_DEFINE_SUBOPERATION.DESC" Type="System.String" FileName="" Value="Define Production Plan - Sub Operations" />
+  <Resource Name="AG.ADM.PP.SIZE_M_0001.DESC" Type="System.String" FileName="" Value="Define Size Master Data" />
+  <Resource Name="AG.ADM.PP.BU_M_0001.DESC" Type="System.String" FileName="" Value="Define Master BU For Garment" />
+  <Resource Name="AG.ADM.PP.TYPE_M_0001.DESC" Type="System.String" FileName="" Value="Define Type Master Data" />
+  <Resource Name="AG.ADM.PP.COLOR_M_0002.DESC" Type="System.String" FileName="" Value="Define Color Master Data" />
+  <Resource Name="AG.ADM.PP.STYLE_M_0001.DESC" Type="System.String" FileName="" Value="Define Style Master Data" />
+  <Resource Name="AG.ADM.PP.QCGROUP_M_0001.DESC" Type="System.String" FileName="" Value="Define QC Group Master Data" />
+  <Resource Name="AG.ADM.PP.QCTYPE_M_0001.DESC" Type="System.String" FileName="" Value="Define QC Type Master Data" />
+  <Resource Name="AG.ADM.PP.QCREASON_M_0001.DESC" Type="System.String" FileName="" Value="Define QC Reason" />
+  <Resource Name="AG.ADM.PP.MASTERPLAN_M_0001.DESC" Type="System.String" FileName="" Value="Define Production Plan Version Master" />
+  <Resource Name="AG.ADM.PP.2013_ASSIGN_OPERATION.DESC" Type="System.String" FileName="" Value="Assign PP Operation and Sub Operation Process" />
+  <Resource Name="AG.ADM.PP.2013_CONFIG_MATERIAL_TEMPLATE.DESC" Type="System.String" FileName="" Value="Define Materials Template For Production" />
+  <Resource Name="AG.ADM.PP.ALTERNATIVE_M_0001.DESC" Type="System.String" FileName="" Value="Define Alternative Production Process" />
+  <Resource Name="AG.ADM.PP.PRODUCTIONCALCULATE_M_0001.DESC" Type="System.String" FileName="" Value="Set Date As Default Value For Production Plan" />
+  <Resource Name="AG.ADM.PP.WORKCERTERTYPE_M_0001.DESC" Type="System.String" FileName="" Value="Define Work Center Type" />
+  <Resource Name="AG.ADM.PP.WORKCERTERGROUP_M_0001.DESC" Type="System.String" FileName="" Value="Define Work Center Group" />
+  <Resource Name="AG.ADM.PP.JOB_M_0001.DESC" Type="System.String" FileName="" Value="Define Work Center Master Data" />
+  <Resource Name="AG.ADM.PP.CALENDAR_M_0001.DESC" Type="System.String" FileName="" Value="Define Production Plan Calendar" />
+  <Resource Name="AG.ADM.PP.FOLDER03.DESC" Type="System.String" FileName="" Value="PRODUCTION COST CONFIGURATION" />
+  <Resource Name="AG.ADM.PP.COST_M_0001.DESC" Type="System.String" FileName="" Value="Define Production Costs" />
+  <Resource Name="AG.ADM.PP.COST_M_0015.DESC" Type="System.String" FileName="" Value="Assign Direct Labor Costs To Operation" />
+  <Resource Name="AG.ADM.PP.COST_M_0008.DESC" Type="System.String" FileName="" Value="Assign Direct Labor Costs To Sub Operation" />
+  <Resource Name="AG.ADM.PP.COST_M_0009.DESC" Type="System.String" FileName="" Value="Assign Variable Labor Costs To Operation" />
+  <Resource Name="AG.ADM.PP.COST_M_0010.DESC" Type="System.String" FileName="" Value="Assign Variable Labor Costs To Sub Operation" />
+  <Resource Name="AG.ADM.PP.COST_M_0011.DESC" Type="System.String" FileName="" Value="Assign Overhead Costs To Operation" />
+  <Resource Name="AG.ADM.PP.COST_M_0012.DESC" Type="System.String" FileName="" Value="Assign Overhead Costs To Sub Operation" />
+  <Resource Name="AG.ADM.PP.COST_M_0013.DESC" Type="System.String" FileName="" Value="Assign Variable Overhead Costs To Operation" />
+  <Resource Name="AG.ADM.PP.COST_M_0014.DESC" Type="System.String" FileName="" Value="Assign Variable Overhead Costs To Sub Operation" />
+  <Resource Name="AG.ADM.PP.2013_DEFINE_STANDARDTIME.DESC" Type="System.String" FileName="" Value="Define Standard Time" />
+  <Resource Name="AG.ADM.PP.COST_M_0006.DESC" Type="System.String" FileName="" Value="Define Estimated Quantities For Cost Sheet" />
+  <Resource Name="AG.ADM.PP.COST_M_0016.DESC" Type="System.String" FileName="" Value="Define Dyed Cost Master" />
+  <Resource Name="AG.ADM.TOOL.FOLDER.DESC" Type="System.String" FileName="" Value="SYSTEM TOOL CONFIGURATION" />
+  <Resource Name="AG.ADM.TOOL.Tool_C_0006.DESC" Type="System.String" FileName="" Value="Master FOBGP SH Display" />
+  <Resource Name="AG.ADM.TOOL.Tool_C_0007.DESC" Type="System.String" FileName="" Value="Master FOBGP SH JOIN COND" />
+  <Resource Name="AG.ADM.TOOL.Tool_C_0008.DESC" Type="System.String" FileName="" Value="Master FOBGP SH JOIN" />
+  <Resource Name="AG.ADM.TOOL.Tool_C_0009.DESC" Type="System.String" FileName="" Value="Master FOBGP SH JOIN WHERE" />
+  <Resource Name="AG.ADM.TOOL.Tool_C_0010.DESC" Type="System.String" FileName="" Value="Configure FOBGP" />
+  <Resource Name="AG.ADM.TOOL.Tool_C_0011.DESC" Type="System.String" FileName="" Value="Configure FOBGP Group" />
+  <Resource Name="AG.ADM.TOOL.Tool_C_0012.DESC" Type="System.String" FileName="" Value="Configure Report Layout (FOBGP)" />
+  <Resource Name="AG.ADM.TOOL.Tool_P_0001.DESC" Type="System.String" FileName="" Value="Configure Report Role (FOBGP)" />
+  <Resource Name="AG.BUDCO.FOLDER02.DESC" Type="System.String" FileName="" Value="COST CONTROLLING ACCOUNT POSTING" />
+  <Resource Name="AG.BUDCO.CC_C_0014.DESC" Type="System.String" FileName="" Value="Cost Controlling Account Posting" />
 </Resources>
