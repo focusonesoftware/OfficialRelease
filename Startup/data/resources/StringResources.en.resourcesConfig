@@ -2939,13 +2939,13 @@
   <Resource Name="AG.BUDCO.FIFI_M_0019_02.DESC" Type="System.String" FileName="" Value="CC Node Master Mapping Objectives Statement" />
   <Resource Name="AG.BUDCO.MM_M_0005.DESC" Type="System.String" FileName="" Value="Mapping Project Elements To Document Type" />
   <Resource Name="AG.BUDCO.2014_COST_DRIVER_MASTER.DESC" Type="System.String" FileName="" Value="Cost Driver Master" />
-  <Resource Name="AG.BUDCO.FOLDER02.DESC" Type="System.String" FileName="" Value="BUDGETING MASTER-CONFIGURATION" />
   <Resource Name="AG.BUDCO.BUD_T_0001.DESC" Type="System.String" FileName="" Value="Asset Budget Planning" />
-  <Resource Name="AG.BUDCO.FOLDER03.DESC" Type="System.String" FileName="" Value="COST CONTROLLING REPORTS" />
+  <Resource Name="AG.BUDCO.FOLDER03.DESC" Type="System.String" FileName="" Value="BUDGETING MASTER-CONFIGURATION" />
+  <Resource Name="AG.BUDCO.FOLDER_R01.DESC" Type="System.String" FileName="" Value="COST CONTROLLING REPORTS" />
   <Resource Name="AG.BUDCO.CO_R_0002.DESC" Type="System.String" FileName="" Value="CO-R0002 Cost Controlling Summary Plan Report" />
   <Resource Name="AG.BUDCO.CO_R_0001.DESC" Type="System.String" FileName="" Value="CO-R0001 Internal Order (CC) Report" />
   <Resource Name="AG.BUDCO.FIFI_R_0019.DESC" Type="System.String" FileName="" Value="FIFI-R0019 Capital Budgeting Statement" />
-  <Resource Name="AG.BUDCO.FOLDER04.DESC" Type="System.String" FileName="" Value="BUDGETING REPORTS" />
+  <Resource Name="AG.BUDCO.FOLDER_R02.DESC" Type="System.String" FileName="" Value="BUDGETING REPORTS" />
   <Resource Name="AG.BUDCO.BUDRPT_R_0001.DESC" Type="System.String" FileName="" Value="BUD-R0001 Budgeting Usage Report" />
   <Resource Name="AG.BUDCO.BUDRPT_R_0002.DESC" Type="System.String" FileName="" Value="BUD-R0002 Budgeting Movement Report" />
   <Resource Name="AG.BUDCO.BUDRPT_R_0003.DESC" Type="System.String" FileName="" Value="BUD-R0003 Fixed Asset Budget Report" />
@@ -3456,7 +3456,7 @@
   <Resource Name="AG.ADM.GEN.COMP_C_0002.DESC" Type="System.String" FileName="" Value="Assign Company Code to Fiscal Year" />
   <Resource Name="AG.ADM.GEN.COMP_C_0004.DESC" Type="System.String" FileName="" Value="Define Branch Code" />
   <Resource Name="AG.ADM.GEN.COMP_C_0017.DESC" Type="System.String" FileName="" Value="Mapping Branch Code to Document Type" />
-  <Resource Name="AG.ADM.GEN.COMP_C_0003.DESC" Type="System.String" FileName="" Value="Assign Transaction doc Type to Branch" />
+  <Resource Name="AG.ADM.GEN.COMP_C_0003.DESC" Type="System.String" FileName="" Value="Assign Branch to Plant" />
   <Resource Name="AG.ADM.GEN.ADMPR_C_0007.DESC" Type="System.String" FileName="" Value="Define Bussiness Place" />
   <Resource Name="AG.ADM.GEN.COMP_C_0008.DESC" Type="System.String" FileName="" Value="Define Name Prefix" />
   <Resource Name="AG.ADM.GEN.COMP_C_0009.DESC" Type="System.String" FileName="" Value="Define Selected Value" />
@@ -3544,7 +3544,6 @@
   <Resource Name="AG.ADM.CO.CC_C_0011.DESC" Type="System.String" FileName="" Value="Define Cost Controlling Period Cycle" />
   <Resource Name="AG.ADM.CO.CC_C_0012.DESC" Type="System.String" FileName="" Value="Define Cost Controlling Period Status" />
   <Resource Name="AG.ADM.CO.CC_C_0013.DESC" Type="System.String" FileName="" Value="Define Cost Element Plan Version" />
-  <Resource Name="AG.ADM.CO.CC_C_0014.DESC" Type="System.String" FileName="" Value="Cost Controlling Account Posting" />
   <Resource Name="AG.ADM.CS.FOLDER.DESC" Type="System.String" FileName="" Value="CUSTOMER SERVICE SYSTEM CONFIGURATION" />
   <Resource Name="AG.ADM.SV.FOLDER01.DESC" Type="System.String" FileName="" Value="CUSTOMER SERVICE SETUP" />
   <Resource Name="AG.ADM.SV.2013_MASTER_CONFIG_MASS_SV.DESC" Type="System.String" FileName="" Value="Configure Mass Service Contract" />
@@ -3566,7 +3565,7 @@
   <Resource Name="AG.ADM.SO.2013_CREDITCONTROL_CRITERIA.DESC" Type="System.String" FileName="" Value="Define Sale - Credit Control Criteria" />
   <Resource Name="AG.ADM.SO.2012_SDCR_BLOCK_0002.DESC" Type="System.String" FileName="" Value="Assign Blocking Code to Transactions Type" />
   <Resource Name="AG.ADM.SO.ADMEI_C_0016.DESC" Type="System.String" FileName="" Value="Define Blocking Reason" />
-  <Resource Name="AG.ADM.SO.2012_SDCR_BLOCK_0001.DESC" Type="System.String" FileName="" Value="Release Blocking Documents" />
+  <Resource Name="AG.SOLO.2012_SDCR_BLOCK_0001.DESC" Type="System.String" FileName="" Value="Release Blocking SO Documents" />
   <Resource Name="AG.ADM.SO.LOSO_M_1000.DESC" Type="System.String" FileName="" Value="Upload Material Sale Pricing" />
   <Resource Name="AG.ADM.SO.CMC_01_0001.DESC" Type="System.String" FileName="" Value="Outstanding Sales Order Credit Adjustment" />
   <Resource Name="AG.ADM.SO.CMC_C_0002.DESC" Type="System.String" FileName="" Value="Define Risk Category Code" />
@@ -3706,4 +3705,6 @@
   <Resource Name="AG.ADM.TOOL.Tool_C_0011.DESC" Type="System.String" FileName="" Value="Configure FOBGP Group" />
   <Resource Name="AG.ADM.TOOL.Tool_C_0012.DESC" Type="System.String" FileName="" Value="Configure Report Layout (FOBGP)" />
   <Resource Name="AG.ADM.TOOL.Tool_P_0001.DESC" Type="System.String" FileName="" Value="Configure Report Role (FOBGP)" />
+  <Resource Name="AG.BUDCO.FOLDER02.DESC" Type="System.String" FileName="" Value="COST CONTROLLING ACCOUNT POSTING" />
+  <Resource Name="AG.BUDCO.CC_C_0014.DESC" Type="System.String" FileName="" Value="Cost Controlling Account Posting" />
 </Resources>
