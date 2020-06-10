@@ -3565,7 +3565,7 @@
   <Resource Name="AG.ADM.SO.2013_CREDITCONTROL_CRITERIA.DESC" Type="System.String" FileName="" Value="Define Sale - Credit Control Criteria" />
   <Resource Name="AG.ADM.SO.2012_SDCR_BLOCK_0002.DESC" Type="System.String" FileName="" Value="Assign Blocking Code to Transactions Type" />
   <Resource Name="AG.ADM.SO.ADMEI_C_0016.DESC" Type="System.String" FileName="" Value="Define Blocking Reason" />
-  <Resource Name="AG.ADM.SO.2012_SDCR_BLOCK_0001.DESC" Type="System.String" FileName="" Value="Release Blocking Documents" />
+  <Resource Name="AG.SOLO.2012_SDCR_BLOCK_0001.DESC" Type="System.String" FileName="" Value="Release Blocking SO Documents" />
   <Resource Name="AG.ADM.SO.LOSO_M_1000.DESC" Type="System.String" FileName="" Value="Upload Material Sale Pricing" />
   <Resource Name="AG.ADM.SO.CMC_01_0001.DESC" Type="System.String" FileName="" Value="Outstanding Sales Order Credit Adjustment" />
   <Resource Name="AG.ADM.SO.CMC_C_0002.DESC" Type="System.String" FileName="" Value="Define Risk Category Code" />

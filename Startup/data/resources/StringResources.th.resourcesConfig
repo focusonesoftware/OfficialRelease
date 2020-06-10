@@ -3500,7 +3500,7 @@
   <Resource Name="AG.ADM.SO.2013_CREDITCONTROL_CRITERIA.DESC" Type="System.String" FileName="" Value="การกำหนดหลักเกณฑ์การควบคุมสินเชื่อ" />
   <Resource Name="AG.ADM.SO.2012_SDCR_BLOCK_0002.DESC" Type="System.String" FileName="" Value="การกำหนดรหัสการบล็อกให้กับประเภทธุรกรรม" />
   <Resource Name="AG.ADM.SO.ADMEI_C_0016.DESC" Type="System.String" FileName="" Value="กำหนดเหตุผลการบล็อก" />
-  <Resource Name="AG.ADM.SO.2012_SDCR_BLOCK_0001.DESC" Type="System.String" FileName="" Value="ปล่อยเอกสารที่ถูกบล็อก" />
+  <Resource Name="AG.SOLO.2012_SDCR_BLOCK_0001.DESC" Type="System.String" FileName="" Value="ปล่อยเอกสารใบสั่งขายที่ถูกบล็อก" />
   <Resource Name="AG.ADM.SO.LOSO_M_1000.DESC" Type="System.String" FileName="" Value="อัพโหลดราคาขายสินค้า" />
   <Resource Name="AG.ADM.SO.CMC_01_0001.DESC" Type="System.String" FileName="" Value="การปรับเครดิตใบสั่งขายที่คงค้าง" />
   <Resource Name="AG.ADM.SO.CMC_C_0002.DESC" Type="System.String" FileName="" Value="การกำหนดรหัสความเสี่ยงสำหรับเครดิต" />
