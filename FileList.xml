@@ -462,8 +462,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.DLL</FileName>
-        <FileVersion>3.1.83.0</FileVersion>
-        <ProductVersion>3.1.83.0</ProductVersion>
+        <FileVersion>3.1.84.0</FileVersion>
+        <ProductVersion>3.1.84.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.EndCashMent.DLL</FileName>
@@ -5782,8 +5782,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.38.0</FileVersion>
-        <ProductVersion>3.2.38.0</ProductVersion>
+        <FileVersion>3.2.40.0</FileVersion>
+        <ProductVersion>3.2.40.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
