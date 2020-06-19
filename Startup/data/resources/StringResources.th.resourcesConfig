@@ -2956,6 +2956,7 @@
   <Resource Name="AG.SOLO.2013_MASS_BL_DISCOUNT.DESC" Type="System.String" FileName="" Value="การกำหนดส่วนลดสำหรับใบวางบิลจำนวนมาก" />
   <Resource Name="AG.SOLO.2013_CONF_ADJ_BILLINGRECURRING.DESC" Type="System.String" FileName="" Value="การคำนวณค่าใช้จ่ายใบวางบิลใหม่" />
   <Resource Name="AG.SOLO.2018_SVCT_AMOR_BILL_V2.DESC" Type="System.String" FileName="" Value="สร้างใบวางบิลตามงวดการเก็บเงิน(เป็นงวดตัดจ่าย) เวอร์ชั่น 2" />
+  <Resource Name="AG.SOLO.2020_SVCT_AMOR_BILL_V3.DESC" Type="System.String" FileName="" Value="สร้างใบวางบิลตามงวดการเก็บเงิน(เป็นงวดตัดจ่าย) เวอร์ชั่น 3" />
   <Resource Name="AG.SOLO.2013_SVCT_AMOR_BILL.DESC" Type="System.String" FileName="" Value="สร้างใบวางบิลตามงวดการเก็บเงิน(เป็นงวดตัดจ่าย)ตามสัญญา" />
   <Resource Name="AG.SOLO.LOBILL_T_1001.DESC" Type="System.String" FileName="" Value="การจัดการเอกสารใบวางบิลแบบเป็นงวดประจำ เวอร์ชั่น 1" />
   <Resource Name="AG.SOLO.2014_BILLING_SALECONTRACT_V2.DESC" Type="System.String" FileName="" Value="การจัดการเอกสารใบวางบิลแบบเป็นงวดประจำ เวอร์ชั่น 2" />
