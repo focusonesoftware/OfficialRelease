@@ -4207,8 +4207,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SLSNARStatementInvoiceForm.dll</FileName>
-        <FileVersion>4.8.1.1</FileVersion>
-        <ProductVersion>4.8.1.1</ProductVersion>
+        <FileVersion>4.8.1.2</FileVersion>
+        <ProductVersion>4.8.1.2</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SLSNCommercialInvoice.dll</FileName>
@@ -4227,8 +4227,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SLSNReceiptForm.dll</FileName>
-        <FileVersion>4.8.1.2</FileVersion>
-        <ProductVersion>4.8.1.2</ProductVersion>
+        <FileVersion>4.8.1.4</FileVersion>
+        <ProductVersion>4.8.1.4</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SLSNSaleQuotationForm.dll</FileName>
@@ -5002,13 +5002,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TexCustCNForm_V1.dll</FileName>
-        <FileVersion>4.8.1.2</FileVersion>
-        <ProductVersion>4.8.1.2</ProductVersion>
+        <FileVersion>4.8.1.3</FileVersion>
+        <ProductVersion>4.8.1.3</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TexCustDNForm_V1.dll</FileName>
-        <FileVersion>4.8.1.2</FileVersion>
-        <ProductVersion>4.8.1.2</ProductVersion>
+        <FileVersion>4.8.1.3</FileVersion>
+        <ProductVersion>4.8.1.3</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TexCustomInvoice.dll</FileName>
