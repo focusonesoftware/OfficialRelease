@@ -10786,6 +10786,11 @@
         <ProductVersion>1.0.0.14</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\FlashControlV71.dll</FileName>
+        <FileVersion>1.0.3187.32366</FileVersion>
+        <ProductVersion>1.0.3187.32366</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\FleetTransactionReport.dll</FileName>
         <FileVersion>1.0.0.9</FileVersion>
         <ProductVersion>1.0.0.9</ProductVersion>
