@@ -10047,8 +10047,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Misc.dll</FileName>
-        <FileVersion>3.2.5.0</FileVersion>
-        <ProductVersion>3.2.5.0</ProductVersion>
+        <FileVersion>3.2.6.0</FileVersion>
+        <ProductVersion>3.2.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Search.Catalog.DLL</FileName>
@@ -12317,6 +12317,16 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\rpt_INVOICEVER_INVOICEVER-AP.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\StartPageInfo\camera icon.jpg</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\StartPageInfo\image icon.jpg</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
