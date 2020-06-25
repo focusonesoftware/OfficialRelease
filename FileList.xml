@@ -492,8 +492,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.DLL</FileName>
-        <FileVersion>4.8.87.0</FileVersion>
-        <ProductVersion>4.8.87.0</ProductVersion>
+        <FileVersion>4.8.88.0</FileVersion>
+        <ProductVersion>4.8.88.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.EndCashMent.DLL</FileName>
@@ -539,6 +539,11 @@
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.JVInterface.dll</FileName>
         <FileVersion>4.8.3.0</FileVersion>
         <ProductVersion>4.8.3.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.JVInterfaceV2.dll</FileName>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.MaintainTax.dll</FileName>
@@ -6077,8 +6082,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>4.8.45.0</FileVersion>
-        <ProductVersion>4.8.45.0</ProductVersion>
+        <FileVersion>4.8.46.0</FileVersion>
+        <ProductVersion>4.8.46.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -6219,6 +6224,11 @@
         <FileName>Startup\Main\Agape.App.FI.JVInterface.dll</FileName>
         <FileVersion>4.8.1.1</FileVersion>
         <ProductVersion>4.8.1.1</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.App.FI.JVInterfaceV2.dll</FileName>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MaintainTax.dll</FileName>
@@ -8862,8 +8872,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.FI.JVInterface.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.FI.MaintainTax.DLL</FileName>
