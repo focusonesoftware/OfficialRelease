@@ -1,9 +1,9 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
   <Connection>
-    <ApplicationID>5001</ApplicationID>
+    <ApplicationID>6001</ApplicationID>
     <ApplicationName>SLSN UAT</ApplicationName>
     <Host>203.154.41.73</Host>
-    <Port>5001</Port>
+    <Port>6001</Port>
   </Connection>
 </DocumentElement>
