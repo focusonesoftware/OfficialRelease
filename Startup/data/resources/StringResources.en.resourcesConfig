@@ -3021,6 +3021,7 @@
   <Resource Name="AG.SOLO.2013_MASS_BL_DISCOUNT.DESC" Type="System.String" FileName="" Value="Discount For Mass Billings Configuration" />
   <Resource Name="AG.SOLO.2013_CONF_ADJ_BILLINGRECURRING.DESC" Type="System.String" FileName="" Value="Recalculate Of Billing Cost For GAB V2" />
   <Resource Name="AG.SOLO.2018_SVCT_AMOR_BILL_V2.DESC" Type="System.String" FileName="" Value="Generate Amortization Billing V2" />
+  <Resource Name="AG.SOLO.2020_SVCT_AMOR_BILL_V3.DESC" Type="System.String" FileName="" Value="Generate Amortization Billing V3" />
   <Resource Name="AG.SOLO.2013_SVCT_AMOR_BILL.DESC" Type="System.String" FileName="" Value="Generate Amortization Billing Under Contracts" />
   <Resource Name="AG.SOLO.LOBILL_T_1001.DESC" Type="System.String" FileName="" Value="Amortization Billing Recurring V1" />
   <Resource Name="AG.SOLO.2014_BILLING_SALECONTRACT_V2.DESC" Type="System.String" FileName="" Value="Amortization Billing Recurring V2" />
