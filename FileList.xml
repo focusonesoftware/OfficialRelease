@@ -8152,8 +8152,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Base.dll</FileName>
-        <FileVersion>3.2.2.5</FileVersion>
-        <ProductVersion>3.2.2.5</ProductVersion>
+        <FileVersion>3.2.3.0</FileVersion>
+        <ProductVersion>3.2.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.CommandBar.dll</FileName>
