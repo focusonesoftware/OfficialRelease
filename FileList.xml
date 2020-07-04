@@ -82,8 +82,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Asset.DLL</FileName>
-        <FileVersion>3.1.34.0</FileVersion>
-        <ProductVersion>3.1.34.0</ProductVersion>
+        <FileVersion>3.1.38.0</FileVersion>
+        <ProductVersion>3.1.38.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Authorization.DLL</FileName>
@@ -5272,8 +5272,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>3.1.83.0</FileVersion>
-        <ProductVersion>3.1.83.0</ProductVersion>
+        <FileVersion>3.1.88.0</FileVersion>
+        <ProductVersion>3.1.88.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -11362,8 +11362,8 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\INETIncommingTaxReport53Summary.rpt</FileName>
-        <FileVersion>2020.06.30.01</FileVersion>
-        <ProductVersion>2020.06.30.01</ProductVersion>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\ReportFile\INET_IncommingTaxMainReport53V1.rpt</FileName>
