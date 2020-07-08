@@ -3327,8 +3327,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.NewCustomerV2.dll</FileName>
-        <FileVersion>4.2.1.0</FileVersion>
-        <ProductVersion>4.2.1.0</ProductVersion>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.OpenCloseStock.DLL</FileName>
@@ -4227,8 +4227,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SLSNCommercialInvoice.dll</FileName>
-        <FileVersion>4.8.16.0</FileVersion>
-        <ProductVersion>4.8.16.0</ProductVersion>
+        <FileVersion>4.8.17.0</FileVersion>
+        <ProductVersion>4.8.17.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SLSNCustCNForm_V1.dll</FileName>
@@ -7637,8 +7637,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.NewCustomer.dll</FileName>
-        <FileVersion>3.1.9.0</FileVersion>
-        <ProductVersion>3.1.9.0</ProductVersion>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.NewCustomerV2.dll</FileName>
@@ -9212,8 +9212,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.NewcustomerV2.dll</FileName>
-        <FileVersion>4.2.1.0</FileVersion>
-        <ProductVersion>4.2.1.0</ProductVersion>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.OS.RecommendationInformation.dll</FileName>
