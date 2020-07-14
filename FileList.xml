@@ -5942,8 +5942,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.49.0</FileVersion>
-        <ProductVersion>3.2.49.0</ProductVersion>
+        <FileVersion>3.2.50.0</FileVersion>
+        <ProductVersion>3.2.50.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -6737,8 +6737,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.RB.dll</FileName>
-        <FileVersion>3.1.107.0</FileVersion>
-        <ProductVersion>3.1.107.0</ProductVersion>
+        <FileVersion>3.1.108.0</FileVersion>
+        <ProductVersion>3.1.108.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Remote.APInvoiceNoRefPo.dll</FileName>
