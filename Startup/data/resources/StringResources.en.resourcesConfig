@@ -2625,10 +2625,10 @@
   <Resource Name="AG.BPMASTER.COMP_C_0012.DESC" Type="System.String" FileName="" Value="Assign Customer Group to Number Range" />
   <Resource Name="AG.BPMASTER.FOLDER01_2.DESC" Type="System.String" FileName="" Value="CUSTOMER MASTER REPORTS" />
   <Resource Name="AG.BPMASTER.CREDIT_LIMIT_R_0001.DESC" Type="System.String" FileName="" Value="CREDITLIMIT-R0001 - Customer Credit Limit V2 Report" />
-  <Resource Name="AG.BPMASTER.FICUST_R_0002.DESC" Type="System.String" FileName="" Value="FICUST-R0001 - Customer Journal Report" />
-  <Resource Name="AG.BPMASTER.FICUST_R_0010.DESC" Type="System.String" FileName="" Value="FICUST-R0002 - Customer Transaction Details Report" />
-  <Resource Name="AG.BPMASTER.FICUST_R_0011.DESC" Type="System.String" FileName="" Value="FICUST-R0010 - Lead Customer Report" />
-  <Resource Name="AG.BPMASTER.FICUST_R_0001.DESC" Type="System.String" FileName="" Value="FICUST-R0011 - Customer Master Data Report" />
+  <Resource Name="AG.BPMASTER.FICUST_R_0002.DESC" Type="System.String" FileName="" Value="FICUST-R0002 - Customer Transaction Details Report" />
+  <Resource Name="AG.BPMASTER.FICUST_R_0010.DESC" Type="System.String" FileName="" Value="FICUST-R0010 - Lead Customer Report" />
+  <Resource Name="AG.BPMASTER.FICUST_R_0011.DESC" Type="System.String" FileName="" Value="FICUST-R0011 - Customer Master Data Report" />
+  <Resource Name="AG.BPMASTER.FICUST_R_0001.DESC" Type="System.String" FileName="" Value="FICUST-R0001 - Customer Journal Report" />
   <Resource Name="AG.BPMASTER.FOLDER02.DESC" Type="System.String" FileName="" Value="VENDOR MASTER DATA" />
   <Resource Name="AG.BPMASTER.2012_VENDOR_LITE.DESC" Type="System.String" FileName="" Value="Smart Vendor Master" />
   <Resource Name="AG.BPMASTER.EP_M_0002.DESC" Type="System.String" FileName="" Value="STD Vendor Master" />
