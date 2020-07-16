@@ -2560,10 +2560,10 @@
   <Resource Name="AG.BPMASTER.COMP_C_0012.DESC" Type="System.String" FileName="" Value="เรียกดูกลุ่มลูกค้ากับช่วงหมายเลขลูกค้า" />
   <Resource Name="AG.BPMASTER.FOLDER01_2.DESC" Type="System.String" FileName="" Value="รายงานข้อมูลหลักของลูกค้า" />
   <Resource Name="AG.BPMASTER.CREDIT_LIMIT_R_0001.DESC" Type="System.String" FileName="" Value="CREDITLIMIT-R0001 - รายงานวงเงินเครดิตลูกค้า V2" />
-  <Resource Name="AG.BPMASTER.FICUST_R_0002.DESC" Type="System.String" FileName="" Value="FICUST-R0001 - รายงานสมุดรายวันลูกค้า" />
-  <Resource Name="AG.BPMASTER.FICUST_R_0010.DESC" Type="System.String" FileName="" Value="FICUST-R0002 - รายงานการซื้อขายของลูกค้า" />
-  <Resource Name="AG.BPMASTER.FICUST_R_0011.DESC" Type="System.String" FileName="" Value="FICUST-R0010 - รายงานข้อมูลว่าที่ลูกค้า" />
-  <Resource Name="AG.BPMASTER.FICUST_R_0001.DESC" Type="System.String" FileName="" Value="FICUST-R0011 - รายงานข้อมูลหลักลูกค้า" />
+  <Resource Name="AG.BPMASTER.FICUST_R_0002.DESC" Type="System.String" FileName="" Value="FICUST-R0002 - รายงานการซื้อขายของลูกค้า" />
+  <Resource Name="AG.BPMASTER.FICUST_R_0010.DESC" Type="System.String" FileName="" Value="FICUST-R0010 - รายงานข้อมูลว่าที่ลูกค้า" />
+  <Resource Name="AG.BPMASTER.FICUST_R_0011.DESC" Type="System.String" FileName="" Value="FICUST-R0011 - รายงานข้อมูลหลักลูกค้า" />
+  <Resource Name="AG.BPMASTER.FICUST_R_0001.DESC" Type="System.String" FileName="" Value="FICUST-R0001 - รายงานสมุดรายวันลูกค้า" />
   <Resource Name="AG.BPMASTER.FOLDER02.DESC" Type="System.String" FileName="" Value="ระบบข้อมูลหลักผู้จำหน่าย" />
   <Resource Name="AG.BPMASTER.2012_VENDOR_LITE.DESC" Type="System.String" FileName="" Value="ข้อมูลหลักผู้จำหน่ายแบบสมาร์ท" />
   <Resource Name="AG.BPMASTER.EP_M_0002.DESC" Type="System.String" FileName="" Value="ข้อมูลหลักผู้จำหน่าย" />
