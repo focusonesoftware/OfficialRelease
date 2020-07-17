@@ -5942,8 +5942,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.50.0</FileVersion>
-        <ProductVersion>3.2.50.0</ProductVersion>
+        <FileVersion>3.2.51.0</FileVersion>
+        <ProductVersion>3.2.51.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -10162,8 +10162,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>3.2.29.0</FileVersion>
-        <ProductVersion>3.2.29.0</ProductVersion>
+        <FileVersion>3.2.30.0</FileVersion>
+        <ProductVersion>3.2.30.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
