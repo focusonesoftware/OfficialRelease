@@ -6797,8 +6797,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>4.8.370.0</FileVersion>
-        <ProductVersion>4.8.370.0</ProductVersion>
+        <FileVersion>4.8.371.0</FileVersion>
+        <ProductVersion>4.8.371.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -6927,8 +6927,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.RB.dll</FileName>
-        <FileVersion>4.8.110.0</FileVersion>
-        <ProductVersion>4.8.110.0</ProductVersion>
+        <FileVersion>4.8.111.0</FileVersion>
+        <ProductVersion>4.8.111.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Remote.APInvoiceNoRefPo.dll</FileName>
@@ -7152,8 +7152,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.DLL</FileName>
-        <FileVersion>4.8.4.1</FileVersion>
-        <ProductVersion>4.8.4.1</ProductVersion>
+        <FileVersion>4.8.16.0</FileVersion>
+        <ProductVersion>4.8.16.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.DTCARSubLedgerTeleSale.dll</FileName>
