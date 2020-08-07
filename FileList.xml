@@ -3157,8 +3157,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ListOfAsset.dll</FileName>
-        <FileVersion>4.2.1.0</FileVersion>
-        <ProductVersion>4.2.1.0</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ListOfBillingAmortize.dll</FileName>
@@ -7557,8 +7557,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ListOfAsset.dll</FileName>
-        <FileVersion>3.1.9.0</FileVersion>
-        <ProductVersion>3.1.9.0</ProductVersion>
+        <FileVersion>4.8.9.0</FileVersion>
+        <ProductVersion>4.8.9.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ListOfAssetReceive.dll</FileName>
@@ -9732,8 +9732,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.ListOfAsset.dll</FileName>
-        <FileVersion>4.2.1.0</FileVersion>
-        <ProductVersion>4.2.1.0</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.ListOfBillingAmortize.dll</FileName>
