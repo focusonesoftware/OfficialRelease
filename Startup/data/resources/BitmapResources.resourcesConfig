@@ -8,7 +8,6 @@
   <Resource Name="SME_BUTTON_DO_BLUE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.Information" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.ProtectedInterface" Type="System.Drawing.Bitmap" FileName="" Value="" />
-  <Resource Name="Icons.24x24.Folder.Orange" Type="System.Drawing.Bitmap" FileName="C:\Users\abd\Desktop\Re-Design F1 Software\icon\file_(menu).png" Value="" />
   <Resource Name="Java.File.Form" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.Question" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.SaveAllIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -38,7 +37,6 @@
   <Resource Name="Icons.16x16.UMLClass" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="VB.ProjectIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="VB.Project.DOSProject" Type="System.Drawing.Bitmap" FileName="" Value="" />
-  <Resource Name="Icons.24x24.Folder.Cyan" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.IncreaseVerticalSpace" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="JScript.Project.WebProject" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="C++.Project.ServiceProject" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -149,6 +147,7 @@
   <Resource Name="VB.Project.Form" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="C#.Project.WebProject" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.HtmlElements.ListBoxElement" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BLACKGROUND_WHITE30x30" Type="System.Drawing.Bitmap" FileName="E:\99.Backup จากเครื่องเก่า\Other\สีพื้นสีขาว.jpg" Value="" />
   <Resource Name="Icons.16x16.HtmlElements.Element" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.Indexer" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_ICON_ORG" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -187,7 +186,6 @@
   <Resource Name="C#.Project.DOSProject" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FullScreen" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.CancelIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
-  <Resource Name="Icons.24x24.Folder.White" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="VB.Project.ControlLibrary" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.Debug.StopProcess" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="JScript.File.FullFile" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -258,7 +256,6 @@
   <Resource Name="Icons.16x16.Assembly" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AGToolsBar_ArrowLEFT" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.HelpOpenFolder" Type="System.Drawing.Bitmap" FileName="" Value="" />
-  <Resource Name="Icons.24x24.Expand.Right" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.DecreaseVerticalSpace" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.Property" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.SharpQuery.Procedure" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -313,7 +310,6 @@
   <Resource Name="C#.Project.Form" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FindInFiles" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="C#.File.NewClass" Type="System.Drawing.Bitmap" FileName="" Value="" />
-  <Resource Name="AG_BLACKGROUND_WHITE30x30" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.ToggleBookmark" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_ADD" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_NEW" Type="System.Drawing.Bitmap" FileName="" Value="" />
