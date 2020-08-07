@@ -2654,6 +2654,7 @@
   <Resource Name="AG.BPMASTER.2012_EMPLOYEE_0001.DESC" Type="System.String" FileName="" Value="Define Employee Group" />
   <Resource Name="AG.BPMASTER.2012_EMPLOYEE_0003.DESC" Type="System.String" FileName="" Value="Assign Employee Group to Number Range" />
   <Resource Name="AG.BPMASTER.FOLDER04_2.DESC" Type="System.String" FileName="" Value="EMPLOYEE GENERAL DATA SETUP" />
+  <Resource Name="AG.BPMASTER.EMPL_C_0014.DESC" Type="System.String" FileName="" Value="Define Employee Position" />
   <Resource Name="AG.BPMASTER.EMPL_C_0014_sub.DESC" Type="System.String" FileName="" Value="Define Employee Sub Position" />
   <Resource Name="AG.BPMASTER.HR_M_0005.DESC" Type="System.String" FileName="" Value="Define Employee Education Level" />
   <Resource Name="AG.BPMASTER.PJ_M_0001.DESC" Type="System.String" FileName="" Value="Assign Position Mapping Project Element" />

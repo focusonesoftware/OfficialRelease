@@ -2589,6 +2589,7 @@
   <Resource Name="AG.BPMASTER.2012_EMPLOYEE_0001.DESC" Type="System.String" FileName="" Value="การกำหนดกลุ่มพนักงาน" />
   <Resource Name="AG.BPMASTER.2012_EMPLOYEE_0003.DESC" Type="System.String" FileName="" Value="เรียกดูกลุ่มพนักงานกับช่วงหมายเลขผู้พนักงาน" />
   <Resource Name="AG.BPMASTER.FOLDER04_2.DESC" Type="System.String" FileName="" Value="การกำหนดข้อมูลทั่วไปพนักงาน" />
+  <Resource Name="AG.BPMASTER.EMPL_C_0014.DESC" Type="System.String" FileName="" Value="การกำหนดตำแหน่งพนักงาน" />
   <Resource Name="AG.BPMASTER.EMPL_C_0014_sub.DESC" Type="System.String" FileName="" Value="การกำหนดระดับตำแหน่งพนักงาน" />
   <Resource Name="AG.BPMASTER.HR_M_0005.DESC" Type="System.String" FileName="" Value="การกำหนดระดับการศึกษาพนักงาน" />
   <Resource Name="AG.BPMASTER.PJ_M_0001.DESC" Type="System.String" FileName="" Value="การกำหนดตำแหน่งพนักงานกับโครงการ" />
