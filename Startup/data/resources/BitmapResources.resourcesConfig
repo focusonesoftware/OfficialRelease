@@ -8,7 +8,7 @@
   <Resource Name="SME_BUTTON_DO_BLUE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.Information" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.ProtectedInterface" Type="System.Drawing.Bitmap" FileName="" Value="" />
-  <Resource Name="Icons.24x24.Folder.Orange" Type="System.Drawing.Bitmap" FileName="C:\Users\abd\Desktop\Re-Design F1 Software\icon\file_(menu).png" Value="" />
+  <Resource Name="Icons.24x24.Folder.Orange" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Java.File.Form" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.Question" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.SaveAllIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -275,6 +275,7 @@
   <Resource Name="VB.Project.EmptyProject" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.NextWindowIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="JScript.Project.EmptyProject" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_SEARCH_NEW" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_APPROVE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="C++.Project.ControlLibrary" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Java.Project.UserControl" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -441,4 +442,5 @@
   <Resource Name="AGToolsBar_MAIL" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AGToolsBar_SAVE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.ViewCode" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_FOLDER" Type="System.Drawing.Bitmap" FileName="D:\Downloads\folder icon.png" Value="" />
 </Resources>
