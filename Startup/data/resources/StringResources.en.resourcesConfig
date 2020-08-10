@@ -3470,7 +3470,7 @@
   <Resource Name="AG.ADM.PC.ADMFI_C_0007.DESC" Type="System.String" FileName="" Value="Assign PC-ADV Document Type to Number Range" />
   <Resource Name="AG.ADM.PC.MILGE_C_0007.DESC" Type="System.String" FileName="" Value="Assign Reimburse Doc Type to Objective Code" />
   <Resource Name="AG.ADM.PC.MILGE_C_0008.DESC" Type="System.String" FileName="" Value="Assign Reimburse Activity to Objective Code" />
-  <Resource Name="AG.ADM.PC.MILGE_C_0009.DESC" Type="System.String" FileName="" Value="Assign Reimburse Activity Group to Objective Code" />
+  <Resource Name="AG.ADM.PC.MILGE_C_0009.DESC" Type="System.String" FileName="" Value="Define Reimburse Activity Group " />
   <Resource Name="AG.ADM.AM.FOLDER.DESC" Type="System.String" FileName="" Value="ASSET SYSTEM CONFIGURATION" />
   <Resource Name="AG.ADM.AM.AM_C_0003.DESC" Type="System.String" FileName="" Value="Define Asset Document Type" />
   <Resource Name="AG.ADM.AM.AM_C_0004.DESC" Type="System.String" FileName="" Value="Define Asset Document No Range" />

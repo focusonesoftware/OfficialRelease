@@ -3405,7 +3405,7 @@
   <Resource Name="AG.ADM.PC.ADMFI_C_0007.DESC" Type="System.String" FileName="" Value="กำหนดประเภทเอกสารเงินสดย่อยกับช่วงหมายเลขเอกสาร" />
   <Resource Name="AG.ADM.PC.MILGE_C_0007.DESC" Type="System.String" FileName="" Value="กำหนดประเภทเอกสารขอเบิกกับวัตถุประสงค์ค่าใช้จ่าย" />
   <Resource Name="AG.ADM.PC.MILGE_C_0008.DESC" Type="System.String" FileName="" Value="การกำหนดกิจกรรมค่าใช้จ่ายสำหรับวัตถุประสงค์การเบิกจ่าย" />
-  <Resource Name="AG.ADM.PC.MILGE_C_0009.DESC" Type="System.String" FileName="" Value="การกำหนดกลุ่มกิจกรรมค่าใช้จ่ายสำหรับวัตถุประสงค์การเบิกจ่าย" />
+  <Resource Name="AG.ADM.PC.MILGE_C_0009.DESC" Type="System.String" FileName="" Value="การกำหนดกลุ่มกิจกรรมค่าใช้จ่าย" />
   <Resource Name="AG.ADM.AM.FOLDER.DESC" Type="System.String" FileName="" Value="การกำหนดข้อมูลระบบสินทรัพย์" />
   <Resource Name="AG.ADM.AM.AM_C_0003.DESC" Type="System.String" FileName="" Value="กำหนดประเภทเอกสารสินทรัพย์" />
   <Resource Name="AG.ADM.AM.AM_C_0004.DESC" Type="System.String" FileName="" Value="กำหนดช่วงหมายเลขประเภทเอกสารสินทรัพย์" />
