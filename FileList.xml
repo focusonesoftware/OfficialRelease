@@ -11382,8 +11382,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Newtonsoft.Json.dll</FileName>
-        <FileVersion>6.0.3.17227</FileVersion>
-        <ProductVersion>6.0.3.17227</ProductVersion>
+        <FileVersion>12.0.3.23909</FileVersion>
+        <ProductVersion>12.0.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\NonMovementStockReport.dll</FileName>
