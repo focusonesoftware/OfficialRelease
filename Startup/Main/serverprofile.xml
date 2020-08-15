@@ -3,7 +3,7 @@
   <Connection>
     <ApplicationID>6011</ApplicationID>
     <ApplicationName>SLTS UAT</ApplicationName>
-    <Host>203.154.41.73</Host>
+    <Host>34.87.104.10</Host>
     <Port>6011</Port>
   </Connection>
 </DocumentElement>
