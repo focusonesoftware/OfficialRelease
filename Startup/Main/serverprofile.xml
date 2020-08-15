@@ -3,7 +3,7 @@
   <Connection>
     <ApplicationID>9001</ApplicationID>
     <ApplicationName>SLSN PRD</ApplicationName>
-    <Host>203.154.41.73</Host>
+    <Host>34.87.104.10</Host>
     <Port>9001</Port>
   </Connection>
 </DocumentElement>
