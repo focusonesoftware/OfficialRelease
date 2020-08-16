@@ -2589,6 +2589,7 @@
   <Resource Name="AG.BPMASTER.2012_EMPLOYEE_0001.DESC" Type="System.String" FileName="" Value="การกำหนดกลุ่มพนักงาน" />
   <Resource Name="AG.BPMASTER.2012_EMPLOYEE_0003.DESC" Type="System.String" FileName="" Value="เรียกดูกลุ่มพนักงานกับช่วงหมายเลขผู้พนักงาน" />
   <Resource Name="AG.BPMASTER.FOLDER04_2.DESC" Type="System.String" FileName="" Value="การกำหนดข้อมูลทั่วไปพนักงาน" />
+  <Resource Name="AG.BPMASTER.EMPL_C_0014.DESC" Type="System.String" FileName="" Value="การกำหนดตำแหน่งพนักงาน" />
   <Resource Name="AG.BPMASTER.EMPL_C_0014_sub.DESC" Type="System.String" FileName="" Value="การกำหนดระดับตำแหน่งพนักงาน" />
   <Resource Name="AG.BPMASTER.HR_M_0005.DESC" Type="System.String" FileName="" Value="การกำหนดระดับการศึกษาพนักงาน" />
   <Resource Name="AG.BPMASTER.PJ_M_0001.DESC" Type="System.String" FileName="" Value="การกำหนดตำแหน่งพนักงานกับโครงการ" />
@@ -3023,8 +3024,8 @@
   <Resource Name="AG.PROCURE.PO_OUTSOURCE_T_0001.DESC" Type="System.String" FileName="" Value="ใบสั่งซื้อการจ้างบุคคลภายนอก" />
   <Resource Name="AG.PROCURE.PROC_T_0006.DESC" Type="System.String" FileName="" Value="ใบสัญญาการสั่งซื้อ" />
   <Resource Name="AG.PROCURE.2012_POLANDEDCOST.DESC" Type="System.String" FileName="" Value="การบันทึกต้นทุนแฝงอ้างอิงใบสั่งซื้อ" />
-  <Resource Name="AG.PROCURE.2012_POLANDEDCOST_CREDIT.DESC" Type="System.String" FileName="" Value="การบันทึกต้นทุนแฝงอ้างอิงใบลดหนี้เจ้าหนี้" />
-  <Resource Name="AG.PROCURE.2012_POLANDEDCOST_DEBIT.DESC" Type="System.String" FileName="" Value="การบันทึกต้นทุนแฝงอ้างอิงใบเพิ่มหนี้เจ้าหนี้" />
+  <Resource Name="AG.PROCURE.2012_POLANDEDCOST_CREDIT.DESC" Type="System.String" FileName="" Value="การบันทึกต้นทุนแฝงแบบลดต้นทุน" />
+  <Resource Name="AG.PROCURE.2012_POLANDEDCOST_DEBIT.DESC" Type="System.String" FileName="" Value="การบันทึกต้นทุนแฝงแบบเพิ่มต้นทุน" />
   <Resource Name="AG.PROCURE.PO_T_0005.DESC" Type="System.String" FileName="" Value="ใบคืนสินค้าอ้างอิงจากใบสั่งซื้อ" />
   <Resource Name="AG.PROCURE.PO_OUTSOURCERETURN_T_0001.DESC" Type="System.String" FileName="" Value="ใบคืนสินค้าอ้างอิงจากใบสั่งซื้อจ้างคนภายนอก" />
   <Resource Name="AG.PROCURE.PO_T_0003.DESC" Type="System.String" FileName="" Value="การสร้างใบสั่งซื้อจากใบขอซื้อหลายใบ" />
@@ -3404,7 +3405,7 @@
   <Resource Name="AG.ADM.PC.ADMFI_C_0007.DESC" Type="System.String" FileName="" Value="กำหนดประเภทเอกสารเงินสดย่อยกับช่วงหมายเลขเอกสาร" />
   <Resource Name="AG.ADM.PC.MILGE_C_0007.DESC" Type="System.String" FileName="" Value="กำหนดประเภทเอกสารขอเบิกกับวัตถุประสงค์ค่าใช้จ่าย" />
   <Resource Name="AG.ADM.PC.MILGE_C_0008.DESC" Type="System.String" FileName="" Value="การกำหนดกิจกรรมค่าใช้จ่ายสำหรับวัตถุประสงค์การเบิกจ่าย" />
-  <Resource Name="AG.ADM.PC.MILGE_C_0009.DESC" Type="System.String" FileName="" Value="การกำหนดกลุ่มกิจกรรมค่าใช้จ่ายสำหรับวัตถุประสงค์การเบิกจ่าย" />
+  <Resource Name="AG.ADM.PC.MILGE_C_0009.DESC" Type="System.String" FileName="" Value="การกำหนดกลุ่มกิจกรรมค่าใช้จ่าย" />
   <Resource Name="AG.ADM.AM.FOLDER.DESC" Type="System.String" FileName="" Value="การกำหนดข้อมูลระบบสินทรัพย์" />
   <Resource Name="AG.ADM.AM.AM_C_0003.DESC" Type="System.String" FileName="" Value="กำหนดประเภทเอกสารสินทรัพย์" />
   <Resource Name="AG.ADM.AM.AM_C_0004.DESC" Type="System.String" FileName="" Value="กำหนดช่วงหมายเลขประเภทเอกสารสินทรัพย์" />
