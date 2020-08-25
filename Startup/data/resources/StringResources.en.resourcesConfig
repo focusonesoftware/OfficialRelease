@@ -3478,7 +3478,7 @@
   <Resource Name="AG.ADM.AM.AM_C_0008.DESC" Type="System.String" FileName="" Value="Depreciation Method Calculation" />
   <Resource Name="AG.ADM.AM.AM_M_0009.DESC" Type="System.String" FileName="" Value="Define Depreciation Book Type" />
   <Resource Name="AG.ADM.AM.AM_C_0006.DESC" Type="System.String" FileName="" Value="Asset Acount Code Determination" />
-  <Resource Name="AG.ADM.AM.AM_C_0007.DESC" Type="System.String" FileName="" Value="Asset Acct Transaction Type Determination" />
+  <Resource Name="AG.ADM.AM.AM_C_0007.DESC" Type="System.String" FileName="" Value="Asset Transx Type Determination" />
   <Resource Name="AG.ADM.AM.AM_M_0005.DESC" Type="System.String" FileName="" Value="Define Asset Leasing Type" />
   <Resource Name="AG.ADM.AM.AM_C_0002.DESC" Type="System.String" FileName="" Value="Define Asset Group" />
   <Resource Name="AG.ADM.AM.AM_M_0012.DESC" Type="System.String" FileName="" Value="Define Asset Type" />
