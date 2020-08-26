@@ -11936,6 +11936,11 @@
         <ProductVersion></ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\ReportFile\INETJVIncommingTaxReport53Summary.rpt</FileName>
+        <FileVersion>2020.08.26.01</FileVersion>
+        <ProductVersion>2020.08.26.01</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\ReportFile\INET_IncommingTaxMainReport53V1.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
