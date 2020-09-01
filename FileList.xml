@@ -4277,8 +4277,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SLTSSaleQuotationForm.dll</FileName>
-        <FileVersion>4.8.5.0</FileVersion>
-        <ProductVersion>4.8.5.0</ProductVersion>
+        <FileVersion>4.8.6.0</FileVersion>
+        <ProductVersion>4.8.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SMEBillingForm.dll</FileName>
@@ -4687,13 +4687,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.StockCompare.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.3.0</FileVersion>
+        <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.StockCompareType2.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.4.0</FileVersion>
+        <ProductVersion>4.8.4.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.StockEndingPeriod.dll</FileName>
@@ -4707,8 +4707,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.StockMovementRefConsignment.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.StockMovementRefConsignmentDTC.dll</FileName>
@@ -4732,8 +4732,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.StockOverViewByDate.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.5.0</FileVersion>
+        <ProductVersion>4.8.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.StockOverViewByDateRefConsignment.dll</FileName>
@@ -6397,8 +6397,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.506.0</FileVersion>
-        <ProductVersion>4.8.506.0</ProductVersion>
+        <FileVersion>4.8.509.0</FileVersion>
+        <ProductVersion>4.8.509.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -7012,8 +7012,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ARSubLedgerV4.dll</FileName>
-        <FileVersion>4.8.2.0</FileVersion>
-        <ProductVersion>4.8.2.0</ProductVersion>
+        <FileVersion>4.8.3.0</FileVersion>
+        <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.AccountInventoryByMaterial.dll</FileName>
@@ -7862,8 +7862,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ProductAgingReport.dll</FileName>
-        <FileVersion>3.1.2.0</FileVersion>
-        <ProductVersion>3.1.2.0</ProductVersion>
+        <FileVersion>4.8.3.0</FileVersion>
+        <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ProductionFinishGoods.dll</FileName>
@@ -8002,8 +8002,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.SESaleShippingandBillingV3.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.7.0</FileVersion>
+        <ProductVersion>4.8.7.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.SPDTAPInvoice.dll</FileName>
@@ -8167,8 +8167,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.StockCompareType2.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.3.0</FileVersion>
+        <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.StockEndingPeriod.dll</FileName>
