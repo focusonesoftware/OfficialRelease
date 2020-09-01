@@ -5672,8 +5672,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.AM.DefineAssetgroupLocation.dll</FileName>
-        <FileVersion>3.1.7.0</FileVersion>
-        <ProductVersion>3.1.7.0</ProductVersion>
+        <FileVersion>3.1.6.0</FileVersion>
+        <ProductVersion>3.1.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.APInvoiceNoRefPo.dll</FileName>
@@ -7042,8 +7042,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.DTCSaleListSummaryReport.dll</FileName>
-        <FileVersion>3.1.0.3</FileVersion>
-        <ProductVersion>3.1.0.3</ProductVersion>
+        <FileVersion>3.1.2.0</FileVersion>
+        <ProductVersion>3.1.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.DTCSaleOrderTrackingReport.dll</FileName>
@@ -8182,8 +8182,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>3.1.264.0</FileVersion>
-        <ProductVersion>3.1.264.0</ProductVersion>
+        <FileVersion>3.1.268.0</FileVersion>
+        <ProductVersion>3.1.268.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
