@@ -6182,8 +6182,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.SubSequence.dll</FileName>
-        <FileVersion>3.2.6.0</FileVersion>
-        <ProductVersion>3.2.6.0</ProductVersion>
+        <FileVersion>3.2.7.0</FileVersion>
+        <ProductVersion>3.2.7.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.SysMaterialCode.dll</FileName>
@@ -6437,8 +6437,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Interface.dll</FileName>
-        <FileVersion>3.1.8.0</FileVersion>
-        <ProductVersion>3.1.8.0</ProductVersion>
+        <FileVersion>3.1.9.0</FileVersion>
+        <ProductVersion>3.1.9.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Inventory.Movement.Asset.dll</FileName>
@@ -6497,8 +6497,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.POOutsource.dll</FileName>
-        <FileVersion>3.1.39.0</FileVersion>
-        <ProductVersion>3.1.39.0</ProductVersion>
+        <FileVersion>3.1.40.0</FileVersion>
+        <ProductVersion>3.1.40.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.PackingList.dll</FileName>
@@ -6612,8 +6612,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>3.1.379.0</FileVersion>
-        <ProductVersion>3.1.379.0</ProductVersion>
+        <FileVersion>3.1.380.0</FileVersion>
+        <ProductVersion>3.1.380.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -6717,8 +6717,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.dll</FileName>
-        <FileVersion>3.1.21.0</FileVersion>
-        <ProductVersion>3.1.21.0</ProductVersion>
+        <FileVersion>3.1.23.0</FileVersion>
+        <ProductVersion>3.1.23.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PS.DLL</FileName>
@@ -10147,8 +10147,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Search.dll</FileName>
-        <FileVersion>3.2.9.0</FileVersion>
-        <ProductVersion>3.2.9.0</ProductVersion>
+        <FileVersion>3.2.10.0</FileVersion>
+        <ProductVersion>3.2.10.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.SharpAssembly.dll</FileName>
@@ -10162,8 +10162,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>3.2.35.0</FileVersion>
-        <ProductVersion>3.2.35.0</ProductVersion>
+        <FileVersion>3.2.36.0</FileVersion>
+        <ProductVersion>3.2.36.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
