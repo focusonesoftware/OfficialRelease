@@ -5672,8 +5672,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.AM.DefineAssetgroupLocation.dll</FileName>
-        <FileVersion>3.1.7.0</FileVersion>
-        <ProductVersion>3.1.7.0</ProductVersion>
+        <FileVersion>3.1.8.0</FileVersion>
+        <ProductVersion>3.1.8.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.APInvoiceNoRefPo.dll</FileName>
@@ -5697,8 +5697,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>3.1.92.0</FileVersion>
-        <ProductVersion>3.1.92.0</ProductVersion>
+        <FileVersion>3.1.93.0</FileVersion>
+        <ProductVersion>3.1.93.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -5942,8 +5942,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.65.0</FileVersion>
-        <ProductVersion>3.2.65.0</ProductVersion>
+        <FileVersion>3.2.66.0</FileVersion>
+        <ProductVersion>3.2.66.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -6207,8 +6207,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.512.0</FileVersion>
-        <ProductVersion>3.1.512.0</ProductVersion>
+        <FileVersion>3.1.514.0</FileVersion>
+        <ProductVersion>3.1.514.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -10162,8 +10162,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>3.2.36.0</FileVersion>
-        <ProductVersion>3.2.36.0</ProductVersion>
+        <FileVersion>3.2.38.0</FileVersion>
+        <ProductVersion>3.2.38.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>

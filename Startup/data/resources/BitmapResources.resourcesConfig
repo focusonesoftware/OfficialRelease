@@ -284,7 +284,7 @@
   <Resource Name="Java.Project.UserControl" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.XMLFileIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.AlignTops" Type="System.Drawing.Bitmap" FileName="" Value="" />
-  <Resource Name="AG_BUTTON_REFRESH" Type="System.Drawing.Bitmap" FileName="D:\Downloads\refresh.png" Value="" />
+  <Resource Name="AG_BUTTON_REFRESH" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="C++.ProjectIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="ErrorReport" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_REVERSE" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -449,4 +449,5 @@
   <Resource Name="AGToolsBar_MAIL" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AGToolsBar_SAVE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.ViewCode" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_SELECTIONTEMPLATE" Type="System.Drawing.Bitmap" FileName="D:\Downloads\icon จุกจิก2\Selection template.png" Value="" />
 </Resources>
