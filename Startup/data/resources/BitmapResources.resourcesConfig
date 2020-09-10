@@ -133,6 +133,7 @@
   <Resource Name="VB.FileIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_SPLITLINE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.InternalDelegate" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_SELECTIONTEMPLATE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.OpenResourceFolder" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="JScript.Project.ServiceProject" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.GotoPrevbookmark" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -449,5 +450,5 @@
   <Resource Name="AGToolsBar_MAIL" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AGToolsBar_SAVE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.ViewCode" Type="System.Drawing.Bitmap" FileName="" Value="" />
-  <Resource Name="AG_BUTTON_SELECTIONTEMPLATE" Type="System.Drawing.Bitmap" FileName="D:\Downloads\icon จุกจิก2\Selection template.png" Value="" />
+  <Resource Name="AG_BUTTON_ADVANCE_SEARCH" Type="System.Drawing.Bitmap" FileName="D:\Work\icon จุกจิก\Advance Serch2.png" Value="" />
 </Resources>
