@@ -1,39 +1,63 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
   <Connection>
-    <ApplicationID>5000</ApplicationID>
-    <ApplicationName>INET PRD - O2C</ApplicationName>
-    <Host>203.150.109.150</Host>
-    <Port>5000</Port>
+    <ApplicationID>5001</ApplicationID>
+    <ApplicationName>INET UAT</ApplicationName>
+    <Host>10.127.2.3</Host>
+    <Port>5001</Port>
   </Connection>
   <Connection>
-    <ApplicationID>5002</ApplicationID>
-    <ApplicationName>INET PRD - P2P</ApplicationName>
-    <Host>203.150.109.150</Host>
-    <Port>5002</Port>
-  </Connection>
-  <Connection>
-    <ApplicationID>5003</ApplicationID>
-    <ApplicationName>INET PRD - FI</ApplicationName>
-    <Host>203.150.109.150</Host>
-    <Port>5003</Port>
-  </Connection>
-  <Connection>
-    <ApplicationID>5004</ApplicationID>
-    <ApplicationName>INET PRD - Payment</ApplicationName>
-    <Host>203.150.109.150</Host>
-    <Port>5004</Port>
-  </Connection>
-  <Connection>
-    <ApplicationID>5005</ApplicationID>
-    <ApplicationName>INET PRD - Billing Amortize</ApplicationName>
-    <Host>203.150.109.150</Host>
-    <Port>5005</Port>
+    <ApplicationID>5009</ApplicationID>
+    <ApplicationName>5009</ApplicationName>
+    <Host>10.127.2.3</Host>
+    <Port>5009</Port>
   </Connection>
   <Connection>
     <ApplicationID>5006</ApplicationID>
-    <ApplicationName>One DC PRD</ApplicationName>
-    <Host>203.150.109.150</Host>
+    <ApplicationName>5006</ApplicationName>
+    <Host>10.127.2.3</Host>
     <Port>5006</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>localhost</ApplicationID>
+    <ApplicationName>localhost</ApplicationName>
+    <Host>localhost</Host>
+    <Port>9999</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>111</ApplicationID>
+    <ApplicationName>111</ApplicationName>
+    <Host>203.154.41.15</Host>
+    <Port>9006</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>9001-SLSN</ApplicationID>
+    <ApplicationName />
+    <Host>203.154.41.73</Host>
+    <Port>9001</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>5010</ApplicationID>
+    <ApplicationName>5010</ApplicationName>
+    <Host>10.127.2.3</Host>
+    <Port>5010</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>9008</ApplicationID>
+    <ApplicationName>9008</ApplicationName>
+    <Host>203.154.41.15</Host>
+    <Port>9008</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>8001</ApplicationID>
+    <ApplicationName>8001</ApplicationName>
+    <Host>203.154.41.73</Host>
+    <Port>8001</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>5000 - 2.4</ApplicationID>
+    <ApplicationName>5000 - 2.4</ApplicationName>
+    <Host>10.127.2.4</Host>
+    <Port>5000</Port>
   </Connection>
 </DocumentElement>
