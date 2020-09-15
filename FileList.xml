@@ -3112,8 +3112,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.InputVatReport.dll</FileName>
-        <FileVersion>4.8.12.0</FileVersion>
-        <ProductVersion>4.8.12.0</ProductVersion>
+        <FileVersion>4.8.13.0</FileVersion>
+        <ProductVersion>4.8.13.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.InventoryInvoiceMonthly.dll</FileName>
@@ -5877,8 +5877,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>4.8.91.0</FileVersion>
-        <ProductVersion>4.8.91.0</ProductVersion>
+        <FileVersion>4.8.92.0</FileVersion>
+        <ProductVersion>4.8.92.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -6402,8 +6402,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.512.0</FileVersion>
-        <ProductVersion>4.8.512.0</ProductVersion>
+        <FileVersion>4.8.514.0</FileVersion>
+        <ProductVersion>4.8.514.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -6807,8 +6807,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>4.8.375.0</FileVersion>
-        <ProductVersion>4.8.375.0</ProductVersion>
+        <FileVersion>4.8.376.0</FileVersion>
+        <ProductVersion>4.8.376.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
