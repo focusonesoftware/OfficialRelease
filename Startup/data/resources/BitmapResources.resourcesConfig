@@ -220,7 +220,7 @@
   <Resource Name="C#.Project.ServiceProject" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.WebSearchIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AGToolsBar_LOGOFF" Type="System.Drawing.Bitmap" FileName="" Value="" />
-  <Resource Name="AG_BUTTON_VARIANT" Type="System.Drawing.Bitmap" FileName="D:\Work\icon-sale-order\Variant.png" Value="" />
+  <Resource Name="AG_BUTTON_VARIANT" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.AdjustColor" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_BARCODE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AGToolsBar_USERINFO" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -405,7 +405,7 @@
   <Resource Name="Icons.16x16.Literal" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_DELETE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.HtmlElements.AnchorElement" Type="System.Drawing.Bitmap" FileName="" Value="" />
-  <Resource Name="AG_BUTTON_SIMULATE" Type="System.Drawing.Bitmap" FileName="D:\Work\หน้าเมนูที่แก้ไขและวิดีโอ zoom meeting 09182020\Simulate Data.png" Value="" />
+  <Resource Name="AG_BUTTON_SIMULATE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.CutIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.SharpQuery.AddConnection" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_COA_REVALUATION" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -451,4 +451,5 @@
   <Resource Name="AGToolsBar_MAIL" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AGToolsBar_SAVE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.ViewCode" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_OPEN_ITEM" Type="System.Drawing.Bitmap" FileName="D:\Work\icon-sale-order\2. Smart Sale Order\Open item.png" Value="" />
 </Resources>
