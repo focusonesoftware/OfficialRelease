@@ -61,6 +61,7 @@
   <Resource Name="Icons.16x16.InternalStruct" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.HtmlElements.InputFileElement" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.NETWORK" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_OPEN_ITEM" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="JScript.File.NewClass" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.BrowserRefresh" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.Struct" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -451,5 +452,5 @@
   <Resource Name="AGToolsBar_MAIL" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AGToolsBar_SAVE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.ViewCode" Type="System.Drawing.Bitmap" FileName="" Value="" />
-  <Resource Name="AG_BUTTON_OPEN_ITEM" Type="System.Drawing.Bitmap" FileName="D:\Work\icon-sale-order\2. Smart Sale Order\Open item.png" Value="" />
+  <Resource Name="AG_BUTTON_REVERSE_V2" Type="System.Drawing.Bitmap" FileName="D:\Work\Re-De FGUI\icon จุกจิก\Reverse.png" Value="" />
 </Resources>
