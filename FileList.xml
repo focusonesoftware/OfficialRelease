@@ -1077,8 +1077,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DLL</FileName>
-        <FileVersion>4.8.127.0</FileVersion>
-        <ProductVersion>4.8.127.0</ProductVersion>
+        <FileVersion>4.8.128.0</FileVersion>
+        <ProductVersion>4.8.128.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DTCBorrowReport.dll</FileName>
@@ -1647,8 +1647,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ASWARCreditNote.dll</FileName>
-        <FileVersion>4.8.5.0</FileVersion>
-        <ProductVersion>4.8.5.0</ProductVersion>
+        <FileVersion>4.8.6.0</FileVersion>
+        <ProductVersion>4.8.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ASWARInvoice.dll</FileName>
@@ -2224,6 +2224,11 @@
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCInstallation.dll</FileName>
         <FileVersion>3.1.4.0</FileVersion>
         <ProductVersion>3.1.4.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCInvoiceAllocation.dll</FileName>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCInvoiceVerRefBilling.dll</FileName>
@@ -4262,8 +4267,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SLSNPOForm.dll</FileName>
-        <FileVersion>4.8.4.0</FileVersion>
-        <ProductVersion>4.8.4.0</ProductVersion>
+        <FileVersion>4.8.5.0</FileVersion>
+        <ProductVersion>4.8.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SLSNPRForm.dll</FileName>
@@ -6352,8 +6357,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Report.LedgerDetailBySegmentV3.dll</FileName>
-        <FileVersion>4.8.10.0</FileVersion>
-        <ProductVersion>4.8.10.0</ProductVersion>
+        <FileVersion>4.8.11.0</FileVersion>
+        <ProductVersion>4.8.11.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Report.LedgerDetailV4.dll</FileName>
@@ -6432,8 +6437,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.HR.dll</FileName>
-        <FileVersion>4.8.22.0</FileVersion>
-        <ProductVersion>4.8.22.0</ProductVersion>
+        <FileVersion>4.8.23.0</FileVersion>
+        <ProductVersion>4.8.23.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.IAMMargin.dll</FileName>
@@ -6817,8 +6822,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>4.8.377.0</FileVersion>
-        <ProductVersion>4.8.377.0</ProductVersion>
+        <FileVersion>4.8.378.0</FileVersion>
+        <ProductVersion>4.8.378.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -7219,6 +7224,11 @@
         <FileName>Startup\Main\Agape.App.Report.DTCIncomingSubLedger.dll</FileName>
         <FileVersion>3.1.6.0</FileVersion>
         <ProductVersion>3.1.6.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.App.Report.DTCInvoiceAllocation.dll</FileName>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.DTCJobOrderDetail.dll</FileName>
@@ -8487,8 +8497,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.SaleQuotationReportLibaryV2.dll</FileName>
-        <FileVersion>4.8.3.0</FileVersion>
-        <ProductVersion>4.8.3.0</ProductVersion>
+        <FileVersion>4.8.6.0</FileVersion>
+        <ProductVersion>4.8.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.TOR.dll</FileName>
@@ -9544,6 +9554,11 @@
         <FileName>Startup\Main\Agape.Lib.Remote.Report.DTCIncomingSubLedger.dll</FileName>
         <FileVersion>4.2.1.0</FileVersion>
         <ProductVersion>4.2.1.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Remote.Report.DTCInvoiceAllocation.dll</FileName>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.DTCJobOrderDetail.dll</FileName>
