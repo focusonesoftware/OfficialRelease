@@ -1292,13 +1292,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.PP.DyeMaster.dll</FileName>
-        <FileVersion>3.1.0.12</FileVersion>
-        <ProductVersion>3.1.0.12</ProductVersion>
+        <FileVersion>3.1.13.0</FileVersion>
+        <ProductVersion>3.1.13.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.PP.DyeOrder.dll</FileName>
-        <FileVersion>3.1.30.0</FileVersion>
-        <ProductVersion>3.1.30.0</ProductVersion>
+        <FileVersion>3.1.31.0</FileVersion>
+        <ProductVersion>3.1.31.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.PP.Dyeing.dll</FileName>
@@ -3977,8 +3977,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ProductionWIPMaterial.dll</FileName>
-        <FileVersion>3.1.4.0</FileVersion>
-        <ProductVersion>3.1.4.0</ProductVersion>
+        <FileVersion>3.1.5.0</FileVersion>
+        <ProductVersion>3.1.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ProductionWorkHour.dll</FileName>
@@ -6757,13 +6757,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.DyeOrder.dll</FileName>
-        <FileVersion>3.1.48.0</FileVersion>
-        <ProductVersion>3.1.48.0</ProductVersion>
+        <FileVersion>3.1.49.0</FileVersion>
+        <ProductVersion>3.1.49.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.Dyeing.dll</FileName>
-        <FileVersion>3.1.4.0</FileVersion>
-        <ProductVersion>3.1.4.0</ProductVersion>
+        <FileVersion>3.1.6.0</FileVersion>
+        <ProductVersion>3.1.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.OrderSheetDyed.dll</FileName>
@@ -6787,8 +6787,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.ProductionOrder.dll</FileName>
-        <FileVersion>3.1.108.0</FileVersion>
-        <ProductVersion>3.1.108.0</ProductVersion>
+        <FileVersion>3.1.109.0</FileVersion>
+        <ProductVersion>3.1.109.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.ProductionRequest.dll</FileName>
@@ -7822,8 +7822,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ProductionWIPMaterial.dll</FileName>
-        <FileVersion>3.1.6.0</FileVersion>
-        <ProductVersion>3.1.6.0</ProductVersion>
+        <FileVersion>3.1.7.0</FileVersion>
+        <ProductVersion>3.1.7.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ProductionWorkHour.dll</FileName>
