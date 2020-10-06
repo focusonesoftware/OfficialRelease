@@ -6507,13 +6507,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.GIOutsource.dll</FileName>
-        <FileVersion>3.1.20.0</FileVersion>
-        <ProductVersion>3.1.20.0</ProductVersion>
+        <FileVersion>3.1.21.0</FileVersion>
+        <ProductVersion>3.1.21.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.GROutsource.dll</FileName>
-        <FileVersion>3.1.21.0</FileVersion>
-        <ProductVersion>3.1.21.0</ProductVersion>
+        <FileVersion>3.1.22.0</FileVersion>
+        <ProductVersion>3.1.22.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.ImportMaterialMaster.dll</FileName>
@@ -6702,8 +6702,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>3.1.388.0</FileVersion>
-        <ProductVersion>3.1.388.0</ProductVersion>
+        <FileVersion>3.1.389.0</FileVersion>
+        <ProductVersion>3.1.389.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -10287,8 +10287,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Search.dll</FileName>
-        <FileVersion>3.2.13.0</FileVersion>
-        <ProductVersion>3.2.13.0</ProductVersion>
+        <FileVersion>3.2.14.0</FileVersion>
+        <ProductVersion>3.2.14.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.SharpAssembly.dll</FileName>
