@@ -1416,6 +1416,11 @@
         <ProductVersion>3.0.0.4</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ANTInvoice.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ANTPOForm.dll</FileName>
         <FileVersion>3.1.9.0</FileVersion>
         <ProductVersion>3.1.9.0</ProductVersion>
@@ -2284,6 +2289,11 @@
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DataCenter.dll</FileName>
         <FileVersion>3.1.0.4</FileVersion>
         <ProductVersion>3.1.0.4</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DataSetInvoice.dll</FileName>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DataSetPOForm.dll</FileName>
