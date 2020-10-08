@@ -6027,8 +6027,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.51.0</FileVersion>
-        <ProductVersion>3.2.51.0</ProductVersion>
+        <FileVersion>3.2.52.0</FileVersion>
+        <ProductVersion>3.2.52.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -6422,13 +6422,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Barcode.dll</FileName>
-        <FileVersion>3.1.0.1</FileVersion>
-        <ProductVersion>3.1.0.1</ProductVersion>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.BarcodeV2.dll</FileName>
-        <FileVersion>3.1.0.1</FileVersion>
-        <ProductVersion>3.1.0.1</ProductVersion>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.BarcodeV3.dll</FileName>
@@ -6472,8 +6472,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.BorrowV2.dll</FileName>
-        <FileVersion>3.1.9.0</FileVersion>
-        <ProductVersion>3.1.9.0</ProductVersion>
+        <FileVersion>3.1.10.0</FileVersion>
+        <ProductVersion>3.1.10.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.DTCBorrowReport.dll</FileName>
@@ -6622,8 +6622,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.QC.dll</FileName>
-        <FileVersion>3.1.15.0</FileVersion>
-        <ProductVersion>3.1.15.0</ProductVersion>
+        <FileVersion>3.1.16.0</FileVersion>
+        <ProductVersion>3.1.16.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Report.AnalysisProduct.dll</FileName>
@@ -6672,8 +6672,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Reservation.dll</FileName>
-        <FileVersion>3.1.23.0</FileVersion>
-        <ProductVersion>3.1.23.0</ProductVersion>
+        <FileVersion>3.1.24.0</FileVersion>
+        <ProductVersion>3.1.24.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Serial.dll</FileName>
@@ -6692,8 +6692,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.TRConsignment.dll</FileName>
-        <FileVersion>3.1.4.0</FileVersion>
-        <ProductVersion>3.1.4.0</ProductVersion>
+        <FileVersion>3.1.5.0</FileVersion>
+        <ProductVersion>3.1.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.TranferBorrow.dll</FileName>
@@ -6702,8 +6702,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>3.1.389.0</FileVersion>
-        <ProductVersion>3.1.389.0</ProductVersion>
+        <FileVersion>3.1.390.0</FileVersion>
+        <ProductVersion>3.1.390.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -6737,8 +6737,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.Composite.dll</FileName>
-        <FileVersion>3.1.35.0</FileVersion>
-        <ProductVersion>3.1.35.0</ProductVersion>
+        <FileVersion>3.1.37.0</FileVersion>
+        <ProductVersion>3.1.37.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.Costsheet.dll</FileName>
@@ -8257,8 +8257,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.ReservationReport.dll</FileName>
-        <FileVersion>3.1.2.0</FileVersion>
-        <ProductVersion>3.1.2.0</ProductVersion>
+        <FileVersion>3.1.3.0</FileVersion>
+        <ProductVersion>3.1.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.AddOnIRPC.dll</FileName>
