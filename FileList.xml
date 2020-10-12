@@ -742,8 +742,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.SubSequence.DLL</FileName>
-        <FileVersion>4.8.2.0</FileVersion>
-        <ProductVersion>4.8.2.0</ProductVersion>
+        <FileVersion>4.8.5.0</FileVersion>
+        <ProductVersion>4.8.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.SysMaterialCode.dll</FileName>
@@ -6392,8 +6392,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.SubSequence.dll</FileName>
-        <FileVersion>4.8.4.0</FileVersion>
-        <ProductVersion>4.8.4.0</ProductVersion>
+        <FileVersion>4.8.5.0</FileVersion>
+        <ProductVersion>4.8.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.SysMaterialCode.dll</FileName>
@@ -8407,8 +8407,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>4.8.269.0</FileVersion>
-        <ProductVersion>4.8.269.0</ProductVersion>
+        <FileVersion>4.8.270.0</FileVersion>
+        <ProductVersion>4.8.270.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
