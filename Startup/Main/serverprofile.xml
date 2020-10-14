@@ -1,9 +1,27 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
   <Connection>
-    <ApplicationID>6001</ApplicationID>
-    <ApplicationName>SLSN UAT</ApplicationName>
-    <Host>34.87.104.10</Host>
-    <Port>6001</Port>
+    <ApplicationID>5000</ApplicationID>
+    <ApplicationName>PRD</ApplicationName>
+    <Host>203.154.32.147</Host>
+    <Port>5000</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>5001</ApplicationID>
+    <ApplicationName>PRD</ApplicationName>
+    <Host>203.154.32.147</Host>
+    <Port>5001</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>5002</ApplicationID>
+    <ApplicationName>PRD</ApplicationName>
+    <Host>203.154.32.147</Host>
+    <Port>5002</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>5003</ApplicationID>
+    <ApplicationName>PRD</ApplicationName>
+    <Host>203.154.32.147</Host>
+    <Port>5003</Port>
   </Connection>
 </DocumentElement>
