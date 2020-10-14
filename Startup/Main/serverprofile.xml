@@ -1,9 +1,9 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
   <Connection>
-    <ApplicationID>6001</ApplicationID>
-    <ApplicationName>SLSN UAT</ApplicationName>
-    <Host>34.87.104.10</Host>
-    <Port>6001</Port>
+    <ApplicationID>9001</ApplicationID>
+    <ApplicationName>ASW TEST 4.8</ApplicationName>
+    <Host>203.154.32.147</Host>
+    <Port>9001</Port>
   </Connection>
 </DocumentElement>
