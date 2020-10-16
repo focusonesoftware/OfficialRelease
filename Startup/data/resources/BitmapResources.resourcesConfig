@@ -238,6 +238,7 @@
   <Resource Name="Icons.16x16.SharpQuery.ProceduresRoot" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="C#.Project.Library" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="C++.File.Form" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_REVERSE_V2" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="VB.Project.Library" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.UMLImplementation" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="SME_BUTTON_PROFILE" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -452,5 +453,5 @@
   <Resource Name="AGToolsBar_MAIL" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AGToolsBar_SAVE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.ViewCode" Type="System.Drawing.Bitmap" FileName="" Value="" />
-  <Resource Name="AG_BUTTON_REVERSE_V2" Type="System.Drawing.Bitmap" FileName="D:\Work\Re-De FGUI\icon จุกจิก\Reverse.png" Value="" />
+  <Resource Name="AG_BUTTON_BARCODE_V2" Type="System.Drawing.Bitmap" FileName="D:\Work\Re-Design FGUI\icon จุกจิก\bar code.png" Value="" />
 </Resources>
