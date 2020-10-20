@@ -1,9 +1,9 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
   <Connection>
-    <ApplicationID>5001</ApplicationID>
-    <ApplicationName>5001-BIM-TEST</ApplicationName>
+    <ApplicationID>9001</ApplicationID>
+    <ApplicationName>9001-BIM-PRD</ApplicationName>
     <Host>34.87.60.135</Host>
-    <Port>5001</Port>
+    <Port>9001</Port>
   </Connection>
 </DocumentElement>
