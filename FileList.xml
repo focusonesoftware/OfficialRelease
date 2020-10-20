@@ -5782,8 +5782,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>3.1.94.0</FileVersion>
-        <ProductVersion>3.1.94.0</ProductVersion>
+        <FileVersion>3.1.96.0</FileVersion>
+        <ProductVersion>3.1.96.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -6027,8 +6027,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.55.0</FileVersion>
-        <ProductVersion>3.2.55.0</ProductVersion>
+        <FileVersion>3.2.57.0</FileVersion>
+        <ProductVersion>3.2.57.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -6042,8 +6042,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.DTCBarcode.dll</FileName>
-        <FileVersion>3.1.60.0</FileVersion>
-        <ProductVersion>3.1.60.0</ProductVersion>
+        <FileVersion>3.1.63.0</FileVersion>
+        <ProductVersion>3.1.63.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.EMS.CoffeeBreak.dll</FileName>
@@ -6122,8 +6122,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.CustomerBankMaster.dll</FileName>
-        <FileVersion>3.1.0.1</FileVersion>
-        <ProductVersion>3.1.0.1</ProductVersion>
+        <FileVersion>3.1.15.0</FileVersion>
+        <ProductVersion>3.1.15.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.EndCashMent.dll</FileName>
@@ -6142,8 +6142,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.GenerateJVBank.dll</FileName>
-        <FileVersion>3.1.15.0</FileVersion>
-        <ProductVersion>3.1.15.0</ProductVersion>
+        <FileVersion>3.1.16.0</FileVersion>
+        <ProductVersion>3.1.16.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Incoming.AutoIncoming.dll</FileName>
@@ -6297,8 +6297,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.521.0</FileVersion>
-        <ProductVersion>3.1.521.0</ProductVersion>
+        <FileVersion>3.1.525.0</FileVersion>
+        <ProductVersion>3.1.525.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -6422,8 +6422,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Barcode.dll</FileName>
-        <FileVersion>3.1.1.0</FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <FileVersion>3.1.2.0</FileVersion>
+        <ProductVersion>3.1.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.BarcodeV2.dll</FileName>
@@ -6532,8 +6532,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Inventory.Movement.Asset.dll</FileName>
-        <FileVersion>3.1.44.0</FileVersion>
-        <ProductVersion>3.1.44.0</ProductVersion>
+        <FileVersion>3.1.45.0</FileVersion>
+        <ProductVersion>3.1.45.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Inventory.Report.dll</FileName>
@@ -6827,8 +6827,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.RB.dll</FileName>
-        <FileVersion>3.1.116.0</FileVersion>
-        <ProductVersion>3.1.116.0</ProductVersion>
+        <FileVersion>3.1.118.0</FileVersion>
+        <ProductVersion>3.1.118.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Remote.APInvoiceNoRefPo.dll</FileName>
@@ -7572,8 +7572,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.OpenCloseStock.dll</FileName>
-        <FileVersion>3.1.24.0</FileVersion>
-        <ProductVersion>3.1.24.0</ProductVersion>
+        <FileVersion>3.1.25.0</FileVersion>
+        <ProductVersion>3.1.25.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.OutgoingSubLedger.dll</FileName>
