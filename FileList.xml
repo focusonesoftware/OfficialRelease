@@ -6027,8 +6027,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.57.0</FileVersion>
-        <ProductVersion>3.2.57.0</ProductVersion>
+        <FileVersion>3.2.67.0</FileVersion>
+        <ProductVersion>3.2.67.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -6302,8 +6302,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
-        <FileVersion>3.2.3.0</FileVersion>
-        <ProductVersion>3.2.3.0</ProductVersion>
+        <FileVersion>3.2.5.0</FileVersion>
+        <ProductVersion>3.2.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP_V2.dll</FileName>
@@ -6827,8 +6827,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.RB.dll</FileName>
-        <FileVersion>3.1.118.0</FileVersion>
-        <ProductVersion>3.1.118.0</ProductVersion>
+        <FileVersion>3.1.120.0</FileVersion>
+        <ProductVersion>3.1.120.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Remote.APInvoiceNoRefPo.dll</FileName>
