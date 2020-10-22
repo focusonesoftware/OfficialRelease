@@ -3551,7 +3551,7 @@
   <Resource Name="AG.ADM.SV.2013_MASTER_CONFIG_MASS_SV.DESC" Type="System.String" FileName="" Value="Configure Mass Service Contract" />
   <Resource Name="AG.ADM.SV.ADMSV_C_0001.DESC" Type="System.String" FileName="" Value="Define Call Type" />
   <Resource Name="AG.ADM.SV.ADMSV_C_0002.DESC" Type="System.String" FileName="" Value="Define Call Status Code" />
-  <Resource Name="AG.ADM.SV.ADMSV_C_0003.DESC" Type="System.String" FileName="" Value="Define information Source" />
+  <Resource Name="AG.ADM.SV.ADMSV_C_0003.DESC" Type="System.String" FileName="" Value="Define Information Source" />
   <Resource Name="AG.ADM.SV.ADMSV_C_0004.DESC" Type="System.String" FileName="" Value="Define Problem Type" />
   <Resource Name="AG.ADM.EQUIP.FOLDER01.DESC" Type="System.String" FileName="" Value="CUSTOMER EQUIPMENT SETUP" />
   <Resource Name="AG.ADM.EQUIP.CLM_C_0001.DESC" Type="System.String" FileName="" Value="Define Claim Document Type" />
