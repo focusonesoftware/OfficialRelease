@@ -5782,8 +5782,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>3.1.96.0</FileVersion>
-        <ProductVersion>3.1.96.0</ProductVersion>
+        <FileVersion>3.1.97.0</FileVersion>
+        <ProductVersion>3.1.97.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -6027,8 +6027,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.67.0</FileVersion>
-        <ProductVersion>3.2.67.0</ProductVersion>
+        <FileVersion>3.2.69.0</FileVersion>
+        <ProductVersion>3.2.69.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -6267,8 +6267,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Segmentation.dll</FileName>
-        <FileVersion>3.1.10.0</FileVersion>
-        <ProductVersion>3.1.10.0</ProductVersion>
+        <FileVersion>3.1.15.0</FileVersion>
+        <ProductVersion>3.1.15.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.SubSequence.dll</FileName>
@@ -6302,8 +6302,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
-        <FileVersion>3.2.5.0</FileVersion>
-        <ProductVersion>3.2.5.0</ProductVersion>
+        <FileVersion>3.2.7.0</FileVersion>
+        <ProductVersion>3.2.7.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP_V2.dll</FileName>
@@ -8297,8 +8297,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>3.1.283.0</FileVersion>
-        <ProductVersion>3.1.283.0</ProductVersion>
+        <FileVersion>3.1.286.0</FileVersion>
+        <ProductVersion>3.1.286.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
