@@ -1916,6 +1916,11 @@
         <ProductVersion>4.2.1.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.CS.AmortizeReport.dll</FileName>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.CarRegister.dll</FileName>
         <FileVersion>4.2.1.0</FileVersion>
         <ProductVersion>4.2.1.0</ProductVersion>
@@ -2214,6 +2219,11 @@
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCIncomingSubLedger.dll</FileName>
         <FileVersion>4.2.1.0</FileVersion>
         <ProductVersion>4.2.1.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCIncomingSubLedgerV2.dll</FileName>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCIncomming.dll</FileName>
@@ -3157,8 +3167,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.InvoiceSpread.dll</FileName>
-        <FileVersion>4.2.1.0</FileVersion>
-        <ProductVersion>4.2.1.0</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.JounalVoucher.dll</FileName>
@@ -6437,8 +6447,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.521.0</FileVersion>
-        <ProductVersion>4.8.521.0</ProductVersion>
+        <FileVersion>4.8.522.0</FileVersion>
+        <ProductVersion>4.8.522.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -7137,8 +7147,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.CS.AmortizeReport.dll</FileName>
-        <FileVersion>3.1.1.0</FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.CompareActualDaily.dll</FileName>
@@ -7244,6 +7254,11 @@
         <FileName>Startup\Main\Agape.App.Report.DTCIncomingSubLedger.dll</FileName>
         <FileVersion>3.1.6.0</FileVersion>
         <ProductVersion>3.1.6.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.App.Report.DTCIncomingSubLedgerV2.dll</FileName>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.DTCInvoiceAllocation.dll</FileName>
@@ -7592,8 +7607,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.InvoiceSpread.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.6.0</FileVersion>
+        <ProductVersion>4.8.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.LandedCostHistory.dll</FileName>
@@ -9506,6 +9521,11 @@
         <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.Lib.Remote.Report.CS.AmortizeReport.dll</FileName>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.CarRegister.dll</FileName>
         <FileVersion>4.8.1.0</FileVersion>
         <ProductVersion>4.8.1.0</ProductVersion>
@@ -9584,6 +9604,11 @@
         <FileName>Startup\Main\Agape.Lib.Remote.Report.DTCIncomingSubLedger.dll</FileName>
         <FileVersion>4.2.1.0</FileVersion>
         <ProductVersion>4.2.1.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Remote.Report.DTCIncomingSubLedgerV2.dll</FileName>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.DTCInvoiceAllocation.dll</FileName>
@@ -9802,8 +9827,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.InvoiceSpread.dll</FileName>
-        <FileVersion>4.2.1.0</FileVersion>
-        <ProductVersion>4.2.1.0</ProductVersion>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.LandedCostHistory.dll</FileName>
