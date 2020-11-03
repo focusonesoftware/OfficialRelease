@@ -89,6 +89,7 @@
   <Resource Name="Icons.16x16.TextFileIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.TestRunner.Green" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_PRICEHISTORY" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_BARCODE_V2" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="C++.Project.Library" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.32x32.CombineIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.HtmlElements.InputRadioElement" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -268,7 +269,7 @@
   <Resource Name="Icons.16x16.FormsDesigner.DecreaseVerticalSpace" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.Property" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.SharpQuery.Procedure" Type="System.Drawing.Bitmap" FileName="" Value="" />
-  <Resource Name="AG_FOCUSONE_ICON" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_FOCUSONE_ICON" Type="System.Drawing.Bitmap" FileName="D:\Downloads\F1FlatLogo_Orange.png" Value="" />
   <Resource Name="Icons.16x16.FindNextIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.HtmlElements.ImageElement" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.NewFolderIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -453,5 +454,4 @@
   <Resource Name="AGToolsBar_MAIL" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AGToolsBar_SAVE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.ViewCode" Type="System.Drawing.Bitmap" FileName="" Value="" />
-  <Resource Name="AG_BUTTON_BARCODE_V2" Type="System.Drawing.Bitmap" FileName="D:\Work\Re-Design FGUI\icon จุกจิก\bar code.png" Value="" />
 </Resources>
