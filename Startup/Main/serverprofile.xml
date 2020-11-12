@@ -8,7 +8,7 @@
   </Connection>
   <Connection>
     <ApplicationID>8001</ApplicationID>
-    <ApplicationName>SLSN UAT</ApplicationName>
+    <ApplicationName>SLSN PREPRD-Test CO</ApplicationName>
     <Host>34.87.104.10</Host>
     <Port>8001</Port>
   </Connection>
