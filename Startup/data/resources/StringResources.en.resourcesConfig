@@ -2625,10 +2625,10 @@
   <Resource Name="AG.BPMASTER.COMP_C_0012.DESC" Type="System.String" FileName="" Value="Assign Customer Group to Number Range" />
   <Resource Name="AG.BPMASTER.FOLDER01_2.DESC" Type="System.String" FileName="" Value="CUSTOMER MASTER REPORTS" />
   <Resource Name="AG.BPMASTER.CREDIT_LIMIT_R_0001.DESC" Type="System.String" FileName="" Value="CREDITLIMIT-R0001 - Customer Credit Limit V2 Report" />
-  <Resource Name="AG.BPMASTER.FICUST_R_0002.DESC" Type="System.String" FileName="" Value="FICUST-R0001 - Customer Journal Report" />
-  <Resource Name="AG.BPMASTER.FICUST_R_0010.DESC" Type="System.String" FileName="" Value="FICUST-R0002 - Customer Transaction Details Report" />
-  <Resource Name="AG.BPMASTER.FICUST_R_0011.DESC" Type="System.String" FileName="" Value="FICUST-R0010 - Lead Customer Report" />
-  <Resource Name="AG.BPMASTER.FICUST_R_0001.DESC" Type="System.String" FileName="" Value="FICUST-R0011 - Customer Master Data Report" />
+  <Resource Name="AG.BPMASTER.FICUST_R_0002.DESC" Type="System.String" FileName="" Value="FICUST-R0002 - Customer Transaction Details Report" />
+  <Resource Name="AG.BPMASTER.FICUST_R_0010.DESC" Type="System.String" FileName="" Value="FICUST-R0010 - Lead Customer Report" />
+  <Resource Name="AG.BPMASTER.FICUST_R_0011.DESC" Type="System.String" FileName="" Value="FICUST-R0011 - Customer Master Data Report" />
+  <Resource Name="AG.BPMASTER.FICUST_R_0001.DESC" Type="System.String" FileName="" Value="FICUST-R0001 - Customer Journal Report" />
   <Resource Name="AG.BPMASTER.FOLDER02.DESC" Type="System.String" FileName="" Value="VENDOR MASTER DATA" />
   <Resource Name="AG.BPMASTER.2012_VENDOR_LITE.DESC" Type="System.String" FileName="" Value="Smart Vendor Master" />
   <Resource Name="AG.BPMASTER.EP_M_0002.DESC" Type="System.String" FileName="" Value="STD Vendor Master" />
@@ -2650,10 +2650,11 @@
   <Resource Name="AG.BPMASTER.FOLDER04.DESC" Type="System.String" FileName="" Value="EMPLOYEE MASTER DATA" />
   <Resource Name="AG.BPMASTER.HR_M_0001.DESC" Type="System.String" FileName="" Value="Employee Master" />
   <Resource Name="AG.BPMASTER.FOLDER04_1.DESC" Type="System.String" FileName="" Value="EMPLOYEE MASTER NUMBER RANGE" />
-  <Resource Name="AG.BPMASTER.2012_EMPLOYEE_0002.DESC" Type="System.String" FileName="" Value="Define Employee Group" />
-  <Resource Name="AG.BPMASTER.2012_EMPLOYEE_0001.DESC" Type="System.String" FileName="" Value="Define Employee Group Number Range" />
+  <Resource Name="AG.BPMASTER.2012_EMPLOYEE_0002.DESC" Type="System.String" FileName="" Value="Define Employee Group Number Range" />
+  <Resource Name="AG.BPMASTER.2012_EMPLOYEE_0001.DESC" Type="System.String" FileName="" Value="Define Employee Group" />
   <Resource Name="AG.BPMASTER.2012_EMPLOYEE_0003.DESC" Type="System.String" FileName="" Value="Assign Employee Group to Number Range" />
   <Resource Name="AG.BPMASTER.FOLDER04_2.DESC" Type="System.String" FileName="" Value="EMPLOYEE GENERAL DATA SETUP" />
+  <Resource Name="AG.BPMASTER.EMPL_C_0014.DESC" Type="System.String" FileName="" Value="Define Employee Position" />
   <Resource Name="AG.BPMASTER.EMPL_C_0014_sub.DESC" Type="System.String" FileName="" Value="Define Employee Sub Position" />
   <Resource Name="AG.BPMASTER.HR_M_0005.DESC" Type="System.String" FileName="" Value="Define Employee Education Level" />
   <Resource Name="AG.BPMASTER.PJ_M_0001.DESC" Type="System.String" FileName="" Value="Assign Position Mapping Project Element" />
@@ -3469,7 +3470,7 @@
   <Resource Name="AG.ADM.PC.ADMFI_C_0007.DESC" Type="System.String" FileName="" Value="Assign PC-ADV Document Type to Number Range" />
   <Resource Name="AG.ADM.PC.MILGE_C_0007.DESC" Type="System.String" FileName="" Value="Assign Reimburse Doc Type to Objective Code" />
   <Resource Name="AG.ADM.PC.MILGE_C_0008.DESC" Type="System.String" FileName="" Value="Assign Reimburse Activity to Objective Code" />
-  <Resource Name="AG.ADM.PC.MILGE_C_0009.DESC" Type="System.String" FileName="" Value="Assign Reimburse Activity Group to Objective Code" />
+  <Resource Name="AG.ADM.PC.MILGE_C_0009.DESC" Type="System.String" FileName="" Value="Define Reimburse Activity Group " />
   <Resource Name="AG.ADM.AM.FOLDER.DESC" Type="System.String" FileName="" Value="ASSET SYSTEM CONFIGURATION" />
   <Resource Name="AG.ADM.AM.AM_C_0003.DESC" Type="System.String" FileName="" Value="Define Asset Document Type" />
   <Resource Name="AG.ADM.AM.AM_C_0004.DESC" Type="System.String" FileName="" Value="Define Asset Document No Range" />
@@ -3477,7 +3478,7 @@
   <Resource Name="AG.ADM.AM.AM_C_0008.DESC" Type="System.String" FileName="" Value="Depreciation Method Calculation" />
   <Resource Name="AG.ADM.AM.AM_M_0009.DESC" Type="System.String" FileName="" Value="Define Depreciation Book Type" />
   <Resource Name="AG.ADM.AM.AM_C_0006.DESC" Type="System.String" FileName="" Value="Asset Acount Code Determination" />
-  <Resource Name="AG.ADM.AM.AM_C_0007.DESC" Type="System.String" FileName="" Value="Asset Acct Transaction Type Determination" />
+  <Resource Name="AG.ADM.AM.AM_C_0007.DESC" Type="System.String" FileName="" Value="Asset Transx Type Determination" />
   <Resource Name="AG.ADM.AM.AM_M_0005.DESC" Type="System.String" FileName="" Value="Define Asset Leasing Type" />
   <Resource Name="AG.ADM.AM.AM_C_0002.DESC" Type="System.String" FileName="" Value="Define Asset Group" />
   <Resource Name="AG.ADM.AM.AM_M_0012.DESC" Type="System.String" FileName="" Value="Define Asset Type" />
@@ -3550,7 +3551,7 @@
   <Resource Name="AG.ADM.SV.2013_MASTER_CONFIG_MASS_SV.DESC" Type="System.String" FileName="" Value="Configure Mass Service Contract" />
   <Resource Name="AG.ADM.SV.ADMSV_C_0001.DESC" Type="System.String" FileName="" Value="Define Call Type" />
   <Resource Name="AG.ADM.SV.ADMSV_C_0002.DESC" Type="System.String" FileName="" Value="Define Call Status Code" />
-  <Resource Name="AG.ADM.SV.ADMSV_C_0003.DESC" Type="System.String" FileName="" Value="Define information Source" />
+  <Resource Name="AG.ADM.SV.ADMSV_C_0003.DESC" Type="System.String" FileName="" Value="Define Information Source" />
   <Resource Name="AG.ADM.SV.ADMSV_C_0004.DESC" Type="System.String" FileName="" Value="Define Problem Type" />
   <Resource Name="AG.ADM.EQUIP.FOLDER01.DESC" Type="System.String" FileName="" Value="CUSTOMER EQUIPMENT SETUP" />
   <Resource Name="AG.ADM.EQUIP.CLM_C_0001.DESC" Type="System.String" FileName="" Value="Define Claim Document Type" />
