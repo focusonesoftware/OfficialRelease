@@ -6,4 +6,10 @@
     <Host>34.87.104.10</Host>
     <Port>6001</Port>
   </Connection>
+  <Connection>
+    <ApplicationID>8001</ApplicationID>
+    <ApplicationName>SLSN UAT</ApplicationName>
+    <Host>34.87.104.10</Host>
+    <Port>8001</Port>
+  </Connection>
 </DocumentElement>
