@@ -9,7 +9,7 @@
   <Connection>
     <ApplicationID>8001</ApplicationID>
     <ApplicationName>SLSN PREPRD-Test CO</ApplicationName>
-    <Host>34.87.104.10</Host>
+    <Host>35.247.145.172</Host>
     <Port>8001</Port>
   </Connection>
 </DocumentElement>
