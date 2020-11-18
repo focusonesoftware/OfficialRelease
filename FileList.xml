@@ -5972,8 +5972,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CO.Report.dll</FileName>
-        <FileVersion>4.8.20.0</FileVersion>
-        <ProductVersion>4.8.20.0</ProductVersion>
+        <FileVersion>4.8.21.0</FileVersion>
+        <ProductVersion>4.8.21.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CRM.ImportSaleOpportunity.dll</FileName>
@@ -6262,8 +6262,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.BankPayment.dll</FileName>
-        <FileVersion>4.8.3.0</FileVersion>
-        <ProductVersion>4.8.3.0</ProductVersion>
+        <FileVersion>4.8.4.0</FileVersion>
+        <ProductVersion>4.8.4.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.ClearCreditCard.dll</FileName>
