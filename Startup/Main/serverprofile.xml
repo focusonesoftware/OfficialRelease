@@ -3,7 +3,7 @@
   <Connection>
     <ApplicationID>6001</ApplicationID>
     <ApplicationName>SLSN UAT</ApplicationName>
-    <Host>34.87.104.10</Host>
+    <Host>35.247.145.172</Host>
     <Port>6001</Port>
   </Connection>
   <Connection>
