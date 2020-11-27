@@ -8442,8 +8442,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Base.dll</FileName>
-        <FileVersion>3.2.4.0</FileVersion>
-        <ProductVersion>3.2.4.0</ProductVersion>
+        <FileVersion>3.2.3.0</FileVersion>
+        <ProductVersion>3.2.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.CommandBar.dll</FileName>
@@ -8459,146 +8459,6 @@
         <FileName>Startup\Main\Agape.Core.dll</FileName>
         <FileVersion>4.2.1.3</FileVersion>
         <ProductVersion>4.2.1.3</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.Asset.dll</FileName>
-        <FileVersion>3.1.99.0</FileVersion>
-        <ProductVersion>3.1.99.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.CO.AccountPosting.dll</FileName>
-        <FileVersion>3.1.60.0</FileVersion>
-        <ProductVersion>3.1.60.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.CO.dll</FileName>
-        <FileVersion>3.1.37.0</FileVersion>
-        <ProductVersion>3.1.37.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.CS.ContractToPayment.dll</FileName>
-        <FileVersion>3.1.0.15</FileVersion>
-        <ProductVersion>3.1.0.15</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.CS.PrintBilling.dll</FileName>
-        <FileVersion>3.1.11.0</FileVersion>
-        <ProductVersion>3.1.11.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.CS.ServiceOrder.dll</FileName>
-        <FileVersion>3.1.65.0</FileVersion>
-        <ProductVersion>3.1.65.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.CS.dll</FileName>
-        <FileVersion>3.1.145.0</FileVersion>
-        <ProductVersion>3.1.145.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.Conf.dll</FileName>
-        <FileVersion>3.1.59.0</FileVersion>
-        <ProductVersion>3.1.59.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.CostAllocationEngine.dll</FileName>
-        <FileVersion>3.1.21.0</FileVersion>
-        <ProductVersion>3.1.21.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.DTCBarcode.dll</FileName>
-        <FileVersion>3.1.62.0</FileVersion>
-        <ProductVersion>3.1.62.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.FI.AP.PN.dll</FileName>
-        <FileVersion>3.1.13.0</FileVersion>
-        <ProductVersion>3.1.13.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.FI.AR.dll</FileName>
-        <FileVersion>3.1.65.0</FileVersion>
-        <ProductVersion>3.1.65.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.FI.AccountPosting.dll</FileName>
-        <FileVersion>3.1.43.0</FileVersion>
-        <ProductVersion>3.1.43.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.FI.ChequeManagementLibrary.dll</FileName>
-        <FileVersion>3.1.37.0</FileVersion>
-        <ProductVersion>3.1.37.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.FI.Collection.dll</FileName>
-        <FileVersion>3.1.156.0</FileVersion>
-        <ProductVersion>3.1.156.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.FI.PostingService.dll</FileName>
-        <FileVersion>3.1.52.0</FileVersion>
-        <ProductVersion>3.1.52.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.FI.Report.dll</FileName>
-        <FileVersion>3.1.80.0</FileVersion>
-        <ProductVersion>3.1.80.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.FI.TrialBalanceReport.dll</FileName>
-        <FileVersion>3.1.2.0</FileVersion>
-        <ProductVersion>3.1.2.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.FI.dll</FileName>
-        <FileVersion>3.1.51.0</FileVersion>
-        <ProductVersion>3.1.51.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.MM.Serial.dll</FileName>
-        <FileVersion>3.1.0.4</FileVersion>
-        <ProductVersion>3.1.0.4</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.MM.WMS.dll</FileName>
-        <FileVersion>3.1.43.0</FileVersion>
-        <ProductVersion>3.1.43.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.MM.dll</FileName>
-        <FileVersion>3.1.415.0</FileVersion>
-        <ProductVersion>3.1.415.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.PP.Costsheet.dll</FileName>
-        <FileVersion>3.1.6.0</FileVersion>
-        <ProductVersion>3.1.6.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.PP.DyeOrder.dll</FileName>
-        <FileVersion>3.1.21.0</FileVersion>
-        <ProductVersion>3.1.21.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.PP.ProductionJobOrder.dll</FileName>
-        <FileVersion>3.1.0.134</FileVersion>
-        <ProductVersion>3.1.0.134</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.PP.ProductionOrder.dll</FileName>
-        <FileVersion>3.1.68.0</FileVersion>
-        <ProductVersion>3.1.68.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.PP.UploadHRActualTime.dll</FileName>
-        <FileVersion>3.1.2.0</FileVersion>
-        <ProductVersion>3.1.2.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Lib.PP.dll</FileName>
-        <FileVersion>3.1.0.189</FileVersion>
-        <ProductVersion>3.1.0.189</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.AUD.DLL</FileName>
@@ -10602,8 +10462,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Misc.dll</FileName>
-        <FileVersion>3.2.6.0</FileVersion>
-        <ProductVersion>3.2.6.0</ProductVersion>
+        <FileVersion>3.2.5.0</FileVersion>
+        <ProductVersion>3.2.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Search.Catalog.DLL</FileName>
@@ -10627,8 +10487,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>3.2.31.0</FileVersion>
-        <ProductVersion>3.2.31.0</ProductVersion>
+        <FileVersion>3.2.23.0</FileVersion>
+        <ProductVersion>3.2.23.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
