@@ -5867,8 +5867,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CO.DLL</FileName>
-        <FileVersion>3.1.41.0</FileVersion>
-        <ProductVersion>3.1.41.0</ProductVersion>
+        <FileVersion>3.1.42.0</FileVersion>
+        <ProductVersion>3.1.42.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CO.Report.dll</FileName>
@@ -6062,8 +6062,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.63.0</FileVersion>
-        <ProductVersion>3.2.63.0</ProductVersion>
+        <FileVersion>3.2.64.0</FileVersion>
+        <ProductVersion>3.2.64.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -10364,11 +10364,6 @@
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
         <FileVersion>3.2.23.0</FileVersion>
         <ProductVersion>3.2.23.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Util.DLL.bak</FileName>
-        <FileVersion>3.1.47.0</FileVersion>
-        <ProductVersion>3.1.47.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
