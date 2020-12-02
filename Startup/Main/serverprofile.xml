@@ -6,4 +6,10 @@
     <Host>34.87.104.10</Host>
     <Port>9001</Port>
   </Connection>
+  <Connection>
+    <ApplicationID>9003</ApplicationID>
+    <ApplicationName>SLSN PRD(Urgent System)</ApplicationName>
+    <Host>34.87.104.10</Host>
+    <Port>9003</Port>
+  </Connection>
 </DocumentElement>
