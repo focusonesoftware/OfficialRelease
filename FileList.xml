@@ -6092,8 +6092,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.AR.Statement.dll</FileName>
-        <FileVersion>3.1.21.0</FileVersion>
-        <ProductVersion>3.1.21.0</ProductVersion>
+        <FileVersion>3.1.22.0</FileVersion>
+        <ProductVersion>3.1.22.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.ARInterface.dll</FileName>
@@ -6297,8 +6297,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.527.0</FileVersion>
-        <ProductVersion>3.1.527.0</ProductVersion>
+        <FileVersion>3.1.532.0</FileVersion>
+        <ProductVersion>3.1.532.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
