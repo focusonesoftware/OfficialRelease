@@ -3,7 +3,7 @@
   <Connection>
     <ApplicationID>9010</ApplicationID>
     <ApplicationName>TST TEST</ApplicationName>
-    <Host>203.154.41.15</Host>
+    <Host>203.154.41.30</Host>
     <Port>9010</Port>
   </Connection>
 </DocumentElement>
