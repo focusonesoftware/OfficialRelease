@@ -3,7 +3,7 @@
   <Connection>
     <ApplicationID>9011</ApplicationID>
     <ApplicationName>TST PRD</ApplicationName>
-    <Host>203.154.41.15</Host>
+    <Host>203.154.41.30</Host>
     <Port>9011</Port>
   </Connection>
 </DocumentElement>
