@@ -269,7 +269,7 @@
   <Resource Name="Icons.16x16.FormsDesigner.DecreaseVerticalSpace" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.Property" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.SharpQuery.Procedure" Type="System.Drawing.Bitmap" FileName="" Value="" />
-  <Resource Name="AG_FOCUSONE_ICON" Type="System.Drawing.Bitmap" FileName="D:\Downloads\F1FlatLogo_Orange.png" Value="" />
+  <Resource Name="AG_FOCUSONE_ICON" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FindNextIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.HtmlElements.ImageElement" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.NewFolderIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -454,4 +454,5 @@
   <Resource Name="AGToolsBar_MAIL" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AGToolsBar_SAVE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.ViewCode" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_SEARCH_DISABLE" Type="System.Drawing.Bitmap" FileName="D:\Downloads\SEARCH (1).jpg" Value="" />
 </Resources>
