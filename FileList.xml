@@ -5812,8 +5812,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.dll</FileName>
-        <FileVersion>3.1.80.0</FileVersion>
-        <ProductVersion>3.1.80.0</ProductVersion>
+        <FileVersion>3.1.86.0</FileVersion>
+        <ProductVersion>3.1.86.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Budget.Report.dll</FileName>
@@ -6027,8 +6027,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.68.0</FileVersion>
-        <ProductVersion>3.2.68.0</ProductVersion>
+        <FileVersion>3.2.69.0</FileVersion>
+        <ProductVersion>3.2.69.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -6317,8 +6317,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.HR.dll</FileName>
-        <FileVersion>3.1.25.0</FileVersion>
-        <ProductVersion>3.1.25.0</ProductVersion>
+        <FileVersion>3.1.26.0</FileVersion>
+        <ProductVersion>3.1.26.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.IAMMargin.dll</FileName>
@@ -6532,8 +6532,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Inventory.Movement.Asset.dll</FileName>
-        <FileVersion>3.1.46.0</FileVersion>
-        <ProductVersion>3.1.46.0</ProductVersion>
+        <FileVersion>3.1.47.0</FileVersion>
+        <ProductVersion>3.1.47.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Inventory.Report.dll</FileName>
@@ -6702,13 +6702,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>3.1.384.0</FileVersion>
-        <ProductVersion>3.1.384.0</ProductVersion>
+        <FileVersion>3.1.386.0</FileVersion>
+        <ProductVersion>3.1.386.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
-        <FileVersion>3.3.9.0</FileVersion>
-        <ProductVersion>3.3.9.0</ProductVersion>
+        <FileVersion>3.3.11.0</FileVersion>
+        <ProductVersion>3.3.11.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.MappingBatch.dll</FileName>
