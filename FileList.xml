@@ -7462,8 +7462,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.IncomingSubLedger.dll</FileName>
-        <FileVersion>3.1.4.0</FileVersion>
-        <ProductVersion>3.1.4.0</ProductVersion>
+        <FileVersion>3.1.6.0</FileVersion>
+        <ProductVersion>3.1.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.InventoryInvoiceMonthly.dll</FileName>
@@ -7617,8 +7617,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.OutgoingSubLedger.dll</FileName>
-        <FileVersion>3.1.0.5</FileVersion>
-        <ProductVersion>3.1.0.5</ProductVersion>
+        <FileVersion>3.1.6.0</FileVersion>
+        <ProductVersion>3.1.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.OutgoingSubLedgerV2.dll</FileName>
@@ -12207,8 +12207,8 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\INETIncommingTaxReport53Summary.rpt</FileName>
-        <FileVersion>2020.12.02.01</FileVersion>
-        <ProductVersion>2020.12.02.01</ProductVersion>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\ReportFile\INETJVIncommingTaxReport53Summary.rpt</FileName>
