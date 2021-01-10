@@ -396,6 +396,7 @@
   <Resource Name="Icons.16x16.SharpQuery.Column" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.ClosedReferenceFolder" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.SmallIconsIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_SEARCH_DISABLE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.HtmlElements.SelectElement" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_FOLDER" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_CALCULATE" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -454,5 +455,16 @@
   <Resource Name="AGToolsBar_MAIL" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AGToolsBar_SAVE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.ViewCode" Type="System.Drawing.Bitmap" FileName="" Value="" />
-  <Resource Name="AG_BUTTON_SEARCH_DISABLE" Type="System.Drawing.Bitmap" FileName="D:\Downloads\SEARCH (1).jpg" Value="" />
+  <Resource Name="AG_BUTTON_ADDBP" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Smart Customer Master\Add BP.png" Value="" />
+  <Resource Name="AG_BUTTON_CONTACT" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Smart Customer Master\Contact.png" Value="" />
+  <Resource Name="AG_BUTTON_NOTE" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Smart Customer Master\Note.png" Value="" />
+  <Resource Name="AG_BUTTON_TASK" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Smart Customer Master\Task.png" Value="" />
+  <Resource Name="AG_BUTTON_METTING" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Smart Customer Master\meeting.png" Value="" />
+  <Resource Name="AG_BUTTON_CONTACT_PERSON" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Smart Customer Master\Contact Person.png" Value="" />
+  <Resource Name="AG_BUTTON_ADDRESS" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Smart Customer Master\Address.png" Value="" />
+  <Resource Name="AG_BUTTON_ACCOUNTING" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Smart Customer Master\Accounting.png" Value="" />
+  <Resource Name="AG_BUTTON_PROPERTIES" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Smart Customer Master\Properties.png" Value="" />
+  <Resource Name="AG_BUTTON_SALE" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Smart Customer Master\Sale.png" Value="" />
+  <Resource Name="AG_BUTTON_PRICE_LIST" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Smart Customer Master\PriceList PriceGroup.png" Value="" />
+  <Resource Name="AG_BUTTON_BRANCH" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Smart Customer Master\Branch.png" Value="" />
 </Resources>
