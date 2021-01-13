@@ -11,16 +11,19 @@
   <Resource Name="Icons.24x24.Folder.Orange" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Java.File.Form" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.Question" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_ADD_RACK_BIN" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.SaveAllIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="SME_BUTTON_BASKET" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Java.Project.FullProject" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.TestRunner" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.OpenReferenceFolder" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="SME_BUTTON_ZOOM_OUT" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_COPY_HISTORY" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.smERPLogo" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.MiscFiles" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_IMPORT" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.PrivateStruct" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_CREDITLIMIT" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="VB.File.FullFile" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_COA_SUPPENSED" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.InternalMethod" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -28,17 +31,20 @@
   <Resource Name="Icons.16x16.ProtectedProperty" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.AGTextFileIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="C#.Project.FullProject" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_CANCEL_SIMULATE_SALE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.RemoveHorizontalSpace" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="VB.File.NewClass" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.HtmlElements.FieldSetElement" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_METTING" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.TestRunner.Red" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_ICON_PERSON" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_WAIT_RETURN" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Java.File.NewClass" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.ClosedResourceFolder" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.32x32.Question" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.UMLClass" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="VB.ProjectIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_WAREHOUSE_DATA" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="VB.Project.DOSProject" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.24x24.Folder.Cyan" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.IncreaseVerticalSpace" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -86,9 +92,11 @@
   <Resource Name="Icons.ClassBrowserIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="VB.Project.UserControl" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.HtmlElements.SpanElement" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_ATTACHMENT" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="C#.ProjectIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.TextFileIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.TestRunner.Green" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_MATERIAL_CLASSIFY" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_PRICEHISTORY" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_BARCODE_V2" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="C++.Project.Library" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -101,6 +109,8 @@
   <Resource Name="SME_BUTTON_SEARCH_G" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="JScript.Project.Library" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.BoldText" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_CONFIRM_RECEIVE_DEMO" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_CONFIRM_RECEIVE_RENT" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="C#.File.Form" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.32x32.EmptyProjectIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.OutDent" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -146,12 +156,14 @@
   <Resource Name="Icons.16x16.Interface" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.PropertiesIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="C++.Project.EmptyProject" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_SCHEDULE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.SharpQuery.View" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.InternalProperty" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="VB.File.Form" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Java.Project.DOSProject" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.ProtectedDelegate" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.UnderlineText" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_CLAIM_PRODUCT" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.Debug.Start" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.Debug.Break" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="VB.Project.Form" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -203,8 +215,10 @@
   <Resource Name="AG_COA_CONVERTION" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.32x32.ResourceFileIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_CALCULATOR" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_PRICING" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.MakeSameWidth" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.PrevWindowIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_SIMULATE_SALE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="SME_BUTTON_SALEORDER_BLUE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="SME_BUTTON_SALEORDER_GREY" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Java.Project.WebProject" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -229,10 +243,11 @@
   <Resource Name="Icons.16x16.AdjustColor" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_BARCODE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AGToolsBar_USERINFO" Type="System.Drawing.Bitmap" FileName="" Value="" />
-  <Resource Name="AG_BUTTON_EXECUTE" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Financial Management System\Genetate.png" Value="" />
+  <Resource Name="AG_BUTTON_EXECUTE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.SharpQuery.Refresh" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AGToolsBar_ATTACH" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.ClearAllBookmarks" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_WORK_FLOW" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="JScript.Project.FullProject" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="testCompanyCode" Type="System.String" FileName="" Value="การกำหนดรหัสบริษัท" />
   <Resource Name="Icons.16x16.TipOfTheDay" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -247,9 +262,12 @@
   <Resource Name="Icons.16x16.UMLImplementation" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="SME_BUTTON_PROFILE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_TASK" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_TEXT" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_SALE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_SAVE" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_DEMO" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_COPY" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_BANK" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_NOTE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_LOAD" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.SharpQuery.Table" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -257,10 +275,12 @@
   <Resource Name="Icons.16x16.PrivateField" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.PrivateEvent" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.UndoIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_MRP_DATA" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.AlignLefts" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.EqualizeHorizontalSpace" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.SuperTypes" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.HelpIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_DOCUMENT_FLOW" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.ProjectScoutIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.SelectionArrow" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="GeneralWizardBackground" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -270,6 +290,7 @@
   <Resource Name="C++.Project.FullProject" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.Assembly" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AGToolsBar_ArrowLEFT" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_BILLING" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.HelpOpenFolder" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.24x24.Expand.Right" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.DecreaseVerticalSpace" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -312,18 +333,21 @@
   <Resource Name="AG_COA_LIABILITY" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.Reference" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.32x32.Information" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_CUSTOMER_MASTER" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_CONTACT_PERSON" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.DefineCompanyCode.Description" Type="System.String" FileName="" Value="การกำหนดรหัสบริษัท" />
   <Resource Name="Icons.16x16.ResourceEditor.cursor" Type="System.Drawing.Icon" FileName="" Value="" />
   <Resource Name="AG_BUTTON_UNMAP" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_GRAPH" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_ADDBP" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_SALE_DATA" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.ResourceFileIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.StopProcess" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.OutputIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.SharpQuery.NodeError" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="C++.FileIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.CopyLeftIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_UPDATE_PRICE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.NewProjectIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.OpenFileIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.UMLStructure" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -347,13 +371,18 @@
   <Resource Name="AG_BUTTON_SEARCH" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_SAVEAS" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_COA_CAPITALS_AND_INVESTMENT" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_UOM_CONVERSION" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_STATUS" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="JScript.File.WebFile" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_REJECT" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_REPAIR" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_OK" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.HtmlElements.InputCheckBoxElement" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_COA_EXPENSE" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_CATALOG_HIERARCHY" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.HelpClosedFolder" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.BrowserAfter" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_DISPLAY_CAMPAIGN" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.HtmlElements.InputButtonElement" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.SharpQuery.ViewsRoot" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.SharpDevelopIcon" Type="System.Drawing.Icon" FileName="" Value="" />
@@ -380,9 +409,11 @@
   <Resource Name="Icons.16x16.SharpQuery.DataBaseRoot" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.ResourceEditor.string" Type="System.Drawing.Icon" FileName="" Value="" />
   <Resource Name="Icons.16x16.PersonalFiles" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_SERIAL_BATCH" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.TestRunner.Yellow" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="JScript.ProjectIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.32x32.ASPFileIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_ACCOUNT" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.PrivateMethod" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_RELATION" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.InternalClass" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -396,6 +427,7 @@
   <Resource Name="Icons.16x16.FormsDesigner.MakeSameHeight" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_COA_ASSET" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="C++.File.FullFile" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_ADDITIONAL" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.HTMLIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.AlignMiddles" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.32x32.TextFileIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -403,6 +435,7 @@
   <Resource Name="SME_BUTTON_DEPOSIT_BLUE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.TipOfTheDayIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.ItalicText" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_ORDER_DATA" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.SharpQuery.Column" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.ClosedReferenceFolder" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.SmallIconsIcon" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -416,6 +449,7 @@
   <Resource Name="Icons.16x16.PrivateInterface" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="C++.Project.Form" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FLOPPY" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_DETAILS" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.Library" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.Literal" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_DELETE" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -436,9 +470,11 @@
   <Resource Name="Icons.16x16.HtmlElements.InputPasswordElement" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.ReplaceInFiles" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.SizeToGrid" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_WAIT_TO_REPAIR" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.AGClosedFolder" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.Center" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.GotoNextbookmark" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_PURCHASEING_DATA" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.AlignCenters" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_DISPLAY" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="C#.File.WebFile" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -467,39 +503,5 @@
   <Resource Name="AGToolsBar_MAIL" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AGToolsBar_SAVE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.ViewCode" Type="System.Drawing.Bitmap" FileName="" Value="" />
-  <Resource Name="AG_BUTTON_BANK" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Bank.png" Value="" />
-  <Resource Name="AG_BUTTON_CREDITLIMIT" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Credit Limit.png" Value="" />
-  <Resource Name="AG_BUTTON_COPY_HISTORY" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Copy History.png" Value="" />
-  <Resource Name="AG_BUTTON_ATTACHMENT" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Easy UI Material Master\Attachment.png" Value="" />
-  <Resource Name="AG_BUTTON_WAREHOUSE_DATA" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Easy UI Material Master\Warehouse Data.png" Value="" />
-  <Resource Name="AG_BUTTON_MATERIAL_CLASSIFY" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Easy UI Material Master\Materail Classification.png" Value="" />
-  <Resource Name="AG_BUTTON_PURCHASEING_DATA" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Easy UI Material Master\Purchasing Data.png" Value="" />
-  <Resource Name="AG_BUTTON_SALE_DATA" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Easy UI Material Master\Sale Data.png" Value="" />
-  <Resource Name="AG_BUTTON_MRP_DATA" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Easy UI Material Master\MRP data.png" Value="" />
-  <Resource Name="AG_BUTTON_DETAILS" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Easy UI Material Master\Details.png" Value="" />
-  <Resource Name="AG_BUTTON_SERIAL_BATCH" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Easy UI Material Master\Serial and Batch.png" Value="" />
-  <Resource Name="AG_BUTTON_UOM_CONVERSION" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Easy UI Material Master\UOM conversion.png" Value="" />
-  <Resource Name="AG_BUTTON_CATALOG_HIERARCHY" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Easy UI Material Master\Catalog Hierarchy.png" Value="" />
-  <Resource Name="AG_BUTTON_WAIT_RETURN" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Cancel Asset Rent\Wait Return.png" Value="" />
-  <Resource Name="AG_BUTTON_DEMO" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Cancel Asset Rent\DEMO.png" Value="" />
-  <Resource Name="AG_BUTTON_REPAIR" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Cancel Asset Rent\Repair.png" Value="" />
-  <Resource Name="AG_BUTTON_CONFIRM_RECEIVE_RENT" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Cancel Asset Rent\Confirm Receive Rent.png" Value="" />
-  <Resource Name="AG_BUTTON_CONFIRM_RECEIVE_DEMO" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Cancel Asset Rent\Confirm Receive DEMO.png" Value="" />
-  <Resource Name="AG_BUTTON_ACCOUNT" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Cancel Asset Rent\Account.png" Value="" />
-  <Resource Name="AG_BUTTON_WAIT_TO_REPAIR" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Cancel Asset Rent\Wait to Repair.png" Value="" />
-  <Resource Name="AG_BUTTON_CLAIM_PRODUCT" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Cancel Asset Rent\Claim Product.png" Value="" />
-  <Resource Name="AG_BUTTON_ADDITIONAL" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Sales Quotation\Additional.png" Value="" />
-  <Resource Name="AG_BUTTON_BILLING" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Sales Quotation\Billing.png" Value="" />
-  <Resource Name="AG_BUTTON_CUSTOMER_MASTER" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Sales Quotation\Customer Master.png" Value="" />
-  <Resource Name="AG_BUTTON_DISPLAY_CAMPAIGN" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Sales Quotation\Display Campaign.png" Value="" />
-  <Resource Name="AG_BUTTON_DOCUMENT_FLOW" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Sales Quotation\Document flow.png" Value="" />
-  <Resource Name="AG_BUTTON_ORDER_DATA" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Sales Quotation\Oder Data.png" Value="" />
-  <Resource Name="AG_BUTTON_PRICING" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Sales Quotation\Pricing.png" Value="" />
-  <Resource Name="AG_BUTTON_SCHEDULE" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Sales Quotation\Schedule.png" Value="" />
-  <Resource Name="AG_BUTTON_STATUS" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Sales Quotation\Status.png" Value="" />
-  <Resource Name="AG_BUTTON_TEXT" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Sales Quotation\Text.png" Value="" />
-  <Resource Name="AG_BUTTON_UPDATE_PRICE" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Sales Quotation\Update price.png" Value="" />
-  <Resource Name="AG_BUTTON_WORK_FLOW" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Sales Quotation\Workflow.png" Value="" />
-  <Resource Name="AG_BUTTON_SIMULATE_SALE" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Sales Quotation\จำลองการส่งเสริมการขาย.png" Value="" />
-  <Resource Name="AG_BUTTON_CANCEL_SIMULATE_SALE" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Sales Quotation\ยกเลิกจำลองการส่งเสริมการขาย.png" Value="" />
+  <Resource Name="AG_BUTTON_ADD_STORAGE" Type="System.Drawing.Bitmap" FileName="D:\Work\Re-Design FGUI\Add Storage.png" Value="" />
 </Resources>
