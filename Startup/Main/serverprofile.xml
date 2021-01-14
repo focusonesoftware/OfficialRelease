@@ -12,4 +12,16 @@
     <Host>203.154.41.15</Host>
     <Port>9009</Port>
   </Connection>
+  <Connection>
+    <ApplicationID>9010</ApplicationID>
+    <ApplicationName>9010</ApplicationName>
+    <Host>203.154.41.15</Host>
+    <Port>9010</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>9011</ApplicationID>
+    <ApplicationName>9011 STD</ApplicationName>
+    <Host>203.154.41.15</Host>
+    <Port>9011</Port>
+  </Connection>
 </DocumentElement>
