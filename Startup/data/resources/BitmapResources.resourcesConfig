@@ -137,6 +137,7 @@
   <Resource Name="Icons.16x16.SharpQuery.DatabaseConnection" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.ProtectedEvent" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.ProtectedField" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_ADD_STORAGE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="JScript.Project.DOSProject" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Java.Project.ServiceProject" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_COA_OTHERS" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -503,5 +504,19 @@
   <Resource Name="AGToolsBar_MAIL" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AGToolsBar_SAVE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.ViewCode" Type="System.Drawing.Bitmap" FileName="" Value="" />
-  <Resource Name="AG_BUTTON_ADD_STORAGE" Type="System.Drawing.Bitmap" FileName="D:\Work\Re-Design FGUI\Add Storage.png" Value="" />
+  <Resource Name="AG_BUTTON_MAPPING_FORM_LOG" Type="System.Drawing.Bitmap" FileName="D:\Work\Re-Design FGUI\icon\1. Define PC-ADV Document Type\Mapping form Log.png" Value="" />
+  <Resource Name="AG_BUTTON_REPORT_MAPPING_FORM" Type="System.Drawing.Bitmap" FileName="D:\Work\Re-Design FGUI\icon\1. Define PC-ADV Document Type\Report Mapping Form.png" Value="" />
+  <Resource Name="AG_BUTTON_CONSOLIDATED" Type="System.Drawing.Bitmap" FileName="D:\Work\Re-Design FGUI\icon\3. Outgoing Posting All Entries\consolidated.png" Value="" />
+  <Resource Name="AG_BUTTON_PORTING" Type="System.Drawing.Bitmap" FileName="D:\Work\Re-Design FGUI\icon\3. Outgoing Posting All Entries\porting.png" Value="" />
+  <Resource Name="AG_BUTTON_SPECIAL_ITEM" Type="System.Drawing.Bitmap" FileName="D:\Work\Re-Design FGUI\icon\3. Outgoing Posting All Entries\Special Item.png" Value="" />
+  <Resource Name="AG_BUTTON_VENDOR_MASTER" Type="System.Drawing.Bitmap" FileName="D:\Work\Re-Design FGUI\icon\3. Outgoing Posting All Entries\Vendor Master.png" Value="" />
+  <Resource Name="AG_BUTTON_ADD_COST_CENTER" Type="System.Drawing.Bitmap" FileName="D:\Work\Re-Design FGUI\icon\5. Define Cost Center\Add Cost Center.png" Value="" />
+  <Resource Name="AG_BUTTON_ADD_PARENT_COST_CENTER" Type="System.Drawing.Bitmap" FileName="D:\Work\Re-Design FGUI\icon\5. Define Cost Center\Add Parent Cost Center.png" Value="" />
+  <Resource Name="AG_BUTTON_BOUNCED_CHECK" Type="System.Drawing.Bitmap" FileName="D:\Work\Re-Design FGUI\icon\6. AR - PDC Check Encashment\เช็คเด้ง.png" Value="" />
+  <Resource Name="AG_BUTTON_CLEAR_BOUNCED_CHECK" Type="System.Drawing.Bitmap" FileName="D:\Work\Re-Design FGUI\icon\6. AR - PDC Check Encashment\เคลียร์เช็คเด้ง (นำฝากธนาคาร).png" Value="" />
+  <Resource Name="AG_BUTTON_OPEN_CATALOG" Type="System.Drawing.Bitmap" FileName="D:\Work\Re-Design FGUI\icon\8. Landed Cost (PO)\Open Catalog.png" Value="" />
+  <Resource Name="AG_BUTTON_RAW_MATERIAL_OUT" Type="System.Drawing.Bitmap" FileName="D:\Work\Re-Design FGUI\icon\9. Purchase Order Outsourcing\Raw Material Out.png" Value="" />
+  <Resource Name="AG_BUTTON_BASED_AMOUNT_ADJUSTMENT" Type="System.Drawing.Bitmap" FileName="D:\Work\Re-Design FGUI\icon\9. Purchase Order Outsourcing\Based Amount Adjustment.png" Value="" />
+  <Resource Name="AG_BUTTON_FG_MATERIALS_IN" Type="System.Drawing.Bitmap" FileName="D:\Work\Re-Design FGUI\icon\9. Purchase Order Outsourcing\FG  Materials In.png" Value="" />
+  <Resource Name="AG_BUTTON_VAT_AMOUNT_ADJUSTMENT" Type="System.Drawing.Bitmap" FileName="D:\Work\Re-Design FGUI\icon\9. Purchase Order Outsourcing\VAT Amount Adjustment.png" Value="" />
 </Resources>
