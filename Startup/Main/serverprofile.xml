@@ -24,4 +24,10 @@
     <Host>203.154.41.15</Host>
     <Port>9011</Port>
   </Connection>
+  <Connection>
+    <ApplicationID>8100</ApplicationID>
+    <ApplicationName>Agape 8100</ApplicationName>
+    <Host>35.198.198.10</Host>
+    <Port>8100</Port>
+  </Connection>
 </DocumentElement>
