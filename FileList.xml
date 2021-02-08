@@ -12333,7 +12333,7 @@
     <Description>
         <FileName>Startup\Main\serverprofile.xml</FileName>
         <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
+        <ProductVersion>21.02.08</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\vslangproj.olb</FileName>

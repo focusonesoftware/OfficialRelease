@@ -1,15 +1,9 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
   <Connection>
-    <ApplicationID>6001</ApplicationID>
-    <ApplicationName>SLSN UAT</ApplicationName>
-    <Host>35.247.145.172</Host>
-    <Port>6001</Port>
-  </Connection>
-  <Connection>
-    <ApplicationID>8001</ApplicationID>
-    <ApplicationName>SLSN PREPRD-Test CO</ApplicationName>
-    <Host>35.247.145.172</Host>
-    <Port>8001</Port>
+    <ApplicationID>9011</ApplicationID>
+    <ApplicationName>SLTS PRD</ApplicationName>
+    <Host>34.87.104.10</Host>
+    <Port>9011</Port>
   </Connection>
 </DocumentElement>
