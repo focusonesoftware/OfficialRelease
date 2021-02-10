@@ -10212,8 +10212,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>3.2.30.0</FileVersion>
-        <ProductVersion>3.2.30.0</ProductVersion>
+        <FileVersion>3.2.56.0</FileVersion>
+        <ProductVersion>3.2.56.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL.bak</FileName>
@@ -12464,11 +12464,6 @@
         <FileName>Startup\data\resources\BitmapResources.resourcesConfig</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\data\resources\ResourceEditor.exe</FileName>
-        <FileVersion>1.0.1046.26375</FileVersion>
-        <ProductVersion>1.0.1046.26375</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\data\resources\StringResources.en.resources</FileName>
