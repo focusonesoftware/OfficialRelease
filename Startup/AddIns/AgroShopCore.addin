@@ -263,6 +263,14 @@
 			    icon    = "AGToolsBar_Print" 
 			    tooltip = "Print"
 			    class   = "Agape.AgroShop.Commands.AboutAgroShop"/>
+	<ToolbarItem id = "LEFT" 
+			    icon    = "AGToolsBar_LEFT" 
+			    tooltip = "Left"
+			    class   = "Agape.AgroShop.Commands.AboutAgroShop"/>   
+	<ToolbarItem id = "RIGHT" 
+			   icon    = "AGToolsBar_RIGHT" 
+			   tooltip = "Right"
+			   class   = "Agape.AgroShop.Commands.AboutAgroShop"/>
 	<ToolbarItem id = "USERINFO" 
 			    icon    = "AGToolsBar_USERINFO" 
 			    tooltip = "User Information"
@@ -283,16 +291,6 @@
 			    icon    = "AGToolsBar_LOGOFF" 
 			    tooltip = "Log Off"
 			    class   = "Agape.AgroShop.Commands.AboutAgroShop"/>					   
-	<!--<ToolbarItem id = "LEFT" 
-			    icon    = "AGToolsBar_LEFT" 
-			    tooltip = "Left"
-			    class   = "Agape.AgroShop.Commands.AboutAgroShop"/>
--->					   
-	<!--<ToolbarItem id = "RIGHT" 
-			   icon    = "AGToolsBar_RIGHT" 
-			   tooltip = "Right"
-			   class   = "Agape.AgroShop.Commands.AboutAgroShop"/>
--->
 	</ToolbarItem>
 	</Extension>
 	<Extension path = "/AgroShop/Workbench/OpenFileTab/ContextMenu">
