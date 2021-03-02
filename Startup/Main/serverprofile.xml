@@ -3,13 +3,13 @@
   <Connection>
     <ApplicationID>5001</ApplicationID>
     <ApplicationName>TTE TEST</ApplicationName>
-    <Host>192.168.1.96</Host>
+    <Host>192.168.1.20</Host>
     <Port>5001</Port>
   </Connection>
   <Connection>
     <ApplicationID>5002</ApplicationID>
     <ApplicationName>ANT TEST</ApplicationName>
-    <Host>192.168.1.96</Host>
+    <Host>192.168.1.20</Host>
     <Port>5002</Port>
   </Connection>
 </DocumentElement>
