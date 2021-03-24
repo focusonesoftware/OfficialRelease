@@ -6022,8 +6022,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.dll</FileName>
-        <FileVersion>3.1.85.0</FileVersion>
-        <ProductVersion>3.1.85.0</ProductVersion>
+        <FileVersion>3.1.92.0</FileVersion>
+        <ProductVersion>3.1.92.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Budget.Report.dll</FileName>
@@ -6512,8 +6512,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.553.0</FileVersion>
-        <ProductVersion>3.1.553.0</ProductVersion>
+        <FileVersion>3.1.555.0</FileVersion>
+        <ProductVersion>3.1.555.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -6927,8 +6927,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>3.1.391.0</FileVersion>
-        <ProductVersion>3.1.391.0</ProductVersion>
+        <FileVersion>3.1.392.0</FileVersion>
+        <ProductVersion>3.1.392.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
