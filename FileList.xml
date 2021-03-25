@@ -5997,8 +5997,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DLL</FileName>
-        <FileVersion>4.8.86.0</FileVersion>
-        <ProductVersion>4.8.86.0</ProductVersion>
+        <FileVersion>4.8.92.0</FileVersion>
+        <ProductVersion>4.8.92.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DTCUpdateAccountAgent.dll</FileName>
@@ -6922,8 +6922,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>4.8.390.0</FileVersion>
-        <ProductVersion>4.8.390.0</ProductVersion>
+        <FileVersion>4.8.392.0</FileVersion>
+        <ProductVersion>4.8.392.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
