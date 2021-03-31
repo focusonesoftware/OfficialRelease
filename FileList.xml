@@ -457,8 +457,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Collection.dll</FileName>
-        <FileVersion>3.1.26.0</FileVersion>
-        <ProductVersion>3.1.26.0</ProductVersion>
+        <FileVersion>3.1.27.0</FileVersion>
+        <ProductVersion>3.1.27.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.CreditorsMovementReport.dll</FileName>
@@ -542,8 +542,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Payment.dll</FileName>
-        <FileVersion>3.1.16.0</FileVersion>
-        <ProductVersion>3.1.16.0</ProductVersion>
+        <FileVersion>3.1.17.0</FileVersion>
+        <ProductVersion>3.1.17.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.PaymentMethod.DLL</FileName>
@@ -1237,8 +1237,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.WMS.dll</FileName>
-        <FileVersion>3.1.27.0</FileVersion>
-        <ProductVersion>3.1.27.0</ProductVersion>
+        <FileVersion>3.1.28.0</FileVersion>
+        <ProductVersion>3.1.28.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Material.MappingBatch.dll</FileName>
@@ -6297,8 +6297,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MaintainWht.dll</FileName>
-        <FileVersion>3.1.14.0</FileVersion>
-        <ProductVersion>3.1.14.0</ProductVersion>
+        <FileVersion>3.1.15.0</FileVersion>
+        <ProductVersion>3.1.15.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MapAdditionalGL.dll</FileName>
@@ -6317,8 +6317,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.PostWithClearing.dll</FileName>
-        <FileVersion>3.1.12.0</FileVersion>
-        <ProductVersion>3.1.12.0</ProductVersion>
+        <FileVersion>3.1.13.0</FileVersion>
+        <ProductVersion>3.1.13.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Reconcile.Incoming.dll</FileName>
@@ -7017,8 +7017,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ARSubLedger.dll</FileName>
-        <FileVersion>3.1.16.0</FileVersion>
-        <ProductVersion>3.1.16.0</ProductVersion>
+        <FileVersion>3.1.17.0</FileVersion>
+        <ProductVersion>3.1.17.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ARSubLedgerV2.dll</FileName>
@@ -8857,8 +8857,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.CostAllocationEngine.dll</FileName>
-        <FileVersion>1.0.0.0</FileVersion>
-        <ProductVersion>1.0.0.0</ProductVersion>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.CreditLimit.dll</FileName>
