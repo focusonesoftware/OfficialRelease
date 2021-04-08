@@ -6227,8 +6227,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>4.8.75.0</FileVersion>
-        <ProductVersion>4.8.75.0</ProductVersion>
+        <FileVersion>4.8.76.0</FileVersion>
+        <ProductVersion>4.8.76.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -12352,8 +12352,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\serverprofile.xml</FileName>
-        <FileVersion>2021.04.08.01</FileVersion>
-        <ProductVersion>2021.04.08.01</ProductVersion>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\vslangproj.olb</FileName>
