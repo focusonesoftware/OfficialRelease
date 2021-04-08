@@ -12352,8 +12352,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\serverprofile.xml</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
+        <FileVersion>2021.04.08.01</FileVersion>
+        <ProductVersion>2021.04.08.01</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\vslangproj.olb</FileName>
