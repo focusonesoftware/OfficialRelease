@@ -6517,8 +6517,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.SubSequence.dll</FileName>
-        <FileVersion>3.2.17.0</FileVersion>
-        <ProductVersion>3.2.17.0</ProductVersion>
+        <FileVersion>3.2.18.0</FileVersion>
+        <ProductVersion>3.2.18.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.SysMaterialCode.dll</FileName>
@@ -6542,8 +6542,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.567.0</FileVersion>
-        <ProductVersion>3.1.567.0</ProductVersion>
+        <FileVersion>3.1.568.0</FileVersion>
+        <ProductVersion>3.1.568.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -10652,8 +10652,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>3.2.60.0</FileVersion>
-        <ProductVersion>3.2.60.0</ProductVersion>
+        <FileVersion>3.2.61.0</FileVersion>
+        <ProductVersion>3.2.61.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
