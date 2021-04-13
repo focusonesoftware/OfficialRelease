@@ -12,4 +12,10 @@
     <Host>192.168.1.20</Host>
     <Port>5002</Port>
   </Connection>
+  <Connection>
+    <ApplicationID>555</ApplicationID>
+    <ApplicationName>Localhost</ApplicationName>
+    <Host>127.0.0.1</Host>
+    <Port>8888</Port>
+  </Connection>
 </DocumentElement>
