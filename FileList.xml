@@ -5996,11 +5996,6 @@
         <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\Agape.App.BP.DLL</FileName>
-        <FileVersion>4.8.95.0</FileVersion>
-        <ProductVersion>4.8.95.0</ProductVersion>
-    </Description>
-    <Description>
         <FileName>Startup\Main\Agape.App.BP.DTCUpdateAccountAgent.dll</FileName>
         <FileVersion>3.1.4.0</FileVersion>
         <ProductVersion>3.1.4.0</ProductVersion>
@@ -6009,6 +6004,11 @@
         <FileName>Startup\Main\Agape.App.BP.DTCUpdateSaleRepresent.dll</FileName>
         <FileVersion>3.1.1.0</FileVersion>
         <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.App.BP.dll</FileName>
+        <FileVersion>4.8.96.0</FileVersion>
+        <ProductVersion>4.8.96.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Budget.Report.dll</FileName>
@@ -6512,8 +6512,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.564.0</FileVersion>
-        <ProductVersion>4.8.564.0</ProductVersion>
+        <FileVersion>4.8.569.0</FileVersion>
+        <ProductVersion>4.8.569.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -8531,11 +8531,6 @@
         <ProductVersion>4.8.4.1</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>4.8.281.0</FileVersion>
-        <ProductVersion>4.8.281.0</ProductVersion>
-    </Description>
-    <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
         <FileVersion>4.8.32.0</FileVersion>
         <ProductVersion>4.8.32.0</ProductVersion>
@@ -8634,6 +8629,11 @@
         <FileName>Startup\Main\Agape.App.SD.UpdateSOCustomerData.dll</FileName>
         <FileVersion>3.1.4.0</FileVersion>
         <ProductVersion>3.1.4.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.App.SD.dll</FileName>
+        <FileVersion>4.8.285.0</FileVersion>
+        <ProductVersion>4.8.285.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SO.Report.SellOnCashAndCreditMCT.dll</FileName>
