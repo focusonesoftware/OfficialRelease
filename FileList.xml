@@ -6006,7 +6006,7 @@
         <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\Agape.App.BP.dll</FileName>
+        <FileName>Startup\Main\Agape.App.BP.DLL</FileName>
         <FileVersion>4.8.97.0</FileVersion>
         <ProductVersion>4.8.97.0</ProductVersion>
     </Description>
@@ -8631,7 +8631,7 @@
         <ProductVersion>3.1.4.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\Agape.App.SD.dll</FileName>
+        <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
         <FileVersion>4.8.285.0</FileVersion>
         <ProductVersion>4.8.285.0</ProductVersion>
     </Description>
