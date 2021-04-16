@@ -5846,6 +5846,11 @@
         <ProductVersion>4.8.4.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.HTML.dll</FileName>
+        <FileVersion>4.8.4.0</FileVersion>
+        <ProductVersion>4.8.4.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.UtilDB.dll</FileName>
         <FileVersion>4.8.1.0</FileVersion>
         <ProductVersion>4.8.1.0</ProductVersion>
@@ -5992,8 +5997,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DLL</FileName>
-        <FileVersion>4.8.94.0</FileVersion>
-        <ProductVersion>4.8.94.0</ProductVersion>
+        <FileVersion>4.8.97.0</FileVersion>
+        <ProductVersion>4.8.97.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DTCUpdateAccountAgent.dll</FileName>
@@ -6507,8 +6512,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.563.0</FileVersion>
-        <ProductVersion>4.8.563.0</ProductVersion>
+        <FileVersion>4.8.569.0</FileVersion>
+        <ProductVersion>4.8.569.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -8527,8 +8532,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>4.8.281.0</FileVersion>
-        <ProductVersion>4.8.281.0</ProductVersion>
+        <FileVersion>4.8.285.0</FileVersion>
+        <ProductVersion>4.8.285.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
