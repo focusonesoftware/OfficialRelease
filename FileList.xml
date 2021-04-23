@@ -1522,8 +1522,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ANTOutgoIngForm.dll</FileName>
-        <FileVersion>3.1.1.0</FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <FileVersion>3.1.2.0</FileVersion>
+        <ProductVersion>3.1.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ANTPOForm.dll</FileName>
@@ -2519,6 +2519,11 @@
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DataSetJournalVoucherForm.dll</FileName>
         <FileVersion>3.1.2.0</FileVersion>
         <ProductVersion>3.1.2.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DataSetOutgoingForm.dll</FileName>
+        <FileVersion>3.1.5.0</FileVersion>
+        <ProductVersion>3.1.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DataSetPOForm.dll</FileName>
