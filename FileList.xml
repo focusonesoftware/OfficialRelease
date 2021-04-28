@@ -6552,8 +6552,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.577.0</FileVersion>
-        <ProductVersion>3.1.577.0</ProductVersion>
+        <FileVersion>3.1.582.0</FileVersion>
+        <ProductVersion>3.1.582.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -8602,8 +8602,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
-        <FileVersion>3.1.34.0</FileVersion>
-        <ProductVersion>3.1.34.0</ProductVersion>
+        <FileVersion>3.1.35.0</FileVersion>
+        <ProductVersion>3.1.35.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrderReport.dll</FileName>
@@ -10647,8 +10647,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Search.dll</FileName>
-        <FileVersion>3.2.17.0</FileVersion>
-        <ProductVersion>3.2.17.0</ProductVersion>
+        <FileVersion>3.2.18.0</FileVersion>
+        <ProductVersion>3.2.18.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.SharpAssembly.dll</FileName>
@@ -10662,8 +10662,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>3.2.71.0</FileVersion>
-        <ProductVersion>3.2.71.0</ProductVersion>
+        <FileVersion>3.2.72.0</FileVersion>
+        <ProductVersion>3.2.72.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
