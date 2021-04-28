@@ -507,8 +507,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.DLL</FileName>
-        <FileVersion>4.8.102.0</FileVersion>
-        <ProductVersion>4.8.102.0</ProductVersion>
+        <FileVersion>4.8.103.0</FileVersion>
+        <ProductVersion>4.8.103.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.EndCashMent.DLL</FileName>
@@ -6227,8 +6227,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>4.8.77.0</FileVersion>
-        <ProductVersion>4.8.77.0</ProductVersion>
+        <FileVersion>4.8.78.0</FileVersion>
+        <ProductVersion>4.8.78.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -6922,8 +6922,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>4.8.409.0</FileVersion>
-        <ProductVersion>4.8.409.0</ProductVersion>
+        <FileVersion>4.8.412.0</FileVersion>
+        <ProductVersion>4.8.412.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -7042,8 +7042,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Project.dll</FileName>
-        <FileVersion>4.8.58.0</FileVersion>
-        <ProductVersion>4.8.58.0</ProductVersion>
+        <FileVersion>4.8.59.0</FileVersion>
+        <ProductVersion>4.8.59.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.QueryHelper.dll</FileName>
@@ -7052,8 +7052,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.RB.dll</FileName>
-        <FileVersion>4.8.124.0</FileVersion>
-        <ProductVersion>4.8.124.0</ProductVersion>
+        <FileVersion>4.8.126.0</FileVersion>
+        <ProductVersion>4.8.126.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Remote.APInvoiceNoRefPo.dll</FileName>
@@ -10747,8 +10747,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>4.8.70.0</FileVersion>
-        <ProductVersion>4.8.70.0</ProductVersion>
+        <FileVersion>4.8.72.0</FileVersion>
+        <ProductVersion>4.8.72.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
