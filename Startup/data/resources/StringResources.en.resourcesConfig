@@ -3700,4 +3700,8 @@
   <Resource Name="AG.ADM.TOOL.Tool_C_0011.DESC" Type="System.String" FileName="" Value="Configure FOBGP Group" />
   <Resource Name="AG.ADM.TOOL.Tool_C_0012.DESC" Type="System.String" FileName="" Value="Configure Report Layout (FOBGP)" />
   <Resource Name="AG.ADM.TOOL.Tool_P_0001.DESC" Type="System.String" FileName="" Value="Configure Report Role (FOBGP)" />
+  <Resource Name="AG.IC.IC_R_0013.DESC" Type="System.String" FileName="" Value="IC-R0013 Inventory Registration Report" />
+  <Resource Name="AG.IC.IC_R_0015.DESC" Type="System.String" FileName="" Value="IC-R0015 Material Value Report" />
+  <Resource Name="AG.IC.IC_R_0017.DESC" Type="System.String" FileName="" Value="IC-R0017 Stock Waiting Transfer Report" />
+  <Resource Name="AG.IC.IC_R_0018.DESC" Type="System.String" FileName="" Value="IC-R0018 Inventory Adjustment Report" />
 </Resources>
