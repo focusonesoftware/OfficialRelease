@@ -3635,4 +3635,8 @@
   <Resource Name="AG.ADM.TOOL.Tool_C_0011.DESC" Type="System.String" FileName="" Value="กำหนดกลุ่ม FOBGP" />
   <Resource Name="AG.ADM.TOOL.Tool_C_0012.DESC" Type="System.String" FileName="" Value="กำหนดรูปแบบรายงาน FOBGP" />
   <Resource Name="AG.ADM.TOOL.Tool_P_0001.DESC" Type="System.String" FileName="" Value="การกำหนดบทบาทเรียกดูรายงาน" />
+  <Resource Name="AG.IC.IC_R_0013.DESC" Type="System.String" FileName="" Value="IC-R0013 รายงานการลงทะเบียนสินค้าคงคลัง" />
+  <Resource Name="AG.IC.IC_R_0015.DESC" Type="System.String" FileName="" Value="IC-R0015 รายงานวัสดุคงเหลือ" />
+  <Resource Name="AG.IC.IC_R_0017.DESC" Type="System.String" FileName="" Value="IC-R0017 รายงานสินค้ารอโอน" />
+  <Resource Name="AG.IC.IC_R_0018.DESC" Type="System.String" FileName="" Value="IC-R0018 รายงานการปรับปรุงสินค้าคงคลัง" />
 </Resources>
