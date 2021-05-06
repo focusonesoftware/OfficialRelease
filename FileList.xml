@@ -6552,8 +6552,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.588.0</FileVersion>
-        <ProductVersion>3.1.588.0</ProductVersion>
+        <FileVersion>3.1.591.0</FileVersion>
+        <ProductVersion>3.1.591.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -6967,8 +6967,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>3.1.417.0</FileVersion>
-        <ProductVersion>3.1.417.0</ProductVersion>
+        <FileVersion>3.1.419.0</FileVersion>
+        <ProductVersion>3.1.419.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -8607,8 +8607,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
-        <FileVersion>3.1.38.0</FileVersion>
-        <ProductVersion>3.1.38.0</ProductVersion>
+        <FileVersion>3.1.39.0</FileVersion>
+        <ProductVersion>3.1.39.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrderReport.dll</FileName>
@@ -10667,8 +10667,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>3.2.76.0</FileVersion>
-        <ProductVersion>3.2.76.0</ProductVersion>
+        <FileVersion>3.2.77.0</FileVersion>
+        <ProductVersion>3.2.77.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
