@@ -6517,8 +6517,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.593.0</FileVersion>
-        <ProductVersion>4.8.593.0</ProductVersion>
+        <FileVersion>4.8.595.0</FileVersion>
+        <ProductVersion>4.8.595.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -10757,8 +10757,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>4.8.79.0</FileVersion>
-        <ProductVersion>4.8.79.0</ProductVersion>
+        <FileVersion>4.8.80.0</FileVersion>
+        <ProductVersion>4.8.80.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
