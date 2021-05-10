@@ -3,7 +3,7 @@
   <Connection>
     <ApplicationID>9001</ApplicationID>
     <ApplicationName>ASW TEST 4.8</ApplicationName>
-    <Host>203.154.32.147</Host>
+    <Host>10.0.20.11</Host>
     <Port>9001</Port>
   </Connection>
 </DocumentElement>
