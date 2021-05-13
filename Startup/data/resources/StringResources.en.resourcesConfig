@@ -2764,6 +2764,7 @@
   <Resource Name="AG.FI.FI_OUTGOING_SubLedger_REPORT_R_0001_V2.DESC" Type="System.String" FileName="" Value="FIFI-R0017 Outgoing SubLedger V2 Report" />
   <Resource Name="AG.FI.FIBANK_R_0002.DESC" Type="System.String" FileName="" Value="FIBANK-R0002 Payment List Report" />
   <Resource Name="AG.FI.FIBANK_R_0003.DESC" Type="System.String" FileName="" Value="FIBANK-R0003 Payment Detailed Report" />
+  <Resource Name="AG.FI.FIBANK_R_0004.DESC" Type="System.String" FileName="" Value="FIBANK-R0004 Outgoing Payment Report(STD)" />
   <Resource Name="AG.FI.FIBANK_R_0006.DESC" Type="System.String" FileName="" Value="FIBANK-R0006 Daily Payment Report" />
   <Resource Name="AG.FI.FICASH_R_0012.DESC" Type="System.String" FileName="" Value="FICASH-R0012 Print Payment Voucher Report (Mass)" />
   <Resource Name="AG.FI.FOLDER_R03.DESC" Type="System.String" FileName="" Value="CHEQUE PAYMENT REPORTS" />
