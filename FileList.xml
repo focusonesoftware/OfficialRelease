@@ -6032,8 +6032,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>3.1.110.0</FileVersion>
-        <ProductVersion>3.1.110.0</ProductVersion>
+        <FileVersion>3.1.111.0</FileVersion>
+        <ProductVersion>3.1.111.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -6552,8 +6552,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.598.0</FileVersion>
-        <ProductVersion>3.1.598.0</ProductVersion>
+        <FileVersion>3.1.601.0</FileVersion>
+        <ProductVersion>3.1.601.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -6767,8 +6767,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.GIOutsource.dll</FileName>
-        <FileVersion>3.1.31.0</FileVersion>
-        <ProductVersion>3.1.31.0</ProductVersion>
+        <FileVersion>3.1.32.0</FileVersion>
+        <ProductVersion>3.1.32.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.GIT.dll</FileName>
@@ -6797,8 +6797,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Inventory.Movement.Asset.dll</FileName>
-        <FileVersion>3.1.52.0</FileVersion>
-        <ProductVersion>3.1.52.0</ProductVersion>
+        <FileVersion>3.1.53.0</FileVersion>
+        <ProductVersion>3.1.53.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Inventory.Report.dll</FileName>
@@ -6967,8 +6967,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>3.1.425.0</FileVersion>
-        <ProductVersion>3.1.425.0</ProductVersion>
+        <FileVersion>3.1.426.0</FileVersion>
+        <ProductVersion>3.1.426.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -7092,8 +7092,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.RB.dll</FileName>
-        <FileVersion>3.1.133.0</FileVersion>
-        <ProductVersion>3.1.133.0</ProductVersion>
+        <FileVersion>3.1.135.0</FileVersion>
+        <ProductVersion>3.1.135.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Remote.APInvoiceNoRefPo.dll</FileName>
@@ -8602,8 +8602,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>3.1.299.0</FileVersion>
-        <ProductVersion>3.1.299.0</ProductVersion>
+        <FileVersion>3.1.300.0</FileVersion>
+        <ProductVersion>3.1.300.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
