@@ -6032,8 +6032,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>3.1.111.0</FileVersion>
-        <ProductVersion>3.1.111.0</ProductVersion>
+        <FileVersion>3.1.112.0</FileVersion>
+        <ProductVersion>3.1.112.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -6222,8 +6222,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.Branch.dll</FileName>
-        <FileVersion>3.1.0.0</FileVersion>
-        <ProductVersion>3.1.0.0</ProductVersion>
+        <FileVersion>3.2.8.0</FileVersion>
+        <ProductVersion>3.2.8.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.BranchMappingPOSID.dll</FileName>
@@ -6277,8 +6277,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.78.0</FileVersion>
-        <ProductVersion>3.2.78.0</ProductVersion>
+        <FileVersion>3.2.80.0</FileVersion>
+        <ProductVersion>3.2.80.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -6552,8 +6552,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.601.0</FileVersion>
-        <ProductVersion>3.1.601.0</ProductVersion>
+        <FileVersion>3.1.602.0</FileVersion>
+        <ProductVersion>3.1.602.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -6777,8 +6777,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.GROutsource.dll</FileName>
-        <FileVersion>3.1.32.0</FileVersion>
-        <ProductVersion>3.1.32.0</ProductVersion>
+        <FileVersion>3.1.33.0</FileVersion>
+        <ProductVersion>3.1.33.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.ImportMaterialMaster.dll</FileName>
@@ -6852,8 +6852,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.POOutsource.dll</FileName>
-        <FileVersion>3.1.50.0</FileVersion>
-        <ProductVersion>3.1.50.0</ProductVersion>
+        <FileVersion>3.1.51.0</FileVersion>
+        <ProductVersion>3.1.51.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.PackingList.dll</FileName>
