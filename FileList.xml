@@ -10792,13 +10792,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>4.8.87.0</FileVersion>
-        <ProductVersion>4.8.87.0</ProductVersion>
+        <FileVersion>4.8.88.0</FileVersion>
+        <ProductVersion>4.8.88.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
-        <FileVersion>4.8.51.0</FileVersion>
-        <ProductVersion>4.8.51.0</ProductVersion>
+        <FileVersion>4.8.52.0</FileVersion>
+        <ProductVersion>4.8.52.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.WinFormsUI.DLL</FileName>
