@@ -6007,8 +6007,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.AM.DefineAssetgroupLocation.dll</FileName>
-        <FileVersion>1.0.0.1</FileVersion>
-        <ProductVersion>1.0.0.1</ProductVersion>
+        <FileVersion>3.1.10.0</FileVersion>
+        <ProductVersion>3.1.10.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.APInvoiceNoRefPo.dll</FileName>
@@ -6032,8 +6032,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>3.1.112.0</FileVersion>
-        <ProductVersion>3.1.112.0</ProductVersion>
+        <FileVersion>3.1.113.0</FileVersion>
+        <ProductVersion>3.1.113.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -6082,8 +6082,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CO.DLL</FileName>
-        <FileVersion>3.1.47.0</FileVersion>
-        <ProductVersion>3.1.47.0</ProductVersion>
+        <FileVersion>3.1.51.0</FileVersion>
+        <ProductVersion>3.1.51.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CO.Report.dll</FileName>
@@ -6252,8 +6252,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.MMObjectiveCode.dll</FileName>
-        <FileVersion>3.1.10.0</FileVersion>
-        <ProductVersion>3.1.10.0</ProductVersion>
+        <FileVersion>3.1.11.0</FileVersion>
+        <ProductVersion>3.1.11.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.MappingAddress.dll</FileName>
@@ -6277,8 +6277,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.81.0</FileVersion>
-        <ProductVersion>3.2.81.0</ProductVersion>
+        <FileVersion>3.2.84.0</FileVersion>
+        <ProductVersion>3.2.84.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -6442,8 +6442,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.PaymentMethod.dll</FileName>
-        <FileVersion>3.1.4.0</FileVersion>
-        <ProductVersion>3.1.4.0</ProductVersion>
+        <FileVersion>3.1.11.0</FileVersion>
+        <ProductVersion>3.1.11.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.PostWithClearing.dll</FileName>
@@ -6522,8 +6522,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Segmentation.dll</FileName>
-        <FileVersion>3.1.6.0</FileVersion>
-        <ProductVersion>3.1.6.0</ProductVersion>
+        <FileVersion>3.1.20.0</FileVersion>
+        <ProductVersion>3.1.20.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.SubSequence.dll</FileName>
@@ -6552,8 +6552,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.602.0</FileVersion>
-        <ProductVersion>3.1.602.0</ProductVersion>
+        <FileVersion>3.1.604.0</FileVersion>
+        <ProductVersion>3.1.604.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -6562,8 +6562,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP_V2.dll</FileName>
-        <FileVersion>3.1.0.1</FileVersion>
-        <ProductVersion>3.1.0.1</ProductVersion>
+        <FileVersion>3.1.6.0</FileVersion>
+        <ProductVersion>3.1.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.GLinterface.dll</FileName>
@@ -6797,8 +6797,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Inventory.Movement.Asset.dll</FileName>
-        <FileVersion>3.1.53.0</FileVersion>
-        <ProductVersion>3.1.53.0</ProductVersion>
+        <FileVersion>3.1.55.0</FileVersion>
+        <ProductVersion>3.1.55.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Inventory.Report.dll</FileName>
@@ -6817,8 +6817,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.MasterMatGroup.dll</FileName>
-        <FileVersion>3.1.0.2</FileVersion>
-        <ProductVersion>3.1.0.2</ProductVersion>
+        <FileVersion>3.1.3.0</FileVersion>
+        <ProductVersion>3.1.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.MaterialDefaultData.dll</FileName>
@@ -6827,8 +6827,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.MaterialDefaultPlant.dll</FileName>
-        <FileVersion>3.1.3.0</FileVersion>
-        <ProductVersion>3.1.3.0</ProductVersion>
+        <FileVersion>3.1.7.0</FileVersion>
+        <ProductVersion>3.1.7.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.MaterialPurchaseOrg.dll</FileName>
@@ -6872,8 +6872,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Pricing.dll</FileName>
-        <FileVersion>3.1.1.0</FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <FileVersion>3.1.7.0</FileVersion>
+        <ProductVersion>3.1.7.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Procurement.Report.dll</FileName>
@@ -6967,8 +6967,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>3.1.428.0</FileVersion>
-        <ProductVersion>3.1.428.0</ProductVersion>
+        <FileVersion>3.1.430.0</FileVersion>
+        <ProductVersion>3.1.430.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -7092,8 +7092,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.RB.dll</FileName>
-        <FileVersion>3.1.135.0</FileVersion>
-        <ProductVersion>3.1.135.0</ProductVersion>
+        <FileVersion>3.1.136.0</FileVersion>
+        <ProductVersion>3.1.136.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Remote.APInvoiceNoRefPo.dll</FileName>
@@ -8542,8 +8542,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.ReportFrameWork.dll</FileName>
-        <FileVersion>3.1.3.0</FileVersion>
-        <ProductVersion>3.1.3.0</ProductVersion>
+        <FileVersion>3.1.4.0</FileVersion>
+        <ProductVersion>3.1.4.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.ReportSaleByCondition.dll</FileName>
@@ -8572,8 +8572,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.ConfirmBilling.dll</FileName>
-        <FileVersion>3.1.36.0</FileVersion>
-        <ProductVersion>3.1.36.0</ProductVersion>
+        <FileVersion>3.1.39.0</FileVersion>
+        <ProductVersion>3.1.39.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.ConsignmentInventoryReport.dll</FileName>
@@ -8602,8 +8602,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>3.1.303.0</FileVersion>
-        <ProductVersion>3.1.303.0</ProductVersion>
+        <FileVersion>3.1.304.0</FileVersion>
+        <ProductVersion>3.1.304.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
@@ -8652,8 +8652,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.PricingUpLoad.dll</FileName>
-        <FileVersion>3.1.2.0</FileVersion>
-        <ProductVersion>3.1.2.0</ProductVersion>
+        <FileVersion>3.2.6.0</FileVersion>
+        <ProductVersion>3.2.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.ReconcileConsignment.dll</FileName>
@@ -10667,8 +10667,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>3.2.81.0</FileVersion>
-        <ProductVersion>3.2.81.0</ProductVersion>
+        <FileVersion>3.2.88.0</FileVersion>
+        <ProductVersion>3.2.88.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
