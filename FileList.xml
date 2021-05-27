@@ -107,8 +107,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.BP.DLL</FileName>
-        <FileVersion>4.8.41.0</FileVersion>
-        <ProductVersion>4.8.41.0</ProductVersion>
+        <FileVersion>4.8.42.0</FileVersion>
+        <ProductVersion>4.8.42.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.BP.DTCUpdateSaleRepresent.dll</FileName>
@@ -5627,8 +5627,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DLL</FileName>
-        <FileVersion>4.8.79.0</FileVersion>
-        <ProductVersion>4.8.79.0</ProductVersion>
+        <FileVersion>4.8.80.0</FileVersion>
+        <ProductVersion>4.8.80.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DeliveryOrder.dll</FileName>
@@ -6012,8 +6012,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DLL</FileName>
-        <FileVersion>4.8.102.0</FileVersion>
-        <ProductVersion>4.8.102.0</ProductVersion>
+        <FileVersion>4.8.104.0</FileVersion>
+        <ProductVersion>4.8.104.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DTCUpdateAccountAgent.dll</FileName>
@@ -6242,8 +6242,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>4.8.85.0</FileVersion>
-        <ProductVersion>4.8.85.0</ProductVersion>
+        <FileVersion>4.8.87.0</FileVersion>
+        <ProductVersion>4.8.87.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -6532,8 +6532,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.607.0</FileVersion>
-        <ProductVersion>4.8.607.0</ProductVersion>
+        <FileVersion>4.8.610.0</FileVersion>
+        <ProductVersion>4.8.610.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -6947,8 +6947,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>4.8.429.0</FileVersion>
-        <ProductVersion>4.8.429.0</ProductVersion>
+        <FileVersion>4.8.432.0</FileVersion>
+        <ProductVersion>4.8.432.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -10867,8 +10867,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\ConstantUtility.DLL</FileName>
-        <FileVersion>4.8.79.0</FileVersion>
-        <ProductVersion>4.8.79.0</ProductVersion>
+        <FileVersion>4.8.80.0</FileVersion>
+        <ProductVersion>4.8.80.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\ConstantUtilityReport.dll</FileName>
