@@ -6107,8 +6107,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.dll</FileName>
-        <FileVersion>3.1.105.0</FileVersion>
-        <ProductVersion>3.1.105.0</ProductVersion>
+        <FileVersion>3.1.106.0</FileVersion>
+        <ProductVersion>3.1.106.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Budget.Report.dll</FileName>
@@ -6597,8 +6597,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.613.0</FileVersion>
-        <ProductVersion>3.1.613.0</ProductVersion>
+        <FileVersion>3.1.614.0</FileVersion>
+        <ProductVersion>3.1.614.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -7012,8 +7012,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>3.1.433.0</FileVersion>
-        <ProductVersion>3.1.433.0</ProductVersion>
+        <FileVersion>3.1.434.0</FileVersion>
+        <ProductVersion>3.1.434.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -8647,8 +8647,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>3.1.307.0</FileVersion>
-        <ProductVersion>3.1.307.0</ProductVersion>
+        <FileVersion>3.1.308.0</FileVersion>
+        <ProductVersion>3.1.308.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
@@ -10697,8 +10697,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Search.dll</FileName>
-        <FileVersion>3.2.20.0</FileVersion>
-        <ProductVersion>3.2.20.0</ProductVersion>
+        <FileVersion>3.2.21.0</FileVersion>
+        <ProductVersion>3.2.21.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.SharpAssembly.dll</FileName>
