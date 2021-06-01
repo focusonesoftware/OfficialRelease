@@ -5637,13 +5637,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DLL</FileName>
-        <FileVersion>4.8.80.0</FileVersion>
-        <ProductVersion>4.8.80.0</ProductVersion>
+        <FileVersion>4.8.81.0</FileVersion>
+        <ProductVersion>4.8.81.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DeliveryOrder.dll</FileName>
-        <FileVersion>4.8.3.0</FileVersion>
-        <ProductVersion>4.8.3.0</ProductVersion>
+        <FileVersion>4.8.14.0</FileVersion>
+        <ProductVersion>4.8.14.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DeliveryOrderReport.dll</FileName>
@@ -6022,8 +6022,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DLL</FileName>
-        <FileVersion>4.8.104.0</FileVersion>
-        <ProductVersion>4.8.104.0</ProductVersion>
+        <FileVersion>4.8.107.0</FileVersion>
+        <ProductVersion>4.8.107.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DTCUpdateAccountAgent.dll</FileName>
@@ -6427,8 +6427,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Payment.PaymentProposal.dll</FileName>
-        <FileVersion>4.8.20.0</FileVersion>
-        <ProductVersion>4.8.20.0</ProductVersion>
+        <FileVersion>4.8.22.0</FileVersion>
+        <ProductVersion>4.8.22.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.PaymentMethod.dll</FileName>
@@ -6542,8 +6542,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.616.0</FileVersion>
-        <ProductVersion>4.8.616.0</ProductVersion>
+        <FileVersion>4.8.619.0</FileVersion>
+        <ProductVersion>4.8.619.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -8582,8 +8582,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
-        <FileVersion>4.8.34.0</FileVersion>
-        <ProductVersion>4.8.34.0</ProductVersion>
+        <FileVersion>4.8.43.0</FileVersion>
+        <ProductVersion>4.8.43.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrderReport.dll</FileName>
