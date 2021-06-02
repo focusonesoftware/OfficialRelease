@@ -8647,8 +8647,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>3.1.310.0</FileVersion>
-        <ProductVersion>3.1.310.0</ProductVersion>
+        <FileVersion>3.1.312.0</FileVersion>
+        <ProductVersion>3.1.312.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
@@ -10712,8 +10712,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>3.2.90.0</FileVersion>
-        <ProductVersion>3.2.90.0</ProductVersion>
+        <FileVersion>3.2.94.0</FileVersion>
+        <ProductVersion>3.2.94.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
