@@ -6077,8 +6077,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>3.1.116.0</FileVersion>
-        <ProductVersion>3.1.116.0</ProductVersion>
+        <FileVersion>3.1.117.0</FileVersion>
+        <ProductVersion>3.1.117.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -6267,8 +6267,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.Branch.dll</FileName>
-        <FileVersion>3.2.8.0</FileVersion>
-        <ProductVersion>3.2.8.0</ProductVersion>
+        <FileVersion>3.2.9.0</FileVersion>
+        <ProductVersion>3.2.9.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.BranchMappingPOSID.dll</FileName>
@@ -6322,8 +6322,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.94.0</FileVersion>
-        <ProductVersion>3.2.94.0</ProductVersion>
+        <FileVersion>3.2.95.0</FileVersion>
+        <ProductVersion>3.2.95.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -6597,8 +6597,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.622.0</FileVersion>
-        <ProductVersion>3.1.622.0</ProductVersion>
+        <FileVersion>3.1.624.0</FileVersion>
+        <ProductVersion>3.1.624.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -7012,8 +7012,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>3.1.437.0</FileVersion>
-        <ProductVersion>3.1.437.0</ProductVersion>
+        <FileVersion>3.1.439.0</FileVersion>
+        <ProductVersion>3.1.439.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -8647,8 +8647,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>3.1.313.0</FileVersion>
-        <ProductVersion>3.1.313.0</ProductVersion>
+        <FileVersion>3.1.315.0</FileVersion>
+        <ProductVersion>3.1.315.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
@@ -10712,8 +10712,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>3.2.95.0</FileVersion>
-        <ProductVersion>3.2.95.0</ProductVersion>
+        <FileVersion>3.2.99.0</FileVersion>
+        <ProductVersion>3.2.99.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
