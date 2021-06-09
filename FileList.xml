@@ -5857,8 +5857,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DLL</FileName>
-        <FileVersion>4.8.129.0</FileVersion>
-        <ProductVersion>4.8.129.0</ProductVersion>
+        <FileVersion>4.8.130.0</FileVersion>
+        <ProductVersion>4.8.130.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DocumentStatus.dll</FileName>
@@ -6542,8 +6542,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.624.0</FileVersion>
-        <ProductVersion>4.8.624.0</ProductVersion>
+        <FileVersion>4.8.625.0</FileVersion>
+        <ProductVersion>4.8.625.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -8752,8 +8752,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Base.dll</FileName>
-        <FileVersion>4.8.17.0</FileVersion>
-        <ProductVersion>4.8.17.0</ProductVersion>
+        <FileVersion>4.8.18.0</FileVersion>
+        <ProductVersion>4.8.18.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.CommandBar.dll</FileName>
@@ -10812,8 +10812,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>4.8.100.0</FileVersion>
-        <ProductVersion>4.8.100.0</ProductVersion>
+        <FileVersion>4.8.101.0</FileVersion>
+        <ProductVersion>4.8.101.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
