@@ -8561,11 +8561,6 @@
         <ProductVersion>4.8.4.1</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>4.8.306.0</FileVersion>
-        <ProductVersion>4.8.306.0</ProductVersion>
-    </Description>
-    <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
         <FileVersion>4.8.34.0</FileVersion>
         <ProductVersion>4.8.34.0</ProductVersion>
@@ -8664,6 +8659,11 @@
         <FileName>Startup\Main\Agape.App.SD.UpdateSOCustomerData.dll</FileName>
         <FileVersion>4.8.4.0</FileVersion>
         <ProductVersion>4.8.4.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.App.SD.dll</FileName>
+        <FileVersion>4.8.307.0</FileVersion>
+        <ProductVersion>4.8.307.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SO.Report.SellOnCashAndCreditMCT.dll</FileName>
