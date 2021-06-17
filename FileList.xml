@@ -6632,8 +6632,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.621.0</FileVersion>
-        <ProductVersion>3.1.621.0</ProductVersion>
+        <FileVersion>3.1.633.0</FileVersion>
+        <ProductVersion>3.1.633.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -10737,8 +10737,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>3.2.99.0</FileVersion>
-        <ProductVersion>3.2.99.0</ProductVersion>
+        <FileVersion>3.2.103.0</FileVersion>
+        <ProductVersion>3.2.103.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL.bak</FileName>
