@@ -6052,8 +6052,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.AM.DefineAssetgroupLocation.dll</FileName>
-        <FileVersion>3.1.10.0</FileVersion>
-        <ProductVersion>3.1.10.0</ProductVersion>
+        <FileVersion>3.1.11.0</FileVersion>
+        <ProductVersion>3.1.11.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.APInvoiceNoRefPo.dll</FileName>
@@ -6077,8 +6077,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>3.1.118.0</FileVersion>
-        <ProductVersion>3.1.118.0</ProductVersion>
+        <FileVersion>3.1.119.0</FileVersion>
+        <ProductVersion>3.1.119.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -6107,8 +6107,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.dll</FileName>
-        <FileVersion>3.1.110.0</FileVersion>
-        <ProductVersion>3.1.110.0</ProductVersion>
+        <FileVersion>3.1.111.0</FileVersion>
+        <ProductVersion>3.1.111.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Budget.Report.dll</FileName>
@@ -6267,8 +6267,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.Branch.dll</FileName>
-        <FileVersion>3.2.9.0</FileVersion>
-        <ProductVersion>3.2.9.0</ProductVersion>
+        <FileVersion>3.2.10.0</FileVersion>
+        <ProductVersion>3.2.10.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.BranchMappingPOSID.dll</FileName>
@@ -6322,8 +6322,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.98.0</FileVersion>
-        <ProductVersion>3.2.98.0</ProductVersion>
+        <FileVersion>3.2.99.0</FileVersion>
+        <ProductVersion>3.2.99.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -6597,8 +6597,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>3.1.633.0</FileVersion>
-        <ProductVersion>3.1.633.0</ProductVersion>
+        <FileVersion>3.1.634.0</FileVersion>
+        <ProductVersion>3.1.634.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -7012,8 +7012,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>3.1.444.0</FileVersion>
-        <ProductVersion>3.1.444.0</ProductVersion>
+        <FileVersion>3.1.445.0</FileVersion>
+        <ProductVersion>3.1.445.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -7137,8 +7137,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.RB.dll</FileName>
-        <FileVersion>3.1.140.0</FileVersion>
-        <ProductVersion>3.1.140.0</ProductVersion>
+        <FileVersion>3.1.141.0</FileVersion>
+        <ProductVersion>3.1.141.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Remote.APInvoiceNoRefPo.dll</FileName>
@@ -8647,8 +8647,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>3.1.317.0</FileVersion>
-        <ProductVersion>3.1.317.0</ProductVersion>
+        <FileVersion>3.1.319.0</FileVersion>
+        <ProductVersion>3.1.319.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
@@ -10697,8 +10697,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Search.dll</FileName>
-        <FileVersion>3.2.22.0</FileVersion>
-        <ProductVersion>3.2.22.0</ProductVersion>
+        <FileVersion>3.2.23.0</FileVersion>
+        <ProductVersion>3.2.23.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.SharpAssembly.dll</FileName>
