@@ -6077,8 +6077,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>3.1.119.0</FileVersion>
-        <ProductVersion>3.1.119.0</ProductVersion>
+        <FileVersion>3.1.120.0</FileVersion>
+        <ProductVersion>3.1.120.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -7012,8 +7012,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>3.1.445.0</FileVersion>
-        <ProductVersion>3.1.445.0</ProductVersion>
+        <FileVersion>3.1.446.0</FileVersion>
+        <ProductVersion>3.1.446.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -10712,8 +10712,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>3.2.105.0</FileVersion>
-        <ProductVersion>3.2.105.0</ProductVersion>
+        <FileVersion>3.2.106.0</FileVersion>
+        <ProductVersion>3.2.106.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
