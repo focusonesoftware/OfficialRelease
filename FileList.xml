@@ -6272,8 +6272,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.BranchMappingPOSID.dll</FileName>
-        <FileVersion>3.1.3.0</FileVersion>
-        <ProductVersion>3.1.3.0</ProductVersion>
+        <FileVersion>3.1.4.0</FileVersion>
+        <ProductVersion>3.1.4.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.DefaultStock.dll</FileName>
@@ -6322,8 +6322,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>3.2.106.0</FileVersion>
-        <ProductVersion>3.2.106.0</ProductVersion>
+        <FileVersion>3.2.109.0</FileVersion>
+        <ProductVersion>3.2.109.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -6602,8 +6602,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
-        <FileVersion>3.1.0.5</FileVersion>
-        <ProductVersion>3.1.0.5</ProductVersion>
+        <FileVersion>3.2.8.0</FileVersion>
+        <ProductVersion>3.2.8.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP_V2.dll</FileName>
@@ -7052,8 +7052,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.Costsheet.dll</FileName>
-        <FileVersion>3.1.11.0</FileVersion>
-        <ProductVersion>3.1.11.0</ProductVersion>
+        <FileVersion>3.1.12.0</FileVersion>
+        <ProductVersion>3.1.12.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.DistributionCost.dll</FileName>
@@ -7097,8 +7097,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.ProductionOrder.dll</FileName>
-        <FileVersion>3.1.111.0</FileVersion>
-        <ProductVersion>3.1.111.0</ProductVersion>
+        <FileVersion>3.1.112.0</FileVersion>
+        <ProductVersion>3.1.112.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.ProductionRequest.dll</FileName>
@@ -7117,8 +7117,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.dll</FileName>
-        <FileVersion>3.1.41.0</FileVersion>
-        <ProductVersion>3.1.41.0</ProductVersion>
+        <FileVersion>3.1.42.0</FileVersion>
+        <ProductVersion>3.1.42.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PS.DLL</FileName>
@@ -8587,8 +8587,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.ReportFrameWork.dll</FileName>
-        <FileVersion>3.1.4.0</FileVersion>
-        <ProductVersion>3.1.4.0</ProductVersion>
+        <FileVersion>3.1.5.0</FileVersion>
+        <ProductVersion>3.1.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.ReportSaleByCondition.dll</FileName>
