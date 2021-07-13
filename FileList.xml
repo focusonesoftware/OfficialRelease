@@ -5987,8 +5987,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.API.dll</FileName>
-        <FileVersion>3.1.1.0</FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <FileVersion>4.8.3.0</FileVersion>
+        <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.APInvoiceNoRefPo.dll</FileName>
@@ -10827,8 +10827,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>4.8.106.0</FileVersion>
-        <ProductVersion>4.8.106.0</ProductVersion>
+        <FileVersion>4.8.110.0</FileVersion>
+        <ProductVersion>4.8.110.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
