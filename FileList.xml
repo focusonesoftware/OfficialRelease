@@ -1137,8 +1137,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.Movement.DLL</FileName>
-        <FileVersion>3.1.19.0</FileVersion>
-        <ProductVersion>3.1.19.0</ProductVersion>
+        <FileVersion>3.1.21.0</FileVersion>
+        <ProductVersion>3.1.21.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.POReport.dll</FileName>
@@ -7047,8 +7047,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>3.1.438.0</FileVersion>
-        <ProductVersion>3.1.438.0</ProductVersion>
+        <FileVersion>3.1.451.0</FileVersion>
+        <ProductVersion>3.1.451.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
