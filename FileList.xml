@@ -5642,8 +5642,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DLL</FileName>
-        <FileVersion>4.8.85.0</FileVersion>
-        <ProductVersion>4.8.85.0</ProductVersion>
+        <FileVersion>4.8.86.0</FileVersion>
+        <ProductVersion>4.8.86.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DeliveryOrder.dll</FileName>
@@ -5692,8 +5692,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.POS.dll</FileName>
-        <FileVersion>4.8.15.0</FileVersion>
-        <ProductVersion>4.8.15.0</ProductVersion>
+        <FileVersion>4.8.16.0</FileVersion>
+        <ProductVersion>4.8.16.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.Pricing.Report.dll</FileName>
@@ -6972,8 +6972,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>4.8.451.0</FileVersion>
-        <ProductVersion>4.8.451.0</ProductVersion>
+        <FileVersion>4.8.452.0</FileVersion>
+        <ProductVersion>4.8.452.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -8587,8 +8587,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>4.8.326.0</FileVersion>
-        <ProductVersion>4.8.326.0</ProductVersion>
+        <FileVersion>4.8.330.0</FileVersion>
+        <ProductVersion>4.8.330.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
@@ -10902,8 +10902,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\ConstantUtility.DLL</FileName>
-        <FileVersion>4.8.84.0</FileVersion>
-        <ProductVersion>4.8.84.0</ProductVersion>
+        <FileVersion>4.8.85.0</FileVersion>
+        <ProductVersion>4.8.85.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\ConstantUtilityReport.dll</FileName>
