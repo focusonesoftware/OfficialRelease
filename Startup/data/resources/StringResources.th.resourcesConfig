@@ -2699,6 +2699,7 @@
   <Resource Name="AG.FI.FI_OUTGOING_SubLedger_REPORT_R_0001_V2.DESC" Type="System.String" FileName="" Value="FIFI-R0017 รายงานการชำระเงินมัดจำจ่ายตามบัญชีแยกประเภท V2" />
   <Resource Name="AG.FI.FIBANK_R_0002.DESC" Type="System.String" FileName="" Value="RPTFIOP001 - รายงานการบันทึกการจ่ายเงิน" />
   <Resource Name="AG.FI.FIBANK_R_0003.DESC" Type="System.String" FileName="" Value="RPTFIOP002 - รายละอียดรายงานการจ่ายเงิน" />
+  <Resource Name="AG.FI.FIBANK_R_0004.DESC" Type="System.String" FileName="" Value="RPTFIOP003 - รายงานการชำระเงิน(STD)" />
   <Resource Name="AG.FI.FIBANK_R_0006.DESC" Type="System.String" FileName="" Value="RPTFIOP005 - รายงานการจ่ายชำระเงินประจำวัน" />
   <Resource Name="AG.FI.FICASH_R_0012.DESC" Type="System.String" FileName="" Value="RPTFIOP011 - รายงานสั่งพิมพ์ใบสำคัญจ่ายแบบหลายใบ" />
   <Resource Name="AG.FI.FOLDER_R03.DESC" Type="System.String" FileName="" Value="รายงานการจ่าย-รับ เช็ค" />
@@ -2838,10 +2839,10 @@
   <Resource Name="AG.FIACT.FIAR_R_0003.DESC" Type="System.String" FileName="" Value="FIAR-R0003 รายงานภาษีขายรูปแบบที่ 1" />
   <Resource Name="AG.FIACT.FIAR_R_0006.DESC" Type="System.String" FileName="" Value="FIAR-R0006 รายงานภาษีขายรูปแบบที่ 2" />
   <Resource Name="AG.FIACT.FIRPT_R_1004.DESC" Type="System.String" FileName="" Value="FIRPT-R1004 รายงานภาษีลูกหนี้รอชำระ" />
-  <Resource Name="AG.FIACT.2012_TAX_AR_COPY.DESC" Type="System.String" FileName="" Value="TAXAR_COPY2012 พิมพ์ใบแจ้งหนี้ลูกหนี้ใหม่" />
-  <Resource Name="AG.FIACT.2012_TAX_DN_COPY.DESC" Type="System.String" FileName="" Value="TAXDN_COPY2012 พิมพ์ใบเพิ่มหนี้ลูกหนี้ใหม่" />
-  <Resource Name="AG.FIACT.2012_TAX_CN_COPY.DESC" Type="System.String" FileName="" Value="TAXCN_COPY2012 พิมพ์ใบลดหนี้ลูกหนี้ใหม่" />
-  <Resource Name="AG.FIACT.2012_TAX_REC_COPY.DESC" Type="System.String" FileName="" Value="TAXREC_COPY2012 พิมพ์ใบเสร็จใหม่" />
+  <Resource Name="AG.FIACT.2012_TAX_AR_COPY.DESC" Type="System.String" FileName="" Value="eTAX-FRM01 ยกเลิกและออกใหม่ - ใบแจ้งหนี้ลูกหนี้และ e-Tax" />
+  <Resource Name="AG.FIACT.2012_TAX_DN_COPY.DESC" Type="System.String" FileName="" Value="eTAX-FRM02 ยกเลิกและออกใหม่ - ใบเพิ่มหนี้ลูกหนี้และ e-Tax" />
+  <Resource Name="AG.FIACT.2012_TAX_CN_COPY.DESC" Type="System.String" FileName="" Value="eTAX-FRM03 ยกเลิกและออกใหม่ - ใบลดหนี้ลูกหนี้และ e-Tax" />
+  <Resource Name="AG.FIACT.2012_TAX_REC_COPY.DESC" Type="System.String" FileName="" Value="eTAX-FRM04 ยกเลิกและออกใหม่ - e-Tax Incoming" />
   <Resource Name="AG.FIACT.FOLDER_R04.DESC" Type="System.String" FileName="" Value="รายงานเจ้าหนี้" />
   <Resource Name="AG.FIACT.FIAP_R_0003.DESC" Type="System.String" FileName="" Value="FIAP-R0003 รายงานเจ้าหนี้ที่ครบกำหนดชำระ" />
   <Resource Name="AG.FIACT.FIAP_R_0004.DESC" Type="System.String" FileName="" Value="FIAP-R0004 รายงานวิเคราะห์อายุเจ้าหนี้" />
@@ -3635,4 +3636,8 @@
   <Resource Name="AG.ADM.TOOL.Tool_C_0011.DESC" Type="System.String" FileName="" Value="กำหนดกลุ่ม FOBGP" />
   <Resource Name="AG.ADM.TOOL.Tool_C_0012.DESC" Type="System.String" FileName="" Value="กำหนดรูปแบบรายงาน FOBGP" />
   <Resource Name="AG.ADM.TOOL.Tool_P_0001.DESC" Type="System.String" FileName="" Value="การกำหนดบทบาทเรียกดูรายงาน" />
+  <Resource Name="AG.IC.IC_R_0013.DESC" Type="System.String" FileName="" Value="IC-R0013 รายงานการลงทะเบียนสินค้าคงคลัง" />
+  <Resource Name="AG.IC.IC_R_0015.DESC" Type="System.String" FileName="" Value="IC-R0015 รายงานวัสดุคงเหลือ" />
+  <Resource Name="AG.IC.IC_R_0017.DESC" Type="System.String" FileName="" Value="IC-R0017 รายงานสินค้ารอโอน" />
+  <Resource Name="AG.IC.IC_R_0018.DESC" Type="System.String" FileName="" Value="IC-R0018 รายงานการปรับปรุงสินค้าคงคลัง" />
 </Resources>
