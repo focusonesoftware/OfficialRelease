@@ -152,8 +152,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.CO.Master.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.CO.Report.dll</FileName>
@@ -584,6 +584,11 @@
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.MapAdditionalGL.DLL</FileName>
         <FileVersion>4.8.3.0</FileVersion>
         <ProductVersion>4.8.3.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.MasterVendorPayment.dll</FileName>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.PFReportWHT.dll</FileName>
@@ -6097,8 +6102,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CO.Master.dll</FileName>
-        <FileVersion>4.8.12.0</FileVersion>
-        <ProductVersion>4.8.12.0</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CO.Report.dll</FileName>
@@ -6469,6 +6474,11 @@
         <FileName>Startup\Main\Agape.App.FI.MapAdditionalGL.dll</FileName>
         <FileVersion>4.8.1.1</FileVersion>
         <ProductVersion>4.8.1.1</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.App.FI.MasterVendorPayment.dll</FileName>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Payment.PaymentProposal.dll</FileName>
@@ -8902,8 +8912,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.CO.Master.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.CO.Report.dll</FileName>
@@ -9207,6 +9217,11 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.FI.MaintainWht.dll</FileName>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Remote.FI.MasterVendorPayment.dll</FileName>
         <FileVersion>4.8.1.0</FileVersion>
         <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
