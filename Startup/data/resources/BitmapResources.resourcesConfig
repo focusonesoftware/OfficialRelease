@@ -156,6 +156,7 @@
   <Resource Name="AG_BUTTON_SELECTIONTEMPLATE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.OpenResourceFolder" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="JScript.Project.ServiceProject" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_IN_ACTIVE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.GotoPrevbookmark" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_CONTACT" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_CONVERT" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -180,6 +181,7 @@
   <Resource Name="AG_ICON_ORG" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.AlignBottoms" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="C#.Project.ControlLibrary" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_RE_ACTIVE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.32x32.Error" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.AGSelectableItem" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AGToolsBar_APPCONFIG" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -375,6 +377,7 @@
   <Resource Name="AG_BUTTON_ADD_NEW" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.DecreaseHorizontalSpace" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_GET_OPEN" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_GET_DATA" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="VB.File.EmptyFile" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.HtmlElements.FormElement" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.TestRunner.Gray" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -413,6 +416,7 @@
   <Resource Name="Icons.16x16.HtmlElements.InputHiddenElement" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.Debug.StepOut" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.CenterVertically" Type="System.Drawing.Bitmap" FileName="" Value="" />
+  <Resource Name="AG_BUTTON_GENERATE_BOM" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AG_BUTTON_GENERATEPLAN" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.BuildCombine" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="C#.Project.EmptyProject" Type="System.Drawing.Bitmap" FileName="" Value="" />
@@ -519,8 +523,5 @@
   <Resource Name="AGToolsBar_MAIL" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="AGToolsBar_SAVE" Type="System.Drawing.Bitmap" FileName="" Value="" />
   <Resource Name="Icons.16x16.FormsDesigner.ViewCode" Type="System.Drawing.Bitmap" FileName="" Value="" />
-  <Resource Name="AG_BUTTON_GENERATE_BOM" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Generate Mutiple BOM and Plan V2-20210119T030552Z-001\Generate Mutiple BOM and Plan V2\Generate Bom and Plan.png" Value="" />
-  <Resource Name="AG_BUTTON_GET_DATA" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Generate Mutiple BOM and Plan V2-20210119T030552Z-001\Generate Mutiple BOM and Plan V2\Get Data.png" Value="" />
-  <Resource Name="AG_BUTTON_IN_ACTIVE" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Production Plan Critiria\InActive.png" Value="" />
-  <Resource Name="AG_BUTTON_RE_ACTIVE" Type="System.Drawing.Bitmap" FileName="D:\Downloads\Production Plan Critiria\ReActive.png" Value="" />
+  <Resource Name="AG_BUTTON_SEARCH_ENABLE" Type="System.Drawing.Bitmap" FileName="D:\FocusOne ERP\FGUI\Agape.Util\GUIComponent\Resources\images1.jpg" Value="" />
 </Resources>
