@@ -3640,4 +3640,5 @@
   <Resource Name="AG.IC.IC_R_0015.DESC" Type="System.String" FileName="" Value="IC-R0015 รายงานวัสดุคงเหลือ" />
   <Resource Name="AG.IC.IC_R_0017.DESC" Type="System.String" FileName="" Value="IC-R0017 รายงานสินค้ารอโอน" />
   <Resource Name="AG.IC.IC_R_0018.DESC" Type="System.String" FileName="" Value="IC-R0018 รายงานการปรับปรุงสินค้าคงคลัง" />
+  <Resource Name="AG.CS.DTC_AT_B010.DESC" Type="System.String" FileName="" Value="แก้ไขและจัดการกล่องดำ" />
 </Resources>
