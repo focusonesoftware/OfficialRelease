@@ -13,10 +13,10 @@
     <Port>6001</Port>
   </Connection>
   <Connection>
-    <ApplicationID>7001</ApplicationID>
+    <ApplicationID>6001</ApplicationID>
     <ApplicationName>SRIC UAT</ApplicationName>
-    <Host>35.198.242.255</Host>
-    <Port>7001</Port>
+    <Host>34.87.0.185</Host>
+    <Port>6001</Port>
   </Connection>
   <Connection>
     <ApplicationID>8001</ApplicationID>
