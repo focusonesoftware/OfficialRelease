@@ -1,9 +1,33 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
   <Connection>
+    <ApplicationID>5001</ApplicationID>
+    <ApplicationName>SCG Cement UAT</ApplicationName>
+    <Host>35.198.242.255</Host>
+    <Port>5001</Port>
+  </Connection>
+  <Connection>
     <ApplicationID>6001</ApplicationID>
     <ApplicationName>QMIX UAT</ApplicationName>
     <Host>35.198.242.255</Host>
     <Port>6001</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>7001</ApplicationID>
+    <ApplicationName>SRIC UAT</ApplicationName>
+    <Host>35.198.242.255</Host>
+    <Port>7001</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>8001</ApplicationID>
+    <ApplicationName>SCI Eco UAT</ApplicationName>
+    <Host>35.198.242.255</Host>
+    <Port>8001</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>9001</ApplicationID>
+    <ApplicationName>EPS UAT</ApplicationName>
+    <Host>35.198.242.255</Host>
+    <Port>9001</Port>
   </Connection>
 </DocumentElement>
