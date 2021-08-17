@@ -6077,8 +6077,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DLL</FileName>
-        <FileVersion>4.8.119.0</FileVersion>
-        <ProductVersion>4.8.119.0</ProductVersion>
+        <FileVersion>4.8.121.0</FileVersion>
+        <ProductVersion>4.8.121.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DTCUpdateAccountAgent.dll</FileName>
@@ -7032,8 +7032,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
-        <FileVersion>4.8.25.0</FileVersion>
-        <ProductVersion>4.8.25.0</ProductVersion>
+        <FileVersion>4.8.26.0</FileVersion>
+        <ProductVersion>4.8.26.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.MappingBatch.dll</FileName>
@@ -8642,8 +8642,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>4.8.334.0</FileVersion>
-        <ProductVersion>4.8.334.0</ProductVersion>
+        <FileVersion>4.8.335.0</FileVersion>
+        <ProductVersion>4.8.335.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
@@ -8922,8 +8922,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.CO.Master.dll</FileName>
-        <FileVersion>4.8.2.0</FileVersion>
-        <ProductVersion>4.8.2.0</ProductVersion>
+        <FileVersion>4.8.3.0</FileVersion>
+        <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.CO.Report.dll</FileName>
