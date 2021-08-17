@@ -30,4 +30,16 @@
     <Host>35.198.242.255</Host>
     <Port>9001</Port>
   </Connection>
+  <Connection>
+    <ApplicationID>10001</ApplicationID>
+    <ApplicationName>QMIX Interface UAT</ApplicationName>
+    <Host>35.198.242.255</Host>
+    <Port>10001</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>6003</ApplicationID>
+    <ApplicationName>QMIX Inventory UAT</ApplicationName>
+    <Host>35.198.242.255</Host>
+    <Port>6003</Port>
+  </Connection>
 </DocumentElement>
