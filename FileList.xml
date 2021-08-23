@@ -4187,8 +4187,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXReceiptForm.dll</FileName>
-        <FileVersion>4.8.2.1</FileVersion>
-        <ProductVersion>4.8.2.1</ProductVersion>
+        <FileVersion>4.8.3.1</FileVersion>
+        <ProductVersion>4.8.3.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXSaleOrderForm.dll</FileName>
@@ -4202,13 +4202,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXTexCustCNForm_V1.dll</FileName>
-        <FileVersion>4.8.14.1</FileVersion>
-        <ProductVersion>4.8.14.1</ProductVersion>
+        <FileVersion>4.8.15.1</FileVersion>
+        <ProductVersion>4.8.15.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXTexCustDNForm_V1.dll</FileName>
-        <FileVersion>4.8.18.0</FileVersion>
-        <ProductVersion>4.8.18.0</ProductVersion>
+        <FileVersion>4.8.19.0</FileVersion>
+        <ProductVersion>4.8.19.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.RPMMSRReport.dll</FileName>
