@@ -607,8 +607,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Payment.Proposal.dll</FileName>
-        <FileVersion>4.8.7.0</FileVersion>
-        <ProductVersion>4.8.7.0</ProductVersion>
+        <FileVersion>4.8.8.0</FileVersion>
+        <ProductVersion>4.8.8.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.PaymentMethod.DLL</FileName>
@@ -4187,8 +4187,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXPOForm.dll</FileName>
-        <FileVersion>4.8.2.0</FileVersion>
-        <ProductVersion>4.8.2.0</ProductVersion>
+        <FileVersion>4.8.3.0</FileVersion>
+        <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXPRForm.dll</FileName>
@@ -6512,8 +6512,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Payment.PaymentProposal.dll</FileName>
-        <FileVersion>4.8.24.0</FileVersion>
-        <ProductVersion>4.8.24.0</ProductVersion>
+        <FileVersion>4.8.25.0</FileVersion>
+        <ProductVersion>4.8.25.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.PaymentMethod.dll</FileName>
