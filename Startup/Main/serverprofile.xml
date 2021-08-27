@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <Connection>
+    <ApplicationID>9001</ApplicationID>
+    <ApplicationName>QMIX PRD</ApplicationName>
+    <Host>35.197.149.218</Host>
+    <Port>9001</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>9003</ApplicationID>
+    <ApplicationName>QMIX PRD(Urgent System)</ApplicationName>
+    <Host>35.197.149.218</Host>
+    <Port>9003</Port>
+  </Connection>
+</DocumentElement>
