@@ -422,8 +422,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.AP.dll</FileName>
-        <FileVersion>4.8.59.0</FileVersion>
-        <ProductVersion>4.8.59.0</ProductVersion>
+        <FileVersion>4.8.61.0</FileVersion>
+        <ProductVersion>4.8.61.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.AR.PN.dll</FileName>
@@ -432,8 +432,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.AR.dll</FileName>
-        <FileVersion>4.8.30.0</FileVersion>
-        <ProductVersion>4.8.30.0</ProductVersion>
+        <FileVersion>4.8.32.0</FileVersion>
+        <ProductVersion>4.8.32.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.ARInterface.dll</FileName>
@@ -457,8 +457,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.AccountPosting.DLL</FileName>
-        <FileVersion>4.8.7.0</FileVersion>
-        <ProductVersion>4.8.7.0</ProductVersion>
+        <FileVersion>4.8.9.0</FileVersion>
+        <ProductVersion>4.8.9.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.AllocateCostCenter.dll</FileName>
@@ -512,8 +512,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.DLL</FileName>
-        <FileVersion>4.8.106.0</FileVersion>
-        <ProductVersion>4.8.106.0</ProductVersion>
+        <FileVersion>4.8.111.0</FileVersion>
+        <ProductVersion>4.8.111.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.EndCashMent.DLL</FileName>
