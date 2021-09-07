@@ -7027,8 +7027,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.664.0</FileVersion>
-        <ProductVersion>4.8.664.0</ProductVersion>
+        <FileVersion>4.8.668.0</FileVersion>
+        <ProductVersion>4.8.668.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -13067,8 +13067,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\serverprofile.xml</FileName>
-        <FileVersion>2021.08.31.02</FileVersion>
-        <ProductVersion>2021.08.31.02</ProductVersion>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\vslangproj.olb</FileName>
