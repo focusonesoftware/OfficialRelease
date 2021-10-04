@@ -13196,6 +13196,21 @@
         <ProductVersion>3.5.30729.1</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\runtimes\win-arm64\native\WebView2Loader.dll</FileName>
+        <FileVersion>1.0.818.41</FileVersion>
+        <ProductVersion>1.0.818.41</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\runtimes\win-x64\native\WebView2Loader.dll</FileName>
+        <FileVersion>1.0.818.41</FileVersion>
+        <ProductVersion>1.0.818.41</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\runtimes\win-x86\native\WebView2Loader.dll</FileName>
+        <FileVersion>1.0.818.41</FileVersion>
+        <ProductVersion>1.0.818.41</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\serverprofile.xml</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
