@@ -112,8 +112,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Asset.DLL</FileName>
-        <FileVersion>4.8.43.0</FileVersion>
-        <ProductVersion>4.8.43.0</ProductVersion>
+        <FileVersion>4.8.44.0</FileVersion>
+        <ProductVersion>4.8.44.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Authorization.DLL</FileName>
@@ -3537,8 +3537,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ListOfAsset.dll</FileName>
-        <FileVersion>4.8.2.0</FileVersion>
-        <ProductVersion>4.8.2.0</ProductVersion>
+        <FileVersion>4.8.3.0</FileVersion>
+        <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ListOfAssetReceive.dll</FileName>
@@ -6532,8 +6532,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>4.8.129.0</FileVersion>
-        <ProductVersion>4.8.129.0</ProductVersion>
+        <FileVersion>4.8.131.0</FileVersion>
+        <ProductVersion>4.8.131.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -7087,8 +7087,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.681.0</FileVersion>
-        <ProductVersion>4.8.681.0</ProductVersion>
+        <FileVersion>4.8.682.0</FileVersion>
+        <ProductVersion>4.8.682.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -8307,8 +8307,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ListOfAsset.dll</FileName>
-        <FileVersion>4.8.11.0</FileVersion>
-        <ProductVersion>4.8.11.0</ProductVersion>
+        <FileVersion>4.8.12.0</FileVersion>
+        <ProductVersion>4.8.12.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ListOfAssetReceive.dll</FileName>
