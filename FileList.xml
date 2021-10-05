@@ -5032,8 +5032,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.StockSummaryMovementReport.dll</FileName>
-        <FileVersion>4.8.0.0</FileVersion>
-        <ProductVersion>4.8.0.0</ProductVersion>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.StockmovementStdCost.dll</FileName>
@@ -8632,8 +8632,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.StockSummaryMovementReport.dll</FileName>
-        <FileVersion>4.8.0.0</FileVersion>
-        <ProductVersion>4.8.0.0</ProductVersion>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.SummaryOfGoodsIssue.dll</FileName>
@@ -10682,8 +10682,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.StockSummaryMovementReport.dll</FileName>
-        <FileVersion>4.8.0.0</FileVersion>
-        <ProductVersion>4.8.0.0</ProductVersion>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.StockmovementStdCost.dll</FileName>
