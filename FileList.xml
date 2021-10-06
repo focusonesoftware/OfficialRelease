@@ -2671,6 +2671,11 @@
         <ProductVersion>3.1.0.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.GLTransactionbyCostCenterReport.dll</FileName>
+        <FileVersion>4.8.0.0</FileVersion>
+        <ProductVersion>4.8.0.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.GoodIssueReport.dll</FileName>
         <FileVersion>4.8.1.0</FileVersion>
         <ProductVersion>4.8.1.0</ProductVersion>
@@ -5032,8 +5037,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.StockSummaryMovementReport.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.StockmovementStdCost.dll</FileName>
@@ -7746,6 +7751,11 @@
         <ProductVersion>3.0.0.2</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.App.Report.GLTransactionbyCostCenterReport.dll</FileName>
+        <FileVersion>4.8.0.0</FileVersion>
+        <ProductVersion>4.8.0.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.App.Report.GoodIssueReport.dll</FileName>
         <FileVersion>4.8.3.0</FileVersion>
         <ProductVersion>4.8.3.0</ProductVersion>
@@ -8632,8 +8642,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.StockSummaryMovementReport.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.SummaryOfGoodsIssue.dll</FileName>
@@ -10134,6 +10144,11 @@
         <FileName>Startup\Main\Agape.Lib.Remote.Report.Form.dll</FileName>
         <FileVersion>4.8.1.0</FileVersion>
         <ProductVersion>4.8.1.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Remote.Report.GLTransactionbyCostCenterReport.dll</FileName>
+        <FileVersion>4.8.0.0</FileVersion>
+        <ProductVersion>4.8.0.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.GoodsIssueRawMaterial.dll</FileName>
