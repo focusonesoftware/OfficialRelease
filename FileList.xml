@@ -11828,7 +11828,7 @@
     <Description>
         <FileName>Startup\Main\DocumentFormat.OpenXml.dll</FileName>
         <FileVersion>2.9.1.2</FileVersion>
-        <ProductVersion>0.0.0.0</ProductVersion>
+        <ProductVersion>2.9.1.2</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\DocumentFormat.OpenXml.xml</FileName>
