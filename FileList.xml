@@ -452,8 +452,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.AP.dll</FileName>
-        <FileVersion>4.8.65.0</FileVersion>
-        <ProductVersion>4.8.65.0</ProductVersion>
+        <FileVersion>4.8.66.0</FileVersion>
+        <ProductVersion>4.8.66.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.AR.PN.dll</FileName>
@@ -462,8 +462,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.AR.dll</FileName>
-        <FileVersion>4.8.32.0</FileVersion>
-        <ProductVersion>4.8.32.0</ProductVersion>
+        <FileVersion>4.8.33.0</FileVersion>
+        <ProductVersion>4.8.33.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.ARInterface.dll</FileName>
@@ -4502,8 +4502,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXReceiptForm.dll</FileName>
-        <FileVersion>4.8.28.0</FileVersion>
-        <ProductVersion>4.8.28.0</ProductVersion>
+        <FileVersion>4.8.31.0</FileVersion>
+        <ProductVersion>4.8.31.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXSaleOrderForm.dll</FileName>
@@ -7097,8 +7097,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.682.0</FileVersion>
-        <ProductVersion>4.8.682.0</ProductVersion>
+        <FileVersion>4.8.685.0</FileVersion>
+        <ProductVersion>4.8.685.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
