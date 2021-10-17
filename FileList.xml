@@ -6467,8 +6467,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>4.8.133.0</FileVersion>
-        <ProductVersion>4.8.133.0</ProductVersion>
+        <FileVersion>4.8.134.0</FileVersion>
+        <ProductVersion>4.8.134.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -6527,8 +6527,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.AP.LandedCostGIT.dll</FileName>
-        <FileVersion>4.8.3.0</FileVersion>
-        <ProductVersion>4.8.3.0</ProductVersion>
+        <FileVersion>4.8.4.0</FileVersion>
+        <ProductVersion>4.8.4.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.AP.PN.dll</FileName>
@@ -7002,8 +7002,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.GIT.dll</FileName>
-        <FileVersion>4.8.4.0</FileVersion>
-        <ProductVersion>4.8.4.0</ProductVersion>
+        <FileVersion>4.8.5.0</FileVersion>
+        <ProductVersion>4.8.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.GROutsource.dll</FileName>
