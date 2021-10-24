@@ -82,8 +82,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.API.SCG.WorkflowJob.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.3.0</FileVersion>
+        <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.API.SCIECO.dll</FileName>
@@ -91,9 +91,14 @@
         <ProductVersion>4.8.5.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.API.SRIC.dll</FileName>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.API.dll</FileName>
-        <FileVersion>4.8.12.0</FileVersion>
-        <ProductVersion>4.8.12.0</ProductVersion>
+        <FileVersion>4.8.16.0</FileVersion>
+        <ProductVersion>4.8.16.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.APInvoiceNoRefPO.dll</FileName>
@@ -137,8 +142,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.BP.DLL</FileName>
-        <FileVersion>4.8.46.0</FileVersion>
-        <ProductVersion>4.8.46.0</ProductVersion>
+        <FileVersion>4.8.47.0</FileVersion>
+        <ProductVersion>4.8.47.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.BP.DTCUpdateSaleRepresent.dll</FileName>
@@ -337,8 +342,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Conf.DLL</FileName>
-        <FileVersion>4.8.24.0</FileVersion>
-        <ProductVersion>4.8.24.0</ProductVersion>
+        <FileVersion>4.8.25.0</FileVersion>
+        <ProductVersion>4.8.25.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Conf.DefaultStock.dll</FileName>
@@ -452,8 +457,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.AP.dll</FileName>
-        <FileVersion>4.8.66.0</FileVersion>
-        <ProductVersion>4.8.66.0</ProductVersion>
+        <FileVersion>4.8.69.0</FileVersion>
+        <ProductVersion>4.8.69.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.AR.PN.dll</FileName>
@@ -462,8 +467,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.AR.dll</FileName>
-        <FileVersion>4.8.33.0</FileVersion>
-        <ProductVersion>4.8.33.0</ProductVersion>
+        <FileVersion>4.8.34.0</FileVersion>
+        <ProductVersion>4.8.34.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.ARInterface.dll</FileName>
@@ -532,8 +537,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.CreditorsMovementReport.dll</FileName>
-        <FileVersion>4.8.3.0</FileVersion>
-        <ProductVersion>4.8.3.0</ProductVersion>
+        <FileVersion>4.8.4.0</FileVersion>
+        <ProductVersion>4.8.4.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.CustomerBankMaster.dll</FileName>
@@ -542,8 +547,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.DLL</FileName>
-        <FileVersion>4.8.114.0</FileVersion>
-        <ProductVersion>4.8.114.0</ProductVersion>
+        <FileVersion>4.8.115.0</FileVersion>
+        <ProductVersion>4.8.115.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.EndCashMent.DLL</FileName>
@@ -676,6 +681,11 @@
         <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Reclass.dll</FileName>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Reconcile.Incoming.dll</FileName>
         <FileVersion>4.8.3.0</FileVersion>
         <ProductVersion>4.8.3.0</ProductVersion>
@@ -772,8 +782,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.SLSNGLPostingReport.dll</FileName>
-        <FileVersion>4.8.5.0</FileVersion>
-        <ProductVersion>4.8.5.0</ProductVersion>
+        <FileVersion>4.8.7.0</FileVersion>
+        <ProductVersion>4.8.7.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.STDPettyCashReport.dll</FileName>
@@ -787,8 +797,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Segmentation.DLL</FileName>
-        <FileVersion>4.8.10.0</FileVersion>
-        <ProductVersion>4.8.10.0</ProductVersion>
+        <FileVersion>4.8.11.0</FileVersion>
+        <ProductVersion>4.8.11.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.StatementARInvoice.DLL</FileName>
@@ -812,8 +822,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.TEXGLPostingReport.dll</FileName>
-        <FileVersion>4.2.1.0</FileVersion>
-        <ProductVersion>4.2.1.0</ProductVersion>
+        <FileVersion>4.8.9.0</FileVersion>
+        <ProductVersion>4.8.9.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.TEXReportWHT.dll</FileName>
@@ -1082,13 +1092,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.AutoGIToBilling.dll</FileName>
-        <FileVersion>4.8.2.0</FileVersion>
-        <ProductVersion>4.8.2.0</ProductVersion>
+        <FileVersion>4.8.3.0</FileVersion>
+        <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.BOI.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.3.0</FileVersion>
+        <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.Barcode.dll</FileName>
@@ -1182,8 +1192,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.IRM.dll</FileName>
-        <FileVersion>4.8.10.0</FileVersion>
-        <ProductVersion>4.8.10.0</ProductVersion>
+        <FileVersion>4.8.11.0</FileVersion>
+        <ProductVersion>4.8.11.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.ITransferDocLib.dll</FileName>
@@ -1392,8 +1402,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.OS.RecommendationInformation.dll</FileName>
-        <FileVersion>4.8.11.0</FileVersion>
-        <ProductVersion>4.8.11.0</ProductVersion>
+        <FileVersion>4.8.12.0</FileVersion>
+        <ProductVersion>4.8.12.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.PM.DLL</FileName>
@@ -1472,8 +1482,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.PP.ProductionOrder.dll</FileName>
-        <FileVersion>4.8.18.0</FileVersion>
-        <ProductVersion>4.8.18.0</ProductVersion>
+        <FileVersion>4.8.20.0</FileVersion>
+        <ProductVersion>4.8.20.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.PP.ProductionRequest.dll</FileName>
@@ -1577,8 +1587,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.RB.WMS.dll</FileName>
-        <FileVersion>3.1.2.0</FileVersion>
-        <ProductVersion>3.1.2.0</ProductVersion>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.RB.dll</FileName>
@@ -1877,8 +1887,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ASWPAYForm.dll</FileName>
-        <FileVersion>4.8.23.0</FileVersion>
-        <ProductVersion>4.8.23.0</ProductVersion>
+        <FileVersion>4.8.22.0</FileVersion>
+        <ProductVersion>4.8.22.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ASWPOForm.dll</FileName>
@@ -2244,6 +2254,11 @@
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DODocket.dll</FileName>
         <FileVersion>3.0.0.10</FileVersion>
         <ProductVersion>3.0.0.10</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DOForm.dll</FileName>
+        <FileVersion>4.8.4.0</FileVersion>
+        <ProductVersion>4.8.4.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCAPCreditNote.dll</FileName>
@@ -2767,8 +2782,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.EPSReceiptForm.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.Entertainment.dll</FileName>
@@ -3232,8 +3247,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.HVOrder002.dll</FileName>
-        <FileVersion>3.1.4.0</FileVersion>
-        <ProductVersion>3.1.4.0</ProductVersion>
+        <FileVersion>3.1.3.0</FileVersion>
+        <ProductVersion>3.1.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.HVPOSuggestion.dll</FileName>
@@ -3257,13 +3272,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.HVReportSummaryCountStock.dll</FileName>
-        <FileVersion>3.1.3.0</FileVersion>
-        <ProductVersion>3.1.3.0</ProductVersion>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.HVSaleorder.dll</FileName>
-        <FileVersion>3.1.9.0</FileVersion>
-        <ProductVersion>3.1.9.0</ProductVersion>
+        <FileVersion>3.1.7.0</FileVersion>
+        <ProductVersion>3.1.7.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.HVTransferBigcLotus.dll</FileName>
@@ -3282,8 +3297,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETARCreditNote.dll</FileName>
-        <FileVersion>3.1.13.0</FileVersion>
-        <ProductVersion>3.1.13.0</ProductVersion>
+        <FileVersion>3.1.12.0</FileVersion>
+        <ProductVersion>3.1.12.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETARCreditNoteNoRef.dll</FileName>
@@ -3297,13 +3312,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETARDebitNoteNoRef.dll</FileName>
-        <FileVersion>3.1.4.0</FileVersion>
-        <ProductVersion>3.1.4.0</ProductVersion>
+        <FileVersion>3.1.3.0</FileVersion>
+        <ProductVersion>3.1.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETARInvoice.dll</FileName>
-        <FileVersion>3.1.8.0</FileVersion>
-        <ProductVersion>3.1.8.0</ProductVersion>
+        <FileVersion>3.1.7.0</FileVersion>
+        <ProductVersion>3.1.7.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETAdvance01.dll</FileName>
@@ -3402,8 +3417,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETPaymentAndCheque.dll</FileName>
-        <FileVersion>3.1.1.0</FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <FileVersion>3.1.3.0</FileVersion>
+        <ProductVersion>3.1.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETPettyREIM.dll</FileName>
@@ -3412,8 +3427,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETQTForm.dll</FileName>
-        <FileVersion>3.1.21.0</FileVersion>
-        <ProductVersion>3.1.21.0</ProductVersion>
+        <FileVersion>3.1.19.0</FileVersion>
+        <ProductVersion>3.1.19.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETTaxInvoiceForm.dll</FileName>
@@ -3557,8 +3572,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ListOfBillingV2.dll</FileName>
-        <FileVersion>3.1.1.0</FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <FileVersion>4.8.8.0</FileVersion>
+        <ProductVersion>4.8.8.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ListOfBillingV3.dll</FileName>
@@ -3642,8 +3657,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.MCTListInvoiceVer.dll</FileName>
-        <FileVersion>3.0.0.1</FileVersion>
-        <ProductVersion>3.0.0.1</ProductVersion>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.MCTPRForm.dll</FileName>
@@ -3792,8 +3807,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.PEAKSSaleQuotationForm.dll</FileName>
-        <FileVersion>3.1.2.0</FileVersion>
-        <ProductVersion>3.1.2.0</ProductVersion>
+        <FileVersion>3.1.1.9</FileVersion>
+        <ProductVersion>3.1.1.9</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.PEAKSShippingByDealerSO.dll</FileName>
@@ -3832,8 +3847,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.PFARCNForm.dll</FileName>
-        <FileVersion>3.1.4.0</FileVersion>
-        <ProductVersion>3.1.4.0</ProductVersion>
+        <FileVersion>3.1.2.0</FileVersion>
+        <ProductVersion>3.1.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.PFARCNNForm.dll</FileName>
@@ -4037,8 +4052,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.PFPOForm.dll</FileName>
-        <FileVersion>3.1.15.0</FileVersion>
-        <ProductVersion>3.1.15.0</ProductVersion>
+        <FileVersion>3.1.13.0</FileVersion>
+        <ProductVersion>3.1.13.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.PFPORForm.dll</FileName>
@@ -4102,8 +4117,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.PFSaleOrderDaily.dll</FileName>
-        <FileVersion>3.1.9.0</FileVersion>
-        <ProductVersion>3.1.9.0</ProductVersion>
+        <FileVersion>3.1.1.0</FileVersion>
+        <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.PFSaleOrderForm.dll</FileName>
@@ -4112,13 +4127,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.PFShipmentDailyLoadAnalysisForm.dll</FileName>
-        <FileVersion>3.1.3.0</FileVersion>
-        <ProductVersion>3.1.3.0</ProductVersion>
+        <FileVersion>3.1.0.0</FileVersion>
+        <ProductVersion>3.1.0.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.PFShipmentDailyWorkSheetForm.dll</FileName>
-        <FileVersion>3.1.9.0</FileVersion>
-        <ProductVersion>3.1.9.0</ProductVersion>
+        <FileVersion>3.1.7.0</FileVersion>
+        <ProductVersion>3.1.7.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.PFShipmentForm.dll</FileName>
@@ -4127,8 +4142,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.PFShippingByDealerSO.dll</FileName>
-        <FileVersion>3.1.5.0</FileVersion>
-        <ProductVersion>3.1.5.0</ProductVersion>
+        <FileVersion>3.1.4.0</FileVersion>
+        <ProductVersion>3.1.4.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.PFTaxReport.dll</FileName>
@@ -4137,8 +4152,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.PF_PO_ENG_00000_FORM.dll</FileName>
-        <FileVersion>3.1.13.0</FileVersion>
-        <ProductVersion>3.1.13.0</ProductVersion>
+        <FileVersion>3.1.11.0</FileVersion>
+        <ProductVersion>3.1.11.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.PISA.WORKCONST.LIV.dll</FileName>
@@ -4167,8 +4182,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.POOutstanding.dll</FileName>
-        <FileVersion>4.8.2.0</FileVersion>
-        <ProductVersion>4.8.2.0</ProductVersion>
+        <FileVersion>4.2.1.0</FileVersion>
+        <ProductVersion>4.2.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.POOverduedelivery.dll</FileName>
@@ -4466,14 +4481,19 @@
         <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.PurchasingInfoRecord.dll</FileName>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QCRawMaterial.dll</FileName>
         <FileVersion>4.2.1.0</FileVersion>
         <ProductVersion>4.2.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXARStatementInvoiceForm.dll</FileName>
-        <FileVersion>4.8.2.0</FileVersion>
-        <ProductVersion>4.8.2.0</ProductVersion>
+        <FileVersion>4.8.3.0</FileVersion>
+        <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXBillingForm.dll</FileName>
@@ -4492,8 +4512,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXPOForm.dll</FileName>
-        <FileVersion>4.8.8.0</FileVersion>
-        <ProductVersion>4.8.8.0</ProductVersion>
+        <FileVersion>4.8.14.0</FileVersion>
+        <ProductVersion>4.8.14.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXPRForm.dll</FileName>
@@ -4502,8 +4522,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXReceiptForm.dll</FileName>
-        <FileVersion>4.8.31.0</FileVersion>
-        <ProductVersion>4.8.31.0</ProductVersion>
+        <FileVersion>4.8.30.0</FileVersion>
+        <ProductVersion>4.8.30.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXSaleOrderForm.dll</FileName>
@@ -4517,13 +4537,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXTexCustCNForm_V1.dll</FileName>
-        <FileVersion>4.8.17.0</FileVersion>
-        <ProductVersion>4.8.17.0</ProductVersion>
+        <FileVersion>4.8.18.0</FileVersion>
+        <ProductVersion>4.8.18.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXTexCustDNForm_V1.dll</FileName>
-        <FileVersion>4.8.21.0</FileVersion>
-        <ProductVersion>4.8.21.0</ProductVersion>
+        <FileVersion>4.8.22.0</FileVersion>
+        <ProductVersion>4.8.22.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXTransferFORM.dll</FileName>
@@ -4532,8 +4552,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXWHTForm.dll</FileName>
-        <FileVersion>4.8.4.0</FileVersion>
-        <ProductVersion>4.8.4.0</ProductVersion>
+        <FileVersion>4.8.5.0</FileVersion>
+        <ProductVersion>4.8.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.RPMMSRReport.dll</FileName>
@@ -4642,28 +4662,33 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCGCementBillingForm.dll</FileName>
+        <FileVersion>4.8.8.0</FileVersion>
+        <ProductVersion>4.8.8.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCGReceiptForm.dll</FileName>
         <FileVersion>4.8.2.0</FileVersion>
         <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCGReceiptForm.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCIECOARStatementForm.dll</FileName>
+        <FileVersion>4.8.1.1</FileVersion>
+        <ProductVersion>4.8.1.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCIECOBillingForm.dll</FileName>
-        <FileVersion>4.8.6.1</FileVersion>
-        <ProductVersion>4.8.6.1</ProductVersion>
+        <FileVersion>4.8.18.0</FileVersion>
+        <ProductVersion>4.8.18.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCIECOCNForm.dll</FileName>
-        <FileVersion>4.8.19.1</FileVersion>
-        <ProductVersion>4.8.19.1</ProductVersion>
+        <FileVersion>4.8.30.1</FileVersion>
+        <ProductVersion>4.8.30.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCIECODNForm.dll</FileName>
-        <FileVersion>4.8.22.0</FileVersion>
-        <ProductVersion>4.8.22.0</ProductVersion>
+        <FileVersion>4.8.30.0</FileVersion>
+        <ProductVersion>4.8.30.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCIECOELetter.dll</FileName>
@@ -4982,8 +5007,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SRICReceiptForm.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.STDAPCreditNote.dll</FileName>
@@ -5049,6 +5074,11 @@
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.STDRTForm.dll</FileName>
         <FileVersion>3.1.2.0</FileVersion>
         <ProductVersion>3.1.2.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SVForm.dll</FileName>
+        <FileVersion>4.8.3.0</FileVersion>
+        <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SaleDueDatePayment.dll</FileName>
@@ -5137,8 +5167,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SciecoReceiptForm.dll</FileName>
-        <FileVersion>4.8.6.0</FileVersion>
-        <ProductVersion>4.8.6.0</ProductVersion>
+        <FileVersion>4.8.15.0</FileVersion>
+        <ProductVersion>4.8.15.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ServiceCenterExp.dll</FileName>
@@ -5287,8 +5317,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.StockSummaryMovementReport.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.StockmovementStdCost.dll</FileName>
@@ -5387,8 +5417,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRARDNForm.dll</FileName>
-        <FileVersion>3.1.3.0</FileVersion>
-        <ProductVersion>3.1.3.0</ProductVersion>
+        <FileVersion>3.1.1.7</FileVersion>
+        <ProductVersion>3.1.1.7</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TPRARInvoice.dll</FileName>
@@ -5547,13 +5577,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TSTSaleOrderForm.dll</FileName>
-        <FileVersion>4.8.6.0</FileVersion>
-        <ProductVersion>4.8.6.0</ProductVersion>
+        <FileVersion>4.8.4.0</FileVersion>
+        <ProductVersion>4.8.4.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TSTSaleQuotationForm.dll</FileName>
-        <FileVersion>4.8.8.0</FileVersion>
-        <ProductVersion>4.8.8.0</ProductVersion>
+        <FileVersion>4.8.7.0</FileVersion>
+        <ProductVersion>4.8.7.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.TSTTransferForm.dll</FileName>
@@ -5857,8 +5887,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.YMFARInvoiceDetail.dll</FileName>
-        <FileVersion>3.1.2.0</FileVersion>
-        <ProductVersion>3.1.2.0</ProductVersion>
+        <FileVersion>3.1.3.0</FileVersion>
+        <ProductVersion>3.1.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.YMFAdvanceForm.dll</FileName>
@@ -6032,13 +6062,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.YMFShopfloor.dll</FileName>
-        <FileVersion>3.1.11.0</FileVersion>
-        <ProductVersion>3.1.11.0</ProductVersion>
+        <FileVersion>3.1.10.0</FileVersion>
+        <ProductVersion>3.1.10.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.YMFSlotTag.dll</FileName>
-        <FileVersion>3.1.5.0</FileVersion>
-        <ProductVersion>3.1.5.0</ProductVersion>
+        <FileVersion>3.1.0.11</FileVersion>
+        <ProductVersion>3.1.0.11</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.YMFStock.dll</FileName>
@@ -6172,8 +6202,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DeliveryOrder.dll</FileName>
-        <FileVersion>4.8.15.0</FileVersion>
-        <ProductVersion>4.8.15.0</ProductVersion>
+        <FileVersion>4.8.16.0</FileVersion>
+        <ProductVersion>4.8.16.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DeliveryOrderReport.dll</FileName>
@@ -6392,8 +6422,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DLL</FileName>
-        <FileVersion>4.8.134.0</FileVersion>
-        <ProductVersion>4.8.134.0</ProductVersion>
+        <FileVersion>4.8.135.0</FileVersion>
+        <ProductVersion>4.8.135.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DocumentStatus.dll</FileName>
@@ -6562,8 +6592,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DLL</FileName>
-        <FileVersion>4.8.123.0</FileVersion>
-        <ProductVersion>4.8.123.0</ProductVersion>
+        <FileVersion>4.8.125.0</FileVersion>
+        <ProductVersion>4.8.125.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DTCUpdateAccountAgent.dll</FileName>
@@ -6597,8 +6627,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CO.Master.dll</FileName>
-        <FileVersion>4.8.12.0</FileVersion>
-        <ProductVersion>4.8.12.0</ProductVersion>
+        <FileVersion>4.8.3.0</FileVersion>
+        <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CO.Report.dll</FileName>
@@ -6657,8 +6687,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CS.ImportNewSim.dll</FileName>
-        <FileVersion>3.1.9.0</FileVersion>
-        <ProductVersion>3.1.9.0</ProductVersion>
+        <FileVersion>3.1.8.0</FileVersion>
+        <ProductVersion>3.1.8.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CS.Interface.dll</FileName>
@@ -6797,8 +6827,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>4.8.130.0</FileVersion>
-        <ProductVersion>4.8.130.0</ProductVersion>
+        <FileVersion>4.8.134.0</FileVersion>
+        <ProductVersion>4.8.134.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -6856,6 +6886,11 @@
         <ProductVersion>1.0.0.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.App.FI.AP.LandedCostGIT.dll</FileName>
+        <FileVersion>4.8.6.0</FileVersion>
+        <ProductVersion>4.8.6.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.App.FI.AP.PN.dll</FileName>
         <FileVersion>4.8.18.0</FileVersion>
         <ProductVersion>4.8.18.0</ProductVersion>
@@ -6882,8 +6917,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.ARInterfaceV2.dll</FileName>
-        <FileVersion>4.8.8.0</FileVersion>
-        <ProductVersion>4.8.8.0</ProductVersion>
+        <FileVersion>4.8.9.0</FileVersion>
+        <ProductVersion>4.8.9.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.AllocateCostCenter.dll</FileName>
@@ -6902,8 +6937,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.CreditorsMovementReport.dll</FileName>
-        <FileVersion>4.8.1.1</FileVersion>
-        <ProductVersion>4.8.1.1</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.CustomerBankMaster.dll</FileName>
@@ -6987,8 +7022,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.PostWithClearing.dll</FileName>
-        <FileVersion>4.8.21.0</FileVersion>
-        <ProductVersion>4.8.21.0</ProductVersion>
+        <FileVersion>4.8.22.0</FileVersion>
+        <ProductVersion>4.8.22.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.App.FI.Reclass.dll</FileName>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Reconcile.Incoming.dll</FileName>
@@ -7012,8 +7052,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Report.LedgerDetailByOpenItem.dll</FileName>
-        <FileVersion>4.8.4.0</FileVersion>
-        <ProductVersion>4.8.4.0</ProductVersion>
+        <FileVersion>4.8.5.0</FileVersion>
+        <ProductVersion>4.8.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Report.LedgerDetailByProject.dll</FileName>
@@ -7032,8 +7072,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Report.LedgerDetailV4.dll</FileName>
-        <FileVersion>4.8.7.0</FileVersion>
-        <ProductVersion>4.8.7.0</ProductVersion>
+        <FileVersion>4.8.8.0</FileVersion>
+        <ProductVersion>4.8.8.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Report.LedgerDetailV5.dll</FileName>
@@ -7097,8 +7137,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.685.0</FileVersion>
-        <ProductVersion>4.8.685.0</ProductVersion>
+        <FileVersion>4.8.690.0</FileVersion>
+        <ProductVersion>4.8.690.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -7222,13 +7262,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.AutoGIToBilling.dll</FileName>
-        <FileVersion>4.8.2.0</FileVersion>
-        <ProductVersion>4.8.2.0</ProductVersion>
+        <FileVersion>4.8.4.0</FileVersion>
+        <ProductVersion>4.8.4.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.BOI.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.3.0</FileVersion>
+        <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Barcode.dll</FileName>
@@ -7322,8 +7362,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.GIT.dll</FileName>
-        <FileVersion>4.8.3.0</FileVersion>
-        <ProductVersion>4.8.3.0</ProductVersion>
+        <FileVersion>4.8.5.0</FileVersion>
+        <ProductVersion>4.8.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.GROutsource.dll</FileName>
@@ -7517,8 +7557,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>4.8.466.0</FileVersion>
-        <ProductVersion>4.8.466.0</ProductVersion>
+        <FileVersion>4.8.469.0</FileVersion>
+        <ProductVersion>4.8.469.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -7532,8 +7572,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.OS.RecommendationInformation.dll</FileName>
-        <FileVersion>4.8.8.0</FileVersion>
-        <ProductVersion>4.8.8.0</ProductVersion>
+        <FileVersion>4.8.10.0</FileVersion>
+        <ProductVersion>4.8.10.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PM.dll</FileName>
@@ -7557,8 +7597,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.Costsheet.dll</FileName>
-        <FileVersion>4.8.1.1</FileVersion>
-        <ProductVersion>4.8.1.1</ProductVersion>
+        <FileVersion>4.8.13.0</FileVersion>
+        <ProductVersion>4.8.13.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.DistributionCost.dll</FileName>
@@ -7602,8 +7642,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.ProductionOrder.dll</FileName>
-        <FileVersion>4.8.110.0</FileVersion>
-        <ProductVersion>4.8.110.0</ProductVersion>
+        <FileVersion>4.8.115.0</FileVersion>
+        <ProductVersion>4.8.115.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.ProductionRequest.dll</FileName>
@@ -7622,8 +7662,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.dll</FileName>
-        <FileVersion>4.8.26.0</FileVersion>
-        <ProductVersion>4.8.26.0</ProductVersion>
+        <FileVersion>4.8.47.0</FileVersion>
+        <ProductVersion>4.8.47.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PS.DLL</FileName>
@@ -7952,8 +7992,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.DTCJobOrderDetail.dll</FileName>
-        <FileVersion>3.1.6.0</FileVersion>
-        <ProductVersion>3.1.6.0</ProductVersion>
+        <FileVersion>3.1.5.0</FileVersion>
+        <ProductVersion>3.1.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.DTCListBilling.dll</FileName>
@@ -8212,8 +8252,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.HOSaleReportByProduct.dll</FileName>
-        <FileVersion>3.1.4.0</FileVersion>
-        <ProductVersion>3.1.4.0</ProductVersion>
+        <FileVersion>3.1.3.0</FileVersion>
+        <ProductVersion>3.1.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.HOSaleTaxReport.dll</FileName>
@@ -8337,8 +8377,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ListOfBillingV2.dll</FileName>
-        <FileVersion>3.1.8.0</FileVersion>
-        <ProductVersion>3.1.8.0</ProductVersion>
+        <FileVersion>4.8.11.0</FileVersion>
+        <ProductVersion>4.8.11.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ListOfBillingV3.dll</FileName>
@@ -8432,8 +8472,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.NewCustomerV2.dll</FileName>
-        <FileVersion>3.1.7.0</FileVersion>
-        <ProductVersion>3.1.7.0</ProductVersion>
+        <FileVersion>4.8.7.0</FileVersion>
+        <ProductVersion>4.8.7.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.OpenCloseStock.dll</FileName>
@@ -8502,8 +8542,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.POOutstanding.dll</FileName>
-        <FileVersion>4.8.4.0</FileVersion>
-        <ProductVersion>4.8.4.0</ProductVersion>
+        <FileVersion>3.1.4.0</FileVersion>
+        <ProductVersion>3.1.4.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.POOverduedelivery.dll</FileName>
@@ -8692,13 +8732,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ProductionWIPMaterial.dll</FileName>
-        <FileVersion>3.1.9.0</FileVersion>
-        <ProductVersion>3.1.9.0</ProductVersion>
+        <FileVersion>3.1.6.0</FileVersion>
+        <ProductVersion>3.1.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ProductionWorkHour.dll</FileName>
-        <FileVersion>3.1.4.0</FileVersion>
-        <ProductVersion>3.1.4.0</ProductVersion>
+        <FileVersion>3.1.3.0</FileVersion>
+        <ProductVersion>3.1.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ProductionWorkHourByQty.dll</FileName>
@@ -8739,6 +8779,11 @@
         <FileName>Startup\Main\Agape.App.Report.PurchasePrice.dll</FileName>
         <FileVersion>3.1.0.2</FileVersion>
         <ProductVersion>3.1.0.2</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.App.Report.PurchasingInfoRecord.dll</FileName>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.QCRawMaterial.dll</FileName>
@@ -8997,8 +9042,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.StockSummaryMovementReport.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.SummaryOfGoodsIssue.dll</FileName>
@@ -9187,8 +9232,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
-        <FileVersion>4.8.46.0</FileVersion>
-        <ProductVersion>4.8.46.0</ProductVersion>
+        <FileVersion>4.8.47.0</FileVersion>
+        <ProductVersion>4.8.47.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrderReport.dll</FileName>
@@ -9237,8 +9282,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.PricingUpLoad.dll</FileName>
-        <FileVersion>4.8.1.1</FileVersion>
-        <ProductVersion>4.8.1.1</ProductVersion>
+        <FileVersion>4.8.10.0</FileVersion>
+        <ProductVersion>4.8.10.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.ReconcileConsignment.dll</FileName>
@@ -9357,8 +9402,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Base.dll</FileName>
-        <FileVersion>4.8.27.0</FileVersion>
-        <ProductVersion>4.8.27.0</ProductVersion>
+        <FileVersion>4.8.32.0</FileVersion>
+        <ProductVersion>4.8.32.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.CommandBar.dll</FileName>
@@ -9782,6 +9827,11 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.FI.PaymentMethod.DLL</FileName>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Remote.FI.Reclass.dll</FileName>
         <FileVersion>4.8.1.0</FileVersion>
         <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
@@ -10667,8 +10717,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.ListOfBillingV2.dll</FileName>
-        <FileVersion>4.2.1.0</FileVersion>
-        <ProductVersion>4.2.1.0</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.ListOfBillingV3.dll</FileName>
@@ -10792,8 +10842,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.POOutstanding.dll</FileName>
-        <FileVersion>4.8.2.0</FileVersion>
-        <ProductVersion>4.8.2.0</ProductVersion>
+        <FileVersion>4.2.1.0</FileVersion>
+        <ProductVersion>4.2.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.POOverduedelivery.dll</FileName>
@@ -10984,6 +11034,11 @@
         <FileName>Startup\Main\Agape.Lib.Remote.Report.PurchasePrice.dll</FileName>
         <FileVersion>4.2.1.0</FileVersion>
         <ProductVersion>4.2.1.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Remote.Report.PurchasingInfoRecord.dll</FileName>
+        <FileVersion>4.8.0.0</FileVersion>
+        <ProductVersion>4.8.0.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.QCRawMaterial.dll</FileName>
@@ -11461,6 +11516,11 @@
         <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.SCGCementBillingForm.dll</FileName>
+        <FileVersion>4.8.6.1</FileVersion>
+        <ProductVersion>4.8.6.1</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.Lib.Report.SLSNARStatementInvoiceForm.dll</FileName>
         <FileVersion>4.8.1.2</FileVersion>
         <ProductVersion>4.8.1.2</ProductVersion>
@@ -11522,8 +11582,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>4.8.122.0</FileVersion>
-        <ProductVersion>4.8.122.0</ProductVersion>
+        <FileVersion>4.8.131.0</FileVersion>
+        <ProductVersion>4.8.131.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
@@ -11897,8 +11957,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\FocusOneERP.exe</FileName>
-        <FileVersion>4.8.3.0</FileVersion>
-        <ProductVersion>4.8.3.0</ProductVersion>
+        <FileVersion>4.8.4.0</FileVersion>
+        <ProductVersion>4.8.4.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\FocusOneERP.exe.config</FileName>
@@ -12402,18 +12462,863 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Microsoft.Web.WebView2.Core.dll</FileName>
-        <FileVersion>1.0.818.41</FileVersion>
-        <ProductVersion>1.0.818.41</ProductVersion>
+        <FileVersion>1.0.992.28</FileVersion>
+        <ProductVersion>1.0.992.28</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Microsoft.Web.WebView2.WinForms.dll</FileName>
-        <FileVersion>1.0.818.41</FileVersion>
-        <ProductVersion>1.0.818.41</ProductVersion>
+        <FileVersion>1.0.992.28</FileVersion>
+        <ProductVersion>1.0.992.28</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Microsoft.Web.WebView2.Wpf.dll</FileName>
-        <FileVersion>1.0.818.41</FileVersion>
-        <ProductVersion>1.0.818.41</ProductVersion>
+        <FileVersion>1.0.992.28</FileVersion>
+        <ProductVersion>1.0.992.28</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\94.0.992.38.manifest</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\EBWebView\x64\EmbeddedBrowserWebView.dll</FileName>
+        <FileVersion>94.0.992.38</FileVersion>
+        <ProductVersion>94.0.992.38</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\EBWebView\x86\EmbeddedBrowserWebView.dll</FileName>
+        <FileVersion>94.0.992.38</FileVersion>
+        <ProductVersion>94.0.992.38</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Edge.dat</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\EdgeWebView.dat</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Extensions\external_extensions.json</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\af.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\am.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\ar.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\as.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\az.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\bg.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\bn-IN.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\bs.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\ca-Es-VALENCIA.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\ca.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\cs.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\cy.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\da.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\de.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\el.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\en-GB.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\en-US.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\es-419.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\es.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\et.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\eu.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\fa.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\fi.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\fil.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\fr-CA.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\fr.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\ga.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\gd.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\gl.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\gu.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\he.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\hi.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\hr.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\hu.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\id.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\is.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\it.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\ja.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\ka.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\kk.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\km.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\kn.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\ko.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\kok.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\lb.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\lo.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\lt.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\lv.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\mi.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\mk.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\ml.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\mr.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\ms.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\mt.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\nb.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\ne.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\nl.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\nn.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\or.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\pa.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\pl.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\pt-BR.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\pt-PT.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\qu.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\ro.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\ru.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\sk.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\sl.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\sq.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\sr-Cyrl-BA.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\sr-Latn-RS.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\sr.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\sv.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\ta.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\te.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\th.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\tr.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\tt.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\ug.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\uk.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\ur.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\vi.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\zh-CN.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Locales\zh-TW.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\MEIPreload\manifest.json</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\MEIPreload\preloaded_data.pb</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\MLModels\autofill_labeling.ort</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\MLModels\autofill_labeling_email.ort</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\MLModels\autofill_labeling_features.txt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\MLModels\autofill_labeling_features_email.txt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\MLModels\nexturl.ort</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Notifications\SoftLandingAssetDark.gif</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Notifications\SoftLandingAssetLight.gif</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\PlayReadyCdm\_platform_specific\win_x64\playreadycdm.dll</FileName>
+        <FileVersion>94.0.992.38</FileVersion>
+        <ProductVersion>94.0.992.38</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Trust Protection Lists\Mu\Advertising</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Trust Protection Lists\Mu\Analytics</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Trust Protection Lists\Mu\CompatExceptions</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Trust Protection Lists\Mu\Content</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Trust Protection Lists\Mu\Cryptomining</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Trust Protection Lists\Mu\Entities</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Trust Protection Lists\Mu\Fingerprinting</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Trust Protection Lists\Mu\LICENSE</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Trust Protection Lists\Mu\Other</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Trust Protection Lists\Mu\Social</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Trust Protection Lists\Mu\TransparentAdvertisers</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Trust Protection Lists\Sigma\Advertising</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Trust Protection Lists\Sigma\Analytics</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Trust Protection Lists\Sigma\Content</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Trust Protection Lists\Sigma\Cryptomining</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Trust Protection Lists\Sigma\Entities</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Trust Protection Lists\Sigma\Fingerprinting</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Trust Protection Lists\Sigma\LICENSE</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Trust Protection Lists\Sigma\Other</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Trust Protection Lists\Sigma\Social</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Trust Protection Lists\Sigma\Staging</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\Trust Protection Lists\manifest.json</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\WidevineCdm\_platform_specific\win_x64\widevinecdm.dll</FileName>
+        <FileVersion>4.10.2209.0</FileVersion>
+        <ProductVersion>4.10.2209.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\WidevineCdm\_platform_specific\win_x64\widevinecdm.dll.sig</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\WidevineCdm\manifest.json</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\concrt140.dll</FileName>
+        <FileVersion>14.29.30038.0</FileVersion>
+        <ProductVersion>14.29.30038.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\d3dcompiler_47.dll</FileName>
+        <FileVersion>10.0.20348.1</FileVersion>
+        <ProductVersion>10.0.20348.1</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\dual_engine_adapter_x64.dll</FileName>
+        <FileVersion>94.0.992.38</FileVersion>
+        <ProductVersion>94.0.992.38</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\eventlog_provider.dll</FileName>
+        <FileVersion>94.0.992.38</FileVersion>
+        <ProductVersion>94.0.992.38</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\ffmpeg.dll</FileName>
+        <FileVersion>0.0.0.0</FileVersion>
+        <ProductVersion>0.0.0.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\icudtl.dat</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\learning_tools.dll</FileName>
+        <FileVersion>94.0.992.38</FileVersion>
+        <ProductVersion>94.0.992.38</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\libEGL.dll</FileName>
+        <FileVersion>2.1.23437.0</FileVersion>
+        <ProductVersion>2.1.23437.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\libGLESv2.dll</FileName>
+        <FileVersion>2.1.23437.0</FileVersion>
+        <ProductVersion>2.1.23437.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\libsmartscreen.dll</FileName>
+        <FileVersion>1.1.2109.0</FileVersion>
+        <ProductVersion>1.1.2109.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\libsmartscreenn.dll</FileName>
+        <FileVersion>1.3.2109.3</FileVersion>
+        <ProductVersion>1.3.2109.3</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\microsoft_apis.dll</FileName>
+        <FileVersion>94.0.992.38</FileVersion>
+        <ProductVersion>94.0.992.38</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\microsoft_shell_integration.dll</FileName>
+        <FileVersion>94.0.992.38</FileVersion>
+        <ProductVersion>94.0.992.38</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\mip_core.dll</FileName>
+        <FileVersion>1.8.97.0</FileVersion>
+        <ProductVersion>1.8.97.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\mip_protection_sdk.dll</FileName>
+        <FileVersion>1.8.97.0</FileVersion>
+        <ProductVersion>1.8.97.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\mojo_core.dll</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\msedge.dll</FileName>
+        <FileVersion>94.0.992.38</FileVersion>
+        <ProductVersion>94.0.992.38</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\msedge.dll.sig</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\msedge_100_percent.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\msedge_200_percent.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\msedge_elf.dll</FileName>
+        <FileVersion>94.0.992.38</FileVersion>
+        <ProductVersion>94.0.992.38</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\msedgewebview2.exe</FileName>
+        <FileVersion>94.0.992.38</FileVersion>
+        <ProductVersion>94.0.992.38</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\msedgewebview2.exe.sig</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\msvcp140.dll</FileName>
+        <FileVersion>14.29.30038.0</FileVersion>
+        <ProductVersion>14.29.30038.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\nacl_irt_x86_64.nexe</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\notification_helper.exe</FileName>
+        <FileVersion>94.0.992.38</FileVersion>
+        <ProductVersion>94.0.992.38</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\oneauth.dll</FileName>
+        <FileVersion>94.0.992.38</FileVersion>
+        <ProductVersion>94.0.992.38</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\oneds.dll</FileName>
+        <FileVersion>94.0.992.38</FileVersion>
+        <ProductVersion>94.0.992.38</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\onnxruntime.dll</FileName>
+        <FileVersion>1.7.21.726</FileVersion>
+        <ProductVersion>1.7.21.726</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\onramp.dll</FileName>
+        <FileVersion>94.0.992.38</FileVersion>
+        <ProductVersion>94.0.992.38</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\resources.pak</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\show_third_party_software_licenses.bat</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\swiftshader\libEGL.dll</FileName>
+        <FileVersion>4.1.0.7</FileVersion>
+        <ProductVersion>4.1.0.7</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\swiftshader\libGLESv2.dll</FileName>
+        <FileVersion>4.1.0.7</FileVersion>
+        <ProductVersion>4.1.0.7</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\telclient.dll</FileName>
+        <FileVersion>94.0.992.38</FileVersion>
+        <ProductVersion>94.0.992.38</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\v8_context_snapshot.bin</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\vccorlib140.dll</FileName>
+        <FileVersion>14.29.30038.0</FileVersion>
+        <ProductVersion>14.29.30038.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\vcruntime140.dll</FileName>
+        <FileVersion>14.29.30038.0</FileVersion>
+        <ProductVersion>14.29.30038.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\vcruntime140_1.dll</FileName>
+        <FileVersion>14.29.30038.0</FileVersion>
+        <ProductVersion>14.29.30038.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\vk_swiftshader.dll</FileName>
+        <FileVersion>5.0.0.1</FileVersion>
+        <ProductVersion>5.0.0.1</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\vk_swiftshader_icd.json</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\vulkan-1.dll</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\wdag.dll</FileName>
+        <FileVersion>94.0.992.38</FileVersion>
+        <ProductVersion>94.0.992.38</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\wns_push_client.dll</FileName>
+        <FileVersion>94.0.992.38</FileVersion>
+        <ProductVersion>94.0.992.38</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\MonthlySaleReportForServiceCenter.dll</FileName>
@@ -12724,6 +13629,11 @@
         <FileName>Startup\Main\System.Core.dll</FileName>
         <FileVersion>3.5.30729.1</FileVersion>
         <ProductVersion>3.5.30729.1</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\System.Data.DataSetExtensions.dll</FileName>
+        <FileVersion>4.8.3761.0</FileVersion>
+        <ProductVersion>4.0.30319.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\System.Data.Entity.dll</FileName>
