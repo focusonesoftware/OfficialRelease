@@ -7212,8 +7212,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>4.8.470.0</FileVersion>
-        <ProductVersion>4.8.470.0</ProductVersion>
+        <FileVersion>4.8.471.0</FileVersion>
+        <ProductVersion>4.8.471.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -7297,8 +7297,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.ProductionOrder.dll</FileName>
-        <FileVersion>4.8.116.0</FileVersion>
-        <ProductVersion>4.8.116.0</ProductVersion>
+        <FileVersion>4.8.118.0</FileVersion>
+        <ProductVersion>4.8.118.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.ProductionRequest.dll</FileName>
