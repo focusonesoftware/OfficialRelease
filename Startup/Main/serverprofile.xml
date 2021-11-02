@@ -24,4 +24,10 @@
     <Host>35.197.149.218</Host>
     <Port>9061</Port>
   </Connection>
+  <Connection>
+    <ApplicationID>9001</ApplicationID>
+    <ApplicationName>QMIX-Urgent (Production)</ApplicationName>
+    <Host>35.197.149.218</Host>
+    <Port>9001</Port>
+  </Connection>
 </DocumentElement>
