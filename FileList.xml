@@ -537,8 +537,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.DLL</FileName>
-        <FileVersion>4.8.116.0</FileVersion>
-        <ProductVersion>4.8.116.0</ProductVersion>
+        <FileVersion>4.8.117.0</FileVersion>
+        <ProductVersion>4.8.117.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.EndCashMent.DLL</FileName>
@@ -622,8 +622,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Payment.Proposal.dll</FileName>
-        <FileVersion>4.8.11.0</FileVersion>
-        <ProductVersion>4.8.11.0</ProductVersion>
+        <FileVersion>4.8.12.0</FileVersion>
+        <ProductVersion>4.8.12.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.PaymentMethod.DLL</FileName>
@@ -6667,8 +6667,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Payment.PaymentProposal.dll</FileName>
-        <FileVersion>4.8.29.0</FileVersion>
-        <ProductVersion>4.8.29.0</ProductVersion>
+        <FileVersion>4.8.30.0</FileVersion>
+        <ProductVersion>4.8.30.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.PaymentMethod.dll</FileName>
@@ -6792,8 +6792,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.703.0</FileVersion>
-        <ProductVersion>4.8.703.0</ProductVersion>
+        <FileVersion>4.8.704.0</FileVersion>
+        <ProductVersion>4.8.704.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
