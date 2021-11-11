@@ -4212,13 +4212,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCIECOCNForm.dll</FileName>
-        <FileVersion>4.8.31.1</FileVersion>
-        <ProductVersion>4.8.31.1</ProductVersion>
+        <FileVersion>4.8.33.1</FileVersion>
+        <ProductVersion>4.8.33.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCIECODNForm.dll</FileName>
-        <FileVersion>4.8.32.0</FileVersion>
-        <ProductVersion>4.8.32.0</ProductVersion>
+        <FileVersion>4.8.33.0</FileVersion>
+        <ProductVersion>4.8.33.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCIECOPOForm.dll</FileName>
@@ -10437,8 +10437,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Util.dll</FileName>
-        <FileVersion>3.1.0.36</FileVersion>
-        <ProductVersion>3.1.0.36</ProductVersion>
+        <FileVersion>4.8.192.0</FileVersion>
+        <ProductVersion>4.8.192.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lip.Report.APInvoiceNoRefPo.dll</FileName>
