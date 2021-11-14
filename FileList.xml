@@ -11186,6 +11186,16 @@
         <ProductVersion>1.0.0.10</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\BouncyCastle.Crypto.dll</FileName>
+        <FileVersion>1.8.9.1</FileVersion>
+        <ProductVersion>1.8.9.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\BouncyCastle.Crypto.xml</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\BranchPRReport.dll</FileName>
         <FileVersion>1.0.0.3</FileVersion>
         <ProductVersion>1.0.0.3</ProductVersion>
@@ -12906,6 +12916,11 @@
         <ProductVersion>1.0.0.1</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\PgpCore.dll</FileName>
+        <FileVersion>5.2.0.0</FileVersion>
+        <ProductVersion>5.2.0.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\PhysicalCountForm.dll</FileName>
         <FileVersion>1.0.0.13</FileVersion>
         <ProductVersion>1.0.0.13</ProductVersion>
@@ -13046,6 +13061,16 @@
         <ProductVersion>1.0.0.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Renci.SshNet.dll</FileName>
+        <FileVersion>2020.0.1.0</FileVersion>
+        <ProductVersion>2020.0.1.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Renci.SshNet.xml</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\ReportFile.dll</FileName>
         <FileVersion>2.0.8.20</FileVersion>
         <ProductVersion>2.0.8.20</ProductVersion>
@@ -13109,6 +13134,11 @@
         <FileName>Startup\Main\Sonar.Lib.Import.Excel.dll</FileName>
         <FileVersion>1.0.2.0</FileVersion>
         <ProductVersion>1.0.2.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Sonar.Lib.SFTP.dll</FileName>
+        <FileVersion>1.1.0.4</FileVersion>
+        <ProductVersion>1.1.0.4</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\StartUp1.wav</FileName>
