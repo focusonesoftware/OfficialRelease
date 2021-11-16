@@ -1,27 +1,69 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
-  <Connection>
-    <ApplicationID>9031</ApplicationID>
-    <ApplicationName>QMIX-FI-AR (Production)</ApplicationName>
-    <Host>35.197.149.218</Host>
-    <Port>9031</Port>
-  </Connection>
-  <Connection>
-    <ApplicationID>9041</ApplicationID>
-    <ApplicationName>QMIX-FI-AP (Production)</ApplicationName>
-    <Host>35.197.149.218</Host>
-    <Port>9041</Port>
-  </Connection>
-  <Connection>
-    <ApplicationID>9051</ApplicationID>
-    <ApplicationName>QMIX-FI-GL-ASSET (Production)</ApplicationName>
-    <Host>35.197.149.218</Host>
-    <Port>9051</Port>
-  </Connection>
-  <Connection>
-    <ApplicationID>9061</ApplicationID>
-    <ApplicationName>QMIX-PUR-IV (Production)</ApplicationName>
-    <Host>35.197.149.218</Host>
-    <Port>9061</Port>
-  </Connection>
+  <Company>
+    <CompanyName>SCIECO</CompanyName>
+    <Connection>
+      <ApplicationID>9031</ApplicationID>
+      <ApplicationName>SCIECO-FI-AR (Production)</ApplicationName>
+      <Host>35.198.209.241</Host>
+      <Port>9031</Port>
+    </Connection>
+    <Connection>
+      <ApplicationID>9041</ApplicationID>
+      <ApplicationName>SCIECO-FI-AP (Production)</ApplicationName>
+      <Host>35.198.209.241</Host>
+      <Port>9041</Port>
+    </Connection>
+    <Connection>
+      <ApplicationID>9051</ApplicationID>
+      <ApplicationName>SCIECO-FI-GL-ASSET (Production)</ApplicationName>
+      <Host>35.198.209.241</Host>
+      <Port>9051</Port>
+    </Connection>
+    <Connection>
+      <ApplicationID>9061</ApplicationID>
+      <ApplicationName>SCIECO-PUR-IV (Production)</ApplicationName>
+      <Host>35.198.209.241</Host>
+      <Port>9061</Port>
+    </Connection>
+    <Connection>
+      <ApplicationID>9001</ApplicationID>
+      <ApplicationName>SCIECO-Urgent (Production)</ApplicationName>
+      <Host>35.198.209.241</Host>
+      <Port>9001</Port>
+    </Connection>
+  </Company>
+  <Company>
+    <CompanyName>SCG Cement</CompanyName>
+    <Connection>
+      <ApplicationID>9031</ApplicationID>
+      <ApplicationName>SCG Cement-FI-AR (Production)</ApplicationName>
+      <Host>34.87.87.109</Host>
+      <Port>9031</Port>
+    </Connection>
+    <Connection>
+      <ApplicationID>9041</ApplicationID>
+      <ApplicationName>SCG Cement-FI-AP (Production)</ApplicationName>
+      <Host>34.87.87.109</Host>
+      <Port>9041</Port>
+    </Connection>
+    <Connection>
+      <ApplicationID>9051</ApplicationID>
+      <ApplicationName>SCG Cement-FI-GL-ASSET (Production)</ApplicationName>
+      <Host>34.87.87.109</Host>
+      <Port>9051</Port>
+    </Connection>
+    <Connection>
+      <ApplicationID>9061</ApplicationID>
+      <ApplicationName>SCG Cement-PUR-IV (Production)</ApplicationName>
+      <Host>34.87.87.109</Host>
+      <Port>9061</Port>
+    </Connection>
+    <Connection>
+      <ApplicationID>9001</ApplicationID>
+      <ApplicationName>SCG Cement-Urgent (Production)</ApplicationName>
+      <Host>34.87.87.109</Host>
+      <Port>9001</Port>
+    </Connection>
+  </Company>
 </DocumentElement>
