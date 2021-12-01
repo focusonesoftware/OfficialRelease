@@ -5501,6 +5501,11 @@
         <ProductVersion>4.2.1.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.WHTData.dll</FileName>
+        <FileVersion>4.8.0.0</FileVersion>
+        <ProductVersion>4.8.0.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.WHTSpecialAccount.dll</FileName>
         <FileVersion>4.2.1.0</FileVersion>
         <ProductVersion>4.2.1.0</ProductVersion>
@@ -8761,6 +8766,11 @@
         <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.App.Report.WHTData.dll</FileName>
+        <FileVersion>4.8.0.0</FileVersion>
+        <ProductVersion>4.8.0.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.App.Report.WithHoldingTaxReport.dll</FileName>
         <FileVersion>4.8.1.0</FileVersion>
         <ProductVersion>4.8.1.0</ProductVersion>
@@ -10794,6 +10804,11 @@
         <FileName>Startup\Main\Agape.Lib.Remote.Report.VerifySaleforCN.dll</FileName>
         <FileVersion>4.2.1.0</FileVersion>
         <ProductVersion>4.2.1.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Remote.Report.WHTData.dll</FileName>
+        <FileVersion>4.8.0.0</FileVersion>
+        <ProductVersion>4.8.0.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.WithHoldingTaxReport.dll</FileName>
