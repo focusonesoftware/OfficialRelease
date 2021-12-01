@@ -7467,8 +7467,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.MaterialDefaultPlant.dll</FileName>
-        <FileVersion>4.8.3.0</FileVersion>
-        <ProductVersion>4.8.3.0</ProductVersion>
+        <FileVersion>4.8.11.0</FileVersion>
+        <ProductVersion>4.8.11.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.MaterialPurchaseOrg.dll</FileName>
@@ -7712,8 +7712,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PP.dll</FileName>
-        <FileVersion>4.8.52.0</FileVersion>
-        <ProductVersion>4.8.52.0</ProductVersion>
+        <FileVersion>4.8.53.0</FileVersion>
+        <ProductVersion>4.8.53.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.PS.DLL</FileName>
@@ -9292,8 +9292,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>4.8.342.0</FileVersion>
-        <ProductVersion>4.8.342.0</ProductVersion>
+        <FileVersion>4.8.344.0</FileVersion>
+        <ProductVersion>4.8.344.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
