@@ -7187,13 +7187,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.713.0</FileVersion>
-        <ProductVersion>4.8.713.0</ProductVersion>
+        <FileVersion>4.8.722.0</FileVersion>
+        <ProductVersion>4.8.722.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
-        <FileVersion>4.8.1.1</FileVersion>
-        <ProductVersion>4.8.1.1</ProductVersion>
+        <FileVersion>4.8.11.0</FileVersion>
+        <ProductVersion>4.8.11.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP_V2.dll</FileName>
@@ -7512,8 +7512,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Pricing.dll</FileName>
-        <FileVersion>4.8.1.1</FileVersion>
-        <ProductVersion>4.8.1.1</ProductVersion>
+        <FileVersion>4.8.12.0</FileVersion>
+        <ProductVersion>4.8.12.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.Procurement.Report.dll</FileName>
@@ -9282,8 +9282,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.CostAllocation.dll</FileName>
-        <FileVersion>4.8.1.1</FileVersion>
-        <ProductVersion>4.8.1.1</ProductVersion>
+        <FileVersion>4.8.22.0</FileVersion>
+        <ProductVersion>4.8.22.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.CreditMemoReport.dll</FileName>
@@ -9337,8 +9337,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.MarketingAnalysis.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.POS.Campaign.dll</FileName>
