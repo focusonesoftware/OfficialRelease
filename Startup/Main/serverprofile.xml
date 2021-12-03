@@ -26,6 +26,12 @@
     <Host>35.198.209.241</Host>
     <Port>9061</Port>
   </Connection>
+  <Connection>
+    <ApplicationID>9001</ApplicationID>
+    <ApplicationName>SCIECO-URGENT (Production)</ApplicationName>
+    <Host>35.198.209.241</Host>
+    <Port>9001</Port>
+  </Connection>
   </Company>
   <Company>
     <CompanyName>SCG Cement</CompanyName>
@@ -52,6 +58,12 @@
     <ApplicationName>SCG Cement-PUR-IV (Production)</ApplicationName>
     <Host>34.87.87.109</Host>
     <Port>9061</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>9001</ApplicationID>
+    <ApplicationName>SCG Cement-URGENT (Production)</ApplicationName>
+    <Host>34.87.87.109</Host>
+    <Port>9001</Port>
   </Connection>
   </Company>
   <Company>
