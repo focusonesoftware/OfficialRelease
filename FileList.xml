@@ -476,9 +476,9 @@
         <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Collection.DLL</FileName>
-        <FileVersion>3.1.30.0</FileVersion>
-        <ProductVersion>3.1.30.0</ProductVersion>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Collection.dll</FileName>
+        <FileVersion>3.1.31.0</FileVersion>
+        <ProductVersion>3.1.31.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.CreditorsMovementReport.dll</FileName>
