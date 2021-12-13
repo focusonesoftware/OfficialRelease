@@ -13,22 +13,22 @@
     <Port>6001</Port>
   </Connection>
   <Connection>
-    <ApplicationID>7001</ApplicationID>
+    <ApplicationID>7002</ApplicationID>
     <ApplicationName>SRIC UAT</ApplicationName>
     <Host>35.198.242.255</Host>
-    <Port>7001</Port>
+    <Port>7002</Port>
   </Connection>
   <Connection>
-    <ApplicationID>8001</ApplicationID>
+    <ApplicationID>8002</ApplicationID>
     <ApplicationName>SCI Eco UAT</ApplicationName>
     <Host>35.198.242.255</Host>
-    <Port>8001</Port>
+    <Port>8002</Port>
   </Connection>
   <Connection>
-    <ApplicationID>9001</ApplicationID>
+    <ApplicationID>9002</ApplicationID>
     <ApplicationName>EPS UAT</ApplicationName>
     <Host>35.198.242.255</Host>
-    <Port>9001</Port>
+    <Port>9002</Port>
   </Connection>
   <Connection>
     <ApplicationID>10001</ApplicationID>
