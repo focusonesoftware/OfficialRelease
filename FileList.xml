@@ -6622,8 +6622,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>4.8.139.0</FileVersion>
-        <ProductVersion>4.8.139.0</ProductVersion>
+        <FileVersion>4.8.142.0</FileVersion>
+        <ProductVersion>4.8.142.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -6877,8 +6877,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>4.8.144.0</FileVersion>
-        <ProductVersion>4.8.144.0</ProductVersion>
+        <FileVersion>4.8.146.0</FileVersion>
+        <ProductVersion>4.8.146.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -6997,8 +6997,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.EndCashMent.dll</FileName>
-        <FileVersion>4.8.11.0</FileVersion>
-        <ProductVersion>4.8.11.0</ProductVersion>
+        <FileVersion>4.8.16.0</FileVersion>
+        <ProductVersion>4.8.16.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.GLBySegmentReport.dll</FileName>
@@ -7067,8 +7067,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.PaymentMethod.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.12.0</FileVersion>
+        <ProductVersion>4.8.12.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.PostWithClearing.dll</FileName>
@@ -7187,8 +7187,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.722.0</FileVersion>
-        <ProductVersion>4.8.722.0</ProductVersion>
+        <FileVersion>4.8.724.0</FileVersion>
+        <ProductVersion>4.8.724.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -7737,8 +7737,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.RB.dll</FileName>
-        <FileVersion>4.8.147.0</FileVersion>
-        <ProductVersion>4.8.147.0</ProductVersion>
+        <FileVersion>4.8.148.0</FileVersion>
+        <ProductVersion>4.8.148.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Remote.APInvoiceNoRefPo.dll</FileName>
