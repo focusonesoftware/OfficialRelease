@@ -92,6 +92,12 @@
     <Host>34.126.134.239</Host>
     <Port>9061</Port>
   </Connection>
+  <Connection>
+    <ApplicationID>9001</ApplicationID>
+    <ApplicationName>SRIC-URGENT (Production)</ApplicationName>
+    <Host>34.126.134.239</Host>
+    <Port>9001</Port>
+  </Connection>
   </Company>
   <Company>
     <CompanyName>EPS</CompanyName>
@@ -118,6 +124,12 @@
     <ApplicationName>EPS-PUR-IV (Production)</ApplicationName>
     <Host>35.240.165.215</Host>
     <Port>9061</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>9001</ApplicationID>
+    <ApplicationName>EPS-URGENT (Production)</ApplicationName>
+    <Host>35.240.165.215</Host>
+    <Port>9001</Port>
   </Connection>
   </Company>
 </DocumentElement>
