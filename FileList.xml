@@ -1492,8 +1492,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.PP.ProductionOrder.dll</FileName>
-        <FileVersion>4.8.22.0</FileVersion>
-        <ProductVersion>4.8.22.0</ProductVersion>
+        <FileVersion>4.8.22.1</FileVersion>
+        <ProductVersion>4.8.22.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.PP.ProductionRequest.dll</FileName>
@@ -5192,8 +5192,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SciecoReceiptForm.dll</FileName>
-        <FileVersion>4.8.39.0</FileVersion>
-        <ProductVersion>4.8.39.0</ProductVersion>
+        <FileVersion>4.8.40.0</FileVersion>
+        <ProductVersion>4.8.40.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ServiceCenterExp.dll</FileName>
