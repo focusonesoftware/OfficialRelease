@@ -221,7 +221,7 @@
 	<ToolbarItem id = "Standard">
 		<ToolbarItem id  = "New" 
 			    icon = "Icons.16x16.NewDocumentIcon"
-			 tooltip = "New"
+			 tooltip = "Create"
 			   class = "Agape.AgroShop.Commands.AboutAgroShop"/>
 	<ToolbarItem id = "FIND" 
 			    icon    = "AGToolsBar_FIND" 
@@ -241,7 +241,7 @@
 			    class   = "Agape.AgroShop.Commands.AboutAgroShop"/>					   
 	<ToolbarItem id = "CHANGE" 
 			    icon    = "AGToolsBar_CHANGE" 
-			    tooltip = "Change"
+			    tooltip = "Edit"
 			    class   = "Agape.AgroShop.Commands.AboutAgroShop"/>					   
 	<ToolbarItem id = "PRINT" 
 			    icon    = "AGToolsBar_Print" 
@@ -249,11 +249,11 @@
 			    class   = "Agape.AgroShop.Commands.AboutAgroShop"/>					   
 	<ToolbarItem id = "LEFT" 
 			    icon    = "AGToolsBar_LEFT" 
-			    tooltip = "Left"
+			    tooltip = "Previous"
 			    class   = "Agape.AgroShop.Commands.AboutAgroShop"/>					   
 	<ToolbarItem id = "RIGHT" 
 			    icon    = "AGToolsBar_RIGHT" 
-			    tooltip = "Right"
+			    tooltip = "Next"
 			    class   = "Agape.AgroShop.Commands.AboutAgroShop"/>					   
 	<ToolbarItem id = "HOME" 
 			    icon    = "AGToolsBar_HOME" 
