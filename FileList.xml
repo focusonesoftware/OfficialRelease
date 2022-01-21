@@ -4772,8 +4772,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SRICReceiptForm.dll</FileName>
-        <FileVersion>4.8.32.0</FileVersion>
-        <ProductVersion>4.8.32.0</ProductVersion>
+        <FileVersion>4.8.33.0</FileVersion>
+        <ProductVersion>4.8.33.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.STDAPCreditNote.dll</FileName>
@@ -6812,8 +6812,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.738.0</FileVersion>
-        <ProductVersion>4.8.738.0</ProductVersion>
+        <FileVersion>4.8.737.0</FileVersion>
+        <ProductVersion>4.8.737.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
