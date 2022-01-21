@@ -41,5 +41,11 @@
     <ApplicationName>QMIX Inventory UAT</ApplicationName>
     <Host>35.198.242.255</Host>
     <Port>6003</Port>
+  </Connection>  
+  <Connection>
+    <ApplicationID>9041</ApplicationID>
+    <ApplicationName>QMIX Pre-PRD</ApplicationName>
+    <Host>34.87.122.173</Host>
+    <Port>9041</Port>
   </Connection>
 </DocumentElement>
