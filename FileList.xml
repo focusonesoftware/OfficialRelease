@@ -10886,6 +10886,11 @@
         <ProductVersion>1.0.0.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.Lib.Remote.SCG.WHTCertRenamePDFFile.dll</FileName>
+        <FileVersion>4.8.0.0</FileVersion>
+        <ProductVersion>4.8.0.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.SD.AddOnIRPC.dll</FileName>
         <FileVersion>3.1.0.1</FileVersion>
         <ProductVersion>3.1.0.1</ProductVersion>
@@ -11192,8 +11197,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
-        <FileVersion>4.8.63.0</FileVersion>
-        <ProductVersion>4.8.63.0</ProductVersion>
+        <FileVersion>4.8.64.0</FileVersion>
+        <ProductVersion>4.8.64.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.WinFormsUI.DLL</FileName>
