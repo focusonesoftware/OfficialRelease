@@ -6682,8 +6682,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CO.DLL</FileName>
-        <FileVersion>4.8.62.0</FileVersion>
-        <ProductVersion>4.8.62.0</ProductVersion>
+        <FileVersion>4.8.66.0</FileVersion>
+        <ProductVersion>4.8.66.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CO.Master.dll</FileName>
@@ -6947,8 +6947,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.AP.LandedCostGIT.dll</FileName>
-        <FileVersion>4.8.17.0</FileVersion>
-        <ProductVersion>4.8.17.0</ProductVersion>
+        <FileVersion>4.8.18.0</FileVersion>
+        <ProductVersion>4.8.18.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.AP.PN.dll</FileName>
@@ -7197,8 +7197,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.753.0</FileVersion>
-        <ProductVersion>4.8.753.0</ProductVersion>
+        <FileVersion>4.8.758.0</FileVersion>
+        <ProductVersion>4.8.758.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -9302,8 +9302,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
-        <FileVersion>4.8.55.0</FileVersion>
-        <ProductVersion>4.8.55.0</ProductVersion>
+        <FileVersion>4.8.57.0</FileVersion>
+        <ProductVersion>4.8.57.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrderReport.dll</FileName>
