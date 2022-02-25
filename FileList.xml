@@ -6467,8 +6467,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DLL</FileName>
-        <FileVersion>4.8.144.0</FileVersion>
-        <ProductVersion>4.8.144.0</ProductVersion>
+        <FileVersion>4.8.147.0</FileVersion>
+        <ProductVersion>4.8.147.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DocumentStatus.dll</FileName>
@@ -6637,8 +6637,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DLL</FileName>
-        <FileVersion>4.8.128.0</FileVersion>
-        <ProductVersion>4.8.128.0</ProductVersion>
+        <FileVersion>4.8.129.0</FileVersion>
+        <ProductVersion>4.8.129.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DTCUpdateAccountAgent.dll</FileName>
@@ -6872,8 +6872,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>4.8.154.0</FileVersion>
-        <ProductVersion>4.8.154.0</ProductVersion>
+        <FileVersion>4.8.156.0</FileVersion>
+        <ProductVersion>4.8.156.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -7182,8 +7182,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.758.0</FileVersion>
-        <ProductVersion>4.8.758.0</ProductVersion>
+        <FileVersion>4.8.759.0</FileVersion>
+        <ProductVersion>4.8.759.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -9282,8 +9282,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
-        <FileVersion>4.8.57.0</FileVersion>
-        <ProductVersion>4.8.57.0</ProductVersion>
+        <FileVersion>4.8.58.0</FileVersion>
+        <ProductVersion>4.8.58.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrderReport.dll</FileName>
