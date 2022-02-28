@@ -6636,11 +6636,6 @@
         <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\Agape.App.BP.DLL</FileName>
-        <FileVersion>4.8.129.0</FileVersion>
-        <ProductVersion>4.8.129.0</ProductVersion>
-    </Description>
-    <Description>
         <FileName>Startup\Main\Agape.App.BP.DTCUpdateAccountAgent.dll</FileName>
         <FileVersion>3.1.4.0</FileVersion>
         <ProductVersion>3.1.4.0</ProductVersion>
@@ -6649,6 +6644,11 @@
         <FileName>Startup\Main\Agape.App.BP.DTCUpdateSaleRepresent.dll</FileName>
         <FileVersion>3.1.1.0</FileVersion>
         <ProductVersion>3.1.1.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.App.BP.dll</FileName>
+        <FileVersion>4.8.129.0</FileVersion>
+        <ProductVersion>4.8.129.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Budget.Report.dll</FileName>
@@ -7602,8 +7602,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>4.8.477.0</FileVersion>
-        <ProductVersion>4.8.477.0</ProductVersion>
+        <FileVersion>4.8.480.0</FileVersion>
+        <ProductVersion>4.8.480.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
