@@ -1257,8 +1257,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.Movement.DLL</FileName>
-        <FileVersion>4.8.27.0</FileVersion>
-        <ProductVersion>4.8.27.0</ProductVersion>
+        <FileVersion>4.8.28.0</FileVersion>
+        <ProductVersion>4.8.28.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.POReport.dll</FileName>
@@ -1807,8 +1807,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ARSubLedgerV4.dll</FileName>
-        <FileVersion>4.8.6.0</FileVersion>
-        <ProductVersion>4.8.6.0</ProductVersion>
+        <FileVersion>4.8.8.0</FileVersion>
+        <ProductVersion>4.8.8.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ASVBILR02Form.dll</FileName>
@@ -4542,8 +4542,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXSaleOrderForm.dll</FileName>
-        <FileVersion>4.8.8.0</FileVersion>
-        <ProductVersion>4.8.8.0</ProductVersion>
+        <FileVersion>4.8.9.0</FileVersion>
+        <ProductVersion>4.8.9.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXSaleQuotationForm.dll</FileName>
@@ -7212,8 +7212,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.768.0</FileVersion>
-        <ProductVersion>4.8.768.0</ProductVersion>
+        <FileVersion>4.8.767.0</FileVersion>
+        <ProductVersion>4.8.767.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -9506,14 +9506,124 @@
         <ProductVersion>4.2.1.3</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.Lib.API.CPAC_SAP_BPC.dll</FileName>
+        <FileVersion>4.8.4.0</FileVersion>
+        <ProductVersion>4.8.4.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.API.dll</FileName>
+        <FileVersion>4.8.52.0</FileVersion>
+        <ProductVersion>4.8.52.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.BP.dll</FileName>
+        <FileVersion>4.8.85.0</FileVersion>
+        <ProductVersion>4.8.85.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.CO.AccountPosting.dll</FileName>
+        <FileVersion>4.8.100.0</FileVersion>
+        <ProductVersion>4.8.100.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.CO.Report.dll</FileName>
+        <FileVersion>4.8.28.0</FileVersion>
+        <ProductVersion>4.8.28.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.Lib.CS.ContractToPayment.dll</FileName>
         <FileVersion>3.1.0.15</FileVersion>
         <ProductVersion>3.1.0.15</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.Lib.CentralInstance.dll</FileName>
+        <FileVersion>4.8.75.0</FileVersion>
+        <ProductVersion>4.8.75.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Conf.dll</FileName>
+        <FileVersion>4.8.91.0</FileVersion>
+        <ProductVersion>4.8.91.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.FI.AP.dll</FileName>
+        <FileVersion>4.8.315.0</FileVersion>
+        <ProductVersion>4.8.315.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.FI.AR.dll</FileName>
+        <FileVersion>4.8.141.0</FileVersion>
+        <ProductVersion>4.8.141.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.FI.AccountPosting.dll</FileName>
+        <FileVersion>4.8.75.0</FileVersion>
+        <ProductVersion>4.8.75.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.FI.PostWithClearing.dll</FileName>
+        <FileVersion>4.8.26.0</FileVersion>
+        <ProductVersion>4.8.26.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.FI.Report.LedgerDetailByOpenItem.dll</FileName>
+        <FileVersion>4.8.19.0</FileVersion>
+        <ProductVersion>4.8.19.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.FI.Report.LedgerDetailV4.dll</FileName>
+        <FileVersion>4.8.18.0</FileVersion>
+        <ProductVersion>4.8.18.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.FI.Report.dll</FileName>
+        <FileVersion>4.8.111.0</FileVersion>
+        <ProductVersion>4.8.111.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.FI.SubSequence.dll</FileName>
+        <FileVersion>4.8.25.0</FileVersion>
+        <ProductVersion>4.8.25.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.FI.TEXReportWHT.dll</FileName>
+        <FileVersion>4.8.20.0</FileVersion>
+        <ProductVersion>4.8.20.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.FI.ValidationService.dll</FileName>
+        <FileVersion>4.8.49.0</FileVersion>
+        <ProductVersion>4.8.49.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.GRPCGateway.dll</FileName>
+        <FileVersion>4.8.2.1</FileVersion>
+        <ProductVersion>4.8.2.1</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.LegacyManagement.dll</FileName>
+        <FileVersion>4.8.2.2</FileVersion>
+        <ProductVersion>4.8.2.2</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.MM.AutoGIToBilling.dll</FileName>
+        <FileVersion>4.8.30.0</FileVersion>
+        <ProductVersion>4.8.30.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.MM.IRM.dll</FileName>
+        <FileVersion>4.8.67.0</FileVersion>
+        <ProductVersion>4.8.67.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.Lib.MM.Serial.dll</FileName>
         <FileVersion>3.1.0.4</FileVersion>
         <ProductVersion>3.1.0.4</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.MM.dll</FileName>
+        <FileVersion>4.8.606.0</FileVersion>
+        <ProductVersion>4.8.606.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.API.dll</FileName>
@@ -11561,9 +11671,29 @@
         <ProductVersion>4.2.1.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.ANTBillingForm.dll</FileName>
+        <FileVersion>4.8.11.0</FileVersion>
+        <ProductVersion>4.8.11.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.APSubLedger.dll</FileName>
+        <FileVersion>4.8.59.0</FileVersion>
+        <ProductVersion>4.8.59.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.ARSubLedgerV4.dll</FileName>
+        <FileVersion>4.8.33.0</FileVersion>
+        <ProductVersion>4.8.33.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.Lib.Report.AccruedRevenue.dll</FileName>
         <FileVersion>3.1.4.0</FileVersion>
         <ProductVersion>3.1.4.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.CreditLimit.dll</FileName>
+        <FileVersion>4.8.12.0</FileVersion>
+        <ProductVersion>4.8.12.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Report.CustomerAgingReportByCollectionDate.dll</FileName>
@@ -11591,6 +11721,16 @@
         <ProductVersion>3.1.1.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.FinanceInventory.dll</FileName>
+        <FileVersion>4.8.23.0</FileVersion>
+        <ProductVersion>4.8.23.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.GILibraryForm.dll</FileName>
+        <FileVersion>4.8.11.0</FileVersion>
+        <ProductVersion>4.8.11.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.Lib.Report.GoodsIssue.dll</FileName>
         <FileVersion>3.0.0.1</FileVersion>
         <ProductVersion>3.0.0.1</ProductVersion>
@@ -11611,9 +11751,29 @@
         <ProductVersion>3.1.12.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.InputVatReport.dll</FileName>
+        <FileVersion>4.8.28.0</FileVersion>
+        <ProductVersion>4.8.28.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.Lib.Report.ListOfAsset.dll</FileName>
-        <FileVersion>3.1.21.0</FileVersion>
-        <ProductVersion>3.1.21.0</ProductVersion>
+        <FileVersion>4.8.44.0</FileVersion>
+        <ProductVersion>4.8.44.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.NewCustomerV2.dll</FileName>
+        <FileVersion>4.8.25.0</FileVersion>
+        <ProductVersion>4.8.25.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.OpenCloseStock.dll</FileName>
+        <FileVersion>4.8.166.0</FileVersion>
+        <ProductVersion>4.8.166.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.PoList.dll</FileName>
+        <FileVersion>4.8.23.0</FileVersion>
+        <ProductVersion>4.8.23.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Report.QMIXSaleOrderForm.dll</FileName>
@@ -11622,13 +11782,38 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Report.QMIXSaleQuotationForm.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.10.0</FileVersion>
+        <ProductVersion>4.8.10.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.QmixReceiptForm.dll</FileName>
+        <FileVersion>4.8.54.0</FileVersion>
+        <ProductVersion>4.8.54.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Report.SCGCementBillingForm.dll</FileName>
-        <FileVersion>4.8.33.0</FileVersion>
-        <ProductVersion>4.8.33.0</ProductVersion>
+        <FileVersion>4.8.63.0</FileVersion>
+        <ProductVersion>4.8.63.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.SCIECOBillingForm.dll</FileName>
+        <FileVersion>4.8.56.0</FileVersion>
+        <ProductVersion>4.8.56.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.SCIECOCNForm.dll</FileName>
+        <FileVersion>4.8.48.0</FileVersion>
+        <ProductVersion>4.8.48.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.SCIECODNForm.dll</FileName>
+        <FileVersion>4.8.35.0</FileVersion>
+        <ProductVersion>4.8.35.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.SCIecoReceiptForm.dll</FileName>
+        <FileVersion>4.8.67.0</FileVersion>
+        <ProductVersion>4.8.67.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Report.SLSNARStatementInvoiceForm.dll</FileName>
@@ -11639,6 +11824,21 @@
         <FileName>Startup\Main\Agape.Lib.Report.SLSNSaleQuotationForm.dll</FileName>
         <FileVersion>3.1.1.1</FileVersion>
         <ProductVersion>3.1.1.1</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.SRICDomesticInvoice.dll</FileName>
+        <FileVersion>4.8.24.0</FileVersion>
+        <ProductVersion>4.8.24.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.SRICReceiptForm.dll</FileName>
+        <FileVersion>4.8.14.0</FileVersion>
+        <ProductVersion>4.8.14.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Report.SaleQuotationLibraryForm.dll</FileName>
+        <FileVersion>4.8.14.0</FileVersion>
+        <ProductVersion>4.8.14.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Report.SaleShippingandBilling.dll</FileName>
@@ -11761,9 +11961,19 @@
         <ProductVersion>3.1.1.8</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.Lib.SD.DeliveryOrder.dll</FileName>
+        <FileVersion>4.8.90.0</FileVersion>
+        <ProductVersion>4.8.90.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.SD.dll</FileName>
+        <FileVersion>4.8.459.0</FileVersion>
+        <ProductVersion>4.8.459.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.Lib.Util.dll</FileName>
-        <FileVersion>3.1.0.36</FileVersion>
-        <ProductVersion>3.1.0.36</ProductVersion>
+        <FileVersion>4.8.211.0</FileVersion>
+        <ProductVersion>4.8.211.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lip.Report.APInvoiceNoRefPo.dll</FileName>
