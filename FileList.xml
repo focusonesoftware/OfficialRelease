@@ -7067,8 +7067,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.PostWithClearing.dll</FileName>
-        <FileVersion>4.8.28.0</FileVersion>
-        <ProductVersion>4.8.28.0</ProductVersion>
+        <FileVersion>4.8.29.0</FileVersion>
+        <ProductVersion>4.8.29.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Reclass.dll</FileName>
@@ -9277,8 +9277,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>4.8.352.0</FileVersion>
-        <ProductVersion>4.8.352.0</ProductVersion>
+        <FileVersion>4.8.354.0</FileVersion>
+        <ProductVersion>4.8.354.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
