@@ -127,8 +127,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Asset.DLL</FileName>
-        <FileVersion>4.8.46.0</FileVersion>
-        <ProductVersion>4.8.46.0</ProductVersion>
+        <FileVersion>4.8.48.0</FileVersion>
+        <ProductVersion>4.8.48.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Authorization.DLL</FileName>
@@ -1167,8 +1167,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DLL</FileName>
-        <FileVersion>4.8.149.0</FileVersion>
-        <ProductVersion>4.8.149.0</ProductVersion>
+        <FileVersion>4.8.150.0</FileVersion>
+        <ProductVersion>4.8.150.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DTCBorrowReport.dll</FileName>
@@ -4542,8 +4542,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXSaleOrderForm.dll</FileName>
-        <FileVersion>4.8.9.0</FileVersion>
-        <ProductVersion>4.8.9.0</ProductVersion>
+        <FileVersion>4.8.10.0</FileVersion>
+        <ProductVersion>4.8.10.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXSaleQuotationForm.dll</FileName>
@@ -6247,8 +6247,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DeliveryOrder.dll</FileName>
-        <FileVersion>4.8.22.0</FileVersion>
-        <ProductVersion>4.8.22.0</ProductVersion>
+        <FileVersion>4.8.23.0</FileVersion>
+        <ProductVersion>4.8.23.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DeliveryOrderReport.dll</FileName>
@@ -7097,8 +7097,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Report.LedgerDetailByOpenItem.dll</FileName>
-        <FileVersion>4.8.8.0</FileVersion>
-        <ProductVersion>4.8.8.0</ProductVersion>
+        <FileVersion>4.8.9.0</FileVersion>
+        <ProductVersion>4.8.9.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Report.LedgerDetailByProject.dll</FileName>
@@ -7602,8 +7602,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>4.8.482.0</FileVersion>
-        <ProductVersion>4.8.482.0</ProductVersion>
+        <FileVersion>4.8.484.0</FileVersion>
+        <ProductVersion>4.8.484.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -7762,8 +7762,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.APSubLedger.dll</FileName>
-        <FileVersion>4.8.30.0</FileVersion>
-        <ProductVersion>4.8.30.0</ProductVersion>
+        <FileVersion>4.8.31.0</FileVersion>
+        <ProductVersion>4.8.31.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.APSubLedgerByProject.dll</FileName>
@@ -7817,8 +7817,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ARSubLedgerV4.dll</FileName>
-        <FileVersion>4.8.16.0</FileVersion>
-        <ProductVersion>4.8.16.0</ProductVersion>
+        <FileVersion>4.8.17.0</FileVersion>
+        <ProductVersion>4.8.17.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ASWPOOutstandingReport.dll</FileName>
