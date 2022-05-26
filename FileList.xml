@@ -6872,8 +6872,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>4.8.161.0</FileVersion>
-        <ProductVersion>4.8.161.0</ProductVersion>
+        <FileVersion>4.8.163.0</FileVersion>
+        <ProductVersion>4.8.163.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -9277,8 +9277,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>4.8.359.0</FileVersion>
-        <ProductVersion>4.8.359.0</ProductVersion>
+        <FileVersion>4.8.360.0</FileVersion>
+        <ProductVersion>4.8.360.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
