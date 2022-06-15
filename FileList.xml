@@ -7417,8 +7417,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.APSubLedger.dll</FileName>
-        <FileVersion>4.8.36.0</FileVersion>
-        <ProductVersion>4.8.36.0</ProductVersion>
+        <FileVersion>4.8.37.0</FileVersion>
+        <ProductVersion>4.8.37.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.APSubLedgerByProject.dll</FileName>
@@ -7472,8 +7472,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ARSubLedgerV4.dll</FileName>
-        <FileVersion>4.8.22.0</FileVersion>
-        <ProductVersion>4.8.22.0</ProductVersion>
+        <FileVersion>4.8.23.0</FileVersion>
+        <ProductVersion>4.8.23.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ASWPOOutstandingReport.dll</FileName>
