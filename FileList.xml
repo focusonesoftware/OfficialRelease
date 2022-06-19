@@ -4677,8 +4677,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCGCementBillingForm.dll</FileName>
-        <FileVersion>4.8.32.0</FileVersion>
-        <ProductVersion>4.8.32.0</ProductVersion>
+        <FileVersion>4.8.34.0</FileVersion>
+        <ProductVersion>4.8.34.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCGCementTaxForm.dll</FileName>
@@ -6242,8 +6242,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DLL</FileName>
-        <FileVersion>4.8.97.0</FileVersion>
-        <ProductVersion>4.8.97.0</ProductVersion>
+        <FileVersion>4.8.98.0</FileVersion>
+        <ProductVersion>4.8.98.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DeliveryOrder.dll</FileName>
@@ -7182,8 +7182,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.802.0</FileVersion>
-        <ProductVersion>4.8.802.0</ProductVersion>
+        <FileVersion>4.8.803.0</FileVersion>
+        <ProductVersion>4.8.803.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
