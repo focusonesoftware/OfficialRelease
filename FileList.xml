@@ -127,8 +127,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Asset.DLL</FileName>
-        <FileVersion>4.8.48.0</FileVersion>
-        <ProductVersion>4.8.48.0</ProductVersion>
+        <FileVersion>4.8.52.0</FileVersion>
+        <ProductVersion>4.8.52.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Authorization.DLL</FileName>
@@ -6617,8 +6617,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>4.8.141.0</FileVersion>
-        <ProductVersion>4.8.141.0</ProductVersion>
+        <FileVersion>4.8.147.0</FileVersion>
+        <ProductVersion>4.8.147.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -6677,8 +6677,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CO.Report.dll</FileName>
-        <FileVersion>4.8.37.0</FileVersion>
-        <ProductVersion>4.8.37.0</ProductVersion>
+        <FileVersion>4.8.38.0</FileVersion>
+        <ProductVersion>4.8.38.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CRM.ImportSaleOpportunity.dll</FileName>
