@@ -672,8 +672,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Reclass.dll</FileName>
-        <FileVersion>4.8.2.0</FileVersion>
-        <ProductVersion>4.8.2.0</ProductVersion>
+        <FileVersion>4.8.3.0</FileVersion>
+        <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Reconcile.Incoming.dll</FileName>
@@ -6732,8 +6732,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Reclass.dll</FileName>
-        <FileVersion>4.8.4.0</FileVersion>
-        <ProductVersion>4.8.4.0</ProductVersion>
+        <FileVersion>4.8.5.0</FileVersion>
+        <ProductVersion>4.8.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Reconcile.Incoming.dll</FileName>
