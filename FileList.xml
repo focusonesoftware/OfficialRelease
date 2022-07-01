@@ -132,8 +132,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.BP.DLL</FileName>
-        <FileVersion>4.8.49.0</FileVersion>
-        <ProductVersion>4.8.49.0</ProductVersion>
+        <FileVersion>4.8.50.0</FileVersion>
+        <ProductVersion>4.8.50.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.BP.DTCUpdateSaleRepresent.dll</FileName>
@@ -6127,8 +6127,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DLL</FileName>
-        <FileVersion>4.8.154.0</FileVersion>
-        <ProductVersion>4.8.154.0</ProductVersion>
+        <FileVersion>4.8.155.0</FileVersion>
+        <ProductVersion>4.8.155.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DocumentStatus.dll</FileName>
@@ -6296,6 +6296,11 @@
         <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.App.BP.DLL</FileName>
+        <FileVersion>4.8.131.0</FileVersion>
+        <ProductVersion>4.8.131.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.App.BP.DTCUpdateAccountAgent.dll</FileName>
         <FileVersion>3.1.4.0</FileVersion>
         <ProductVersion>3.1.4.0</ProductVersion>
@@ -6304,11 +6309,6 @@
         <FileName>Startup\Main\Agape.App.BP.DTCUpdateSaleRepresent.dll</FileName>
         <FileVersion>3.1.1.0</FileVersion>
         <ProductVersion>3.1.1.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.App.BP.dll</FileName>
-        <FileVersion>4.8.130.0</FileVersion>
-        <ProductVersion>4.8.130.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Budget.Report.dll</FileName>
@@ -6532,8 +6532,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>4.8.169.0</FileVersion>
-        <ProductVersion>4.8.169.0</ProductVersion>
+        <FileVersion>4.8.170.0</FileVersion>
+        <ProductVersion>4.8.170.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
