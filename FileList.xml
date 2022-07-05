@@ -13726,6 +13726,11 @@
         <ProductVersion>9.0.30729.1</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\itextsharp.dll</FileName>
+        <FileVersion>5.5.13.3</FileVersion>
+        <ProductVersion>5.5.13.3</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\langu.xml</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
