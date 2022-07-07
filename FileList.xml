@@ -152,8 +152,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.BP.DLL</FileName>
-        <FileVersion>4.8.49.0</FileVersion>
-        <ProductVersion>4.8.49.0</ProductVersion>
+        <FileVersion>4.8.50.0</FileVersion>
+        <ProductVersion>4.8.50.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.BP.DTCUpdateSaleRepresent.dll</FileName>
@@ -1822,8 +1822,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ARWithholdingTaxReportV1.dll</FileName>
-        <FileVersion>4.8.2.0</FileVersion>
-        <ProductVersion>4.8.2.0</ProductVersion>
+        <FileVersion>4.8.4.0</FileVersion>
+        <ProductVersion>4.8.4.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ASVBILR02Form.dll</FileName>
@@ -6247,8 +6247,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DLL</FileName>
-        <FileVersion>4.8.99.0</FileVersion>
-        <ProductVersion>4.8.99.0</ProductVersion>
+        <FileVersion>4.8.100.0</FileVersion>
+        <ProductVersion>4.8.100.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DeliveryOrder.dll</FileName>
@@ -6472,8 +6472,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DLL</FileName>
-        <FileVersion>4.8.154.0</FileVersion>
-        <ProductVersion>4.8.154.0</ProductVersion>
+        <FileVersion>4.8.155.0</FileVersion>
+        <ProductVersion>4.8.155.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DocumentStatus.dll</FileName>
@@ -6642,8 +6642,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DLL</FileName>
-        <FileVersion>4.8.130.0</FileVersion>
-        <ProductVersion>4.8.130.0</ProductVersion>
+        <FileVersion>4.8.131.0</FileVersion>
+        <ProductVersion>4.8.131.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DTCUpdateAccountAgent.dll</FileName>
@@ -6877,8 +6877,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>4.8.169.0</FileVersion>
-        <ProductVersion>4.8.169.0</ProductVersion>
+        <FileVersion>4.8.170.0</FileVersion>
+        <ProductVersion>4.8.170.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -7072,8 +7072,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.PostWithClearing.dll</FileName>
-        <FileVersion>4.8.34.0</FileVersion>
-        <ProductVersion>4.8.34.0</ProductVersion>
+        <FileVersion>4.8.35.0</FileVersion>
+        <ProductVersion>4.8.35.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Reclass.dll</FileName>
@@ -7187,8 +7187,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.813.0</FileVersion>
-        <ProductVersion>4.8.813.0</ProductVersion>
+        <FileVersion>4.8.814.0</FileVersion>
+        <ProductVersion>4.8.814.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -7827,8 +7827,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ARWithholdingTaxReportV1.dll</FileName>
-        <FileVersion>4.8.2.0</FileVersion>
-        <ProductVersion>4.8.2.0</ProductVersion>
+        <FileVersion>4.8.4.0</FileVersion>
+        <ProductVersion>4.8.4.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ASWPOOutstandingReport.dll</FileName>
