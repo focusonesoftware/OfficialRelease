@@ -5172,8 +5172,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SaleShippingandBillingV2.dll</FileName>
-        <FileVersion>4.8.8.0</FileVersion>
-        <ProductVersion>4.8.8.0</ProductVersion>
+        <FileVersion>4.8.10.0</FileVersion>
+        <ProductVersion>4.8.10.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SaleShippingandBillingV3.dll</FileName>
@@ -6642,8 +6642,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DLL</FileName>
-        <FileVersion>4.8.131.0</FileVersion>
-        <ProductVersion>4.8.131.0</ProductVersion>
+        <FileVersion>4.8.132.0</FileVersion>
+        <ProductVersion>4.8.132.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DTCUpdateAccountAgent.dll</FileName>
@@ -8987,8 +8987,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.SaleShippingandBillingV2.dll</FileName>
-        <FileVersion>4.8.19.0</FileVersion>
-        <ProductVersion>4.8.19.0</ProductVersion>
+        <FileVersion>4.8.20.0</FileVersion>
+        <ProductVersion>4.8.20.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.SaleShippingandBillingV3.dll</FileName>
