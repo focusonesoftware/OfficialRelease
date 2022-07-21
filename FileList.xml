@@ -11252,8 +11252,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
-        <FileVersion>4.8.66.4</FileVersion>
-        <ProductVersion>4.8.66.4</ProductVersion>
+        <FileVersion>4.8.66.5</FileVersion>
+        <ProductVersion>4.8.66.5</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.WinFormsUI.DLL</FileName>
@@ -14547,6 +14547,11 @@
     </Description>
     <Description>
         <FileName>Startup\data\resources\StringResources.en.resourcesConfig</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\data\resources\StringResources.en.resourcesConfig.xml</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
