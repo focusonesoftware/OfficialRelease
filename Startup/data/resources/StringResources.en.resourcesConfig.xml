@@ -19,7 +19,7 @@
   <Resource Name="XML.MainMenu.DebugMenu" Type="System.String" FileName="" Value="&amp;Debug" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.Was.WasMaintain.Label" Type="System.String" FileName="" Value="WasMaintain" />
   <Resource Name="Dialog.Options.IDEOptions.TextEditor.Behaviour.NormalMouseDirectionRadioButton" Type="System.String" FileName="" Value="Normal" />
-  <Resource Name="AG.FIACT.FOLDER07.DESC" Type="System.String" FileName="" Value="FI SUPER HERO TOOL" />
+  <Resource Name="AG.FIACT.FOLDER07.DESC" Type="System.String" FileName="" Value="FI TOOL" />
   <Resource Name="Dialog.Options.IDEOptions.CodeGenerationOptionsPanel.CodeGenerationOptionsGroupBox" Type="System.String" FileName="" Value="Code generation options" />
   <Resource Name="Dialog.Options.TextEditorOptions.EditHighlighting.UserLabel" Type="System.String" FileName="" Value="User-defined:" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.CS.CustomerServices.Description" Type="System.String" FileName="" Value="Service Call setup" />
