@@ -7187,8 +7187,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.820.0</FileVersion>
-        <ProductVersion>4.8.820.0</ProductVersion>
+        <FileVersion>4.8.823.0</FileVersion>
+        <ProductVersion>4.8.823.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -14144,6 +14144,11 @@
         <FileName>Startup\Main\dte80a.olb</FileName>
         <FileVersion>9.0.30729.1</FileVersion>
         <ProductVersion>9.0.30729.1</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\itextsharp.dll</FileName>
+        <FileVersion>5.5.13.3</FileVersion>
+        <ProductVersion>5.5.13.3</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\langu.xml</FileName>
