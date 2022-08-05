@@ -6302,8 +6302,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>4.8.148.0</FileVersion>
-        <ProductVersion>4.8.148.0</ProductVersion>
+        <FileVersion>4.8.149.0</FileVersion>
+        <ProductVersion>4.8.149.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -6717,18 +6717,18 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.JVInterfaceV2.dll</FileName>
-        <FileVersion>4.8.5.0</FileVersion>
-        <ProductVersion>4.8.5.0</ProductVersion>
+        <FileVersion>4.8.6.0</FileVersion>
+        <ProductVersion>4.8.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MaintainTax.dll</FileName>
-        <FileVersion>4.8.49.0</FileVersion>
-        <ProductVersion>4.8.49.0</ProductVersion>
+        <FileVersion>4.8.50.0</FileVersion>
+        <ProductVersion>4.8.50.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MaintainWht.dll</FileName>
-        <FileVersion>4.8.17.0</FileVersion>
-        <ProductVersion>4.8.17.0</ProductVersion>
+        <FileVersion>4.8.18.0</FileVersion>
+        <ProductVersion>4.8.18.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MapAdditionalGL.dll</FileName>
@@ -6752,8 +6752,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.PostWithClearing.dll</FileName>
-        <FileVersion>4.8.35.0</FileVersion>
-        <ProductVersion>4.8.35.0</ProductVersion>
+        <FileVersion>4.8.36.0</FileVersion>
+        <ProductVersion>4.8.36.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Reclass.dll</FileName>
