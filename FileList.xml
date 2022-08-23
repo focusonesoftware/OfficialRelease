@@ -1147,8 +1147,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DLL</FileName>
-        <FileVersion>4.8.150.0</FileVersion>
-        <ProductVersion>4.8.150.0</ProductVersion>
+        <FileVersion>4.8.151.0</FileVersion>
+        <ProductVersion>4.8.151.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DTCBorrowReport.dll</FileName>
@@ -7287,8 +7287,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>4.8.488.0</FileVersion>
-        <ProductVersion>4.8.488.0</ProductVersion>
+        <FileVersion>4.8.489.0</FileVersion>
+        <ProductVersion>4.8.489.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
