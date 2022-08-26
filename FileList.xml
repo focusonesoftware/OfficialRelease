@@ -6302,8 +6302,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>4.8.150.0</FileVersion>
-        <ProductVersion>4.8.150.0</ProductVersion>
+        <FileVersion>4.8.151.0</FileVersion>
+        <ProductVersion>4.8.151.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -6747,8 +6747,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.PaymentMethod.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.13.0</FileVersion>
+        <ProductVersion>4.8.13.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.PostWithClearing.dll</FileName>
