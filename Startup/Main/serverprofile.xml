@@ -3,43 +3,43 @@
   <Connection>
     <ApplicationID>5002</ApplicationID>
     <ApplicationName>SCG Cement UAT</ApplicationName>
-    <Host>35.198.242.255</Host>
+    <Host>203.154.59.23</Host>
     <Port>5002</Port>
   </Connection>
   <Connection>
     <ApplicationID>6001</ApplicationID>
     <ApplicationName>QMIX UAT</ApplicationName>
-    <Host>35.198.242.255</Host>
+    <Host>203.154.59.23</Host>
     <Port>6001</Port>
   </Connection>
   <Connection>
     <ApplicationID>7002</ApplicationID>
     <ApplicationName>SRIC UAT</ApplicationName>
-    <Host>35.198.242.255</Host>
+    <Host>203.154.59.23</Host>
     <Port>7002</Port>
   </Connection>
   <Connection>
     <ApplicationID>8002</ApplicationID>
     <ApplicationName>SCI Eco UAT</ApplicationName>
-    <Host>35.198.242.255</Host>
+    <Host>203.154.59.23</Host>
     <Port>8002</Port>
   </Connection>
   <Connection>
     <ApplicationID>9002</ApplicationID>
     <ApplicationName>EPS UAT</ApplicationName>
-    <Host>35.198.242.255</Host>
+    <Host>203.154.59.23</Host>
     <Port>9002</Port>
   </Connection>
   <Connection>
     <ApplicationID>10001</ApplicationID>
     <ApplicationName>QMIX Interface UAT</ApplicationName>
-    <Host>35.198.242.255</Host>
+    <Host>203.154.59.23</Host>
     <Port>10001</Port>
   </Connection>
   <Connection>
     <ApplicationID>6003</ApplicationID>
     <ApplicationName>QMIX Inventory UAT</ApplicationName>
-    <Host>35.198.242.255</Host>
+    <Host>203.154.59.23</Host>
     <Port>6003</Port>
   </Connection>  
   <Connection>
