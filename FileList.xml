@@ -477,8 +477,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.AR.dll</FileName>
-        <FileVersion>4.8.40.0</FileVersion>
-        <ProductVersion>4.8.40.0</ProductVersion>
+        <FileVersion>4.8.41.0</FileVersion>
+        <ProductVersion>4.8.41.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.ARInterface.dll</FileName>
@@ -612,8 +612,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.MaintainTax.dll</FileName>
-        <FileVersion>4.8.18.0</FileVersion>
-        <ProductVersion>4.8.18.0</ProductVersion>
+        <FileVersion>4.8.19.0</FileVersion>
+        <ProductVersion>4.8.19.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.MaintainWht.dll</FileName>
@@ -1167,8 +1167,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DLL</FileName>
-        <FileVersion>4.8.150.0</FileVersion>
-        <ProductVersion>4.8.150.0</ProductVersion>
+        <FileVersion>4.8.151.0</FileVersion>
+        <ProductVersion>4.8.151.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DTCBorrowReport.dll</FileName>
@@ -7042,8 +7042,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MaintainTax.dll</FileName>
-        <FileVersion>4.8.52.0</FileVersion>
-        <ProductVersion>4.8.52.0</ProductVersion>
+        <FileVersion>4.8.53.0</FileVersion>
+        <ProductVersion>4.8.53.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MaintainWht.dll</FileName>
@@ -7187,8 +7187,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.833.0</FileVersion>
-        <ProductVersion>4.8.833.0</ProductVersion>
+        <FileVersion>4.8.835.0</FileVersion>
+        <ProductVersion>4.8.835.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -7607,8 +7607,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>4.8.486.0</FileVersion>
-        <ProductVersion>4.8.486.0</ProductVersion>
+        <FileVersion>4.8.489.0</FileVersion>
+        <ProductVersion>4.8.489.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -8987,8 +8987,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.SaleShippingandBillingV2.dll</FileName>
-        <FileVersion>4.8.22.0</FileVersion>
-        <ProductVersion>4.8.22.0</ProductVersion>
+        <FileVersion>4.8.23.0</FileVersion>
+        <ProductVersion>4.8.23.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.SaleShippingandBillingV3.dll</FileName>
