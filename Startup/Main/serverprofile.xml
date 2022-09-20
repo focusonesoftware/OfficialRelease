@@ -3,19 +3,19 @@
   <Connection>
     <ApplicationID>6001</ApplicationID>
     <ApplicationName>SLSN UAT</ApplicationName>
-    <Host>35.247.145.172</Host>
+    <Host>103.138.178.101</Host>
     <Port>6001</Port>
   </Connection>
   <Connection>
     <ApplicationID>6002</ApplicationID>
     <ApplicationName>SLSN PREPRD-Test ETax</ApplicationName>
-    <Host>35.247.145.172</Host>
+    <Host>103.138.178.101</Host>
     <Port>6002</Port>
   </Connection>
   <Connection>
     <ApplicationID>8001</ApplicationID>
     <ApplicationName>SLSN PREPRD-Test CO</ApplicationName>
-    <Host>35.247.145.172</Host>
+    <Host>34.87.104.10</Host>
     <Port>8001</Port>
   </Connection>
 </DocumentElement>
