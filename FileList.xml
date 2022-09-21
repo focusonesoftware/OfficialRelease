@@ -1742,8 +1742,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.APSubLedger.dll</FileName>
-        <FileVersion>4.8.11.0</FileVersion>
-        <ProductVersion>4.8.11.0</ProductVersion>
+        <FileVersion>4.8.17.0</FileVersion>
+        <ProductVersion>4.8.17.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.APSubLedgerByProject.dll</FileName>
@@ -7777,8 +7777,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.APSubLedger.dll</FileName>
-        <FileVersion>4.8.38.0</FileVersion>
-        <ProductVersion>4.8.38.0</ProductVersion>
+        <FileVersion>4.8.48.0</FileVersion>
+        <ProductVersion>4.8.48.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.APSubLedgerByProject.dll</FileName>
