@@ -3,7 +3,7 @@
   <Connection>
     <ApplicationID>9001</ApplicationID>
     <ApplicationName>9001-BIM-PRD</ApplicationName>
-    <Host>34.87.60.135</Host>
+    <Host>103.138.179.110</Host>
     <Port>9001</Port>
   </Connection>
 </DocumentElement>
