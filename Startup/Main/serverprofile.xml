@@ -3,7 +3,7 @@
   <Connection>
     <ApplicationID>5001</ApplicationID>
     <ApplicationName>5001-BIM-TEST</ApplicationName>
-    <Host>34.87.60.135</Host>
+    <Host>103.138.179.110</Host>
     <Port>5001</Port>
   </Connection>
 </DocumentElement>
