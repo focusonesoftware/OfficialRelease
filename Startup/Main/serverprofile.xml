@@ -7,10 +7,10 @@
     <Port>5002</Port>
   </Connection>
   <Connection>
-    <ApplicationID>6001</ApplicationID>
+    <ApplicationID>4002</ApplicationID>
     <ApplicationName>QMIX UAT</ApplicationName>
     <Host>103.138.179.101</Host>
-    <Port>6001</Port>
+    <Port>4002</Port>
   </Connection>
   <Connection>
     <ApplicationID>7002</ApplicationID>
