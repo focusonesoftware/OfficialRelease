@@ -7197,8 +7197,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.845.1</FileVersion>
-        <ProductVersion>4.8.845.1</ProductVersion>
+        <FileVersion>4.8.847.0</FileVersion>
+        <ProductVersion>4.8.847.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -9297,8 +9297,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>4.8.368.1</FileVersion>
-        <ProductVersion>4.8.368.1</ProductVersion>
+        <FileVersion>4.8.369.1</FileVersion>
+        <ProductVersion>4.8.369.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
