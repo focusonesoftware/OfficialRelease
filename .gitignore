@@ -3,4 +3,4 @@
 **/bin
 **/obj
 **/*.pdb
-Startup/Main/serverprofile.xml
+#Startup/Main/serverprofile.xml
