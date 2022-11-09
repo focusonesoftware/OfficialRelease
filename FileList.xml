@@ -9472,8 +9472,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Base.dll</FileName>
-        <FileVersion>4.8.40.0</FileVersion>
-        <ProductVersion>4.8.40.0</ProductVersion>
+        <FileVersion>4.8.48.0</FileVersion>
+        <ProductVersion>4.8.48.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.CommandBar.dll</FileName>
@@ -11632,8 +11632,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Misc.dll</FileName>
-        <FileVersion>4.8.13.2</FileVersion>
-        <ProductVersion>4.8.13.2</ProductVersion>
+        <FileVersion>4.8.15.0</FileVersion>
+        <ProductVersion>4.8.15.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.SSO.dll</FileName>
@@ -11662,8 +11662,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>4.8.143.2</FileVersion>
-        <ProductVersion>4.8.143.2</ProductVersion>
+        <FileVersion>4.8.147.1</FileVersion>
+        <ProductVersion>4.8.147.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
@@ -11977,8 +11977,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\FGUIV4.exe</FileName>
-        <FileVersion>4.5.0.0</FileVersion>
-        <ProductVersion>4.5.0.0</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\FGUIV4.exe.config</FileName>
