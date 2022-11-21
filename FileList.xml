@@ -6142,8 +6142,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.UME.DLL</FileName>
-        <FileVersion>4.8.5.0</FileVersion>
-        <ProductVersion>4.8.5.0</ProductVersion>
+        <FileVersion>4.8.6.0</FileVersion>
+        <ProductVersion>4.8.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.UME.RoleDetailReport.dll</FileName>
@@ -9077,8 +9077,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.UME.DLL</FileName>
-        <FileVersion>4.8.16.0</FileVersion>
-        <ProductVersion>4.8.16.0</ProductVersion>
+        <FileVersion>4.8.17.0</FileVersion>
+        <ProductVersion>4.8.17.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.UME.RoleDetailReport.dll</FileName>
