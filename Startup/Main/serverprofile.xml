@@ -1,9 +1,16 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
   <Connection>
+    <ApplicationID>9012</ApplicationID>
+    <ApplicationName>TST 9012</ApplicationName>
+    <Host>203.154.41.30</Host>
+    <Port>9012</Port>
+  </Connection>
+  <Connection>
     <ApplicationID>9010</ApplicationID>
     <ApplicationName>TST TEST</ApplicationName>
     <Host>203.154.41.30</Host>
     <Port>9010</Port>
   </Connection>
+  
 </DocumentElement>
