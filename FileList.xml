@@ -4707,8 +4707,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCIECOBillingForm.dll</FileName>
-        <FileVersion>4.8.31.0</FileVersion>
-        <ProductVersion>4.8.31.0</ProductVersion>
+        <FileVersion>4.8.36.0</FileVersion>
+        <ProductVersion>4.8.36.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCIECOCNForm.dll</FileName>
@@ -4894,6 +4894,11 @@
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SMESaleOrderForm.dll</FileName>
         <FileVersion>3.1.0.2</FileVersion>
         <ProductVersion>3.1.0.2</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SOCustomerCreditApprove.dll</FileName>
+        <FileVersion>4.8.8.0</FileVersion>
+        <ProductVersion>4.8.8.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SPDTAPInvoice.dll</FileName>
@@ -5212,8 +5217,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SciecoReceiptForm.dll</FileName>
-        <FileVersion>4.8.43.0</FileVersion>
-        <ProductVersion>4.8.43.0</ProductVersion>
+        <FileVersion>4.8.45.0</FileVersion>
+        <ProductVersion>4.8.45.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ServiceCenterExp.dll</FileName>
@@ -6677,8 +6682,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CO.DLL</FileName>
-        <FileVersion>4.8.68.0</FileVersion>
-        <ProductVersion>4.8.68.0</ProductVersion>
+        <FileVersion>4.8.69.0</FileVersion>
+        <ProductVersion>4.8.69.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CO.Master.dll</FileName>
@@ -7042,13 +7047,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.JVInterfaceV2.dll</FileName>
-        <FileVersion>4.8.8.0</FileVersion>
-        <ProductVersion>4.8.8.0</ProductVersion>
+        <FileVersion>4.8.10.0</FileVersion>
+        <ProductVersion>4.8.10.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MaintainTax.dll</FileName>
-        <FileVersion>4.8.55.0</FileVersion>
-        <ProductVersion>4.8.55.0</ProductVersion>
+        <FileVersion>4.8.56.0</FileVersion>
+        <ProductVersion>4.8.56.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MaintainWht.dll</FileName>
@@ -7197,8 +7202,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.858.0</FileVersion>
-        <ProductVersion>4.8.858.0</ProductVersion>
+        <FileVersion>4.8.859.0</FileVersion>
+        <ProductVersion>4.8.859.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
