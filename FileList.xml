@@ -6642,8 +6642,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.AP.LandedCostGIT.dll</FileName>
-        <FileVersion>4.8.32.0</FileVersion>
-        <ProductVersion>4.8.32.0</ProductVersion>
+        <FileVersion>4.8.33.0</FileVersion>
+        <ProductVersion>4.8.33.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.AP.PN.dll</FileName>
@@ -8961,6 +8961,11 @@
         <ProductVersion>4.8.4.1</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
+        <FileVersion>4.8.379.0</FileVersion>
+        <ProductVersion>4.8.379.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
         <FileVersion>4.8.66.0</FileVersion>
         <ProductVersion>4.8.66.0</ProductVersion>
@@ -9059,11 +9064,6 @@
         <FileName>Startup\Main\Agape.App.SD.UpdateSOCustomerData.dll</FileName>
         <FileVersion>4.8.4.0</FileVersion>
         <ProductVersion>4.8.4.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.App.SD.dll</FileName>
-        <FileVersion>4.8.379.0</FileVersion>
-        <ProductVersion>4.8.379.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SO.Report.SellOnCashAndCreditMCT.dll</FileName>
