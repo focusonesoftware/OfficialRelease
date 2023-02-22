@@ -1822,8 +1822,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ARSubLedgerV4.dll</FileName>
-        <FileVersion>4.8.13.0</FileVersion>
-        <ProductVersion>4.8.13.0</ProductVersion>
+        <FileVersion>4.8.15.0</FileVersion>
+        <ProductVersion>4.8.15.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ARWithholdingTaxReportV1.dll</FileName>
@@ -7837,8 +7837,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ARSubLedgerV4.dll</FileName>
-        <FileVersion>4.8.29.0</FileVersion>
-        <ProductVersion>4.8.29.0</ProductVersion>
+        <FileVersion>4.8.30.0</FileVersion>
+        <ProductVersion>4.8.30.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.ARWithholdingTaxReportV1.dll</FileName>
@@ -9302,8 +9302,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>4.8.379.0</FileVersion>
-        <ProductVersion>4.8.379.0</ProductVersion>
+        <FileVersion>4.8.380.0</FileVersion>
+        <ProductVersion>4.8.380.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
