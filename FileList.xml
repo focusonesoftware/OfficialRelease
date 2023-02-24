@@ -6692,8 +6692,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CO.Report.dll</FileName>
-        <FileVersion>4.8.41.0</FileVersion>
-        <ProductVersion>4.8.41.0</ProductVersion>
+        <FileVersion>4.8.42.0</FileVersion>
+        <ProductVersion>4.8.42.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CRM.ImportSaleOpportunity.dll</FileName>
@@ -7202,8 +7202,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.856.0</FileVersion>
-        <ProductVersion>4.8.856.0</ProductVersion>
+        <FileVersion>4.8.865.1</FileVersion>
+        <ProductVersion>4.8.865.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
