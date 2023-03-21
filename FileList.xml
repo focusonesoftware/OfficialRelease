@@ -14225,11 +14225,7 @@
         <FileVersion>1.0.818.41</FileVersion>
         <ProductVersion>1.0.818.41</ProductVersion>
     </Description>
-    <Description>
-        <FileName>Startup\Main\serverprofile.xml</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-    </Description>
+
     <Description>
         <FileName>Startup\Main\vslangproj.olb</FileName>
         <FileVersion>9.0.30729.1</FileVersion>
