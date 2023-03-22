@@ -106,9 +106,9 @@
         <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Asset.DLL</FileName>
-        <FileVersion>4.8.55.0</FileVersion>
-        <ProductVersion>4.8.55.0</ProductVersion>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Asset.dll</FileName>
+        <FileVersion>4.8.56.0</FileVersion>
+        <ProductVersion>4.8.56.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Authorization.DLL</FileName>
@@ -6327,8 +6327,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>4.8.153.0</FileVersion>
-        <ProductVersion>4.8.153.0</ProductVersion>
+        <FileVersion>4.8.154.0</FileVersion>
+        <ProductVersion>4.8.154.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
