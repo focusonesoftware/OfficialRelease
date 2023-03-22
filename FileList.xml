@@ -7341,14 +7341,14 @@
         <ProductVersion>4.8.492.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
-        <FileVersion>4.8.37.0</FileVersion>
-        <ProductVersion>4.8.37.0</ProductVersion>
-    </Description>
-    <Description>
         <FileName>Startup\Main\Agape.App.Material.MappingBatch.dll</FileName>
         <FileVersion>3.0.0.1</FileVersion>
         <ProductVersion>3.0.0.1</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.App.Material.dll</FileName>
+        <FileVersion>4.8.38.0</FileVersion>
+        <ProductVersion>4.8.38.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.OS.RecommendationInformation.dll</FileName>
