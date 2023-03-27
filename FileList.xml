@@ -1062,8 +1062,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.KM.dll</FileName>
-        <FileVersion>4.8.3.1</FileVersion>
-        <ProductVersion>4.8.3.1</ProductVersion>
+        <FileVersion>4.8.3.2</FileVersion>
+        <ProductVersion>4.8.3.2</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Link.DocumentObject.dll</FileName>
@@ -11317,8 +11317,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>4.8.148.1</FileVersion>
-        <ProductVersion>4.8.148.1</ProductVersion>
+        <FileVersion>4.8.148.4</FileVersion>
+        <ProductVersion>4.8.148.4</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
