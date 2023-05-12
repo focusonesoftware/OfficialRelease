@@ -38,14 +38,8 @@
   </Connection>
   <Connection>
     <ApplicationID>6003</ApplicationID>
-    <ApplicationName>QMIX Inventory UAT</ApplicationName>
+    <ApplicationName>QMIX Pre-PRD</ApplicationName>
     <Host>103.138.179.101</Host>
     <Port>6003</Port>
-  </Connection>  
-  <Connection>
-    <ApplicationID>9041</ApplicationID>
-    <ApplicationName>QMIX Pre-PRD</ApplicationName>
-    <Host>34.87.122.173</Host>
-    <Port>9041</Port>
   </Connection>
 </DocumentElement>
