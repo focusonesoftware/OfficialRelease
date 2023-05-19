@@ -384,6 +384,8 @@
   <Resource Name="Dialog.Options.PrjOptions.General.AutoIncludeFilesCheckBox" Type="System.String" FileName="" Value="Automatically &amp;include found files" />
   <Resource Name="AG.FIACT.FIAP_R_0010.DESC" Type="System.String" FileName="" Value="FIAP-R0010 Input Tax Summary Report" />
   <Resource Name="AG.NEWPROGRAM.FIREIMMULTI_T_0001.DESC" Type="System.String" FileName="" Value="Advance Payment With Multi Currency" />
+  <Resource Name="AG.NEWPROGRAM.FIREC_T_0003.DESC" Type="System.String" FileName="" Value="Pre-Receipt Clearing" />
+  <Resource Name="AG.NEWPROGRAM.FIBANK_T_0024.DESC" Type="System.String" FileName="" Value="Incoming Pre-Receipt" />
   <Resource Name="AG.IC.IC_R_0014.DESC" Type="System.String" FileName="" Value="IC-R0014 Inventory Value Report" />
   <Resource Name="Dialog.Options.PrjOptions.CodeGenerationPanel.PanelName" Type="System.String" FileName="" Value="Code Generation" />
   <Resource Name="Dialog.HighlightingEditor.Properties.Name" Type="System.String" FileName="" Value="Name" />

@@ -382,6 +382,8 @@
   <Resource Name="Dialog.Options.PrjOptions.General.AutoIncludeFilesCheckBox" Type="System.String" FileName="" Value="Automatically &amp;include found files" />
   <Resource Name="AG.FIACT.FIAP_R_0010.DESC" Type="System.String" FileName="" Value="FIAP-R0010 รายงานสรุปภาษีซื้อ" />
   <Resource Name="AG.NEWPROGRAM.FIREIMMULTI_T_0001.DESC" Type="System.String" FileName="" Value="การเบิกเงินทดรองหลายสกุลเงิน" />
+  <Resource Name="AG.NEWPROGRAM.FIREC_T_0003.DESC" Type="System.String" FileName="" Value="การรับชำระเงินเคลียร์ใบเสร็จล่วงหน้า" />
+  <Resource Name="AG.NEWPROGRAM.FIBANK_T_0024.DESC" Type="System.String" FileName="" Value="การออกใบเสร็จล่วงหน้ายังไม่รับชำระเงิน" />
   <Resource Name="AG.IC.IC_R_0014.DESC" Type="System.String" FileName="" Value="IC-R0014 รายงานมูลค่าสินค้าคงเหลือ" />
   <Resource Name="Dialog.Options.PrjOptions.CodeGenerationPanel.PanelName" Type="System.String" FileName="" Value="Code Generation" />
   <Resource Name="Dialog.HighlightingEditor.Properties.Name" Type="System.String" FileName="" Value="Name" />
