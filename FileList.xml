@@ -7267,8 +7267,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.873.0</FileVersion>
-        <ProductVersion>4.8.873.0</ProductVersion>
+        <FileVersion>4.8.875.0</FileVersion>
+        <ProductVersion>4.8.875.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -7687,8 +7687,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>4.8.493.0</FileVersion>
-        <ProductVersion>4.8.493.0</ProductVersion>
+        <FileVersion>4.8.495.0</FileVersion>
+        <ProductVersion>4.8.495.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
