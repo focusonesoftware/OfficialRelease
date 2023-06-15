@@ -1400,7 +1400,7 @@
   <Resource Name="Dialog.Options.IDEOptions.EditStandardHeaderPanel.HeaderLabel" Type="System.String" FileName="" Value="&amp;Header" />
   <Resource Name="AG.BPMASTER.HR_C_0010.DESC" Type="System.String" FileName="" Value="Define Employee Payment Types" />
   <Resource Name="AG.IC.ADMIM_C_0002.DESC" Type="System.String" FileName="" Value="Define Material Group Document Number Range" />
-  <Resource Name="AG.FIACT.2012_TAX_DN_COPY.DESC" Type="System.String" FileName="" Value="eTAX-FRM02 Cancel and Reissue - e-Tax AR Debit Note" />
+  <Resource Name="AG.FIACT.2012_TAX_DN_COPY.DESC" Type="System.String" FileName="" Value="FRM02 Cancel and Reissue - AR Debit Note" />
   <Resource Name="AG.SUPERHERO.FIAR_R_0008.DESC" Type="System.String" FileName="" Value="FIAR-R0008 I Am Margin" />
   <Resource Name="AG.ACCT.APCNREFQC_T_0001.DESC" Type="System.String" FileName="" Value="AP Credit Note (Ref QC)" />
   <Resource Name="agLabel5" Type="System.String" FileName="" Value="Plan Start Date" />
@@ -2289,7 +2289,7 @@
   <Resource Name="ProjectComponent.RemoveReference.RemoveGacAssembyQuestion" Type="System.String" FileName="" Value="Do you you really want to remove the reference to the GAC assembly ${Reference}?" />
   <Resource Name="AG.CS.2013_DTC_EDITSIM.DESC" Type="System.String" FileName="" Value="SIM Information Management" />
   <Resource Name="AG.SOLO.LOSIS_R_0001.DESC" Type="System.String" FileName="" Value="LOSIS-R0001 รายงานใบเสนอราคา" />
-  <Resource Name="AG.FIACT.2012_TAX_REC_COPY.DESC" Type="System.String" FileName="" Value="eTAX-FRM04 Cancel and Reissue - e-Tax Incoming" />
+  <Resource Name="AG.FIACT.2012_TAX_REC_COPY.DESC" Type="System.String" FileName="" Value="FRM04 Cancel and Reissue - Incoming" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.PropertiesSetup.Label" Type="System.String" FileName="" Value="Enterprise Properties" />
   <Resource Name="XML.TextAreaContextMenu.Indent" Type="System.String" FileName="" Value="Indent" />
   <Resource Name="ObjectBrowser.Info.ContainedIn" Type="System.String" FileName="" Value="Contained In:" />
@@ -2316,7 +2316,7 @@
   <Resource Name="AG.ADM.PO.ADMLOPR_C_0001.DESC" Type="System.String" FileName="" Value="Define PR Document Type" />
   <Resource Name="Standard Cost" Type="System.String" FileName="" Value="3. Define Material Standard Cost" />
   <Resource Name="AG.ADM.PP.PP_C_0001.DESC" Type="System.String" FileName="" Value="Define PM Document Type" />
-  <Resource Name="AG.FIACT.2012_TAX_AR_COPY.DESC" Type="System.String" FileName="" Value="eTAX-FRM01 Cancel and Reissue - e-Tax AR Invoice" />
+  <Resource Name="AG.FIACT.2012_TAX_AR_COPY.DESC" Type="System.String" FileName="" Value="FRM01 Cancel and Reissue - AR Invoice" />
   <Resource Name="Internal.Templates.CodeTemplateLoader.CantLoadTemplatesWarning" Type="System.String" FileName="" Value="Can't load templates configuration file" />
   <Resource Name="Dialog.HighlightingEditor.Markers.KeyString" Type="System.String" FileName="" Value="Key string" />
   <Resource Name="AG.PC.PC_M_0001.DESC" Type="System.String" FileName="" Value="Petty Cash Float Master" />
@@ -2944,7 +2944,7 @@
   <Resource Name="Templates.Project.WindowsService.Name" Type="System.String" FileName="" Value="Windows Service" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.MM.PickingList.Label" Type="System.String" FileName="" Value="Picking List" />
   <Resource Name="AG.SYSTEM.LOG_R_0002.DESC" Type="System.String" FileName="" Value="LOG-R0002 System Usage Log Report (CBTRD)" />
-  <Resource Name="AG.FIACT.2012_TAX_CN_COPY.DESC" Type="System.String" FileName="" Value="eTAX-FRM03 Cancel and Reissue - e-Tax AR Credit Note" />
+  <Resource Name="AG.FIACT.2012_TAX_CN_COPY.DESC" Type="System.String" FileName="" Value="FRM03 Cancel and Reissue - AR Credit Note" />
   <Resource Name="XML.TreeMenu.MasterDataMenu.VatMasterMenu" Type="System.String" FileName="" Value="VAT" />
   <Resource Name="XML.MainMenu.HelpMenu.ReadMe" Type="System.String" FileName="" Value="&amp;ReadMe…" />
   <Resource Name="Templates.File.UnitTest.Description" Type="System.String" FileName="" Value="Creates a basic unit test." />
