@@ -1151,7 +1151,7 @@
         <ProductVersion>3.1.3.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.Movement.dll</FileName>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.Movement.DLL</FileName>
         <FileVersion>3.1.21.0</FileVersion>
         <ProductVersion>3.1.21.0</ProductVersion>
     </Description>
@@ -3022,8 +3022,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETPOForm.dll</FileName>
-        <FileVersion>3.1.24.0</FileVersion>
-        <ProductVersion>3.1.24.0</ProductVersion>
+        <FileVersion>3.1.25.0</FileVersion>
+        <ProductVersion>3.1.25.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETPRForm.dll</FileName>
@@ -11932,8 +11932,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\serverprofile.xml</FileName>
-        <FileVersion>2023.05.10</FileVersion>
-        <ProductVersion>2023.05.10</ProductVersion>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\vslangproj.olb</FileName>
