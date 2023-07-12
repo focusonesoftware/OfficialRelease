@@ -92,8 +92,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.API.dll</FileName>
-        <FileVersion>4.8.22.0</FileVersion>
-        <ProductVersion>4.8.22.0</ProductVersion>
+        <FileVersion>4.8.23.0</FileVersion>
+        <ProductVersion>4.8.23.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.APInvoiceNoRefPO.dll</FileName>
@@ -1157,8 +1157,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DLL</FileName>
-        <FileVersion>4.8.157.0</FileVersion>
-        <ProductVersion>4.8.157.0</ProductVersion>
+        <FileVersion>4.8.158.0</FileVersion>
+        <ProductVersion>4.8.158.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DTCBorrowReport.dll</FileName>
@@ -7267,8 +7267,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.882.0</FileVersion>
-        <ProductVersion>4.8.882.0</ProductVersion>
+        <FileVersion>4.8.883.0</FileVersion>
+        <ProductVersion>4.8.883.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -11817,8 +11817,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\ConstantUtility.DLL</FileName>
-        <FileVersion>4.8.96.0</FileVersion>
-        <ProductVersion>4.8.96.0</ProductVersion>
+        <FileVersion>4.8.97.0</FileVersion>
+        <ProductVersion>4.8.97.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\ConstantUtilityReport.dll</FileName>
