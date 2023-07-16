@@ -11357,11 +11357,11 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>4.8.149.0</FileVersion>
-        <ProductVersion>4.8.149.0</ProductVersion>
+        <FileVersion>4.8.150.0</FileVersion>
+        <ProductVersion>4.8.150.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\Agape.Util.Report.dLL</FileName>
+        <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
         <FileVersion>4.8.66.17</FileVersion>
         <ProductVersion>4.8.66.17</ProductVersion>
     </Description>
