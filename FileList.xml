@@ -11726,14 +11726,14 @@
         <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>4.8.148.5</FileVersion>
-        <ProductVersion>4.8.148.5</ProductVersion>
-    </Description>
-    <Description>
         <FileName>Startup\Main\Agape.Util.Report.dll</FileName>
         <FileVersion>4.8.66.17</FileVersion>
         <ProductVersion>4.8.66.17</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Util.dll</FileName>
+        <FileVersion>4.8.150.0</FileVersion>
+        <ProductVersion>4.8.150.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.WinFormsUI.DLL</FileName>
