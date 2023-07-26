@@ -106,7 +106,7 @@
         <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Asset.dll</FileName>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Asset.DLL</FileName>
         <FileVersion>4.8.58.0</FileVersion>
         <ProductVersion>4.8.58.0</ProductVersion>
     </Description>
@@ -4387,8 +4387,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXTexCustCNForm_V1.dll</FileName>
-        <FileVersion>4.8.19.0</FileVersion>
-        <ProductVersion>4.8.19.0</ProductVersion>
+        <FileVersion>4.8.20.0</FileVersion>
+        <ProductVersion>4.8.20.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXTexCustDNForm_V1.dll</FileName>
@@ -11356,14 +11356,14 @@
         <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\Agape.Util.Report.dll</FileName>
-        <FileVersion>4.8.66.17</FileVersion>
-        <ProductVersion>4.8.66.17</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Util.dll</FileName>
+        <FileName>Startup\Main\Agape.Util.DLL</FileName>
         <FileVersion>4.8.150.0</FileVersion>
         <ProductVersion>4.8.150.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
+        <FileVersion>4.8.66.17</FileVersion>
+        <ProductVersion>4.8.66.17</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.WinFormsUI.DLL</FileName>
