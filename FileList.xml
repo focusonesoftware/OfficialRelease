@@ -112,8 +112,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Asset.DLL</FileName>
-        <FileVersion>4.8.57.0</FileVersion>
-        <ProductVersion>4.8.57.0</ProductVersion>
+        <FileVersion>4.8.58.0</FileVersion>
+        <ProductVersion>4.8.58.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Authorization.DLL</FileName>
@@ -6697,8 +6697,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>4.8.156.0</FileVersion>
-        <ProductVersion>4.8.156.0</ProductVersion>
+        <FileVersion>4.8.157.0</FileVersion>
+        <ProductVersion>4.8.157.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -11817,8 +11817,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\ConstantUtility.DLL</FileName>
-        <FileVersion>4.8.97.0</FileVersion>
-        <ProductVersion>4.8.97.0</ProductVersion>
+        <FileVersion>4.8.98.0</FileVersion>
+        <ProductVersion>4.8.98.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\ConstantUtilityReport.dll</FileName>
