@@ -6021,6 +6021,11 @@
         <ProductVersion>4.8.9.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DLL</FileName>
+        <FileVersion>4.8.105.0</FileVersion>
+        <ProductVersion>4.8.105.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DeliveryOrder.dll</FileName>
         <FileVersion>4.8.30.0</FileVersion>
         <ProductVersion>4.8.30.0</ProductVersion>
@@ -6136,11 +6141,6 @@
         <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.dll</FileName>
-        <FileVersion>4.8.104.0</FileVersion>
-        <ProductVersion>4.8.104.0</ProductVersion>
-    </Description>
-    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SO.Report.DTCQuotation.dll</FileName>
         <FileVersion>4.8.1.0</FileVersion>
         <ProductVersion>4.8.1.0</ProductVersion>
@@ -6247,8 +6247,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DLL</FileName>
-        <FileVersion>4.8.160.0</FileVersion>
-        <ProductVersion>4.8.160.0</ProductVersion>
+        <FileVersion>4.8.161.0</FileVersion>
+        <ProductVersion>4.8.161.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DocumentStatus.dll</FileName>
@@ -6652,8 +6652,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>4.8.181.0</FileVersion>
-        <ProductVersion>4.8.181.0</ProductVersion>
+        <FileVersion>4.8.182.0</FileVersion>
+        <ProductVersion>4.8.182.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -11447,8 +11447,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\ConstantUtility.DLL</FileName>
-        <FileVersion>4.8.98.0</FileVersion>
-        <ProductVersion>4.8.98.0</ProductVersion>
+        <FileVersion>4.8.99.0</FileVersion>
+        <ProductVersion>4.8.99.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\ConstantUtilityReport.dll</FileName>
