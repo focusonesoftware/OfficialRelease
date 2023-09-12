@@ -6446,11 +6446,6 @@
         <ProductVersion>4.2.1.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\Agape.App.CO.DLL</FileName>
-        <FileVersion>4.8.71.0</FileVersion>
-        <ProductVersion>4.8.71.0</ProductVersion>
-    </Description>
-    <Description>
         <FileName>Startup\Main\Agape.App.CO.Master.dll</FileName>
         <FileVersion>4.8.3.0</FileVersion>
         <ProductVersion>4.8.3.0</ProductVersion>
@@ -6459,6 +6454,11 @@
         <FileName>Startup\Main\Agape.App.CO.Report.dll</FileName>
         <FileVersion>4.8.46.0</FileVersion>
         <ProductVersion>4.8.46.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.App.CO.dll</FileName>
+        <FileVersion>4.8.72.0</FileVersion>
+        <ProductVersion>4.8.72.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CRM.ImportSaleOpportunity.dll</FileName>
