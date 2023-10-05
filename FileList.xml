@@ -457,8 +457,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.AR.dll</FileName>
-        <FileVersion>4.8.45.0</FileVersion>
-        <ProductVersion>4.8.45.0</ProductVersion>
+        <FileVersion>4.8.46.0</FileVersion>
+        <ProductVersion>4.8.46.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.ARInterface.dll</FileName>
@@ -6967,8 +6967,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.893.0</FileVersion>
-        <ProductVersion>4.8.893.0</ProductVersion>
+        <FileVersion>4.8.894.0</FileVersion>
+        <ProductVersion>4.8.894.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
