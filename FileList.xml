@@ -9231,6 +9231,11 @@
         <ProductVersion>4.2.1.3</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.Lib.API.SRIC.dll</FileName>
+        <FileVersion>4.8.59.0</FileVersion>
+        <ProductVersion>4.8.59.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.Lib.CS.ContractToPayment.dll</FileName>
         <FileVersion>3.1.0.15</FileVersion>
         <ProductVersion>3.1.0.15</ProductVersion>
