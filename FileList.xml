@@ -4702,8 +4702,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SLSNCommercialInvoice.dll</FileName>
-        <FileVersion>4.8.29.0</FileVersion>
-        <ProductVersion>4.8.29.0</ProductVersion>
+        <FileVersion>4.8.30.0</FileVersion>
+        <ProductVersion>4.8.30.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SLSNCustCNForm_V1.dll</FileName>
@@ -11396,14 +11396,14 @@
         <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.Util.DLL</FileName>
+        <FileVersion>4.8.121.0</FileVersion>
+        <ProductVersion>4.8.121.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
         <FileVersion>4.8.57.0</FileVersion>
         <ProductVersion>4.8.57.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Util.dll</FileName>
-        <FileVersion>4.8.121.0</FileVersion>
-        <ProductVersion>4.8.121.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.WinFormsUI.DLL</FileName>
