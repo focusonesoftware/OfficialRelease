@@ -8687,8 +8687,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.POToGoodsReceipt.dll</FileName>
-        <FileVersion>3.1.2.3</FileVersion>
-        <ProductVersion>3.1.2.3</ProductVersion>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.PRByMonthWithPRCostCenter.dll</FileName>
@@ -10992,8 +10992,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.POToGoodsReceipt.dll</FileName>
-        <FileVersion>4.2.1.0</FileVersion>
-        <ProductVersion>4.2.1.0</ProductVersion>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.PRByMonthWithPRStatus.dll</FileName>
