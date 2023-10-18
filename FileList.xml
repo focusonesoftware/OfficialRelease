@@ -106,7 +106,7 @@
         <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Asset.DLL</FileName>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Asset.dll</FileName>
         <FileVersion>4.8.62.0</FileVersion>
         <ProductVersion>4.8.62.0</ProductVersion>
     </Description>
@@ -2697,8 +2697,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.F1STD.PurchaseOrderStandard.dll</FileName>
-        <FileVersion>4.8.18.0</FileVersion>
-        <ProductVersion>4.8.18.0</ProductVersion>
+        <FileVersion>4.8.19.0</FileVersion>
+        <ProductVersion>4.8.19.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.F1STD.SORETURNFORM.dll</FileName>
