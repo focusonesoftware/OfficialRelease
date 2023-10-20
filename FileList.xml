@@ -112,8 +112,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Asset.DLL</FileName>
-        <FileVersion>4.8.60.0</FileVersion>
-        <ProductVersion>4.8.60.0</ProductVersion>
+        <FileVersion>4.8.61.0</FileVersion>
+        <ProductVersion>4.8.61.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Authorization.DLL</FileName>
@@ -542,8 +542,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.DLL</FileName>
-        <FileVersion>4.8.129.0</FileVersion>
-        <ProductVersion>4.8.129.0</ProductVersion>
+        <FileVersion>4.8.130.0</FileVersion>
+        <ProductVersion>4.8.130.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.EndCashMent.DLL</FileName>
@@ -6547,8 +6547,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DLL</FileName>
-        <FileVersion>4.8.163.0</FileVersion>
-        <ProductVersion>4.8.163.0</ProductVersion>
+        <FileVersion>4.8.164.1</FileVersion>
+        <ProductVersion>4.8.164.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DocumentStatus.dll</FileName>
@@ -6697,8 +6697,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>4.8.160.0</FileVersion>
-        <ProductVersion>4.8.160.0</ProductVersion>
+        <FileVersion>4.8.162.0</FileVersion>
+        <ProductVersion>4.8.162.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -6952,8 +6952,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>4.8.185.0</FileVersion>
-        <ProductVersion>4.8.185.0</ProductVersion>
+        <FileVersion>4.8.186.0</FileVersion>
+        <ProductVersion>4.8.186.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -7147,8 +7147,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.PostWithClearing.dll</FileName>
-        <FileVersion>4.8.38.0</FileVersion>
-        <ProductVersion>4.8.38.0</ProductVersion>
+        <FileVersion>4.8.39.1</FileVersion>
+        <ProductVersion>4.8.39.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Reclass.dll</FileName>
@@ -7267,8 +7267,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.897.0</FileVersion>
-        <ProductVersion>4.8.897.0</ProductVersion>
+        <FileVersion>4.8.898.0</FileVersion>
+        <ProductVersion>4.8.898.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
