@@ -5047,8 +5047,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SciecoReceiptForm.dll</FileName>
-        <FileVersion>4.8.54.0</FileVersion>
-        <ProductVersion>4.8.54.0</ProductVersion>
+        <FileVersion>4.8.55.0</FileVersion>
+        <ProductVersion>4.8.55.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ServiceCenterExp.dll</FileName>
@@ -11371,7 +11371,7 @@
         <ProductVersion>4.8.151.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\Agape.Util.Report.dll</FileName>
+        <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
         <FileVersion>4.8.66.18</FileVersion>
         <ProductVersion>4.8.66.18</ProductVersion>
     </Description>
