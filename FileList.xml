@@ -542,8 +542,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.DLL</FileName>
-        <FileVersion>4.8.130.0</FileVersion>
-        <ProductVersion>4.8.130.0</ProductVersion>
+        <FileVersion>4.8.131.0</FileVersion>
+        <ProductVersion>4.8.131.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.EndCashMent.DLL</FileName>
@@ -597,8 +597,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.MaintainTax.dll</FileName>
-        <FileVersion>4.8.24.1</FileVersion>
-        <ProductVersion>4.8.24.1</ProductVersion>
+        <FileVersion>4.8.25.0</FileVersion>
+        <ProductVersion>4.8.25.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.MaintainWht.dll</FileName>
@@ -702,8 +702,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Report.DLL</FileName>
-        <FileVersion>4.8.28.0</FileVersion>
-        <ProductVersion>4.8.28.0</ProductVersion>
+        <FileVersion>4.8.29.0</FileVersion>
+        <ProductVersion>4.8.29.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Report.DailyIncomeReport.dll</FileName>
@@ -4622,8 +4622,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXTexCustDNForm_V1.dll</FileName>
-        <FileVersion>4.8.26.0</FileVersion>
-        <ProductVersion>4.8.26.0</ProductVersion>
+        <FileVersion>4.8.27.0</FileVersion>
+        <ProductVersion>4.8.27.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXTransferFORM.dll</FileName>
@@ -4792,8 +4792,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCIECOSOWasteForm.dll</FileName>
-        <FileVersion>4.8.3.2</FileVersion>
-        <ProductVersion>4.8.3.2</ProductVersion>
+        <FileVersion>4.8.4.0</FileVersion>
+        <ProductVersion>4.8.4.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SEAPCreditNoteForm.dll</FileName>
@@ -6547,8 +6547,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DLL</FileName>
-        <FileVersion>4.8.164.1</FileVersion>
-        <ProductVersion>4.8.164.1</ProductVersion>
+        <FileVersion>4.8.166.0</FileVersion>
+        <ProductVersion>4.8.166.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DocumentStatus.dll</FileName>
@@ -6952,8 +6952,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>4.8.186.0</FileVersion>
-        <ProductVersion>4.8.186.0</ProductVersion>
+        <FileVersion>4.8.187.0</FileVersion>
+        <ProductVersion>4.8.187.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -7117,8 +7117,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MaintainTax.dll</FileName>
-        <FileVersion>4.8.65.0</FileVersion>
-        <ProductVersion>4.8.65.0</ProductVersion>
+        <FileVersion>4.8.66.0</FileVersion>
+        <ProductVersion>4.8.66.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MaintainWht.dll</FileName>
@@ -11816,7 +11816,7 @@
         <ProductVersion>1.0.0.3</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\ConstantUtility.dll</FileName>
+        <FileName>Startup\Main\ConstantUtility.DLL</FileName>
         <FileVersion>4.8.101.0</FileVersion>
         <ProductVersion>4.8.101.0</ProductVersion>
     </Description>
