@@ -6026,6 +6026,11 @@
         <ProductVersion>4.8.10.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DLL</FileName>
+        <FileVersion>4.8.109.0</FileVersion>
+        <ProductVersion>4.8.109.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DeliveryOrder.dll</FileName>
         <FileVersion>4.8.30.0</FileVersion>
         <ProductVersion>4.8.30.0</ProductVersion>
@@ -6139,11 +6144,6 @@
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.WindspeedInterfaceWMS.dll</FileName>
         <FileVersion>4.8.1.0</FileVersion>
         <ProductVersion>4.8.1.0</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.dll</FileName>
-        <FileVersion>4.8.109.0</FileVersion>
-        <ProductVersion>4.8.109.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SO.Report.DTCQuotation.dll</FileName>
@@ -6432,8 +6432,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.dll</FileName>
-        <FileVersion>4.8.137.0</FileVersion>
-        <ProductVersion>4.8.137.0</ProductVersion>
+        <FileVersion>4.8.138.0</FileVersion>
+        <ProductVersion>4.8.138.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Budget.Report.dll</FileName>
