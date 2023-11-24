@@ -9127,8 +9127,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.StockCompareType2.dll</FileName>
-        <FileVersion>4.8.3.0</FileVersion>
-        <ProductVersion>4.8.3.0</ProductVersion>
+        <FileVersion>4.8.4.0</FileVersion>
+        <ProductVersion>4.8.4.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.StockEndingPeriod.dll</FileName>
@@ -9137,8 +9137,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.StockMovementRefConsignment.dll</FileName>
-        <FileVersion>4.8.3.0</FileVersion>
-        <ProductVersion>4.8.3.0</ProductVersion>
+        <FileVersion>4.8.4.0</FileVersion>
+        <ProductVersion>4.8.4.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.StockMovementRefConsignmentDTC.dll</FileName>
@@ -9162,8 +9162,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.StockOverViewByDate.dll</FileName>
-        <FileVersion>4.8.18.0</FileVersion>
-        <ProductVersion>4.8.18.0</ProductVersion>
+        <FileVersion>4.8.19.0</FileVersion>
+        <ProductVersion>4.8.19.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.StockOverViewByDateRefConsignment.dll</FileName>
