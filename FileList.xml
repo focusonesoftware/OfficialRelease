@@ -1271,7 +1271,7 @@
         <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.Movement.dll</FileName>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.Movement.DLL</FileName>
         <FileVersion>4.8.29.0</FileVersion>
         <ProductVersion>4.8.29.0</ProductVersion>
     </Description>
@@ -4967,8 +4967,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SPDTApTracking.dll</FileName>
-        <FileVersion>4.8.10.0</FileVersion>
-        <ProductVersion>4.8.10.0</ProductVersion>
+        <FileVersion>4.8.11.0</FileVersion>
+        <ProductVersion>4.8.11.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SPDTChangedProductRepair.dll</FileName>
