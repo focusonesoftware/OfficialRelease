@@ -106,7 +106,7 @@
         <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Asset.dll</FileName>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Asset.DLL</FileName>
         <FileVersion>4.8.65.0</FileVersion>
         <ProductVersion>4.8.65.0</ProductVersion>
     </Description>
@@ -6717,8 +6717,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.AP.LandedCostGIT.dll</FileName>
-        <FileVersion>4.8.38.0</FileVersion>
-        <ProductVersion>4.8.38.0</ProductVersion>
+        <FileVersion>4.8.39.0</FileVersion>
+        <ProductVersion>4.8.39.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.AP.PN.dll</FileName>
@@ -6972,8 +6972,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.910.0</FileVersion>
-        <ProductVersion>4.8.910.0</ProductVersion>
+        <FileVersion>4.8.911.0</FileVersion>
+        <ProductVersion>4.8.911.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
