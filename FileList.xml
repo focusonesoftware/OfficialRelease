@@ -137,8 +137,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.BP.DLL</FileName>
-        <FileVersion>4.8.52.0</FileVersion>
-        <ProductVersion>4.8.52.0</ProductVersion>
+        <FileVersion>4.8.54.0</FileVersion>
+        <ProductVersion>4.8.54.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.BP.DTCUpdateSaleRepresent.dll</FileName>
@@ -6732,8 +6732,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DLL</FileName>
-        <FileVersion>4.8.140.0</FileVersion>
-        <ProductVersion>4.8.140.0</ProductVersion>
+        <FileVersion>4.8.142.0</FileVersion>
+        <ProductVersion>4.8.142.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DTCUpdateAccountAgent.dll</FileName>
@@ -7027,8 +7027,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.AP.LandedCostGIT.dll</FileName>
-        <FileVersion>4.8.37.0</FileVersion>
-        <ProductVersion>4.8.37.0</ProductVersion>
+        <FileVersion>4.8.39.0</FileVersion>
+        <ProductVersion>4.8.39.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.AP.PN.dll</FileName>
@@ -7282,8 +7282,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.909.0</FileVersion>
-        <ProductVersion>4.8.909.0</ProductVersion>
+        <FileVersion>4.8.913.0</FileVersion>
+        <ProductVersion>4.8.913.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
