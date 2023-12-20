@@ -106,7 +106,7 @@
         <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Asset.DLL</FileName>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Asset.dll</FileName>
         <FileVersion>4.8.65.0</FileVersion>
         <ProductVersion>4.8.65.0</ProductVersion>
     </Description>
@@ -11377,8 +11377,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
-        <FileVersion>4.8.66.18</FileVersion>
-        <ProductVersion>4.8.66.18</ProductVersion>
+        <FileVersion>4.8.66.19</FileVersion>
+        <ProductVersion>4.8.66.19</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.WinFormsUI.DLL</FileName>
