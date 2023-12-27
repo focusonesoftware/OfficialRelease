@@ -6967,8 +6967,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>4.8.187.0</FileVersion>
-        <ProductVersion>4.8.187.0</ProductVersion>
+        <FileVersion>4.8.191.0</FileVersion>
+        <ProductVersion>4.8.191.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -8247,8 +8247,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.FI.ReconcileCO.dll</FileName>
-        <FileVersion>4.8.3.0</FileVersion>
-        <ProductVersion>4.8.3.0</ProductVersion>
+        <FileVersion>4.8.4.0</FileVersion>
+        <ProductVersion>4.8.4.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.FI.ReconcileFICO.dll</FileName>
@@ -9382,8 +9382,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>4.8.387.0</FileVersion>
-        <ProductVersion>4.8.387.0</ProductVersion>
+        <FileVersion>4.8.388.0</FileVersion>
+        <ProductVersion>4.8.388.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
