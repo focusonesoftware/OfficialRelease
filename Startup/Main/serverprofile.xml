@@ -13,9 +13,9 @@
     <CompanyName>SLTS</CompanyName>
     <Connection>
     <ApplicationID>9032</ApplicationID>
-    <ApplicationName>SLSN  UAT Migrate  F1GUI</ApplicationName>
+    <ApplicationName>SLTS  UAT Migrate  F1GUI</ApplicationName>
     <Host>47.128.92.122</Host>
-    <Port>9031</Port>
+    <Port>9032</Port>
   </Connection>
   </Company>
 </DocumentElement>
