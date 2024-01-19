@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+	<ApplicationPool>
+		<ApplicationPoolURL>https://app-pool.sonarinno.com/login?mode=gui</ApplicationPoolURL>
+	</ApplicationPool>
+</DocumentElement>
