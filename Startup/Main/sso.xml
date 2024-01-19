@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+	<ApplicationPool>
+		<ApplicationPoolURL>https://apps.thailanderp.com/login?mode=gui</ApplicationPoolURL>
+	</ApplicationPool>
+</DocumentElement>
