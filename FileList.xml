@@ -722,8 +722,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Report.DLL</FileName>
-        <FileVersion>4.8.30.0</FileVersion>
-        <ProductVersion>4.8.30.0</ProductVersion>
+        <FileVersion>4.8.31.0</FileVersion>
+        <ProductVersion>4.8.31.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Report.DailyIncomeReport.dll</FileName>
@@ -2877,8 +2877,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.F1STD.IncomingForm.dll</FileName>
-        <FileVersion>4.8.36.0</FileVersion>
-        <ProductVersion>4.8.36.0</ProductVersion>
+        <FileVersion>4.8.38.0</FileVersion>
+        <ProductVersion>4.8.38.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.F1STD.PETTY_ADVANCEFORM.dll</FileName>
@@ -4822,8 +4822,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCIECOPOForm.dll</FileName>
-        <FileVersion>4.8.33.0</FileVersion>
-        <ProductVersion>4.8.33.0</ProductVersion>
+        <FileVersion>4.8.34.0</FileVersion>
+        <ProductVersion>4.8.34.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCIECOSOWasteForm.dll</FileName>
@@ -5222,8 +5222,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SVForm.dll</FileName>
-        <FileVersion>4.8.21.0</FileVersion>
-        <ProductVersion>4.8.21.0</ProductVersion>
+        <FileVersion>4.8.24.0</FileVersion>
+        <ProductVersion>4.8.24.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SaleDueDatePayment.dll</FileName>
@@ -5282,8 +5282,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SaleShippingandBillingV2.dll</FileName>
-        <FileVersion>4.8.15.2</FileVersion>
-        <ProductVersion>4.8.15.2</ProductVersion>
+        <FileVersion>4.8.15.5</FileVersion>
+        <ProductVersion>4.8.15.5</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SaleShippingandBillingV3.dll</FileName>
@@ -7307,8 +7307,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.913.0</FileVersion>
-        <ProductVersion>4.8.913.0</ProductVersion>
+        <FileVersion>4.8.914.0</FileVersion>
+        <ProductVersion>4.8.914.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
