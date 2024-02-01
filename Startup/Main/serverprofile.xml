@@ -2,20 +2,32 @@
 <DocumentElement>
   <Company>
     <CompanyName>SLSN</CompanyName>
-    <Connection>
-    <ApplicationID>9031</ApplicationID>
-    <ApplicationName>SLSN  UAT Migrate  F1GUI</ApplicationName>
-    <Host>47.128.92.122</Host>
-    <Port>9031</Port>
-  </Connection>
+		<Connection>
+			<ApplicationID>9031</ApplicationID>
+			<ApplicationName>SLSN UAT Migrate F1GUI</ApplicationName>
+			<Host>47.128.92.122</Host>
+			<Port>9031</Port>
+		</Connection>
+		<Connection>
+			<ApplicationID>9041</ApplicationID>
+			<ApplicationName>SLSN UAT Migrate F1GUI URG</ApplicationName>
+			<Host>47.128.92.122</Host>
+			<Port>9041</Port>
+		</Connection>
   </Company>
   <Company>
     <CompanyName>SLTS</CompanyName>
-    <Connection>
-    <ApplicationID>9032</ApplicationID>
-    <ApplicationName>SLTS  UAT Migrate  F1GUI</ApplicationName>
-    <Host>47.128.92.122</Host>
-    <Port>9032</Port>
-  </Connection>
+		<Connection>
+			<ApplicationID>9032</ApplicationID>
+			<ApplicationName>SLTS UAT Migrate F1GUI</ApplicationName>
+			<Host>47.128.92.122</Host>
+			<Port>9032</Port>
+		</Connection>
+		<Connection>
+			<ApplicationID>9042</ApplicationID>
+			<ApplicationName>SLTS UAT Migrate F1GUI URG</ApplicationName>
+			<Host>47.128.92.122</Host>
+			<Port>9042</Port>
+		</Connection>
   </Company>
 </DocumentElement>
