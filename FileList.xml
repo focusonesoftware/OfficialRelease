@@ -11376,9 +11376,9 @@
         <ProductVersion>4.8.151.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
-        <FileVersion>4.8.66.19</FileVersion>
-        <ProductVersion>4.8.66.19</ProductVersion>
+        <FileName>Startup\Main\Agape.Util.Report.dll</FileName>
+        <FileVersion>4.8.66.21</FileVersion>
+        <ProductVersion>4.8.66.21</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.WinFormsUI.DLL</FileName>
