@@ -13432,8 +13432,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\System.Core.dll</FileName>
-        <FileVersion>3.5.30729.1</FileVersion>
-        <ProductVersion>3.5.30729.1</ProductVersion>
+        <FileVersion>4.8.9214.0</FileVersion>
+        <ProductVersion>4.0.30319.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\System.Data.DataSetExtensions.dll</FileName>
@@ -13464,6 +13464,11 @@
         <FileName>Startup\Main\System.Data.SqlServerCe.dll</FileName>
         <FileVersion>3.5.5692.0</FileVersion>
         <ProductVersion>3.5.5692.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\System.IO.MemoryMappedFiles.dll</FileName>
+        <FileVersion>4.8.9037.0</FileVersion>
+        <ProductVersion>4.8.9037.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\System.IdentityModel.Selectors.dll</FileName>
