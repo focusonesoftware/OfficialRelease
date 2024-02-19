@@ -3,13 +3,13 @@
   <Connection>
     <ApplicationID>9008</ApplicationID>
     <ApplicationName>FocusOne ERP Demo1</ApplicationName>
-    <Host>103.138.179.109</Host>
+    <Host>203.154.98.8</Host>
     <Port>9008</Port>
   </Connection>
   <Connection>
     <ApplicationID>9009</ApplicationID>
     <ApplicationName>FocusOne ERP Demo2</ApplicationName>
-    <Host>103.138.179.109</Host>
+    <Host>203.154.98.8</Host>
     <Port>9009</Port>
   </Connection>
 </DocumentElement>
