@@ -4527,8 +4527,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCGCementBillingForm.dll</FileName>
-        <FileVersion>4.8.43.0</FileVersion>
-        <ProductVersion>4.8.43.0</ProductVersion>
+        <FileVersion>4.8.44.0</FileVersion>
+        <ProductVersion>4.8.44.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCGReceiptForm.dll</FileName>
@@ -11376,7 +11376,7 @@
         <ProductVersion>4.8.151.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
+        <FileName>Startup\Main\Agape.Util.Report.dll</FileName>
         <FileVersion>4.8.66.21</FileVersion>
         <ProductVersion>4.8.66.21</ProductVersion>
     </Description>
