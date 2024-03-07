@@ -1,15 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
   <Connection>
-    <ApplicationID>9001</ApplicationID>
+    <ApplicationID>9031</ApplicationID>
     <ApplicationName>SLSN PRD</ApplicationName>
-    <Host>34.87.104.10</Host>
-    <Port>9001</Port>
+    <Host>54.151.212.171</Host>
+    <Port>9031</Port>
   </Connection>
   <Connection>
-    <ApplicationID>9003</ApplicationID>
+    <ApplicationID>9001</ApplicationID>
     <ApplicationName>SLSN PRD(Urgent System)</ApplicationName>
-    <Host>34.87.104.10</Host>
-    <Port>9003</Port>
+    <Host>54.151.212.171</Host>
+    <Port>9001</Port>
   </Connection>
 </DocumentElement>
