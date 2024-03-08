@@ -1187,8 +1187,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.IRM.dll</FileName>
-        <FileVersion>4.8.16.0</FileVersion>
-        <ProductVersion>4.8.16.0</ProductVersion>
+        <FileVersion>4.8.17.0</FileVersion>
+        <ProductVersion>4.8.17.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.ITransferDocLib.dll</FileName>
@@ -11381,7 +11381,7 @@
         <ProductVersion>4.8.151.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\Agape.Util.Report.dll</FileName>
+        <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
         <FileVersion>4.8.66.21</FileVersion>
         <ProductVersion>4.8.66.21</ProductVersion>
     </Description>
