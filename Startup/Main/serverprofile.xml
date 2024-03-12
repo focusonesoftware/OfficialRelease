@@ -42,4 +42,16 @@
     <Host>203.154.98.1</Host>
     <Port>6003</Port>
   </Connection>
+  <Connection>
+    <ApplicationID>7002</ApplicationID>
+    <ApplicationName>SLSN MIG UAT</ApplicationName>
+    <Host>47.128.92.122</Host>
+    <Port>7002</Port>
+  </Connection>
+  <Connection>
+    <ApplicationID>7003</ApplicationID>
+    <ApplicationName>SLTS MIG UAT</ApplicationName>
+    <Host>47.128.92.122</Host>
+    <Port>7003</Port>
+  </Connection>
 </DocumentElement>
