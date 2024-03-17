@@ -9222,8 +9222,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Base.dll</FileName>
-        <FileVersion>4.8.55.0</FileVersion>
-        <ProductVersion>4.8.55.0</ProductVersion>
+        <FileVersion>4.8.56.0</FileVersion>
+        <ProductVersion>4.8.56.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.CommandBar.dll</FileName>
@@ -11347,13 +11347,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Misc.dll</FileName>
-        <FileVersion>4.8.19.0</FileVersion>
-        <ProductVersion>4.8.19.0</ProductVersion>
+        <FileVersion>4.8.20.0</FileVersion>
+        <ProductVersion>4.8.20.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.SSO.dll</FileName>
-        <FileVersion>4.8.6.0</FileVersion>
-        <ProductVersion>4.8.6.0</ProductVersion>
+        <FileVersion>4.8.7.0</FileVersion>
+        <ProductVersion>4.8.7.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Search.Catalog.DLL</FileName>
