@@ -4657,8 +4657,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QuotationForm.dll</FileName>
-        <FileVersion>4.8.38.0</FileVersion>
-        <ProductVersion>4.8.38.0</ProductVersion>
+        <FileVersion>4.8.40.0</FileVersion>
+        <ProductVersion>4.8.40.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.RPMMSRReport.dll</FileName>
@@ -5329,6 +5329,11 @@
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ServicerRequest.dll</FileName>
         <FileVersion>4.2.1.0</FileVersion>
         <ProductVersion>4.2.1.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ShipmentForm.dll</FileName>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.ShippingByDealerSO.dll</FileName>
