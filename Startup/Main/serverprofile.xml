@@ -1,57 +1,5 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
-  <Connection>
-    <ApplicationID>5002</ApplicationID>
-    <ApplicationName>SCG Cement UAT</ApplicationName>
-    <Host>203.154.98.1</Host>
-    <Port>5002</Port>
-  </Connection>
-  <Connection>
-    <ApplicationID>4002</ApplicationID>
-    <ApplicationName>QMIX UAT</ApplicationName>
-    <Host>203.154.98.1</Host>
-    <Port>4002</Port>
-  </Connection>
-  <Connection>
-    <ApplicationID>7002</ApplicationID>
-    <ApplicationName>SRIC UAT</ApplicationName>
-    <Host>203.154.98.1</Host>
-    <Port>7002</Port>
-  </Connection>
-  <Connection>
-    <ApplicationID>8002</ApplicationID>
-    <ApplicationName>SCI Eco UAT</ApplicationName>
-    <Host>203.154.98.1</Host>
-    <Port>8002</Port>
-  </Connection>
-  <Connection>
-    <ApplicationID>9002</ApplicationID>
-    <ApplicationName>EPS UAT</ApplicationName>
-    <Host>203.154.98.1</Host>
-    <Port>9002</Port>
-  </Connection>
-  <Connection>
-    <ApplicationID>10001</ApplicationID>
-    <ApplicationName>QMIX Interface UAT</ApplicationName>
-    <Host>203.154.98.1</Host>
-    <Port>10001</Port>
-  </Connection>
-  <Connection>
-    <ApplicationID>6003</ApplicationID>
-    <ApplicationName>QMIX Pre-PRD</ApplicationName>
-    <Host>203.154.98.1</Host>
-    <Port>6003</Port>
-  </Connection>
-  <Connection>
-    <ApplicationID>7002</ApplicationID>
-    <ApplicationName>SLSN MIG UAT</ApplicationName>
-    <Host>47.128.92.122</Host>
-    <Port>7002</Port>
-  </Connection>
-  <Connection>
-    <ApplicationID>7003</ApplicationID>
-    <ApplicationName>SLTS MIG UAT</ApplicationName>
-    <Host>47.128.92.122</Host>
-    <Port>7003</Port>
-  </Connection>
+  <Company>
+  </Company>
 </DocumentElement>
