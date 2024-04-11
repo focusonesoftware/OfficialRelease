@@ -1,15 +1,5 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
-  <Connection>
-    <ApplicationID>6011</ApplicationID>
-    <ApplicationName>SLTS UAT</ApplicationName>
-    <Host>103.138.179.101</Host>
-    <Port>6011</Port>
-  </Connection>
-  <Connection>
-    <ApplicationID>8011</ApplicationID>
-    <ApplicationName>SLTS PREPRD</ApplicationName>
-    <Host>103.138.179.101</Host>
-    <Port>8011</Port>
-  </Connection>
+  <Company>
+  </Company>
 </DocumentElement>
