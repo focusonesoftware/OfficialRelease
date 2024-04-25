@@ -7302,8 +7302,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.HR.EmployeeInterface.dll</FileName>
-        <FileVersion>4.8.2.0</FileVersion>
-        <ProductVersion>4.8.2.0</ProductVersion>
+        <FileVersion>4.8.3.0</FileVersion>
+        <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.HR.dll</FileName>
@@ -11772,8 +11772,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>4.8.152.0</FileVersion>
-        <ProductVersion>4.8.152.0</ProductVersion>
+        <FileVersion>4.8.154.0</FileVersion>
+        <ProductVersion>4.8.154.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
@@ -12511,14 +12511,19 @@
         <ProductVersion>3.5.30729.1</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Microsoft.CSharp.dll</FileName>
+        <FileVersion>4.8.3761.0</FileVersion>
+        <ProductVersion>4.8.3761.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Microsoft.MSXML.dll</FileName>
         <FileVersion>8.0.50727.1826</FileVersion>
         <ProductVersion>8.0.50727.1826</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Microsoft.Office.Interop.Excel.dll</FileName>
-        <FileVersion>14.0.4733.1000</FileVersion>
-        <ProductVersion>14.0.4733.0</ProductVersion>
+        <FileVersion>15.0.4795.1000</FileVersion>
+        <ProductVersion>15.0.4795.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Microsoft.SqlServer.Types.dll</FileName>
