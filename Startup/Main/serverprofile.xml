@@ -1,5 +1,12 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
   <Company>
+    <CompanyName />
+    <Connection>
+      <ApplicationID />
+      <ApplicationName />
+      <Host />
+      <Port />
+    </Connection>
   </Company>
 </DocumentElement>
