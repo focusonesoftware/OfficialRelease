@@ -507,8 +507,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.BankPayment.dll</FileName>
-        <FileVersion>4.8.13.0</FileVersion>
-        <ProductVersion>4.8.13.0</ProductVersion>
+        <FileVersion>4.8.14.0</FileVersion>
+        <ProductVersion>4.8.14.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.BillPaymentTemp.dll</FileName>
@@ -7072,8 +7072,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.BankPayment.dll</FileName>
-        <FileVersion>4.8.9.0</FileVersion>
-        <ProductVersion>4.8.9.0</ProductVersion>
+        <FileVersion>4.8.10.0</FileVersion>
+        <ProductVersion>4.8.10.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.ClearCreditCard.dll</FileName>
