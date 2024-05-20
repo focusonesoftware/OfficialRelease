@@ -542,8 +542,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.DLL</FileName>
-        <FileVersion>4.8.135.0</FileVersion>
-        <ProductVersion>4.8.135.0</ProductVersion>
+        <FileVersion>4.8.136.0</FileVersion>
+        <ProductVersion>4.8.136.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.EndCashMent.DLL</FileName>
@@ -7287,8 +7287,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.931.0</FileVersion>
-        <ProductVersion>4.8.931.0</ProductVersion>
+        <FileVersion>4.8.932.0</FileVersion>
+        <ProductVersion>4.8.932.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
