@@ -6342,8 +6342,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DLL</FileName>
-        <FileVersion>4.8.111.0</FileVersion>
-        <ProductVersion>4.8.111.0</ProductVersion>
+        <FileVersion>4.8.112.0</FileVersion>
+        <ProductVersion>4.8.112.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.SD.DeliveryOrder.dll</FileName>
@@ -9392,8 +9392,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DLL</FileName>
-        <FileVersion>4.8.388.0</FileVersion>
-        <ProductVersion>4.8.388.0</ProductVersion>
+        <FileVersion>4.8.389.0</FileVersion>
+        <ProductVersion>4.8.389.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.DeliveryOrder.DLL</FileName>
