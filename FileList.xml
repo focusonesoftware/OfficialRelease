@@ -4617,8 +4617,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXReceiptForm.dll</FileName>
-        <FileVersion>4.8.46.0</FileVersion>
-        <ProductVersion>4.8.46.0</ProductVersion>
+        <FileVersion>4.8.47.0</FileVersion>
+        <ProductVersion>4.8.47.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXSaleOrderForm.dll</FileName>
@@ -11776,14 +11776,14 @@
         <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.Util.DLL</FileName>
+        <FileVersion>4.8.154.0</FileVersion>
+        <ProductVersion>4.8.154.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
         <FileVersion>4.8.66.21</FileVersion>
         <ProductVersion>4.8.66.21</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\Agape.Util.dll</FileName>
-        <FileVersion>4.8.154.0</FileVersion>
-        <ProductVersion>4.8.154.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.WinFormsUI.DLL</FileName>
