@@ -1,12 +1,9 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
-  <Company>
-    <CompanyName />
     <Connection>
-      <ApplicationID />
-      <ApplicationName />
-      <Host />
-      <Port />
+      <ApplicationID>8888</ApplicationID>
+      <ApplicationName>Qmix BlueNet PrePrd</ApplicationName>
+      <Host>203.154.98.1</Host>
+      <Port>8888</Port>
     </Connection>
-  </Company>
 </DocumentElement>
