@@ -4627,8 +4627,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXReceiptForm.dll</FileName>
-        <FileVersion>4.8.45.0</FileVersion>
-        <ProductVersion>4.8.45.0</ProductVersion>
+        <FileVersion>4.8.49.0</FileVersion>
+        <ProductVersion>4.8.49.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.QMIXSaleOrderForm.dll</FileName>
@@ -5967,8 +5967,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.WHTData.dll</FileName>
-        <FileVersion>4.8.4.0</FileVersion>
-        <ProductVersion>4.8.4.0</ProductVersion>
+        <FileVersion>4.8.5.0</FileVersion>
+        <ProductVersion>4.8.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.WHTSpecialAccount.dll</FileName>
@@ -8077,8 +8077,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.CustomerAgingReportByCollectionDate.dll</FileName>
-        <FileVersion>4.8.6.0</FileVersion>
-        <ProductVersion>4.8.6.0</ProductVersion>
+        <FileVersion>4.8.7.0</FileVersion>
+        <ProductVersion>4.8.7.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.CustomerAgingReportByStatementDate.dll</FileName>
@@ -9302,8 +9302,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.WHTData.dll</FileName>
-        <FileVersion>4.8.4.0</FileVersion>
-        <ProductVersion>4.8.4.0</ProductVersion>
+        <FileVersion>4.8.5.0</FileVersion>
+        <ProductVersion>4.8.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.WithHoldingTaxReport.dll</FileName>
