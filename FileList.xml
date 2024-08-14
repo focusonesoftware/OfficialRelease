@@ -4937,8 +4937,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SLSNARStatementInvoiceForm.dll</FileName>
-        <FileVersion>4.8.9.0</FileVersion>
-        <ProductVersion>4.8.9.0</ProductVersion>
+        <FileVersion>4.8.10.0</FileVersion>
+        <ProductVersion>4.8.10.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SLSNCommercialInvoice.dll</FileName>
@@ -6757,8 +6757,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>4.8.174.0</FileVersion>
-        <ProductVersion>4.8.174.0</ProductVersion>
+        <FileVersion>4.8.175.0</FileVersion>
+        <ProductVersion>4.8.175.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
