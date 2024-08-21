@@ -6782,8 +6782,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CO.DLL</FileName>
-        <FileVersion>4.8.79.0</FileVersion>
-        <ProductVersion>4.8.79.0</ProductVersion>
+        <FileVersion>4.8.80.0</FileVersion>
+        <ProductVersion>4.8.80.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CO.Master.dll</FileName>
@@ -7152,8 +7152,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MaintainTax.dll</FileName>
-        <FileVersion>4.8.75.0</FileVersion>
-        <ProductVersion>4.8.75.0</ProductVersion>
+        <FileVersion>4.8.76.0</FileVersion>
+        <ProductVersion>4.8.76.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MaintainWht.dll</FileName>
