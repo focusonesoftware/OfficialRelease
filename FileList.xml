@@ -11392,8 +11392,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.SSO.dll</FileName>
-        <FileVersion>4.8.8.0</FileVersion>
-        <ProductVersion>4.8.8.0</ProductVersion>
+        <FileVersion>4.8.8.1</FileVersion>
+        <ProductVersion>4.8.8.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Search.Catalog.DLL</FileName>
@@ -12302,18 +12302,18 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Microsoft.Web.WebView2.Core.dll</FileName>
-        <FileVersion>1.0.992.28</FileVersion>
-        <ProductVersion>1.0.992.28</ProductVersion>
+        <FileVersion>1.0.2849.39</FileVersion>
+        <ProductVersion>1.0.2849.39</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Microsoft.Web.WebView2.WinForms.dll</FileName>
-        <FileVersion>1.0.992.28</FileVersion>
-        <ProductVersion>1.0.992.28</ProductVersion>
+        <FileVersion>1.0.2849.39</FileVersion>
+        <ProductVersion>1.0.2849.39</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Microsoft.Web.WebView2.Wpf.dll</FileName>
-        <FileVersion>1.0.992.28</FileVersion>
-        <ProductVersion>1.0.992.28</ProductVersion>
+        <FileVersion>1.0.2849.39</FileVersion>
+        <ProductVersion>1.0.2849.39</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64\94.0.992.38.manifest</FileName>
@@ -13942,18 +13942,18 @@
     </Description>
     <Description>
         <FileName>Startup\Main\runtimes\win-arm64\native\WebView2Loader.dll</FileName>
-        <FileVersion>1.0.818.41</FileVersion>
-        <ProductVersion>1.0.818.41</ProductVersion>
+        <FileVersion>1.0.2849.39</FileVersion>
+        <ProductVersion>1.0.2849.39</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\runtimes\win-x64\native\WebView2Loader.dll</FileName>
-        <FileVersion>1.0.818.41</FileVersion>
-        <ProductVersion>1.0.818.41</ProductVersion>
+        <FileVersion>1.0.2849.39</FileVersion>
+        <ProductVersion>1.0.2849.39</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\runtimes\win-x86\native\WebView2Loader.dll</FileName>
-        <FileVersion>1.0.818.41</FileVersion>
-        <ProductVersion>1.0.818.41</ProductVersion>
+        <FileVersion>1.0.2849.39</FileVersion>
+        <ProductVersion>1.0.2849.39</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\sso.xml</FileName>
