@@ -1,1 +1,2 @@
 Startup/Main/Microsoft.WebView2.FixedVersionRuntime.94.0.992.38.x64/msedge.dll filter=lfs diff=lfs merge=lfs -text
+Startup/Main/Microsoft.WebView2.FixedVersionRuntime.130.0.2849.46.x64/msedge.dll filter=lfs diff=lfs merge=lfs -text
