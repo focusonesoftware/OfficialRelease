@@ -13916,6 +13916,11 @@
         <ProductVersion>1.14.146.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.130.0.2849.46.x64\msedge.dll</FileName>
+        <FileVersion>130.0.2849.46</FileVersion>
+        <ProductVersion>130.0.2849.46</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Microsoft.WebView2.FixedVersionRuntime.130.0.2849.46.x64\msedge.dll.sig</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
