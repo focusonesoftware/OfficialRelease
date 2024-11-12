@@ -12162,8 +12162,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\FocusOneERP.exe</FileName>
-        <FileVersion>4.8.4.0</FileVersion>
-        <ProductVersion>4.8.4.0</ProductVersion>
+        <FileVersion>4.8.5.0</FileVersion>
+        <ProductVersion>4.8.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\FocusOneERP.exe.config</FileName>
@@ -16109,6 +16109,11 @@
         <FileName>Startup\Main\runtimes\win-x86\native\WebView2Loader.dll</FileName>
         <FileVersion>1.0.2849.39</FileVersion>
         <ProductVersion>1.0.2849.39</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\sso.xml</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\vslangproj.olb</FileName>
