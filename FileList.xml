@@ -11407,8 +11407,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Misc.dll</FileName>
-        <FileVersion>4.8.22.0</FileVersion>
-        <ProductVersion>4.8.22.0</ProductVersion>
+        <FileVersion>4.8.24.0</FileVersion>
+        <ProductVersion>4.8.24.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.SSO.dll</FileName>
@@ -11742,8 +11742,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\FGUIV4.exe</FileName>
-        <FileVersion>4.8.2.0</FileVersion>
-        <ProductVersion>4.8.2.0</ProductVersion>
+        <FileVersion>4.8.5.0</FileVersion>
+        <ProductVersion>4.8.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\FGUIV4.exe.config</FileName>
