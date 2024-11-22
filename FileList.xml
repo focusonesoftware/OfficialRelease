@@ -5192,8 +5192,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.StockMovementRefConsignment.dll</FileName>
-        <FileVersion>4.8.8.0</FileVersion>
-        <ProductVersion>4.8.8.0</ProductVersion>
+        <FileVersion>4.8.9.0</FileVersion>
+        <ProductVersion>4.8.9.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.StockMovementRefConsignmentDTC.dll</FileName>
@@ -6292,8 +6292,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DLL</FileName>
-        <FileVersion>4.8.175.0</FileVersion>
-        <ProductVersion>4.8.175.0</ProductVersion>
+        <FileVersion>4.8.176.0</FileVersion>
+        <ProductVersion>4.8.176.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DocumentStatus.dll</FileName>
@@ -6442,8 +6442,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>4.8.176.0</FileVersion>
-        <ProductVersion>4.8.176.0</ProductVersion>
+        <FileVersion>4.8.177.0</FileVersion>
+        <ProductVersion>4.8.177.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -6697,8 +6697,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>4.8.207.0</FileVersion>
-        <ProductVersion>4.8.207.0</ProductVersion>
+        <FileVersion>4.8.208.0</FileVersion>
+        <ProductVersion>4.8.208.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -11412,8 +11412,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Misc.dll</FileName>
-        <FileVersion>4.8.22.0</FileVersion>
-        <ProductVersion>4.8.22.0</ProductVersion>
+        <FileVersion>4.8.24.0</FileVersion>
+        <ProductVersion>4.8.24.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.SSO.dll</FileName>
@@ -11747,8 +11747,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\FGUIV4.exe</FileName>
-        <FileVersion>4.8.2.0</FileVersion>
-        <ProductVersion>4.8.2.0</ProductVersion>
+        <FileVersion>4.8.5.0</FileVersion>
+        <ProductVersion>4.8.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\FGUIV4.exe.config</FileName>
