@@ -362,8 +362,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Conf.DLL</FileName>
-        <FileVersion>4.8.53.0</FileVersion>
-        <ProductVersion>4.8.53.0</ProductVersion>
+        <FileVersion>4.8.55.0</FileVersion>
+        <ProductVersion>4.8.55.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Conf.DefaultStock.dll</FileName>
@@ -487,8 +487,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.AR.dll</FileName>
-        <FileVersion>4.8.48.0</FileVersion>
-        <ProductVersion>4.8.48.0</ProductVersion>
+        <FileVersion>4.8.49.0</FileVersion>
+        <ProductVersion>4.8.49.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.ARInterface.dll</FileName>
@@ -822,8 +822,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Segmentation.DLL</FileName>
-        <FileVersion>4.8.14.0</FileVersion>
-        <ProductVersion>4.8.14.0</ProductVersion>
+        <FileVersion>4.8.15.0</FileVersion>
+        <ProductVersion>4.8.15.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.StatementARInvoice.DLL</FileName>
@@ -3207,8 +3207,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.HOFinancialInventory.dll</FileName>
-        <FileVersion>4.8.5.0</FileVersion>
-        <ProductVersion>4.8.5.0</ProductVersion>
+        <FileVersion>4.8.6.0</FileVersion>
+        <ProductVersion>4.8.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.HOGoodsReceiveReport.dll</FileName>
@@ -6607,8 +6607,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DLL</FileName>
-        <FileVersion>4.8.175.0</FileVersion>
-        <ProductVersion>4.8.175.0</ProductVersion>
+        <FileVersion>4.8.177.0</FileVersion>
+        <ProductVersion>4.8.177.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DocumentStatus.dll</FileName>
@@ -6757,8 +6757,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>4.8.176.0</FileVersion>
-        <ProductVersion>4.8.176.0</ProductVersion>
+        <FileVersion>4.8.177.0</FileVersion>
+        <ProductVersion>4.8.177.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -7012,8 +7012,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>4.8.206.0</FileVersion>
-        <ProductVersion>4.8.206.0</ProductVersion>
+        <FileVersion>4.8.209.0</FileVersion>
+        <ProductVersion>4.8.209.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
@@ -8132,8 +8132,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.DLL</FileName>
-        <FileVersion>4.8.24.0</FileVersion>
-        <ProductVersion>4.8.24.0</ProductVersion>
+        <FileVersion>4.8.26.0</FileVersion>
+        <ProductVersion>4.8.26.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.DTCARSubLedgerTeleSale.dll</FileName>
