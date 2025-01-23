@@ -1,12 +1,9 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
-  <Company>
-    <CompanyName />
-    <Connection>
-      <ApplicationID />
-      <ApplicationName />
-      <Host />
-      <Port />
-    </Connection>
-  </Company>
+  <Connection>
+    <ApplicationID>5009</ApplicationID>
+    <ApplicationName>FocusOne ERP For DTC</ApplicationName>
+    <Host>10.255.255.190</Host>
+    <Port>5009</Port>
+  </Connection>
 </DocumentElement>
