@@ -712,8 +712,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Report.DLL</FileName>
-        <FileVersion>4.8.33.0</FileVersion>
-        <ProductVersion>4.8.33.0</ProductVersion>
+        <FileVersion>4.8.35.0</FileVersion>
+        <ProductVersion>4.8.35.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Report.DailyIncomeReport.dll</FileName>
@@ -3602,8 +3602,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.InputVatReport.dll</FileName>
-        <FileVersion>4.8.27.0</FileVersion>
-        <ProductVersion>4.8.27.0</ProductVersion>
+        <FileVersion>4.8.28.0</FileVersion>
+        <ProductVersion>4.8.28.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.InventoryInvoiceMonthly.dll</FileName>
@@ -4387,8 +4387,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.PoList.dll</FileName>
-        <FileVersion>4.8.15.0</FileVersion>
-        <ProductVersion>4.8.15.0</ProductVersion>
+        <FileVersion>4.8.16.0</FileVersion>
+        <ProductVersion>4.8.16.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.PoListByCostcenter.dll</FileName>
@@ -5977,8 +5977,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.WHTSpecialAccount.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.WithHoldingTaxReport.dll</FileName>
@@ -7307,8 +7307,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.983.0</FileVersion>
-        <ProductVersion>4.8.983.0</ProductVersion>
+        <FileVersion>4.8.984.0</FileVersion>
+        <ProductVersion>4.8.984.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -8777,8 +8777,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.PoList.dll</FileName>
-        <FileVersion>4.8.29.0</FileVersion>
-        <ProductVersion>4.8.29.0</ProductVersion>
+        <FileVersion>4.8.30.0</FileVersion>
+        <ProductVersion>4.8.30.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.PoListByCostcenter.dll</FileName>
