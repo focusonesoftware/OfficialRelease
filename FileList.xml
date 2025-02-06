@@ -6862,8 +6862,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MaintainTax.dll</FileName>
-        <FileVersion>4.8.76.0</FileVersion>
-        <ProductVersion>4.8.76.0</ProductVersion>
+        <FileVersion>4.8.77.0</FileVersion>
+        <ProductVersion>4.8.77.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MaintainWht.dll</FileName>
@@ -14919,11 +14919,6 @@
         <FileName>Startup\Main\runtimes\win-x86\native\WebView2Loader.dll</FileName>
         <FileVersion>1.0.2849.39</FileVersion>
         <ProductVersion>1.0.2849.39</ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\Main\serverprofile.xml</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\sso.xml</FileName>
