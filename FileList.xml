@@ -2212,18 +2212,18 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCARCreditNote.dll</FileName>
+        <FileVersion>4.8.3.0</FileVersion>
+        <ProductVersion>4.8.3.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCARCreditNoteDeducted.dll</FileName>
         <FileVersion>4.8.2.0</FileVersion>
         <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCARCreditNoteDeducted.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
-    </Description>
-    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCARDebitNote.dll</FileName>
-        <FileVersion>3.1.2.0</FileVersion>
-        <ProductVersion>3.1.2.0</ProductVersion>
+        <FileVersion>4.8.3.0</FileVersion>
+        <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCARJournalVouche.dll</FileName>
@@ -14921,6 +14921,11 @@
         <ProductVersion>1.0.2849.39</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\serverprofile.xml</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\sso.xml</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
@@ -14942,6 +14947,11 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\AG.FLM.Remote.Proxy.Report.YMFInvoiceExportForm.ReportFile.Rpt_InvoiceShiptoNoBilltoFull.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\ARDEBITNOTENOREFREPORTFORMARDEBITNOTENOREFREPORT.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
@@ -15296,6 +15306,21 @@
         <ProductVersion></ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\ReportFile\RPT_ARCREDITNOTENOREFREPORT_CREDIT-NOT-DTC_COPYACC.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\RPT_ARCREDITNOTENOREFREPORT_CREDIT-NOT-DTC_COPYCUS.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\RPT_ARCREDITNOTENOREFREPORT_CREDIT-NOT-DTC_COPYFIN.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\ReportFile\RPT_ARCREDITNOTEREPORT_CREDIT-NOT-DEDU-DTC.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
@@ -15306,12 +15331,37 @@
         <ProductVersion></ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\ReportFile\RPT_ARCREDITNOTEREPORT_CREDITNote1-DTC_COPYACC.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\RPT_ARCREDITNOTEREPORT_CREDITNote1-DTC_COPYFIN.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\ReportFile\RPT_ARCREDITREPORT_JournalVoucheTax.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\ReportFile\RPT_ARDEBITNOTEREPORT_DEBITNote1-DTC.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\RPT_ARDEBITNOTEREPORT_DEBITNote1-DTC_COPYACC.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\RPT_ARDEBITNOTEREPORT_DEBITNote1-DTC_COPYCUS.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\RPT_ARDEBITNOTEREPORT_DEBITNote1-DTC_COPYFIN.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
