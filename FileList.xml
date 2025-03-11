@@ -72,8 +72,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.API.INET.dll</FileName>
-        <FileVersion>4.8.15.0</FileVersion>
-        <ProductVersion>4.8.15.0</ProductVersion>
+        <FileVersion>4.8.16.0</FileVersion>
+        <ProductVersion>4.8.16.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.API.SCG.ETaxJob.dll</FileName>
@@ -252,8 +252,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.CS.ImportNewSim.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.2.1</FileVersion>
+        <ProductVersion>4.8.2.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.CS.Interface.dll</FileName>
@@ -412,8 +412,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.DTCBarcode.dll</FileName>
-        <FileVersion>4.8.24.0</FileVersion>
-        <ProductVersion>4.8.24.0</ProductVersion>
+        <FileVersion>4.8.26.1</FileVersion>
+        <ProductVersion>4.8.26.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.DocFlow.DLL</FileName>
@@ -517,8 +517,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.BillPaymentTemp.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.23.1</FileVersion>
+        <ProductVersion>4.8.23.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.ChequeManagement.dll</FileName>
@@ -532,8 +532,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.Collection.DLL</FileName>
-        <FileVersion>4.8.36.0</FileVersion>
-        <ProductVersion>4.8.36.0</ProductVersion>
+        <FileVersion>4.8.37.0</FileVersion>
+        <ProductVersion>4.8.37.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.CreditorsMovementReport.dll</FileName>
@@ -2257,8 +2257,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCBillingForm.dll</FileName>
-        <FileVersion>4.8.10.0</FileVersion>
-        <ProductVersion>4.8.10.0</ProductVersion>
+        <FileVersion>4.8.11.1</FileVersion>
+        <ProductVersion>4.8.11.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCBomDetail.dll</FileName>
@@ -2357,13 +2357,13 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCHOWaitTransferReport.dll</FileName>
-        <FileVersion>3.1.4.0</FileVersion>
-        <ProductVersion>3.1.4.0</ProductVersion>
+        <FileVersion>4.8.1.1</FileVersion>
+        <ProductVersion>4.8.1.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCIncomingInvoice.dll</FileName>
-        <FileVersion>3.1.11.0</FileVersion>
-        <ProductVersion>3.1.11.0</ProductVersion>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCIncomingListReport.dll</FileName>
@@ -2382,8 +2382,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCIncomming.dll</FileName>
-        <FileVersion>3.1.8.0</FileVersion>
-        <ProductVersion>3.1.8.0</ProductVersion>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCIncommingNoRefAR.dll</FileName>
@@ -2402,8 +2402,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCInvoiceVerRefBilling.dll</FileName>
-        <FileVersion>4.8.31.0</FileVersion>
-        <ProductVersion>4.8.31.0</ProductVersion>
+        <FileVersion>4.8.32.1</FileVersion>
+        <ProductVersion>4.8.32.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCJobOrderDetail.dll</FileName>
@@ -2472,8 +2472,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCReservationReport.dll</FileName>
-        <FileVersion>3.1.1.0</FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <FileVersion>4.8.2.1</FileVersion>
+        <ProductVersion>4.8.2.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCReservationSupplyandGenerate.dll</FileName>
@@ -2502,8 +2502,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCSaleOrderTrackingReport.dll</FileName>
-        <FileVersion>3.1.6.0</FileVersion>
-        <ProductVersion>3.1.6.0</ProductVersion>
+        <FileVersion>4.8.1.1</FileVersion>
+        <ProductVersion>4.8.1.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCServiceOrder.dll</FileName>
@@ -2522,8 +2522,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCTaxInvoice.dll</FileName>
-        <FileVersion>3.1.17.0</FileVersion>
-        <ProductVersion>3.1.17.0</ProductVersion>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCTranferStorage.dll</FileName>
@@ -6562,8 +6562,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CS.ImportNewSim.dll</FileName>
-        <FileVersion>3.1.8.0</FileVersion>
-        <ProductVersion>3.1.8.0</ProductVersion>
+        <FileVersion>4.8.11.1</FileVersion>
+        <ProductVersion>4.8.11.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CS.Interface.dll</FileName>
@@ -6727,8 +6727,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.DTCBarcode.dll</FileName>
-        <FileVersion>4.8.65.0</FileVersion>
-        <ProductVersion>4.8.65.0</ProductVersion>
+        <FileVersion>4.8.68.1</FileVersion>
+        <ProductVersion>4.8.68.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.EMS.CoffeeBreak.dll</FileName>
@@ -7017,8 +7017,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.1003.0</FileVersion>
-        <ProductVersion>4.8.1003.0</ProductVersion>
+        <FileVersion>4.8.1004.0</FileVersion>
+        <ProductVersion>4.8.1004.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -7127,8 +7127,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.InterfaceBillPaymentTemp.dll</FileName>
-        <FileVersion>4.8.37.0</FileVersion>
-        <ProductVersion>4.8.37.0</ProductVersion>
+        <FileVersion>4.8.44.1</FileVersion>
+        <ProductVersion>4.8.44.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.KM.dll</FileName>
@@ -7757,8 +7757,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.CS.AmortizeReport.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.1.1</FileVersion>
+        <ProductVersion>4.8.1.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.CompareActualDaily.dll</FileName>
@@ -7847,8 +7847,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.DTCCustomerActivityReport.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.4.1</FileVersion>
+        <ProductVersion>4.8.4.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.DTCHOWaitTransferReport.dll</FileName>
@@ -7872,8 +7872,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.DTCInvoiceAllocation.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.3.1</FileVersion>
+        <ProductVersion>4.8.3.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.DTCJobOrderDetail.dll</FileName>
@@ -7902,8 +7902,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.DTCReservationReport.dll</FileName>
-        <FileVersion>3.1.2.0</FileVersion>
-        <ProductVersion>3.1.2.0</ProductVersion>
+        <FileVersion>4.8.3.1</FileVersion>
+        <ProductVersion>4.8.3.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.DTCSIMDetail.dll</FileName>
@@ -10342,8 +10342,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.DTCReservationReport.dll</FileName>
-        <FileVersion>3.1.1.0</FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <FileVersion>4.8.1.1</FileVersion>
+        <ProductVersion>4.8.1.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.DTCSIMDetail.dll</FileName>
@@ -11537,8 +11537,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\ConstantUtilityReport.dll</FileName>
-        <FileVersion>4.8.1.0</FileVersion>
-        <ProductVersion>4.8.1.0</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\CreditCardSummaryForm.dll</FileName>
