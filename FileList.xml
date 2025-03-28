@@ -15161,6 +15161,16 @@
         <ProductVersion></ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\ReportFile\INCOMINGPAYMENTPARCELPOSTRECEIPTCOPY.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\INCOMINGPAYMENTPARCELPOSTRECEIPTORIGINALANDCOPY.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\ReportFile\INCOMINGPAYMENT_Customer RECEIPT No line.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
