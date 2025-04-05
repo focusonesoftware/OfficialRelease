@@ -5256,6 +5256,11 @@
         <ProductVersion>3.0.0.1</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SaleOrderReturn.dll</FileName>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SaleOrderStandardForm.dll</FileName>
         <FileVersion>4.8.24.0</FileVersion>
         <ProductVersion>4.8.24.0</ProductVersion>
@@ -9116,6 +9121,11 @@
         <ProductVersion>3.0.0.1</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\Agape.App.Report.SaleOrderReturn.dll</FileName>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\Agape.App.Report.SaleOrderToJobOrderTracking.dll</FileName>
         <FileVersion>4.8.1.1</FileVersion>
         <ProductVersion>4.8.1.1</ProductVersion>
@@ -11287,6 +11297,11 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Lib.Remote.Report.RevenueReconciles.dll</FileName>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\Main\Agape.Lib.Remote.Report.SaleOrderReturn.dll</FileName>
         <FileVersion>4.8.1.0</FileVersion>
         <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
