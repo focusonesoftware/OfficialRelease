@@ -6467,8 +6467,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DLL</FileName>
-        <FileVersion>4.8.150.0</FileVersion>
-        <ProductVersion>4.8.150.0</ProductVersion>
+        <FileVersion>4.8.151.0</FileVersion>
+        <ProductVersion>4.8.151.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DTCUpdateAccountAgent.dll</FileName>
@@ -7017,8 +7017,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.1007.0</FileVersion>
-        <ProductVersion>4.8.1007.0</ProductVersion>
+        <FileVersion>4.8.1008.0</FileVersion>
+        <ProductVersion>4.8.1008.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
