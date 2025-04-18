@@ -412,8 +412,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.DTCBarcode.dll</FileName>
-        <FileVersion>4.8.26.1</FileVersion>
-        <ProductVersion>4.8.26.1</ProductVersion>
+        <FileVersion>4.8.27.0</FileVersion>
+        <ProductVersion>4.8.27.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.DocFlow.DLL</FileName>
@@ -6727,8 +6727,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.DTCBarcode.dll</FileName>
-        <FileVersion>4.8.68.1</FileVersion>
-        <ProductVersion>4.8.68.1</ProductVersion>
+        <FileVersion>4.8.69.0</FileVersion>
+        <ProductVersion>4.8.69.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.EMS.CoffeeBreak.dll</FileName>
@@ -7017,8 +7017,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.1008.0</FileVersion>
-        <ProductVersion>4.8.1008.0</ProductVersion>
+        <FileVersion>4.8.1008.1</FileVersion>
+        <ProductVersion>4.8.1008.1</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
