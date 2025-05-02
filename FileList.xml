@@ -2527,8 +2527,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCInvoiceVerRefBilling.dll</FileName>
-        <FileVersion>4.8.32.1</FileVersion>
-        <ProductVersion>4.8.32.1</ProductVersion>
+        <FileVersion>4.8.33.0</FileVersion>
+        <ProductVersion>4.8.33.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCJobOrderDetail.dll</FileName>
