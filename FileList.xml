@@ -15031,6 +15031,21 @@
         <ProductVersion></ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineRECEIVE-TAX V3_COPYACC.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineRECEIVE-TAX V3_COPYCUS.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineRECEIVE-TAX V3_COPYFIN.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\ReportFile\BILLINGREPORT_LineRECEIVE-TAX V4.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
