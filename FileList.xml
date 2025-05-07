@@ -14971,6 +14971,16 @@
         <ProductVersion></ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\ReportFile\BILLGUARANTEEREPORT_LineBILLING-GUARNTEE V3_COPYACC.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLGUARANTEEREPORT_LineBILLING-GUARNTEE V3_COPYFIN.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\ReportFile\BILLGUARANTEEREPORT_LineBILLING-GUARNTEE.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
@@ -14982,6 +14992,11 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\BILLINGREPORT_BILLINGR-INVOICEVER.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_COMMERCIAL_INVOICE.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
@@ -15001,12 +15016,52 @@
         <ProductVersion></ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER V3_COPYACC.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER V3_COPYCUS.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER V3_COPYFIN.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER V4.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER V4_COPYACC.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER V4_COPYFIN.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER-MULTIMAT V2.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER-MULTIMAT V3.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER-MULTIMAT V3_COPYACC.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER-MULTIMAT V3_COPYFIN.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
@@ -15047,6 +15102,16 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\BILLINGREPORT_LineRECEIVE-TAX V4.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineRECEIVE-TAX V4_COPYACC.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineRECEIVE-TAX V4_COPYFIN.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
@@ -15171,7 +15236,32 @@
         <ProductVersion></ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\ReportFile\DEPOSITFORM_LineDEPOSIT-FORM V3_COPYACC.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\DEPOSITFORM_LineDEPOSIT-FORM V3_COPYFIN.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\ReportFile\DEPOSITFORM_LineDEPOSIT-FORM.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\FIWHTAPFORM_DTC-FIWHTAPFORM.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\INCOMINGPAYMENTPARCELPOSTRECEIPTANDTAXCOPY.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\INCOMINGPAYMENTPARCELPOSTRECEIPTANDTAXORIGINAL.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
@@ -15182,6 +15272,11 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\INCOMINGPAYMENTPARCELPOSTRECEIPTORIGINALANDCOPY.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\INCOMINGPAYMENTPARCELPOSTTAXCOPY.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
@@ -15311,7 +15406,17 @@
         <ProductVersion></ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\ReportFile\RPT_ANT_PO04.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\ReportFile\RPT_APCREDITFORM_APCREDIT.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\RPT_APDEBITFORM_APDebitNote.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
@@ -15322,6 +15427,11 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\RPT_APINVOICEFORM_APINVOICE_APD1.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\RPT_ARCREDITNOTENOREFREPORT_CREDIT-NOT-DTC - Copy.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
@@ -15502,6 +15612,11 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\RPT_GOODSRECEIVEREPORT_GR-DTC.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\RPT_GOODSRECEIVEREPORT_GR-DTC_NoCost.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
