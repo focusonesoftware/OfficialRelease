@@ -122,8 +122,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Asset.DLL</FileName>
-        <FileVersion>4.8.66.0</FileVersion>
-        <ProductVersion>4.8.66.0</ProductVersion>
+        <FileVersion>4.8.67.0</FileVersion>
+        <ProductVersion>4.8.67.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Authorization.DLL</FileName>
@@ -6752,8 +6752,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Asset.dll</FileName>
-        <FileVersion>4.8.179.0</FileVersion>
-        <ProductVersion>4.8.179.0</ProductVersion>
+        <FileVersion>4.8.180.0</FileVersion>
+        <ProductVersion>4.8.180.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BG.dll</FileName>
@@ -6772,8 +6772,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DLL</FileName>
-        <FileVersion>4.8.150.0</FileVersion>
-        <ProductVersion>4.8.150.0</ProductVersion>
+        <FileVersion>4.8.151.0</FileVersion>
+        <ProductVersion>4.8.151.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DTCUpdateAccountAgent.dll</FileName>
@@ -7747,8 +7747,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>4.8.509.0</FileVersion>
-        <ProductVersion>4.8.509.0</ProductVersion>
+        <FileVersion>4.8.510.0</FileVersion>
+        <ProductVersion>4.8.510.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
