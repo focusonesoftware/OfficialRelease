@@ -86,6 +86,11 @@
         <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\Main\AG.FLM.Remote.Proxy.API.INET.dll</FileName>
+        <FileVersion>4.8.16.0</FileVersion>
+        <ProductVersion>4.8.16.0</ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.API.SCG.ETaxJob.dll</FileName>
         <FileVersion>4.0.0.0</FileVersion>
         <ProductVersion>4.0.0.0</ProductVersion>
@@ -117,8 +122,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.API.dll</FileName>
-        <FileVersion>4.8.40.0</FileVersion>
-        <ProductVersion>4.8.40.0</ProductVersion>
+        <FileVersion>4.8.41.0</FileVersion>
+        <ProductVersion>4.8.41.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.APInvoiceNoRefPO.dll</FileName>
@@ -4812,8 +4817,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCIECOARStatementForm.dll</FileName>
-        <FileVersion>4.8.37.0</FileVersion>
-        <ProductVersion>4.8.37.0</ProductVersion>
+        <FileVersion>4.8.39.0</FileVersion>
+        <ProductVersion>4.8.39.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCIECOBillingForm.dll</FileName>
@@ -6932,8 +6937,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CS.ServiceOrder.dll</FileName>
-        <FileVersion>4.8.23.0</FileVersion>
-        <ProductVersion>4.8.23.0</ProductVersion>
+        <FileVersion>4.8.24.0</FileVersion>
+        <ProductVersion>4.8.24.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.CS.UpdateServiceContract.dll</FileName>
@@ -7192,8 +7197,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MaintainTax.dll</FileName>
-        <FileVersion>4.8.78.0</FileVersion>
-        <ProductVersion>4.8.78.0</ProductVersion>
+        <FileVersion>4.8.79.0</FileVersion>
+        <ProductVersion>4.8.79.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.MaintainWht.dll</FileName>
@@ -7302,8 +7307,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.Revaluation.dll</FileName>
-        <FileVersion>4.8.24.0</FileVersion>
-        <ProductVersion>4.8.24.0</ProductVersion>
+        <FileVersion>4.8.25.0</FileVersion>
+        <ProductVersion>4.8.25.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.SMB.dll</FileName>
@@ -9492,8 +9497,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.Interface.dll</FileName>
-        <FileVersion>4.8.10.0</FileVersion>
-        <ProductVersion>4.8.10.0</ProductVersion>
+        <FileVersion>4.8.11.0</FileVersion>
+        <ProductVersion>4.8.11.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.SD.ListofSaleOrderV2.dll</FileName>
