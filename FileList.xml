@@ -2252,8 +2252,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCBillTransfer.dll</FileName>
-        <FileVersion>3.0.0.6</FileVersion>
-        <ProductVersion>3.0.0.6</ProductVersion>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.DTCBillingForm.dll</FileName>
