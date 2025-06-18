@@ -2213,7 +2213,7 @@
   <Resource Name="ICSharpCode.AssemblyAnalyser.Rules.DictionaryTypeSuffixIsDictionary.Resolution" Type="System.String" FileName="" Value="Change the name of the dictionary &lt;code&gt;${TypeName}&lt;/code&gt; so that it ends with &lt;i&gt;Dictionary&lt;/i&gt;." />
   <Resource Name="ICSharpCode.AssemblyAnalyser.Rules.TypeNamesDoNotContainUnderscores.Description" Type="System.String" FileName="" Value="Type names don't contain underscores '_'" />
   <Resource Name="XML.MainMenu.SearchMenu.GotoLineNr.Description" Type="System.String" FileName="" Value="Goto specified line number" />
-  <Resource Name="AG.IC.JOB_T_0005.DESC" Type="System.String" FileName="" Value="Product Loan Order Form" />
+  <Resource Name="AG.IC.JOB_T_0005.DESC" Type="System.String" FileName="" Value="Reservation Order" />
   <Resource Name="ICSharpCode.AssemblyAnalyser.Rules.EventArgsSuffixIsEventArgs.Details" Type="System.String" FileName="" Value="A type that extends &lt;code&gt;&lt;a href='help://types/System.EventArgs'&gt;EventArgs&lt;/a&gt;&lt;/code&gt; is an event argument and should use the suffix &lt;i&gt;EventArgs&lt;/i&gt; like in &lt;code&gt;MouseEventArgs&lt;/code&gt;." />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.FinancialReport.Label" Type="System.String" FileName="" Value="Financial Report" />
   <Resource Name="XML.TreeMenu.Agape.FocusOne.ApplicationConfig.CampaignManagement.Description" Type="System.String" FileName="" Value="Campaign Management " />
@@ -3708,4 +3708,5 @@
   <Resource Name="Dialog.Options.PrjOptions.VBDOCConfiguration.FilesToParseLabel" Type="System.String" FileName="" Value="Files to parse:" />
   <Resource Name="XML.MainMenu.FormatMenu.SameSizeMenu.SizeToGrid" Type="System.String" FileName="" Value="Size to Gri&amp;d" />
   <Resource Name="AG.AUTHUSER.AUTH_M_0004.DESC" Type="System.String" FileName="" Value="AUTH-M0004 Assign Role and Authorization to Users" />
+  <Resource Name="AG.FI.FICUST_R_0007.DESC" Type="System.String" FileName="" Value="FICUST-R0007 - Customer Balance Report" />
 </Resources>
