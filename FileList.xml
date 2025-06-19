@@ -15006,6 +15006,11 @@
         <ProductVersion></ProductVersion>
     </Description>
     <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_INVOICE.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
         <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER V2.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
@@ -15062,6 +15067,21 @@
     </Description>
     <Description>
         <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER-MULTIMAT V3_COPYFIN.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER-MULTIMAT V4.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER-MULTIMAT V4_COPYACC.rpt</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\ReportFile\BILLINGREPORT_LineBILLINGR-INVOICEVER-MULTIMAT V4_COPYFIN.rpt</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
@@ -15917,30 +15937,6 @@
     </Description>
     <Description>
         <FileName>Startup\data\resources\StringResources.en.resourcesConfig.xml</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\data\resources\StringResources.th.resources</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-    </Description>
-    <Description>
-        <FileName>Startup\data\resources\StringResources.th.resourcesConfig</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-    </Description>
-    <Description>
-        <FileName>license.rtf</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-    </Description>
-    <Description>
-        <FileName>splash-Screen2.jpg</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-    </Description>
-</FileList>resourcesConfig.xml</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
