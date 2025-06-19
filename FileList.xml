@@ -2657,8 +2657,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.F1STD.APSTATESTDForm_V2.dll</FileName>
-        <FileVersion>4.8.40.0</FileVersion>
-        <ProductVersion>4.8.40.0</ProductVersion>
+        <FileVersion>4.8.41.0</FileVersion>
+        <ProductVersion>4.8.41.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.F1STD.ARCN_ARDNFORM.dll</FileName>
@@ -2702,8 +2702,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.F1STD.PETTY_ADVANCEFORM.dll</FileName>
-        <FileVersion>4.8.13.0</FileVersion>
-        <ProductVersion>4.8.13.0</ProductVersion>
+        <FileVersion>4.8.14.0</FileVersion>
+        <ProductVersion>4.8.14.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.F1STD.PRForm.dll</FileName>
@@ -15917,6 +15917,30 @@
     </Description>
     <Description>
         <FileName>Startup\data\resources\StringResources.en.resourcesConfig.xml</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\data\resources\StringResources.th.resources</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>Startup\data\resources\StringResources.th.resourcesConfig</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>license.rtf</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+    <Description>
+        <FileName>splash-Screen2.jpg</FileName>
+        <FileVersion></FileVersion>
+        <ProductVersion></ProductVersion>
+    </Description>
+</FileList>resourcesConfig.xml</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
     </Description>
