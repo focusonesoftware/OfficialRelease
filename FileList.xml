@@ -477,8 +477,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.AR.dll</FileName>
-        <FileVersion>4.8.50.0</FileVersion>
-        <ProductVersion>4.8.50.0</ProductVersion>
+        <FileVersion>4.8.51.0</FileVersion>
+        <ProductVersion>4.8.51.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.FI.ARInterface.dll</FileName>
@@ -7327,8 +7327,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.1013.0</FileVersion>
-        <ProductVersion>4.8.1013.0</ProductVersion>
+        <FileVersion>4.8.1015.0</FileVersion>
+        <ProductVersion>4.8.1015.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -7437,8 +7437,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.InterfaceBillPaymentTemp.dll</FileName>
-        <FileVersion>4.8.37.0</FileVersion>
-        <ProductVersion>4.8.37.0</ProductVersion>
+        <FileVersion>4.8.46.0</FileVersion>
+        <ProductVersion>4.8.46.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.KM.dll</FileName>
