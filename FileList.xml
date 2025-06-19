@@ -1167,8 +1167,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DLL</FileName>
-        <FileVersion>4.8.164.0</FileVersion>
-        <ProductVersion>4.8.164.0</ProductVersion>
+        <FileVersion>4.8.165.0</FileVersion>
+        <ProductVersion>4.8.165.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.MM.DTCBorrowReport.dll</FileName>
@@ -2657,8 +2657,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.F1STD.APSTATESTDForm_V2.dll</FileName>
-        <FileVersion>4.8.41.0</FileVersion>
-        <ProductVersion>4.8.41.0</ProductVersion>
+        <FileVersion>4.8.42.0</FileVersion>
+        <ProductVersion>4.8.42.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.F1STD.ARCN_ARDNFORM.dll</FileName>
