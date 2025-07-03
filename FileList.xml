@@ -6297,8 +6297,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DLL</FileName>
-        <FileVersion>4.8.190.0</FileVersion>
-        <ProductVersion>4.8.190.0</ProductVersion>
+        <FileVersion>4.8.191.0</FileVersion>
+        <ProductVersion>4.8.191.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Util.DocumentStatus.dll</FileName>
@@ -6467,8 +6467,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DLL</FileName>
-        <FileVersion>4.8.152.0</FileVersion>
-        <ProductVersion>4.8.152.0</ProductVersion>
+        <FileVersion>4.8.153.0</FileVersion>
+        <ProductVersion>4.8.153.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.BP.DTCUpdateAccountAgent.dll</FileName>
@@ -6702,8 +6702,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.dll</FileName>
-        <FileVersion>4.8.222.0</FileVersion>
-        <ProductVersion>4.8.222.0</ProductVersion>
+        <FileVersion>4.8.223.0</FileVersion>
+        <ProductVersion>4.8.223.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Conf.resources.dll</FileName>
