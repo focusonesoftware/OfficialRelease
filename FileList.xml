@@ -122,8 +122,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.API.dll</FileName>
-        <FileVersion>4.8.44.0</FileVersion>
-        <ProductVersion>4.8.44.0</ProductVersion>
+        <FileVersion>4.8.45.0</FileVersion>
+        <ProductVersion>4.8.45.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.APInvoiceNoRefPO.dll</FileName>
@@ -4817,8 +4817,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCIECOARStatementForm.dll</FileName>
-        <FileVersion>4.8.41.0</FileVersion>
-        <ProductVersion>4.8.41.0</ProductVersion>
+        <FileVersion>4.8.42.0</FileVersion>
+        <ProductVersion>4.8.42.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCIECOBillingForm.dll</FileName>
@@ -5167,8 +5167,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SRICDOForm.dll</FileName>
-        <FileVersion>4.8.6.0</FileVersion>
-        <ProductVersion>4.8.6.0</ProductVersion>
+        <FileVersion>4.8.7.0</FileVersion>
+        <ProductVersion>4.8.7.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SRICReceiptForm.dll</FileName>
@@ -7347,8 +7347,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.1016.0</FileVersion>
-        <ProductVersion>4.8.1016.0</ProductVersion>
+        <FileVersion>4.8.1020.0</FileVersion>
+        <ProductVersion>4.8.1020.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -7657,8 +7657,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.POOutsource.dll</FileName>
-        <FileVersion>4.8.48.0</FileVersion>
-        <ProductVersion>4.8.48.0</ProductVersion>
+        <FileVersion>4.8.49.0</FileVersion>
+        <ProductVersion>4.8.49.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.PackingList.dll</FileName>
@@ -7772,8 +7772,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.MM.dll</FileName>
-        <FileVersion>4.8.513.0</FileVersion>
-        <ProductVersion>4.8.513.0</ProductVersion>
+        <FileVersion>4.8.515.0</FileVersion>
+        <ProductVersion>4.8.515.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Material.DLL</FileName>
@@ -9637,8 +9637,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Base.dll</FileName>
-        <FileVersion>4.8.58.0</FileVersion>
-        <ProductVersion>4.8.58.0</ProductVersion>
+        <FileVersion>4.8.60.0</FileVersion>
+        <ProductVersion>4.8.60.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.CommandBar.dll</FileName>
@@ -11842,8 +11842,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.DLL</FileName>
-        <FileVersion>4.8.164.0</FileVersion>
-        <ProductVersion>4.8.164.0</ProductVersion>
+        <FileVersion>4.8.165.0</FileVersion>
+        <ProductVersion>4.8.165.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.Util.Report.DLL</FileName>
