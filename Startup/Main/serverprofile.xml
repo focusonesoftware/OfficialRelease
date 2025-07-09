@@ -1,6 +1,6 @@
 <?xml version="1.0" standalone="yes"?>
 <DocumentElement>
-  <!-- <Company>
+  <Company>
     <CompanyName>SCIECO</CompanyName>
     <Connection>
     <ApplicationID>9031</ApplicationID>
@@ -164,5 +164,5 @@
     <Host>35.197.149.218</Host>
     <Port>9001</Port>
   </Connection>
-  </Company> -->
+  </Company>
 </DocumentElement>
