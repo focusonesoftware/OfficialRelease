@@ -2262,8 +2262,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.CustomerAgingReportV5.dll</FileName>
-        <FileVersion>4.8.7.0</FileVersion>
-        <ProductVersion>4.8.7.0</ProductVersion>
+        <FileVersion>4.8.8.0</FileVersion>
+        <ProductVersion>4.8.8.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.CustomerCreditApprove.dll</FileName>
@@ -4782,8 +4782,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCGCementBillingForm.dll</FileName>
-        <FileVersion>4.8.43.0</FileVersion>
-        <ProductVersion>4.8.43.0</ProductVersion>
+        <FileVersion>4.8.45.0</FileVersion>
+        <ProductVersion>4.8.45.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCGCementTaxForm.dll</FileName>
@@ -4802,8 +4802,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCIECOBillingForm.dll</FileName>
-        <FileVersion>4.8.41.0</FileVersion>
-        <ProductVersion>4.8.41.0</ProductVersion>
+        <FileVersion>4.8.43.0</FileVersion>
+        <ProductVersion>4.8.43.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.SCIECOCNForm.dll</FileName>
@@ -7327,8 +7327,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FI.dll</FileName>
-        <FileVersion>4.8.1020.0</FileVersion>
-        <ProductVersion>4.8.1020.0</ProductVersion>
+        <FileVersion>4.8.1023.0</FileVersion>
+        <ProductVersion>4.8.1023.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.FOBGP.dll</FileName>
@@ -8122,8 +8122,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.CustomerAgingReportV5.dll</FileName>
-        <FileVersion>4.8.21.0</FileVersion>
-        <ProductVersion>4.8.21.0</ProductVersion>
+        <FileVersion>4.8.23.0</FileVersion>
+        <ProductVersion>4.8.23.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\Agape.App.Report.CustomerCreditLimit.dll</FileName>
@@ -11897,8 +11897,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\ConstantUtility.DLL</FileName>
-        <FileVersion>4.8.113.0</FileVersion>
-        <ProductVersion>4.8.113.0</ProductVersion>
+        <FileVersion>4.8.118.0</FileVersion>
+        <ProductVersion>4.8.118.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\ConstantUtilityReport.dll</FileName>
@@ -12127,8 +12127,8 @@
     </Description>
     <Description>
         <FileName>Startup\Main\FGUIV4.exe</FileName>
-        <FileVersion>4.8.2.0</FileVersion>
-        <ProductVersion>4.8.2.0</ProductVersion>
+        <FileVersion>4.8.6.0</FileVersion>
+        <ProductVersion>4.8.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Startup\Main\FGUIV4.exe.config</FileName>
