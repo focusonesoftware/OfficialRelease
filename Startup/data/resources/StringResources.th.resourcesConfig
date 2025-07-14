@@ -3642,4 +3642,5 @@
   <Resource Name="Dialog.Options.PrjOptions.VBDOCConfiguration.FilesToParseLabel" Type="System.String" FileName="" Value="Files to parse:" />
   <Resource Name="XML.MainMenu.FormatMenu.SameSizeMenu.SizeToGrid" Type="System.String" FileName="" Value="Size to Gri&amp;d" />
   <Resource Name="AG.AUTHUSER.AUTH_M_0004.DESC" Type="System.String" FileName="" Value="AUTH-M0004 กำหนดบทบาทกับสิทธิ์กับผู้ใช้งาน" />
+  <Resource Name="AG.FI.FICUST_R_0007.DESC" Type="System.String" FileName="" Value="FICUST-R0007 ยอดคงเหลือบัญชีลูกค้า" />
 </Resources>
