@@ -16141,11 +16141,6 @@
         <ProductVersion>1.0.2849.39</ProductVersion>
     </Description>
     <Description>
-        <FileName>Startup\Main\serverprofile.xml</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-    </Description>
-    <Description>
         <FileName>Startup\Main\sso.xml</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
