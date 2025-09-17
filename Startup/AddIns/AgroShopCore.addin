@@ -209,10 +209,6 @@
 		     category = "Main"
 		     shortcut = "Control|Alt|M"
 		     class    = "Agape.AgroShop.Gui.Pads.TreeMenu.TreeMenuView"/>
-    <Pad id       = "TreeMenu2"
-		     category = "Quick Access"
-		     shortcut = "Control|Alt|T"
-		     class    = "Agape.AgroShop.Gui.Pads.TCodeAccessMenuView"/>
 	</Extension>
         <Extension path = "/AgroShop/Views/TreeMenu/ContextMenu/DefaultCommandNode">
 	</Extension>
