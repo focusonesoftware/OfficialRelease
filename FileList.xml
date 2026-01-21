@@ -11179,12 +11179,6 @@
         <MD5>50020ff121c2767bc060e26e6cdcb4bf</MD5>
     </Description>
     <Description>
-        <FileName>Startup\Main\serverprofile.xml</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-        <MD5>13927d36f1734a457c08b8bb1a0fc231</MD5>
-    </Description>
-    <Description>
         <FileName>Startup\Main\WorkPeriodRpt.dll</FileName>
         <FileVersion>1.0.0.5</FileVersion>
         <ProductVersion>1.0.0.5</ProductVersion>
