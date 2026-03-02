@@ -14497,12 +14497,6 @@
         <MD5>4ec1eda0e8a06238ff5bf88569964d59</MD5>
     </Description>
     <Description>
-        <FileName>Startup\Main\serverprofile.xml</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-        <MD5>13927d36f1734a457c08b8bb1a0fc231</MD5>
-    </Description>
-    <Description>
         <FileName>Startup\Main\CrystalDecisions.ReportAppServer.Controllers.dll</FileName>
         <FileVersion>13.0.21.2533</FileVersion>
         <ProductVersion>13.0.21.2533</ProductVersion>
