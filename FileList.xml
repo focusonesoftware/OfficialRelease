@@ -6403,12 +6403,6 @@
         <MD5>38f0a9eb25eefd20b080bb705f1d02f5</MD5>
     </Description>
     <Description>
-        <FileName>Startup\Main\serverprofile.xml</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-        <MD5>13927d36f1734a457c08b8bb1a0fc231</MD5>
-    </Description>
-    <Description>
         <FileName>Startup\Main\runtimes\win-x86\native\WebView2Loader.dll</FileName>
         <FileVersion>1.0.2849.39</FileVersion>
         <ProductVersion>1.0.2849.39</ProductVersion>
