@@ -9253,12 +9253,6 @@
         <MD5>fd79dcb14f9544d341519bff7829fd21</MD5>
     </Description>
     <Description>
-        <FileName>Startup\Main\serverprofile.xml</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-        <MD5>13927d36f1734a457c08b8bb1a0fc231</MD5>
-    </Description>
-    <Description>
         <FileName>Startup\Main\Agape.App.Report.MakeToStockTracking.dll</FileName>
         <FileVersion>4.8.1.1</FileVersion>
         <ProductVersion>4.8.1.1</ProductVersion>
