@@ -9745,12 +9745,6 @@
         <MD5>cbf07682d1f1b5a65c3405487bd799be</MD5>
     </Description>
     <Description>
-        <FileName>Startup\Main\serverprofile.xml</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-        <MD5>9cafba694c61ca505142113b4e3e5201</MD5>
-    </Description>
-    <Description>
         <FileName>Startup\Main\Telerik.WinControls.RadChart.xml</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
