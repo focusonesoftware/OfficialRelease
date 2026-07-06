@@ -11875,12 +11875,6 @@
         <MD5>2794999054e16d82ddc21d9ca6d5e41b</MD5>
     </Description>
     <Description>
-        <FileName>Startup\Main\serverprofile.xml</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-        <MD5>9cafba694c61ca505142113b4e3e5201</MD5>
-    </Description>
-    <Description>
         <FileName>Startup\Main\Telerik.WinControls.Themes.Windows7.dll</FileName>
         <FileVersion>2010.2.10.806</FileVersion>
         <ProductVersion>2010.2.10.806</ProductVersion>
