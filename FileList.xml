@@ -11941,12 +11941,6 @@
         <MD5>3ef462e33f022a9316fd79c496aa9a35</MD5>
     </Description>
     <Description>
-        <FileName>Startup\Main\serverprofile.xml</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-        <MD5>13927d36f1734a457c08b8bb1a0fc231</MD5>
-    </Description>
-    <Description>
         <FileName>Startup\Main\sso.xml</FileName>
         <FileVersion></FileVersion>
         <ProductVersion></ProductVersion>
