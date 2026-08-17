@@ -1086,7 +1086,7 @@
   <Resource Name="AG.BUDCO.BUD_T_0001.DESC" Type="System.String" FileName="" Value="Asset Budget Planning" />
   <Resource Name="Dialog.Wizards.CodeCompletionDatabaseWizard.CreateDatabasePanel.Title" Type="System.String" FileName="" Value="Create database" />
   <Resource Name="XML.MainMenu.FileMenu.Print" Type="System.String" FileName="" Value="P&amp;rint" />
-  <Resource Name="MainWindow.DialogName" Type="System.String" FileName="" Value="FocusOne" />
+  <Resource Name="MainWindow.DialogName" Type="System.String" FileName="" Value="FocusOne (UAT)" />
   <Resource Name="Dialog.Options.IDEOptions.TextEditor.General.FontGroupBox.FileEncodingGroupBox" Type="System.String" FileName="" Value="File encoding" />
   <Resource Name="AG.SOLO.LODO_R_0004.DESC" Type="System.String" FileName="" Value="LODO-R0004 รายงานตารางจัดส่งสินค้ารูปแบบ 2" />
   <Resource Name="Dialog.Options.IDEOptions.TextEditor.Markers.EOLMarkersCheckBox" Type="System.String" FileName="" Value="Show &amp;EOL markers" />
