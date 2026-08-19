@@ -10411,12 +10411,6 @@
         <MD5>7db17a8fd67b4041513caa9edb049b82</MD5>
     </Description>
     <Description>
-        <FileName>Startup\Main\serverprofile.xml</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-        <MD5>9cafba694c61ca505142113b4e3e5201</MD5>
-    </Description>
-    <Description>
         <FileName>Startup\Main\AG.FLM.Remote.Proxy.Report.INETJVForm.dll</FileName>
         <FileVersion>4.8.1.0</FileVersion>
         <ProductVersion>4.8.1.0</ProductVersion>
