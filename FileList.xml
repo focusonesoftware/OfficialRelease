@@ -10831,12 +10831,6 @@
         <MD5>8c02f85a3b00ca58ac96aeaba5f84e8b</MD5>
     </Description>
     <Description>
-        <FileName>Startup\Main\serverprofile.xml</FileName>
-        <FileVersion></FileVersion>
-        <ProductVersion></ProductVersion>
-        <MD5>13927d36f1734a457c08b8bb1a0fc231</MD5>
-    </Description>
-    <Description>
         <FileName>Startup\Main\UIAutomationProvider.dll</FileName>
         <FileVersion>3.0.6920.1427</FileVersion>
         <ProductVersion>3.0.6920.1427</ProductVersion>
